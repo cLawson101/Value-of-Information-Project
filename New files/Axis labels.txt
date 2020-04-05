@@ -1,0 +1,51 @@
+Y-axis from top to bottom is:
+
+	Orig. inplace ass. liquid [mill Sm3]
+	Orig. inplace ass. gas [bill Sm3]
+	Orig. inplace free gas [bill Sm3]
+	Orig. inplace oil [mill Sm3]
+	Orig. recoverable NGL [mill tonn]
+	Orig. recoverable cond. [mill Sm3]
+	Orig. recoverable oil eq. [mill Sm3 o.e]
+	Remaining oil [mill Sm3]
+	Remaining gas [bill Sm3]
+	Remaining NGL [mill tonn]
+	Remaining cond.  [mill Sm3]
+	Remaining  oil eq. [mill Sm3 o.e]
+	Avg Core Photos
+	Completion logs
+	# of Wells
+	Exp start year
+	Exp start month
+	Dev start year
+	Dev start month
+	Dev end year
+	Dev end month
+	Exp Duration
+	Dev Duration
+
+X-axis from left to right is (same as Y-axis):
+
+	Orig. inplace ass. liquid [mill Sm3]
+	Orig. inplace ass. gas [bill Sm3]
+	Orig. inplace free gas [bill Sm3]
+	Orig. inplace oil [mill Sm3]
+	Orig. recoverable NGL [mill tonn]
+	Orig. recoverable cond. [mill Sm3]
+	Orig. recoverable oil eq. [mill Sm3 o.e]
+	Remaining oil [mill Sm3]
+	Remaining gas [bill Sm3]
+	Remaining NGL [mill tonn]
+	Remaining cond.  [mill Sm3]
+	Remaining  oil eq. [mill Sm3 o.e]
+	Avg Core Photos
+	Completion logs
+	# of Wells
+	Exp start year
+	Exp start month
+	Dev start year
+	Dev start month
+	Dev end year
+	Dev end month
+	Exp Duration
+	Dev Duration
