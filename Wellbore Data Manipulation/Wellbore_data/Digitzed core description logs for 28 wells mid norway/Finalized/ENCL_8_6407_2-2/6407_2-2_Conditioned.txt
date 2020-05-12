@@ -1,0 +1,1221 @@
+Depth.m	Hole ID.-	GR.API	Lithology1.-	Lithology2.-	Lithology3.-	Lithology1.%	Lithology2.%	Lithology3.%	Grain_size_Top.-	Grain_size_Base.-	Sub_Environment.-	Gross_Environment.-
+2461.30	6407_2-2	33.32	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2461.40	6407_2-2	32.15	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2461.50	6407_2-2	29.69	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2461.60	6407_2-2	26.93	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2461.70	6407_2-2	23.94	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2461.80	6407_2-2	22.78	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2461.90	6407_2-2	22.47	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2462.00	6407_2-2	22.22	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2462.10	6407_2-2	22.12	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2462.20	6407_2-2	22.02	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2462.30	6407_2-2	22.13	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2462.40	6407_2-2	22.30	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2462.50	6407_2-2	22.47	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2462.60	6407_2-2	22.49	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2462.70	6407_2-2	22.49	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2462.80	6407_2-2	22.39	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2462.90	6407_2-2	22.11	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2463.00	6407_2-2	21.83	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2463.10	6407_2-2	21.55	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2463.20	6407_2-2	21.42	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2463.30	6407_2-2	21.31	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2463.40	6407_2-2	21.35	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2463.50	6407_2-2	21.60	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2463.60	6407_2-2	22.25	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2463.70	6407_2-2	22.89	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2463.80	6407_2-2	23.00	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2463.90	6407_2-2	23.06	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2464.00	6407_2-2	23.05	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2464.10	6407_2-2	22.98	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2464.20	6407_2-2	22.91	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2464.30	6407_2-2	22.90	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2464.40	6407_2-2	22.92	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2464.50	6407_2-2	22.93	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2464.60	6407_2-2	23.13	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2464.70	6407_2-2	23.50	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2464.80	6407_2-2	23.87	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2464.90	6407_2-2	24.24	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2465.00	6407_2-2	24.62	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2465.10	6407_2-2	25.09	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2465.20	6407_2-2	25.63	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2465.30	6407_2-2	26.17	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2465.40	6407_2-2	26.39	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2465.50	6407_2-2	26.37	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2465.60	6407_2-2	26.32	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2465.70	6407_2-2	25.76	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2465.80	6407_2-2	24.96	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2465.90	6407_2-2	24.27	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2466.00	6407_2-2	24.03	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2466.10	6407_2-2	23.79	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2466.20	6407_2-2	23.86	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2466.30	6407_2-2	24.04	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2466.40	6407_2-2	24.54	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2466.50	6407_2-2	25.16	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2466.60	6407_2-2	25.75	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2466.70	6407_2-2	26.34	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2466.80	6407_2-2	26.93	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2466.90	6407_2-2	26.95	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2467.00	6407_2-2	26.87	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2467.10	6407_2-2	26.74	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2467.20	6407_2-2	26.54	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2467.30	6407_2-2	26.32	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2467.40	6407_2-2	26.10	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2467.50	6407_2-2	25.88	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2467.60	6407_2-2	25.65	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2467.70	6407_2-2	25.59	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2467.80	6407_2-2	25.57	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2467.90	6407_2-2	25.78	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2468.00	6407_2-2	26.05	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2468.10	6407_2-2	26.32	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2468.20	6407_2-2	26.60	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2468.30	6407_2-2	26.87	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2468.40	6407_2-2	27.14	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2468.50	6407_2-2	27.08	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2468.60	6407_2-2	27.02	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2468.70	6407_2-2	26.96	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2468.80	6407_2-2	26.90	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2468.90	6407_2-2	26.84	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2469.00	6407_2-2	26.78	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2469.10	6407_2-2	26.72	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2469.20	6407_2-2	26.66	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2469.30	6407_2-2	26.63	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2469.40	6407_2-2	27.13	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2469.50	6407_2-2	27.57	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2469.60	6407_2-2	27.98	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2469.70	6407_2-2	28.39	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2469.80	6407_2-2	28.51	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2469.90	6407_2-2	28.48	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2470.00	6407_2-2	28.46	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2470.10	6407_2-2	28.43	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2470.20	6407_2-2	28.21	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2470.30	6407_2-2	27.96	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2470.40	6407_2-2	27.71	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2470.50	6407_2-2	27.52	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2470.60	6407_2-2	27.37	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2470.70	6407_2-2	27.36	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2470.80	6407_2-2	27.51	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2470.90	6407_2-2	27.66	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2471.00	6407_2-2	27.75	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2471.10	6407_2-2	27.77	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Ovre_midtre_strandskraning	DELTA_FRONT
+2471.20	6407_2-2	27.71	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2471.30	6407_2-2	27.54	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2471.40	6407_2-2	27.36	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2471.50	6407_2-2	27.24	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2471.60	6407_2-2	27.24	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2471.70	6407_2-2	27.49	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2471.80	6407_2-2	28.34	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2471.90	6407_2-2	29.20	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2472.00	6407_2-2	29.92	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2472.10	6407_2-2	30.31	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2472.20	6407_2-2	30.28	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2472.30	6407_2-2	30.15	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2472.40	6407_2-2	29.94	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2472.50	6407_2-2	29.72	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2472.60	6407_2-2	29.64	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2472.70	6407_2-2	29.61	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2472.80	6407_2-2	29.58	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2472.90	6407_2-2	29.70	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2473.00	6407_2-2	29.98	 	 	 	100.00	0.00	0.00	 	 	TRANSGRESSION	DELTA_FRONT
+2473.10	6407_2-2	30.26	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2473.20	6407_2-2	30.55	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2473.30	6407_2-2	30.76	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2473.40	6407_2-2	30.87	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2473.50	6407_2-2	30.92	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2473.60	6407_2-2	30.82	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2473.70	6407_2-2	30.72	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2473.80	6407_2-2	30.62	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2473.90	6407_2-2	30.52	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2474.00	6407_2-2	30.42	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2474.10	6407_2-2	30.52	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2474.20	6407_2-2	30.64	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2474.30	6407_2-2	30.76	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2474.40	6407_2-2	30.89	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2474.50	6407_2-2	31.24	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2474.60	6407_2-2	31.64	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2474.70	6407_2-2	32.41	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2474.80	6407_2-2	33.40	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2474.90	6407_2-2	34.48	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2475.00	6407_2-2	35.04	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2475.10	6407_2-2	35.60	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2475.20	6407_2-2	35.81	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2475.30	6407_2-2	35.78	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2475.40	6407_2-2	35.41	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2475.50	6407_2-2	35.03	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2475.60	6407_2-2	34.42	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2475.70	6407_2-2	33.69	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2475.80	6407_2-2	32.61	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2475.90	6407_2-2	31.49	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2476.00	6407_2-2	30.04	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2476.10	6407_2-2	28.29	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2476.20	6407_2-2	25.68	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	TRANSGRESSION	DELTA_FRONT
+2476.30	6407_2-2	22.95	 	 	 	100.00	0.00	0.00	 	 		
+2476.40	6407_2-2	21.32	 	 	 	100.00	0.00	0.00	 	 		
+2476.50	6407_2-2	20.53	 	 	 	100.00	0.00	0.00	 	 		
+2476.60	6407_2-2	20.17	 	 	 	100.00	0.00	0.00	 	 		
+2476.70	6407_2-2	19.97	 	 	 	100.00	0.00	0.00	 	 		
+2476.80	6407_2-2	19.76	 	 	 	100.00	0.00	0.00	 	 		
+2476.90	6407_2-2	19.60	 	 	 	100.00	0.00	0.00	 	 		
+2477.00	6407_2-2	19.51	 	 	 	100.00	0.00	0.00	 	 		
+2477.10	6407_2-2	19.42	 	 	 	100.00	0.00	0.00	 	 		
+2477.20	6407_2-2	19.34	 	 	 	100.00	0.00	0.00	 	 		
+2477.30	6407_2-2	19.23	 	 	 	100.00	0.00	0.00	 	 		
+2477.40	6407_2-2	19.07	 	 	 	100.00	0.00	0.00	 	 		
+2477.50	6407_2-2	18.90	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2477.60	6407_2-2	18.73	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2477.70	6407_2-2	18.52	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2477.80	6407_2-2	18.31	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2477.90	6407_2-2	18.39	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2478.00	6407_2-2	18.51	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2478.10	6407_2-2	18.62	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2478.20	6407_2-2	18.74	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2478.30	6407_2-2	18.65	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2478.40	6407_2-2	18.56	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2478.50	6407_2-2	18.51	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2478.60	6407_2-2	18.69	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2478.70	6407_2-2	18.96	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2478.80	6407_2-2	19.33	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2478.90	6407_2-2	19.71	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2479.00	6407_2-2	20.07	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2479.10	6407_2-2	20.11	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2479.20	6407_2-2	20.14	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2479.30	6407_2-2	20.05	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2479.40	6407_2-2	19.99	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2479.50	6407_2-2	20.19	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2479.60	6407_2-2	20.32	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2479.70	6407_2-2	20.01	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2479.80	6407_2-2	19.70	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2479.90	6407_2-2	19.39	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2480.00	6407_2-2	19.07	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2480.10	6407_2-2	18.76	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2480.20	6407_2-2	18.54	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2480.30	6407_2-2	18.34	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2480.40	6407_2-2	18.15	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2480.50	6407_2-2	17.95	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2480.60	6407_2-2	17.75	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2480.70	6407_2-2	17.67	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2480.80	6407_2-2	17.63	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2480.90	6407_2-2	17.60	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2481.00	6407_2-2	17.60	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2481.10	6407_2-2	17.58	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2481.20	6407_2-2	17.38	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2481.30	6407_2-2	17.17	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2481.40	6407_2-2	17.40	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2481.50	6407_2-2	17.73	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2481.60	6407_2-2	18.17	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2481.70	6407_2-2	18.61	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2481.80	6407_2-2	19.10	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2481.90	6407_2-2	19.56	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2482.00	6407_2-2	19.78	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2482.10	6407_2-2	19.97	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2482.20	6407_2-2	19.97	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2482.30	6407_2-2	19.94	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2482.40	6407_2-2	19.70	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2482.50	6407_2-2	19.45	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2482.60	6407_2-2	19.20	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2482.70	6407_2-2	19.19	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2482.80	6407_2-2	19.27	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2482.90	6407_2-2	19.34	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2483.00	6407_2-2	19.42	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2483.10	6407_2-2	19.50	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2483.20	6407_2-2	19.56	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2483.30	6407_2-2	19.33	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2483.40	6407_2-2	19.10	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2483.50	6407_2-2	18.85	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2483.60	6407_2-2	18.56	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2483.70	6407_2-2	18.21	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2483.80	6407_2-2	17.75	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2483.90	6407_2-2	17.71	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2484.00	6407_2-2	17.73	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2484.10	6407_2-2	17.74	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2484.20	6407_2-2	18.23	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2484.30	6407_2-2	18.87	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2484.40	6407_2-2	19.37	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2484.50	6407_2-2	19.86	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2484.60	6407_2-2	19.85	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2484.70	6407_2-2	19.83	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2484.80	6407_2-2	19.68	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2484.90	6407_2-2	19.47	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2485.00	6407_2-2	19.03	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2485.10	6407_2-2	18.55	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2485.20	6407_2-2	18.07	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2485.30	6407_2-2	17.65	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2485.40	6407_2-2	17.29	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2485.50	6407_2-2	16.93	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2485.60	6407_2-2	16.58	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2485.70	6407_2-2	16.29	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2485.80	6407_2-2	16.13	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2485.90	6407_2-2	16.12	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2486.00	6407_2-2	16.20	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2486.10	6407_2-2	16.50	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2486.20	6407_2-2	16.83	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2486.30	6407_2-2	17.18	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2486.40	6407_2-2	17.55	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2486.50	6407_2-2	17.83	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2486.60	6407_2-2	17.78	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2486.70	6407_2-2	17.73	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2486.80	6407_2-2	17.77	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2486.90	6407_2-2	18.01	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2487.00	6407_2-2	18.25	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2487.10	6407_2-2	18.49	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2487.20	6407_2-2	18.53	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2487.30	6407_2-2	18.52	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2487.40	6407_2-2	18.51	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2487.50	6407_2-2	18.50	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2487.60	6407_2-2	18.49	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2487.70	6407_2-2	18.55	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2487.80	6407_2-2	18.70	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2487.90	6407_2-2	18.86	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2488.00	6407_2-2	19.01	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2488.10	6407_2-2	19.17	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2488.20	6407_2-2	19.32	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2488.30	6407_2-2	19.47	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2488.40	6407_2-2	19.41	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2488.50	6407_2-2	19.34	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2488.60	6407_2-2	19.26	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2488.70	6407_2-2	18.96	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2488.80	6407_2-2	18.67	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2488.90	6407_2-2	18.38	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2489.00	6407_2-2	18.15	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2489.10	6407_2-2	17.94	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2489.20	6407_2-2	17.86	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2489.30	6407_2-2	17.88	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2489.40	6407_2-2	17.95	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2489.50	6407_2-2	18.13	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2489.60	6407_2-2	18.31	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2489.70	6407_2-2	18.49	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2489.80	6407_2-2	18.67	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2489.90	6407_2-2	18.79	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2490.00	6407_2-2	18.82	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2490.10	6407_2-2	18.80	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2490.20	6407_2-2	18.69	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2490.30	6407_2-2	18.58	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2490.40	6407_2-2	18.56	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2490.50	6407_2-2	18.60	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2490.60	6407_2-2	18.68	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2490.70	6407_2-2	18.92	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2490.80	6407_2-2	19.16	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2490.90	6407_2-2	19.39	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2491.00	6407_2-2	19.52	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2491.10	6407_2-2	19.50	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2491.20	6407_2-2	19.48	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2491.30	6407_2-2	19.46	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2491.40	6407_2-2	19.44	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2491.50	6407_2-2	19.42	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2491.60	6407_2-2	19.40	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2491.70	6407_2-2	19.38	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2491.80	6407_2-2	19.21	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2491.90	6407_2-2	19.05	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2492.00	6407_2-2	18.87	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2492.10	6407_2-2	18.68	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2492.20	6407_2-2	18.49	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2492.30	6407_2-2	18.43	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2492.40	6407_2-2	18.51	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2492.50	6407_2-2	18.61	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2492.60	6407_2-2	18.92	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2492.70	6407_2-2	19.26	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2492.80	6407_2-2	19.66	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2492.90	6407_2-2	20.07	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2493.00	6407_2-2	20.47	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2493.10	6407_2-2	20.87	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2493.20	6407_2-2	21.21	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2493.30	6407_2-2	21.19	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2493.40	6407_2-2	21.17	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2493.50	6407_2-2	21.16	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2493.60	6407_2-2	21.14	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2493.70	6407_2-2	21.12	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2493.80	6407_2-2	21.15	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2493.90	6407_2-2	21.46	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2494.00	6407_2-2	21.77	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2494.10	6407_2-2	22.08	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2494.20	6407_2-2	22.40	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2494.30	6407_2-2	22.71	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2494.40	6407_2-2	23.02	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2494.50	6407_2-2	23.33	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2494.60	6407_2-2	23.64	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2494.70	6407_2-2	23.95	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2494.80	6407_2-2	24.27	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2494.90	6407_2-2	24.57	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2495.00	6407_2-2	24.82	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2495.10	6407_2-2	25.07	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2495.20	6407_2-2	25.31	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2495.30	6407_2-2	25.25	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2495.40	6407_2-2	25.19	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2495.50	6407_2-2	25.12	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2495.60	6407_2-2	25.19	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2495.70	6407_2-2	25.28	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2495.80	6407_2-2	25.37	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2495.90	6407_2-2	25.46	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2496.00	6407_2-2	25.27	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2496.10	6407_2-2	25.08	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2496.20	6407_2-2	24.89	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2496.30	6407_2-2	24.70	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2496.40	6407_2-2	24.56	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2496.50	6407_2-2	24.51	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2496.60	6407_2-2	24.53	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2496.70	6407_2-2	24.70	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2496.80	6407_2-2	24.98	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2496.90	6407_2-2	25.52	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2497.00	6407_2-2	25.81	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2497.10	6407_2-2	25.90	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2497.20	6407_2-2	25.99	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2497.30	6407_2-2	26.08	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2497.40	6407_2-2	26.14	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2497.50	6407_2-2	26.01	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2497.60	6407_2-2	25.88	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2497.70	6407_2-2	25.76	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2497.80	6407_2-2	25.59	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2497.90	6407_2-2	25.41	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2498.00	6407_2-2	25.29	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2498.10	6407_2-2	25.24	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2498.20	6407_2-2	25.20	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2498.30	6407_2-2	25.06	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2498.40	6407_2-2	24.76	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2498.50	6407_2-2	24.45	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2498.60	6407_2-2	24.15	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2498.70	6407_2-2	23.47	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2498.80	6407_2-2	22.77	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2498.90	6407_2-2	22.07	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2499.00	6407_2-2	21.64	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2499.10	6407_2-2	21.44	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2499.20	6407_2-2	21.24	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Hovedsaklig_ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2499.30	6407_2-2	21.04	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2499.40	6407_2-2	20.84	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2499.50	6407_2-2	20.84	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2499.60	6407_2-2	20.88	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2499.70	6407_2-2	20.94	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2499.80	6407_2-2	21.20	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2499.90	6407_2-2	21.46	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2500.00	6407_2-2	21.64	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2500.10	6407_2-2	21.58	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2500.20	6407_2-2	21.52	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2500.30	6407_2-2	21.47	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2500.40	6407_2-2	21.33	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2500.50	6407_2-2	21.19	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2500.60	6407_2-2	21.04	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2500.70	6407_2-2	20.89	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2500.80	6407_2-2	20.74	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2500.90	6407_2-2	20.59	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2501.00	6407_2-2	20.33	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2501.10	6407_2-2	20.08	Sandstone	 	 	100.00	0.00	0.00	f/m	vf		PROXIMAL_DELTA_FRONT
+2501.20	6407_2-2	19.98	Sandstone	 	 	100.00	0.00	0.00	f/m	vf		PROXIMAL_DELTA_FRONT
+2501.30	6407_2-2	20.13	Sandstone	 	 	100.00	0.00	0.00	f/m	vf		PROXIMAL_DELTA_FRONT
+2501.40	6407_2-2	20.28	Sandstone	 	 	100.00	0.00	0.00	f/m	vf		PROXIMAL_DELTA_FRONT
+2501.50	6407_2-2	20.62	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2501.60	6407_2-2	21.01	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2501.70	6407_2-2	21.16	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2501.80	6407_2-2	21.31	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2501.90	6407_2-2	21.46	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2502.00	6407_2-2	21.49	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2502.10	6407_2-2	21.48	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2502.20	6407_2-2	21.46	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2502.30	6407_2-2	21.36	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2502.40	6407_2-2	21.18	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2502.50	6407_2-2	20.93	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2502.60	6407_2-2	20.61	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2502.70	6407_2-2	20.29	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2502.80	6407_2-2	20.23	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2502.90	6407_2-2	20.22	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2503.00	6407_2-2	20.26	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2503.10	6407_2-2	20.38	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2503.20	6407_2-2	20.80	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2503.30	6407_2-2	20.98	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2503.40	6407_2-2	20.91	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2503.50	6407_2-2	20.41	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2503.60	6407_2-2	19.92	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2503.70	6407_2-2	19.42	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2503.80	6407_2-2	19.17	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2503.90	6407_2-2	19.08	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2504.00	6407_2-2	19.12	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2504.10	6407_2-2	19.17	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2504.20	6407_2-2	19.32	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2504.30	6407_2-2	19.51	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2504.40	6407_2-2	19.70	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2504.50	6407_2-2	19.89	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2504.60	6407_2-2	19.91	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2504.70	6407_2-2	19.89	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2504.80	6407_2-2	19.73	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2504.90	6407_2-2	19.38	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2505.00	6407_2-2	19.03	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2505.10	6407_2-2	18.68	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2505.20	6407_2-2	18.33	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2505.30	6407_2-2	17.98	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2505.40	6407_2-2	17.63	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2505.50	6407_2-2	17.28	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2505.60	6407_2-2	16.93	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2505.70	6407_2-2	16.66	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2505.80	6407_2-2	16.52	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2505.90	6407_2-2	16.58	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2506.00	6407_2-2	16.77	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2506.10	6407_2-2	16.97	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2506.20	6407_2-2	17.13	Sandstone	 	 	100.00	0.00	0.00	f/m	vf	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2506.30	6407_2-2	17.17	 	 	 	100.00	0.00	0.00	 	 	Ovre_stranskraning	PROXIMAL_DELTA_FRONT
+2506.40	6407_2-2	17.03	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2506.50	6407_2-2	16.75	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2506.60	6407_2-2	16.45	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2506.70	6407_2-2	16.14	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2506.80	6407_2-2	15.83	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2506.90	6407_2-2	15.55	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2507.00	6407_2-2	15.42	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2507.10	6407_2-2	15.31	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2507.20	6407_2-2	15.28	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2507.30	6407_2-2	15.24	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2507.40	6407_2-2	15.37	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2507.50	6407_2-2	15.60	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2507.60	6407_2-2	15.84	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2507.70	6407_2-2	16.07	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2507.80	6407_2-2	16.49	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2507.90	6407_2-2	17.02	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2508.00	6407_2-2	17.55	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2508.10	6407_2-2	18.13	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2508.20	6407_2-2	19.16	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2508.30	6407_2-2	19.54	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2508.40	6407_2-2	19.92	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2508.50	6407_2-2	20.30	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2508.60	6407_2-2	20.48	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2508.70	6407_2-2	20.50	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2508.80	6407_2-2	20.46	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2508.90	6407_2-2	20.32	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2509.00	6407_2-2	20.12	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2509.10	6407_2-2	19.75	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2509.20	6407_2-2	19.38	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2509.30	6407_2-2	19.02	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2509.40	6407_2-2	18.78	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2509.50	6407_2-2	18.78	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2509.60	6407_2-2	18.95	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2509.70	6407_2-2	19.18	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2509.80	6407_2-2	19.18	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2509.90	6407_2-2	19.18	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2510.00	6407_2-2	18.73	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2510.10	6407_2-2	18.07	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2510.20	6407_2-2	17.40	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2510.30	6407_2-2	16.74	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2510.40	6407_2-2	16.30	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2510.50	6407_2-2	16.17	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2510.60	6407_2-2	16.21	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2510.70	6407_2-2	16.39	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2510.80	6407_2-2	16.58	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2510.90	6407_2-2	16.90	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2511.00	6407_2-2	17.61	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2511.10	6407_2-2	18.21	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2511.20	6407_2-2	18.64	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2511.30	6407_2-2	19.06	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2511.40	6407_2-2	19.42	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2511.50	6407_2-2	19.71	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2511.60	6407_2-2	20.00	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2511.70	6407_2-2	20.17	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2511.80	6407_2-2	20.26	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2511.90	6407_2-2	20.27	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2512.00	6407_2-2	20.14	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2512.10	6407_2-2	20.00	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2512.20	6407_2-2	19.87	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2512.30	6407_2-2	19.77	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2512.40	6407_2-2	19.68	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2512.50	6407_2-2	19.72	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2512.60	6407_2-2	19.77	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2512.70	6407_2-2	19.81	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2512.80	6407_2-2	20.05	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2512.90	6407_2-2	20.33	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2513.00	6407_2-2	20.62	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2513.10	6407_2-2	20.86	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2513.20	6407_2-2	20.83	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2513.30	6407_2-2	20.79	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2513.40	6407_2-2	20.59	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2513.50	6407_2-2	20.40	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2513.60	6407_2-2	20.37	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	f/m	Ovre/midre_stranskraning	PROXIMAL_DELTA_FRONT
+2513.70	6407_2-2	20.47	 	 	 	100.00	0.00	0.00	 			PROXIMAL_DELTA_FRONT
+2513.80	6407_2-2	20.52	 	 	 	100.00	0.00	0.00	 			PROXIMAL_DELTA_FRONT
+2513.90	6407_2-2	20.52	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2514.00	6407_2-2	20.52	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2514.10	6407_2-2	20.52	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2514.20	6407_2-2	20.52	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2514.30	6407_2-2	20.88	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2514.40	6407_2-2	21.28	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2514.50	6407_2-2	22.18	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2514.60	6407_2-2	23.79	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2514.70	6407_2-2	29.12	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2514.80	6407_2-2	30.43	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2514.90	6407_2-2	31.75	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2515.00	6407_2-2	34.90	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2515.10	6407_2-2	40.14	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2515.20	6407_2-2	42.08	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2515.30	6407_2-2	49.85	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2515.40	6407_2-2	51.64	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2515.50	6407_2-2	54.52	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2515.60	6407_2-2	55.53	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2515.70	6407_2-2	55.51	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2515.80	6407_2-2	55.00	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2515.90	6407_2-2	53.90	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2516.00	6407_2-2	52.12	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2516.10	6407_2-2	50.87	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2516.20	6407_2-2	47.42	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2516.30	6407_2-2	45.61	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2516.40	6407_2-2	41.33	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2516.50	6407_2-2	38.07	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2516.60	6407_2-2	36.78	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2516.70	6407_2-2	34.45	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2516.80	6407_2-2	32.72	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2516.90	6407_2-2	32.52	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2517.00	6407_2-2	33.00	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2517.10	6407_2-2	34.29	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2517.20	6407_2-2	36.23	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2517.30	6407_2-2	38.26	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2517.40	6407_2-2	40.30	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2517.50	6407_2-2	41.73	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2517.60	6407_2-2	42.77	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2517.70	6407_2-2	43.44	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2517.80	6407_2-2	43.70	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2517.90	6407_2-2	43.95	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2518.00	6407_2-2	44.21	 	 	 	100.00	0.00	0.00	 			PROXIMAL_DELTA_FRONT
+2518.10	6407_2-2	44.51	Sandstone	 	 	100.00	0.00	0.00	m	m/c	REGRESSION	PRODELTA
+2518.20	6407_2-2	44.86	Sandstone	 	 	100.00	0.00	0.00	m	m/c	REGRESSION	PRODELTA
+2518.30	6407_2-2	45.23	Sandstone	 	 	100.00	0.00	0.00	m	m/c	REGRESSION	PRODELTA
+2518.40	6407_2-2	45.72	Sandstone	 	 	100.00	0.00	0.00	m	m/c	REGRESSION	PRODELTA
+2518.50	6407_2-2	46.21	Sandstone	 	 	100.00	0.00	0.00	m	m/c	REGRESSION	PRODELTA
+2518.60	6407_2-2	46.88	Sandstone	 	 	100.00	0.00	0.00	m	m/c	REGRESSION	PRODELTA
+2518.70	6407_2-2	47.94	Sandstone	 	 	100.00	0.00	0.00	m	m/c		PRODELTA
+2518.80	6407_2-2	48.56	Sandstone	 	 	100.00	0.00	0.00	m	m/c		PRODELTA
+2518.90	6407_2-2	48.75	Sandstone	 	 	100.00	0.00	0.00	m	m/c		PRODELTA
+2519.00	6407_2-2	48.73	Sandstone	 	 	100.00	0.00	0.00	m	m/c		PRODELTA
+2519.10	6407_2-2	48.65	Sandstone	 	 	100.00	0.00	0.00	m	m/c		PRODELTA
+2519.20	6407_2-2	48.18	Sandstone	Shale	 	70.00	30.00	0.00	vf/f	vf		PRODELTA
+2519.30	6407_2-2	47.67	Sandstone	Shale	 	70.00	30.00	0.00	vf/f	vf		PRODELTA
+2519.40	6407_2-2	46.75	Sandstone	Shale	 	70.00	30.00	0.00	vf/f	vf		PRODELTA
+2519.50	6407_2-2	45.82	Sandstone	Shale	 	70.00	30.00	0.00	vf/f	vf		PRODELTA
+2519.60	6407_2-2	44.87	Sandstone	Shale	 	70.00	30.00	0.00	vf/f	vf		PRODELTA
+2519.70	6407_2-2	43.88	Sandstone	Shale	 	70.00	30.00	0.00	vf/f	vf		PRODELTA
+2519.80	6407_2-2	42.86	Sandstone	Shale	 	70.00	30.00	0.00	vf/f	vf		PRODELTA
+2519.90	6407_2-2	41.81	Sandstone	Shale	 	70.00	30.00	0.00	vf/f	vf		PRODELTA
+2520.00	6407_2-2	40.59	Sandstone	Shale	 	70.00	30.00	0.00	vf/f	vf		PRODELTA
+2520.10	6407_2-2	38.54	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	vf/f		PRODELTA
+2520.20	6407_2-2	38.17	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	vf/f		PRODELTA
+2520.30	6407_2-2	38.69	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	vf/f		PRODELTA
+2520.40	6407_2-2	39.43	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	vf/f		PRODELTA
+2520.50	6407_2-2	40.17	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	vf/f		PRODELTA
+2520.60	6407_2-2	40.91	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	vf/f		PRODELTA
+2520.70	6407_2-2	41.64	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	vf/f		PRODELTA
+2520.80	6407_2-2	41.66	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	vf/f		PRODELTA
+2520.90	6407_2-2	41.68	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	vf/f		PRODELTA
+2521.00	6407_2-2	41.70	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	vf/f		PRODELTA
+2521.10	6407_2-2	41.72	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	vf/f		PRODELTA
+2521.20	6407_2-2	41.82	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	vf/f		PRODELTA
+2521.30	6407_2-2	42.18	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	vf/f		PRODELTA
+2521.40	6407_2-2	42.53	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	vf/f		PRODELTA
+2521.50	6407_2-2	42.69	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	vf/f		PRODELTA
+2521.60	6407_2-2	42.72	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	vf/f		PRODELTA
+2521.70	6407_2-2	42.65	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	vf/f		PRODELTA
+2521.80	6407_2-2	42.54	Sandstone	Limestone	 	30.00	70.00	0.00	f/m	vf/f		PRODELTA
+2521.90	6407_2-2	42.44	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2522.00	6407_2-2	42.33	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2522.10	6407_2-2	42.23	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2522.20	6407_2-2	42.23	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2522.30	6407_2-2	42.23	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2522.40	6407_2-2	42.23	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2522.50	6407_2-2	42.23	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2522.60	6407_2-2	41.99	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2522.70	6407_2-2	41.68	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2522.80	6407_2-2	41.24	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2522.90	6407_2-2	40.59	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2523.00	6407_2-2	39.77	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2523.10	6407_2-2	38.84	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2523.20	6407_2-2	37.77	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2523.30	6407_2-2	36.62	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2523.40	6407_2-2	36.53	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2523.50	6407_2-2	36.71	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2523.60	6407_2-2	37.90	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2523.70	6407_2-2	39.17	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2523.80	6407_2-2	40.22	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2523.90	6407_2-2	40.80	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2524.00	6407_2-2	41.11	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2524.10	6407_2-2	41.21	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2524.20	6407_2-2	41.32	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2524.30	6407_2-2	41.36	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2524.40	6407_2-2	41.29	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2524.50	6407_2-2	41.21	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2524.60	6407_2-2	41.09	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2524.70	6407_2-2	40.77	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2524.80	6407_2-2	40.50	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2524.90	6407_2-2	40.50	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2525.00	6407_2-2	40.72	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2525.10	6407_2-2	41.27	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2525.20	6407_2-2	41.51	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2525.30	6407_2-2	41.75	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2525.40	6407_2-2	41.78	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2525.50	6407_2-2	41.57	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2525.60	6407_2-2	41.36	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2525.70	6407_2-2	41.16	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2525.80	6407_2-2	40.97	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2525.90	6407_2-2	40.79	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2526.00	6407_2-2	40.61	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2526.10	6407_2-2	40.43	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2526.20	6407_2-2	40.30	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2526.30	6407_2-2	40.30	Sandstone	Shale	 	20.00	80.00	0.00	silt	vf/f		PRODELTA
+2526.40	6407_2-2	40.54	 	 	 	100.00	0.00	0.00	 	 		PRODELTA
+2526.50	6407_2-2	41.00	 	 	 	100.00	0.00	0.00	 	 		PRODELTA
+2526.60	6407_2-2	41.59	 	 	 	100.00	0.00	0.00	 	 		PRODELTA
+2526.70	6407_2-2	43.04	 	 	 	100.00	0.00	0.00	 	 		PRODELTA
+2526.80	6407_2-2	44.40	 	 	 	100.00	0.00	0.00	 	 		PRODELTA
+2526.90	6407_2-2	44.64	 	 	 	100.00	0.00	0.00	 	 		PRODELTA
+2527.00	6407_2-2	44.01	 	 	 	100.00	0.00	0.00	 	 		PRODELTA
+2527.10	6407_2-2	43.28	 	 	 	100.00	0.00	0.00	 	 		PRODELTA
+2527.20	6407_2-2	41.43	 	 	 	100.00	0.00	0.00	 	 		PRODELTA
+2527.30	6407_2-2	39.29	 	 	 	100.00	0.00	0.00	 	 		PRODELTA
+2527.40	6407_2-2	34.83	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2527.50	6407_2-2	30.67	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2527.60	6407_2-2	28.74	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2527.70	6407_2-2	28.26	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2527.80	6407_2-2	28.15	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2527.90	6407_2-2	28.31	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2528.00	6407_2-2	28.51	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2528.10	6407_2-2	28.76	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2528.20	6407_2-2	28.57	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2528.30	6407_2-2	28.35	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2528.40	6407_2-2	27.71	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2528.50	6407_2-2	27.57	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2528.60	6407_2-2	27.88	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2528.70	6407_2-2	30.14	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2528.80	6407_2-2	33.18	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2528.90	6407_2-2	35.69	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2529.00	6407_2-2	36.03	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2529.10	6407_2-2	36.12	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2529.20	6407_2-2	35.67	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2529.30	6407_2-2	34.36	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2529.40	6407_2-2	33.06	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2529.50	6407_2-2	31.80	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2529.60	6407_2-2	30.58	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2529.70	6407_2-2	29.58	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2529.80	6407_2-2	28.80	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2529.90	6407_2-2	28.30	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2530.00	6407_2-2	27.80	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2530.10	6407_2-2	26.90	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2530.20	6407_2-2	25.08	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2530.30	6407_2-2	23.92	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2530.40	6407_2-2	23.38	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2530.50	6407_2-2	23.03	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2530.60	6407_2-2	22.67	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2530.70	6407_2-2	22.32	Shale	Sandstone	 	90.00	10.00	0.00	silt	silt	?_Avgrenset_marint_basseng	PRODELTA
+2530.80	6407_2-2	21.97	Shale	Sandstone	 	82.00	18.00	0.00	silt/vf	m	?_Avgrenset_marint_basseng	PRODELTA
+2530.90	6407_2-2	21.60	Shale	Sandstone	 	82.00	18.00	0.00	silt/vf	m	?_Avgrenset_marint_basseng	PRODELTA
+2531.00	6407_2-2	21.16	Shale	Sandstone	 	82.00	18.00	0.00	silt/vf	m	?_Avgrenset_marint_basseng	PRODELTA
+2531.10	6407_2-2	20.80	Shale	Sandstone	 	82.00	18.00	0.00	silt/vf	m	?_Avgrenset_marint_basseng	PRODELTA
+2531.20	6407_2-2	21.20	Shale	Sandstone	 	82.00	18.00	0.00	silt/vf	m	?_Avgrenset_marint_basseng	PRODELTA
+2531.30	6407_2-2	21.91	Shale	Sandstone	 	82.00	18.00	0.00	silt/vf	m	?_Avgrenset_marint_basseng	PRODELTA
+2531.40	6407_2-2	22.83	Shale	Sandstone	 	82.00	18.00	0.00	silt/vf	m	?_Avgrenset_marint_basseng	PRODELTA
+2531.50	6407_2-2	23.75	Shale	Sandstone	 	82.00	18.00	0.00	silt/vf	m	?_Avgrenset_marint_basseng	PRODELTA
+2531.60	6407_2-2	24.49	Shale	Sandstone	 	82.00	18.00	0.00	silt/vf	m	?_Avgrenset_marint_basseng	PRODELTA
+2531.70	6407_2-2	24.84	Shale	Sandstone	 	82.00	18.00	0.00	silt/vf	m	?_Avgrenset_marint_basseng	PRODELTA
+2531.80	6407_2-2	25.19	Shale	Sandstone	 	82.00	18.00	0.00	silt/vf	m	?_Avgrenset_marint_basseng	PRODELTA
+2531.90	6407_2-2	25.54	Shale	Sandstone	 	82.00	18.00	0.00	silt/vf	m	?_Avgrenset_marint_basseng	PRODELTA
+2532.00	6407_2-2	25.89	Shale	Sandstone	 	82.00	18.00	0.00	silt/vf	m	?_Avgrenset_marint_basseng	PRODELTA
+2532.10	6407_2-2	26.24	Shale	Sandstone	 	82.00	18.00	0.00	silt/vf	m	?_Avgrenset_marint_basseng	PRODELTA
+2532.20	6407_2-2	26.45	Shale	Sandstone	 	82.00	18.00	0.00	silt/vf	m	?_Avgrenset_marint_basseng	PRODELTA
+2532.30	6407_2-2	26.44	Shale	Sandstone	 	82.00	18.00	0.00	silt/vf	m	?_Avgrenset_marint_basseng	PRODELTA
+2532.40	6407_2-2	26.22	Shale	Sandstone	 	82.00	18.00	0.00	silt/vf	m	?_Avgrenset_marint_basseng	PRODELTA
+2532.50	6407_2-2	25.87	Shale	Sandstone	 	82.00	18.00	0.00	silt/vf	m	?_Avgrenset_marint_basseng	PRODELTA
+2532.60	6407_2-2	25.41	Shale	Sandstone	 	82.00	18.00	0.00	silt/vf	m	?_Avgrenset_marint_basseng	PRODELTA
+2532.70	6407_2-2	24.95	Shale	Sandstone	 	82.00	18.00	0.00	silt/vf	m	?_Avgrenset_marint_basseng	PRODELTA
+2532.80	6407_2-2	24.48	Shale	Sandstone	 	82.00	18.00	0.00	silt/vf	m	?_Avgrenset_marint_basseng	PRODELTA
+2532.90	6407_2-2	24.13	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	?_Avgrenset_marint_basseng	PRODELTA
+2533.00	6407_2-2	24.00	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	?_Avgrenset_marint_basseng	PRODELTA
+2533.10	6407_2-2	23.88	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	?_Avgrenset_marint_basseng	PRODELTA
+2533.20	6407_2-2	23.90	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	?_Avgrenset_marint_basseng	PRODELTA
+2533.30	6407_2-2	23.91	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	?_Avgrenset_marint_basseng	PRODELTA
+2533.40	6407_2-2	23.93	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	?_Avgrenset_marint_basseng	PRODELTA
+2533.50	6407_2-2	23.95	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	?_Avgrenset_marint_basseng	PRODELTA
+2533.60	6407_2-2	23.96	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	?_Avgrenset_marint_basseng	PRODELTA
+2533.70	6407_2-2	23.96	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	?_Avgrenset_marint_basseng	PRODELTA
+2533.80	6407_2-2	23.72	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	?_Avgrenset_marint_basseng	PRODELTA
+2533.90	6407_2-2	23.49	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	?_Avgrenset_marint_basseng	PRODELTA
+2534.00	6407_2-2	23.25	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	?_Avgrenset_marint_basseng	PRODELTA
+2534.10	6407_2-2	23.01	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	?_Avgrenset_marint_basseng	PRODELTA
+2534.20	6407_2-2	23.12	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	?_Avgrenset_marint_basseng	PRODELTA
+2534.30	6407_2-2	23.25	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	?_Avgrenset_marint_basseng	PRODELTA
+2534.40	6407_2-2	23.39	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	?_Avgrenset_marint_basseng	PRODELTA
+2534.50	6407_2-2	23.53	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	?_Avgrenset_marint_basseng	PRODELTA
+2534.60	6407_2-2	23.75	 	 	 	100.00	0.00	0.00	 	 		
+2534.70	6407_2-2	24.03	 	 	 	100.00	0.00	0.00	 	 		
+2534.80	6407_2-2	24.30	 	 	 	100.00	0.00	0.00	 	 		
+2534.90	6407_2-2	24.57	 	 	 	100.00	0.00	0.00	 	 		
+2535.00	6407_2-2	24.73	 	 	 	100.00	0.00	0.00	 	 		
+2535.10	6407_2-2	24.89	 	 	 	100.00	0.00	0.00	 	 		
+2535.20	6407_2-2	25.05	 	 	 	100.00	0.00	0.00	 	 		
+2535.30	6407_2-2	25.08	 	 	 	100.00	0.00	0.00	 	 		
+2535.40	6407_2-2	25.02	 	 	 	100.00	0.00	0.00	 	 		
+2535.50	6407_2-2	24.89	 	 	 	100.00	0.00	0.00	 	 		
+2535.60	6407_2-2	24.50	 	 	 	100.00	0.00	0.00	 	 		
+2535.70	6407_2-2	24.10	 	 	 	100.00	0.00	0.00	 	 		
+2535.80	6407_2-2	23.71	 	 	 	100.00	0.00	0.00	 	 		
+2535.90	6407_2-2	23.12	 	 	 	100.00	0.00	0.00	 	 		
+2536.00	6407_2-2	22.58	 	 	 	100.00	0.00	0.00	 			
+2536.10	6407_2-2	22.18	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2536.20	6407_2-2	22.17	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2536.30	6407_2-2	22.36	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2536.40	6407_2-2	22.72	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2536.50	6407_2-2	23.24	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2536.60	6407_2-2	23.49	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2536.70	6407_2-2	23.57	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2536.80	6407_2-2	23.60	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2536.90	6407_2-2	23.48	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2537.00	6407_2-2	23.35	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2537.10	6407_2-2	23.20	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2537.20	6407_2-2	22.77	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2537.30	6407_2-2	22.34	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2537.40	6407_2-2	21.91	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2537.50	6407_2-2	21.48	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2537.60	6407_2-2	21.06	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2537.70	6407_2-2	20.78	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2537.80	6407_2-2	20.69	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2537.90	6407_2-2	20.60	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2538.00	6407_2-2	20.52	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2538.10	6407_2-2	20.43	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2538.20	6407_2-2	20.35	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2538.30	6407_2-2	20.26	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2538.40	6407_2-2	20.47	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2538.50	6407_2-2	20.95	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2538.60	6407_2-2	21.27	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2538.70	6407_2-2	21.31	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2538.80	6407_2-2	21.34	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2538.90	6407_2-2	21.15	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2539.00	6407_2-2	20.80	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2539.10	6407_2-2	20.46	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2539.20	6407_2-2	20.12	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2539.30	6407_2-2	19.81	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2539.40	6407_2-2	19.54	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2539.50	6407_2-2	19.50	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2539.60	6407_2-2	19.62	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2539.70	6407_2-2	19.75	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2539.80	6407_2-2	20.07	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2539.90	6407_2-2	20.44	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2540.00	6407_2-2	20.81	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2540.10	6407_2-2	21.18	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2540.20	6407_2-2	21.48	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2540.30	6407_2-2	21.72	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2540.40	6407_2-2	21.95	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2540.50	6407_2-2	21.91	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2540.60	6407_2-2	21.88	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2540.70	6407_2-2	21.74	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2540.80	6407_2-2	21.45	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2540.90	6407_2-2	21.15	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2541.00	6407_2-2	20.85	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2541.10	6407_2-2	20.55	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2541.20	6407_2-2	20.28	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2541.30	6407_2-2	20.11	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2541.40	6407_2-2	19.95	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2541.50	6407_2-2	19.96	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2541.60	6407_2-2	20.10	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2541.70	6407_2-2	20.25	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2541.80	6407_2-2	20.42	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2541.90	6407_2-2	20.72	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2542.00	6407_2-2	21.03	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2542.10	6407_2-2	21.34	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2542.20	6407_2-2	21.50	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2542.30	6407_2-2	21.59	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2542.40	6407_2-2	21.51	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2542.50	6407_2-2	21.36	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2542.60	6407_2-2	20.96	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2542.70	6407_2-2	20.46	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2542.80	6407_2-2	19.90	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2542.90	6407_2-2	19.40	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2543.00	6407_2-2	19.20	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2543.10	6407_2-2	19.27	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2543.20	6407_2-2	19.36	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2543.30	6407_2-2	19.82	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2543.40	6407_2-2	20.27	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2543.50	6407_2-2	20.73	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2543.60	6407_2-2	21.16	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2543.70	6407_2-2	21.24	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2543.80	6407_2-2	21.31	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2543.90	6407_2-2	21.38	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2544.00	6407_2-2	21.54	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2544.10	6407_2-2	21.73	Sandstone	 	 	100.00	0.00	0.00	c/vc	f/m	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2544.20	6407_2-2	21.97	Sandstone	 	 	100.00	0.00	0.00	c/vc	f/m	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2544.30	6407_2-2	22.24	Sandstone	 	 	100.00	0.00	0.00	c/vc	f/m	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2544.40	6407_2-2	22.42	Sandstone	 	 	100.00	0.00	0.00	c/vc	f/m	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2544.50	6407_2-2	22.31	Sandstone	 	 	100.00	0.00	0.00	c/vc	f/m	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2544.60	6407_2-2	22.00	Sandstone	 	 	100.00	0.00	0.00	c/vc	f/m	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2544.70	6407_2-2	21.37	Sandstone	 	 	100.00	0.00	0.00	c/vc	f/m	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2544.80	6407_2-2	20.69	Sandstone	 	 	100.00	0.00	0.00	c/vc	f/m	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2544.90	6407_2-2	20.03	Sandstone	 	 	100.00	0.00	0.00	c/vc	f/m	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2545.00	6407_2-2	19.83	Sandstone	 	 	100.00	0.00	0.00	c/vc	f/m	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2545.10	6407_2-2	19.73	Sandstone	 	 	100.00	0.00	0.00	c/vc	f/m	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2545.20	6407_2-2	19.81	Sandstone	 	 	100.00	0.00	0.00	c/vc	f/m	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2545.30	6407_2-2	19.91	Sandstone	 	 	100.00	0.00	0.00	c/vc	f/m	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2545.40	6407_2-2	20.04	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2545.50	6407_2-2	20.24	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2545.60	6407_2-2	20.44	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2545.70	6407_2-2	20.58	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2545.80	6407_2-2	20.41	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2545.90	6407_2-2	20.24	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2546.00	6407_2-2	20.07	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2546.10	6407_2-2	20.09	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2546.20	6407_2-2	20.40	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2546.30	6407_2-2	20.78	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2546.40	6407_2-2	21.18	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2546.50	6407_2-2	21.59	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2546.60	6407_2-2	21.99	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2546.70	6407_2-2	22.37	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2546.80	6407_2-2	22.75	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2546.90	6407_2-2	23.13	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2547.00	6407_2-2	23.47	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2547.10	6407_2-2	23.80	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2547.20	6407_2-2	24.13	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2547.30	6407_2-2	24.46	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2547.40	6407_2-2	25.27	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2547.50	6407_2-2	26.68	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2547.60	6407_2-2	29.38	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2547.70	6407_2-2	31.81	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2547.80	6407_2-2	32.67	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2547.90	6407_2-2	34.33	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2548.00	6407_2-2	35.99	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2548.10	6407_2-2	35.77	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2548.20	6407_2-2	34.30	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2548.30	6407_2-2	32.62	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2548.40	6407_2-2	30.54	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2548.50	6407_2-2	28.46	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2548.60	6407_2-2	26.38	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2548.70	6407_2-2	25.29	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2548.80	6407_2-2	24.92	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2548.90	6407_2-2	24.92	Sandstone	 	 	100.00	0.00	0.00	m/c	vc	Munningsbanke_Ovre_strandskaning	PROXIMAL_DELTA_FRONT
+2549.00	6407_2-2	25.02	 	 	 	100.00	0.00	0.00	 			PROXIMAL_DELTA_FRONT
+2549.10	6407_2-2	25.32	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2549.20	6407_2-2	26.34	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2549.30	6407_2-2	28.43	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2549.40	6407_2-2	29.32	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2549.50	6407_2-2	30.41	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2549.60	6407_2-2	32.39	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2549.70	6407_2-2	34.38	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2549.80	6407_2-2	36.88	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2549.90	6407_2-2	39.53	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2550.00	6407_2-2	42.15	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2550.10	6407_2-2	43.55	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2550.20	6407_2-2	43.76	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2550.30	6407_2-2	41.33	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2550.40	6407_2-2	38.38	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2550.50	6407_2-2	36.24	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2550.60	6407_2-2	35.64	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2550.70	6407_2-2	35.29	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2550.80	6407_2-2	35.66	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2550.90	6407_2-2	36.13	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2551.00	6407_2-2	37.03	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2551.10	6407_2-2	41.64	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2551.20	6407_2-2	48.55	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2551.30	6407_2-2	49.94	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2551.40	6407_2-2	52.71	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2551.50	6407_2-2	55.54	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2551.60	6407_2-2	56.88	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2551.70	6407_2-2	57.20	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2551.80	6407_2-2	57.20	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2551.90	6407_2-2	56.72	 	 	 	100.00	0.00	0.00	 	 		PROXIMAL_DELTA_FRONT
+2552.00	6407_2-2	55.72	 	 	 	100.00	0.00	0.00	 			PROXIMAL_DELTA_FRONT
+2552.10	6407_2-2	54.18	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2552.20	6407_2-2	52.12	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2552.30	6407_2-2	49.87	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2552.40	6407_2-2	46.78	Sandstone	 	 	100.00	0.00	0.00	m	f/m	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2552.50	6407_2-2	41.73	Sandstone	 	 	100.00	0.00	0.00	m	f/m	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2552.60	6407_2-2	36.69	Sandstone	 	 	100.00	0.00	0.00	m	f/m	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2552.70	6407_2-2	31.64	Sandstone	 	 	100.00	0.00	0.00	m	f/m	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2552.80	6407_2-2	26.59	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2552.90	6407_2-2	21.54	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2553.00	6407_2-2	19.62	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2553.10	6407_2-2	18.78	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2553.20	6407_2-2	18.11	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2553.30	6407_2-2	17.68	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2553.40	6407_2-2	17.26	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2553.50	6407_2-2	16.93	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2553.60	6407_2-2	16.85	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2553.70	6407_2-2	17.18	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2553.80	6407_2-2	17.88	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2553.90	6407_2-2	18.58	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2554.00	6407_2-2	20.82	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2554.10	6407_2-2	23.98	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2554.20	6407_2-2	27.30	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2554.30	6407_2-2	30.63	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2554.40	6407_2-2	33.69	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2554.50	6407_2-2	36.67	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2554.60	6407_2-2	37.89	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2554.70	6407_2-2	39.07	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2554.80	6407_2-2	40.14	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2554.90	6407_2-2	40.78	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2555.00	6407_2-2	40.87	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2555.10	6407_2-2	40.85	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2555.20	6407_2-2	40.40	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2555.30	6407_2-2	39.85	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2555.40	6407_2-2	38.29	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2555.50	6407_2-2	36.66	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2555.60	6407_2-2	31.10	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2555.70	6407_2-2	25.85	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2555.80	6407_2-2	21.21	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2555.90	6407_2-2	20.17	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2556.00	6407_2-2	19.90	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2556.10	6407_2-2	19.70	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2556.20	6407_2-2	19.83	Sandstone	 	 	100.00	0.00	0.00	vf/f	m	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2556.30	6407_2-2	20.00	Sandstone	 	 	100.00	0.00	0.00	vf/f	m	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2556.40	6407_2-2	20.18	Sandstone	 	 	100.00	0.00	0.00	vf/f	m	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2556.50	6407_2-2	20.35	Sandstone	 	 	100.00	0.00	0.00	vf/f	m	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2556.60	6407_2-2	20.53	Sandstone	 	 	100.00	0.00	0.00	vf/f	m	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2556.70	6407_2-2	20.67	Sandstone	 	 	100.00	0.00	0.00	vf/f	m	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2556.80	6407_2-2	20.68	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2556.90	6407_2-2	20.69	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2557.00	6407_2-2	20.70	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2557.10	6407_2-2	20.74	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2557.20	6407_2-2	21.10	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2557.30	6407_2-2	22.27	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2557.40	6407_2-2	24.52	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2557.50	6407_2-2	26.78	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2557.60	6407_2-2	29.09	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2557.70	6407_2-2	31.41	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2557.80	6407_2-2	32.70	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2557.90	6407_2-2	32.68	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2558.00	6407_2-2	32.26	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2558.10	6407_2-2	31.25	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2558.20	6407_2-2	28.64	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2558.30	6407_2-2	22.31	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2558.40	6407_2-2	21.04	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2558.50	6407_2-2	20.13	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2558.60	6407_2-2	19.74	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2558.70	6407_2-2	19.41	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2558.80	6407_2-2	19.20	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2558.90	6407_2-2	18.95	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2559.00	6407_2-2	18.53	Sandstone	Shale	 	97.00	3.00	0.00	vf/f	vf/f	Munningsbanke_Tilforselskanal	PROXIMAL_DELTA_FRONT
+2559.10	6407_2-2	18.12	 	 	 	100.00	0.00	0.00	 	 		
+2559.20	6407_2-2	17.73	 	 	 	100.00	0.00	0.00	 	 		
+2559.30	6407_2-2	17.58	 	 	 	100.00	0.00	0.00	 	 		
+2559.40	6407_2-2	17.64	 	 	 	100.00	0.00	0.00	 	 		
+2559.50	6407_2-2	17.81	 	 	 	100.00	0.00	0.00	 	 		
+2559.60	6407_2-2	18.51	 	 	 	100.00	0.00	0.00	 	 		
+2559.70	6407_2-2	19.21	 	 	 	100.00	0.00	0.00	 	 		
+2559.80	6407_2-2	20.60	 	 	 	100.00	0.00	0.00	 	 		
+2559.90	6407_2-2	22.19	 	 	 	100.00	0.00	0.00	 	 		
+2560.00	6407_2-2	23.78	 	 	 	100.00	0.00	0.00	 	 		
+2560.10	6407_2-2	26.26	 	 	 	100.00	0.00	0.00	 	 		
+2560.20	6407_2-2	28.74	 	 	 	100.00	0.00	0.00	 	 		
+2560.30	6407_2-2	31.11	 	 	 	100.00	0.00	0.00	 	 		
+2560.40	6407_2-2	31.38	 	 	 	100.00	0.00	0.00	 	 		
+2560.50	6407_2-2	30.64	 	 	 	100.00	0.00	0.00	 	 		
+2560.60	6407_2-2	29.18	 	 	 	100.00	0.00	0.00	 	 		
+2560.70	6407_2-2	27.52	 	 	 	100.00	0.00	0.00	 	 		
+2560.80	6407_2-2	25.86	 	 	 	100.00	0.00	0.00	 	 		
+2560.90	6407_2-2	24.27	 	 	 	100.00	0.00	0.00	 	 		
+2561.00	6407_2-2	23.14	 	 	 	100.00	0.00	0.00	 	 		
+2561.10	6407_2-2	23.11	 	 	 	100.00	0.00	0.00	 	 		
+2561.20	6407_2-2	23.20	 	 	 	100.00	0.00	0.00	 	 		
+2561.30	6407_2-2	23.56	 	 	 	100.00	0.00	0.00	 	 		
+2561.40	6407_2-2	24.66	 	 	 	100.00	0.00	0.00	 	 		
+2561.50	6407_2-2	26.14	 	 	 	100.00	0.00	0.00	 	 		
+2561.60	6407_2-2	27.62	 	 	 	100.00	0.00	0.00	 	 		
+2561.70	6407_2-2	29.10	 	 	 	100.00	0.00	0.00	 	 		
+2561.80	6407_2-2	30.58	 	 	 	100.00	0.00	0.00	 	 		
+2561.90	6407_2-2	32.06	 	 	 	100.00	0.00	0.00	 	 		
+2562.00	6407_2-2	32.24	 	 	 	100.00	0.00	0.00	 	 		
+2562.10	6407_2-2	31.61	 	 	 	100.00	0.00	0.00	 	 		
+2562.20	6407_2-2	30.65	 	 	 	100.00	0.00	0.00	 	 		
+2562.30	6407_2-2	28.49	 	 	 	100.00	0.00	0.00	 	 		
+2562.40	6407_2-2	26.15	 	 	 	100.00	0.00	0.00	 	 		
+2562.50	6407_2-2	23.80	 	 	 	100.00	0.00	0.00	 	 		
+2562.60	6407_2-2	21.45	 	 	 	100.00	0.00	0.00	 	 		
+2562.70	6407_2-2	19.71	 	 	 	100.00	0.00	0.00	 	 		
+2562.80	6407_2-2	19.21	 	 	 	100.00	0.00	0.00	 	 		
+2562.90	6407_2-2	18.81	 	 	 	100.00	0.00	0.00	 	 		
+2563.00	6407_2-2	18.54	 	 	 	100.00	0.00	0.00	 	 		
+2563.10	6407_2-2	18.51	 	 	 	100.00	0.00	0.00	 	 		
+2563.20	6407_2-2	19.20	 	 	 	100.00	0.00	0.00	 	 		
+2563.30	6407_2-2	20.22	 	 	 	100.00	0.00	0.00	 	 		
+2563.40	6407_2-2	21.28	 	 	 	100.00	0.00	0.00	 	 		
+2563.50	6407_2-2	22.37	 	 	 	100.00	0.00	0.00	 	 		
+2563.60	6407_2-2	23.45	 	 	 	100.00	0.00	0.00	 	 		
+2563.70	6407_2-2	24.53	 	 	 	100.00	0.00	0.00	 	 		
+2563.80	6407_2-2	24.99	 	 	 	100.00	0.00	0.00	 	 		
+2563.90	6407_2-2	25.22	 	 	 	100.00	0.00	0.00	 	 		
+2564.00	6407_2-2	25.31	 	 	 	100.00	0.00	0.00	 	 		
+2564.10	6407_2-2	25.40	 	 	 	100.00	0.00	0.00	 	 		
+2564.20	6407_2-2	25.83	 	 	 	100.00	0.00	0.00	 	 		
+2564.30	6407_2-2	26.31	 	 	 	100.00	0.00	0.00	 	 		
+2564.40	6407_2-2	26.79	 	 	 	100.00	0.00	0.00	 	 		
+2564.50	6407_2-2	27.27	 	 	 	100.00	0.00	0.00	 	 		
+2564.60	6407_2-2	27.29	 	 	 	100.00	0.00	0.00	 	 		
+2564.70	6407_2-2	27.07	 	 	 	100.00	0.00	0.00	 	 		
+2564.80	6407_2-2	26.59	 	 	 	100.00	0.00	0.00	 	 		
+2564.90	6407_2-2	25.82	 	 	 	100.00	0.00	0.00	 	 		
+2565.00	6407_2-2	24.99	Sandstone	Shale	 	95.00	5.00	0.00	f/m	f/m	Munningsbanke	DELTA_FRONT
+2565.10	6407_2-2	23.62	Sandstone	Shale	 	95.00	5.00	0.00	f/m	f/m	Munningsbanke	DELTA_FRONT
+2565.20	6407_2-2	22.66	Sandstone	Shale	 	95.00	5.00	0.00	f/m	f/m	Munningsbanke	DELTA_FRONT
+2565.30	6407_2-2	21.90	Sandstone	Shale	 	95.00	5.00	0.00	f/m	f/m	Munningsbanke	DELTA_FRONT
+2565.40	6407_2-2	21.90	Sandstone	Shale	 	95.00	5.00	0.00	f/m	f/m	Munningsbanke	DELTA_FRONT
+2565.50	6407_2-2	22.09	Sandstone	Shale	 	95.00	5.00	0.00	f/m	f/m	Munningsbanke	DELTA_FRONT
+2565.60	6407_2-2	22.77	Sandstone	Shale	 	95.00	5.00	0.00	f/m	f/m	Munningsbanke	DELTA_FRONT
+2565.70	6407_2-2	23.45	Sandstone	Shale	 	95.00	5.00	0.00	f/m	f/m	Munningsbanke	DELTA_FRONT
+2565.80	6407_2-2	23.50	Sandstone	Shale	 	95.00	5.00	0.00	f/m	f/m	Munningsbanke	DELTA_FRONT
+2565.90	6407_2-2	23.24	Sandstone	Shale	 	95.00	5.00	0.00	f/m	f/m	Munningsbanke	DELTA_FRONT
+2566.00	6407_2-2	22.51	Sandstone	Shale	 	95.00	5.00	0.00	f/m	f/m	Munningsbanke	DELTA_FRONT
+2566.10	6407_2-2	21.52	Sandstone	Shale	 	95.00	5.00	0.00	f/m	f/m	Munningsbanke	DELTA_FRONT
+2566.20	6407_2-2	20.54	Sandstone	Shale	 	95.00	5.00	0.00	f/m	f/m	Munningsbanke	DELTA_FRONT
+2566.30	6407_2-2	20.41	Sandstone	Shale	 	95.00	5.00	0.00	f/m	f/m	Munningsbanke	DELTA_FRONT
+2566.40	6407_2-2	20.30	Sandstone	Shale	 	95.00	5.00	0.00	f/m	f/m	Munningsbanke	DELTA_FRONT
+2566.50	6407_2-2	20.23	Sandstone	Shale	 	95.00	5.00	0.00	f/m	f/m	Munningsbanke	DELTA_FRONT
+2566.60	6407_2-2	20.18	Sandstone	Shale	 	95.00	5.00	0.00	f/m	f/m	Munningsbanke	DELTA_FRONT
+2566.70	6407_2-2	20.12	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2566.80	6407_2-2	19.93	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2566.90	6407_2-2	19.72	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2567.00	6407_2-2	19.51	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2567.10	6407_2-2	19.10	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2567.20	6407_2-2	18.69	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2567.30	6407_2-2	18.28	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2567.40	6407_2-2	17.78	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2567.50	6407_2-2	17.45	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2567.60	6407_2-2	17.27	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2567.70	6407_2-2	17.28	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2567.80	6407_2-2	17.61	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2567.90	6407_2-2	17.95	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2568.00	6407_2-2	18.28	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2568.10	6407_2-2	18.61	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2568.20	6407_2-2	18.75	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2568.30	6407_2-2	18.67	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2568.40	6407_2-2	18.58	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2568.50	6407_2-2	18.48	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2568.60	6407_2-2	18.38	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2568.70	6407_2-2	18.49	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2568.80	6407_2-2	18.76	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2568.90	6407_2-2	19.03	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2569.00	6407_2-2	19.94	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2569.10	6407_2-2	21.05	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2569.20	6407_2-2	23.23	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2569.30	6407_2-2	25.73	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2569.40	6407_2-2	28.44	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2569.50	6407_2-2	29.24	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2569.60	6407_2-2	29.28	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2569.70	6407_2-2	29.02	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2569.80	6407_2-2	28.52	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Munningsbanke	DELTA_FRONT
+2569.90	6407_2-2	27.31	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2570.00	6407_2-2	26.69	Sandstone	Limestone	 	92.00	8.00	0.00	f/m	c/vc	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2570.10	6407_2-2	26.45	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2570.20	6407_2-2	26.45	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2570.30	6407_2-2	26.71	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2570.40	6407_2-2	27.25	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2570.50	6407_2-2	27.94	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2570.60	6407_2-2	29.17	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2570.70	6407_2-2	30.41	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2570.80	6407_2-2	31.65	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2570.90	6407_2-2	32.89	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2571.00	6407_2-2	33.52	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2571.10	6407_2-2	34.07	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2571.20	6407_2-2	34.37	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2571.30	6407_2-2	35.60	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2571.40	6407_2-2	37.65	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2571.50	6407_2-2	39.71	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2571.60	6407_2-2	41.25	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2571.70	6407_2-2	41.27	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2571.80	6407_2-2	40.86	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2571.90	6407_2-2	39.90	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2572.00	6407_2-2	38.11	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2572.10	6407_2-2	34.23	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2572.20	6407_2-2	33.12	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2572.30	6407_2-2	32.09	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2572.40	6407_2-2	31.20	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2572.50	6407_2-2	30.61	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2572.60	6407_2-2	30.04	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2572.70	6407_2-2	29.66	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2572.80	6407_2-2	29.28	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2572.90	6407_2-2	28.76	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2573.00	6407_2-2	27.56	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2573.10	6407_2-2	26.92	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2573.20	6407_2-2	26.30	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2573.30	6407_2-2	26.16	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2573.40	6407_2-2	26.02	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2573.50	6407_2-2	26.20	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2573.60	6407_2-2	26.41	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2573.70	6407_2-2	26.68	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2573.80	6407_2-2	27.37	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2573.90	6407_2-2	28.79	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2574.00	6407_2-2	30.26	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2574.10	6407_2-2	30.82	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2574.20	6407_2-2	30.72	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2574.30	6407_2-2	30.33	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2574.40	6407_2-2	29.59	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2574.50	6407_2-2	28.66	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2574.60	6407_2-2	27.52	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2574.70	6407_2-2	26.37	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2574.80	6407_2-2	25.08	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2574.90	6407_2-2	23.72	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2575.00	6407_2-2	22.33	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2575.10	6407_2-2	21.09	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2575.20	6407_2-2	19.94	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2575.30	6407_2-2	18.83	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2575.40	6407_2-2	18.57	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2575.50	6407_2-2	18.61	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2575.60	6407_2-2	18.69	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2575.70	6407_2-2	19.02	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2575.80	6407_2-2	19.36	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Nedre_ovre__strandskraning_Distalmunnings-banke	DELTA_FRONT
+2575.90	6407_2-2	19.69	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Munningsbanke	DELTA_FRONT
+2576.00	6407_2-2	19.84	Sandstone	 	 	100.00	0.00	0.00	vf/f	m/c	Munningsbanke	DELTA_FRONT
+2576.10	6407_2-2	19.87	Sandstone	 	 	100.00	0.00	0.00	vf/f	m/c	Munningsbanke	DELTA_FRONT
+2576.20	6407_2-2	19.90	Sandstone	 	 	100.00	0.00	0.00	vf/f	m/c	Munningsbanke	DELTA_FRONT
+2576.30	6407_2-2	19.93	Sandstone	 	 	100.00	0.00	0.00	vf/f	m/c	Munningsbanke	DELTA_FRONT
+2576.40	6407_2-2	20.09	Sandstone	 	 	100.00	0.00	0.00	vf/f	m/c	Munningsbanke	DELTA_FRONT
+2576.50	6407_2-2	20.24	Sandstone	 	 	100.00	0.00	0.00	vf/f	m/c	Munningsbanke	DELTA_FRONT
+2576.60	6407_2-2	20.54	Sandstone	 	 	100.00	0.00	0.00	vf/f	m/c	Munningsbanke	DELTA_FRONT
+2576.70	6407_2-2	20.88	Sandstone	 	 	100.00	0.00	0.00	vf/f	m/c	Munningsbanke	DELTA_FRONT
+2576.80	6407_2-2	21.21	Sandstone	 	 	100.00	0.00	0.00	vf/f	m/c	Munningsbanke	DELTA_FRONT
+2576.90	6407_2-2	21.55	Sandstone	 	 	100.00	0.00	0.00	vf/f	m/c	Munningsbanke	DELTA_FRONT
+2577.00	6407_2-2	21.75	Sandstone	 	 	100.00	0.00	0.00	vf/f	m/c	Munningsbanke	DELTA_FRONT
+2577.10	6407_2-2	21.83	Sandstone	 	 	100.00	0.00	0.00	vf/f	m/c	Munningsbanke	DELTA_FRONT
+2577.20	6407_2-2	21.91	Sandstone	 	 	100.00	0.00	0.00	vf/f	m/c	Munningsbanke	DELTA_FRONT
+2577.30	6407_2-2	22.00	Sandstone	 	 	100.00	0.00	0.00	vf/f	m/c	Munningsbanke	DELTA_FRONT
+2577.40	6407_2-2	22.23	Sandstone	 	 	100.00	0.00	0.00	vf/f	m/c	Munningsbanke	DELTA_FRONT
+2577.50	6407_2-2	22.71	Sandstone	 	 	100.00	0.00	0.00	vf/f	m/c	Munningsbanke	DELTA_FRONT
+2577.60	6407_2-2	23.19	Sandstone	 	 	100.00	0.00	0.00	vf/f	m/c	Munningsbanke	DELTA_FRONT
+2577.70	6407_2-2	23.66	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Munningsbanke	DELTA_FRONT
+2577.80	6407_2-2	24.02	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Munningsbanke	DELTA_FRONT
+2577.90	6407_2-2	24.01	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Munningsbanke	DELTA_FRONT
+2578.00	6407_2-2	24.00	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Munningsbanke	DELTA_FRONT
+2578.10	6407_2-2	23.99	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Munningsbanke	DELTA_FRONT
+2578.20	6407_2-2	23.98	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Munningsbanke	DELTA_FRONT
+2578.30	6407_2-2	23.97	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Munningsbanke	DELTA_FRONT
+2578.40	6407_2-2	23.96	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Munningsbanke	DELTA_FRONT
+2578.50	6407_2-2	23.95	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Munningsbanke	DELTA_FRONT
+2578.60	6407_2-2	23.94	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Munningsbanke	DELTA_FRONT
+2578.70	6407_2-2	23.79	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Munningsbanke	DELTA_FRONT
+2578.80	6407_2-2	23.46	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Munningsbanke	DELTA_FRONT
+2578.90	6407_2-2	22.62	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Munningsbanke	DELTA_FRONT
+2579.00	6407_2-2	21.74	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Munningsbanke	DELTA_FRONT
+2579.10	6407_2-2	21.38	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Munningsbanke	DELTA_FRONT
+2579.20	6407_2-2	21.10	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Munningsbanke	DELTA_FRONT
+2579.30	6407_2-2	21.08	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Munningsbanke	DELTA_FRONT
+2579.40	6407_2-2	21.16	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Munningsbanke	DELTA_FRONT
+2579.50	6407_2-2	21.71	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Munningsbanke	DELTA_FRONT
+2579.60	6407_2-2	22.75	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Munningsbanke	DELTA_FRONT
+2579.70	6407_2-2	23.48	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2579.80	6407_2-2	23.87	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2579.90	6407_2-2	24.15	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2580.00	6407_2-2	24.21	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2580.10	6407_2-2	23.90	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2580.20	6407_2-2	23.65	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2580.30	6407_2-2	23.91	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2580.40	6407_2-2	25.22	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2580.50	6407_2-2	25.87	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2580.60	6407_2-2	25.93	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2580.70	6407_2-2	25.78	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2580.80	6407_2-2	25.07	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2580.90	6407_2-2	23.84	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2581.00	6407_2-2	22.47	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2581.10	6407_2-2	21.10	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2581.20	6407_2-2	20.42	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2581.30	6407_2-2	20.12	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2581.40	6407_2-2	19.82	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2581.50	6407_2-2	19.52	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2581.60	6407_2-2	18.91	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2581.70	6407_2-2	18.25	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2581.80	6407_2-2	17.73	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2581.90	6407_2-2	17.68	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2582.00	6407_2-2	17.77	 	 	 	100.00	0.00	0.00	 	 		DELTA_FRONT
+2582.10	6407_2-2	18.05	Sandstone	Limestone	 	70.00	30.00	0.00	m	m		DELTA_FRONT
+2582.20	6407_2-2	18.07	Sandstone	Limestone	 	70.00	30.00	0.00	m	m		DELTA_FRONT
+2582.30	6407_2-2	18.04	Sandstone	Limestone	 	70.00	30.00	0.00	m	m		DELTA_FRONT
+2582.40	6407_2-2	18.01	Sandstone	Limestone	 	70.00	30.00	0.00	m	m		DELTA_FRONT
+2582.50	6407_2-2	17.88	Sandstone	Limestone	 	70.00	30.00	0.00	m	m		DELTA_FRONT
+2582.60	6407_2-2	17.51	Sandstone	Limestone	 	70.00	30.00	0.00	m	m		DELTA_FRONT
+2582.70	6407_2-2	17.13	Sandstone	Limestone	 	70.00	30.00	0.00	m	m		DELTA_FRONT
+2582.80	6407_2-2	16.67	Sandstone	Limestone	 	70.00	30.00	0.00	m	m		DELTA_FRONT
+2582.90	6407_2-2	16.54	Sandstone	Limestone	 	70.00	30.00	0.00	m	m		DELTA_FRONT
+2583.00	6407_2-2	16.59	Sandstone	Limestone	 	70.00	30.00	0.00	m	m		DELTA_FRONT
+2583.10	6407_2-2	16.74	Sandstone	Limestone	 	70.00	30.00	0.00	m	m		DELTA_FRONT
+2583.20	6407_2-2	17.00	Sandstone	Limestone	 	70.00	30.00	0.00	m	m		DELTA_FRONT

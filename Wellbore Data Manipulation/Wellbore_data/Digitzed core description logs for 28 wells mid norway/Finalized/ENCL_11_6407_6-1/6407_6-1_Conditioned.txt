@@ -1,0 +1,185 @@
+Depth.m	Hole ID.-	GR.API	Lithology1.-	Lithology2.-	Lithology3.-	Lithology1.%	Lithology2.%	Lithology3.%	Grain_size_Top.-	Grain_size_Base.-	Sub_Environment.-	Gross_Environment.-
+1870.00	6407_6-1	76.91	Sandstone	Claystone	 	95.00	5.00	0.00	m/c	m/c	Upper_shoreface	Prograding_shoreline
+1870.10	6407_6-1	77.03	Sandstone	Claystone	 	95.00	5.00	0.00	m/c	m/c	Upper_shoreface	Prograding_shoreline
+1870.20	6407_6-1	77.14	Sandstone	Claystone	 	95.00	5.00	0.00	m/c	m/c	Upper_shoreface	Prograding_shoreline
+1870.30	6407_6-1	77.25	Sandstone	Claystone	 	95.00	5.00	0.00	m/c	m/c	Upper_shoreface	Prograding_shoreline
+1870.40	6407_6-1	77.36	Sandstone	Claystone	 	95.00	5.00	0.00	m/c	m/c	Upper_shoreface	Prograding_shoreline
+1870.50	6407_6-1	77.48	Sandstone	Claystone	 	95.00	5.00	0.00	m/c	m/c	Upper_shoreface	Prograding_shoreline
+1870.60	6407_6-1	77.31	Sandstone	Claystone	 	92.00	8.00	0.00	vc	vc/granule	Upper_shoreface	Prograding_shoreline
+1870.70	6407_6-1	76.85	Sandstone	Claystone	 	92.00	8.00	0.00	vc	vc/granule	Upper_shoreface	Prograding_shoreline
+1870.80	6407_6-1	76.38	Sandstone	Claystone	 	92.00	8.00	0.00	vc	vc/granule	Upper_shoreface	Prograding_shoreline
+1870.90	6407_6-1	75.91	Sandstone	Claystone	 	92.00	8.00	0.00	vc	vc/granule	Upper_shoreface	Prograding_shoreline
+1871.00	6407_6-1	75.44	Sandstone	Claystone	 	92.00	8.00	0.00	vc	vc/granule	Upper_shoreface	Prograding_shoreline
+1871.10	6407_6-1	74.98	Sandstone	Claystone	 	93.00	7.00	0.00	m/c	m	Upper_shoreface	Prograding_shoreline
+1871.20	6407_6-1	74.51	Sandstone	Claystone	 	93.00	7.00	0.00	m/c	m	Upper_shoreface	Prograding_shoreline
+1871.30	6407_6-1	74.04	Sandstone	Claystone	 	93.00	7.00	0.00	m/c	m	Upper_shoreface	Prograding_shoreline
+1871.40	6407_6-1	73.57	Sandstone	Claystone	 	93.00	7.00	0.00	m/c	m	Upper_shoreface	Prograding_shoreline
+1871.50	6407_6-1	73.58	Sandstone	Claystone	 	93.00	7.00	0.00	m/c	m	Upper_shoreface	Prograding_shoreline
+1871.60	6407_6-1	73.77	Sandstone	Claystone	 	93.00	7.00	0.00	m/c	m	Upper_shoreface	Prograding_shoreline
+1871.70	6407_6-1	73.96	Sandstone	Claystone	 	93.00	7.00	0.00	m/c	m	Upper_shoreface	Prograding_shoreline
+1871.80	6407_6-1	74.15	Sandstone	Claystone	 	93.00	7.00	0.00	m/c	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1871.90	6407_6-1	74.34	Sandstone	Claystone	 	93.00	7.00	0.00	m/c	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1872.00	6407_6-1	74.53	 	 	 	100.00	0.00	0.00	 	 	Upper/Lower_shoreface_transition	Prograding_shoreline
+1872.10	6407_6-1	74.43	 	 	 	100.00	0.00	0.00	 	 	Upper/Lower_shoreface_transition	Prograding_shoreline
+1872.20	6407_6-1	74.29	 	 	 	100.00	0.00	0.00	 	 	Upper/Lower_shoreface_transition	Prograding_shoreline
+1872.30	6407_6-1	74.15	 	 	 	100.00	0.00	0.00	 	 	Upper/Lower_shoreface_transition	Prograding_shoreline
+1872.40	6407_6-1	74.01	 	 	 	100.00	0.00	0.00	 	 	Upper/Lower_shoreface_transition	Prograding_shoreline
+1872.50	6407_6-1	73.87	 	 	 	100.00	0.00	0.00	 	 	Upper/Lower_shoreface_transition	Prograding_shoreline
+1872.60	6407_6-1	73.72	 	 	 	100.00	0.00	0.00	 	 	Upper/Lower_shoreface_transition	Prograding_shoreline
+1872.70	6407_6-1	73.58	 	 	 	100.00	0.00	0.00	 	 	Upper/Lower_shoreface_transition	Prograding_shoreline
+1872.80	6407_6-1	73.44	 	 	 	100.00	0.00	0.00	 	 	Upper/Lower_shoreface_transition	Prograding_shoreline
+1872.90	6407_6-1	73.30	 	 	 	100.00	0.00	0.00	 	 	Upper/Lower_shoreface_transition	Prograding_shoreline
+1873.00	6407_6-1	73.16	 	 	 	100.00	0.00	0.00	 	 	Upper/Lower_shoreface_transition	Prograding_shoreline
+1873.10	6407_6-1	73.56	 	 	 	100.00	0.00	0.00	 	 	Upper/Lower_shoreface_transition	Prograding_shoreline
+1873.10	6407_6-1	74.94	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1873.20	6407_6-1	76.32	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1873.30	6407_6-1	77.71	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1873.40	6407_6-1	80.63	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1873.50	6407_6-1	83.82	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1873.60	6407_6-1	87.00	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1873.70	6407_6-1	89.13	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1873.80	6407_6-1	89.29	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1873.90	6407_6-1	89.44	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1874.00	6407_6-1	88.80	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1874.10	6407_6-1	88.17	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1874.20	6407_6-1	87.53	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1874.30	6407_6-1	86.89	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1874.40	6407_6-1	86.25	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1874.50	6407_6-1	85.62	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1874.60	6407_6-1	84.98	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1874.70	6407_6-1	84.34	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1874.80	6407_6-1	84.49	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1874.90	6407_6-1	84.78	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1875.00	6407_6-1	85.08	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1875.10	6407_6-1	85.38	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Transgression	Prograding_shoreline
+1875.20	6407_6-1	85.68	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Transgression	Prograding_shoreline
+1875.30	6407_6-1	85.97	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Transgression	Prograding_shoreline
+1875.40	6407_6-1	86.27	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Transgression	Prograding_shoreline
+1875.50	6407_6-1	86.57	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Transgression	Prograding_shoreline
+1875.60	6407_6-1	86.79	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Transgression	Prograding_shoreline
+1875.70	6407_6-1	86.16	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Transgression	Prograding_shoreline
+1875.80	6407_6-1	85.52	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Transgression	Prograding_shoreline
+1875.90	6407_6-1	84.88	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Transgression	Prograding_shoreline
+1876.00	6407_6-1	84.25	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Transgression	Prograding_shoreline
+1876.10	6407_6-1	83.22	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Transgression	Prograding_shoreline
+1876.20	6407_6-1	81.63	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Upper_shoreface	Prograding_shoreline
+1876.30	6407_6-1	80.04	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Upper_shoreface	Prograding_shoreline
+1876.40	6407_6-1	78.44	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Upper_shoreface	Prograding_shoreline
+1876.50	6407_6-1	76.85	Sandstone	Limestone	Claystone	87.00	10.00	3.00	m	m	Upper_shoreface	Prograding_shoreline
+1876.60	6407_6-1	77.19	Sandstone	 	 	100.00	0.00	0.00	vc	vc	Upper_shoreface	Prograding_shoreline
+1876.70	6407_6-1	78.26	Sandstone	 	 	100.00	0.00	0.00	vc	vc	Upper_shoreface	Prograding_shoreline
+1876.80	6407_6-1	79.32	Sandstone	 	 	100.00	0.00	0.00	vc	vc	Upper_shoreface	Prograding_shoreline
+1876.90	6407_6-1	80.38	Sandstone	 	 	100.00	0.00	0.00	vc	vc	Upper_shoreface	Prograding_shoreline
+1877.00	6407_6-1	81.44	Sandstone	 	 	100.00	0.00	0.00	vc	vc	Upper_shoreface	Prograding_shoreline
+1877.10	6407_6-1	83.57	Sandstone	 	 	100.00	0.00	0.00	vc	vc	Upper_shoreface	Prograding_shoreline
+1877.20	6407_6-1	86.88	Sandstone	 	 	100.00	0.00	0.00	vc	vc	Upper_shoreface	Prograding_shoreline
+1877.30	6407_6-1	90.20	Sandstone	 	 	100.00	0.00	0.00	vc	vc	Upper_shoreface	Prograding_shoreline
+1877.40	6407_6-1	92.67	 	 	 	100.00	0.00	0.00	 	 	Upper_shoreface	Prograding_shoreline
+1877.50	6407_6-1	94.45	 	 	 	100.00	0.00	0.00	 	 	Upper_shoreface	Prograding_shoreline
+1877.60	6407_6-1	96.24	 	 	 	100.00	0.00	0.00	 	 	Upper_shoreface	Prograding_shoreline
+1877.70	6407_6-1	96.59	Sandstone	 	 	100.00	0.00	0.00	granule	vc	Upper_shoreface	Prograding_shoreline
+1877.80	6407_6-1	96.12	Sandstone	 	 	100.00	0.00	0.00	granule	vc	Upper_shoreface	Prograding_shoreline
+1877.90	6407_6-1	95.64	Sandstone	 	 	100.00	0.00	0.00	granule	vc	Upper_shoreface	Prograding_shoreline
+1878.00	6407_6-1	95.16	Sandstone	 	 	100.00	0.00	0.00	granule	vc	Upper_shoreface	Prograding_shoreline
+1878.10	6407_6-1	94.68	Sandstone	 	 	100.00	0.00	0.00	granule	vc	Upper_shoreface	Prograding_shoreline
+1878.20	6407_6-1	94.20	Sandstone	 	 	100.00	0.00	0.00	granule	vc	Upper_shoreface	Prograding_shoreline
+1878.30	6407_6-1	93.72	Sandstone	 	 	100.00	0.00	0.00	granule	vc	Upper_shoreface	Prograding_shoreline
+1878.40	6407_6-1	93.96	Sandstone	 	 	100.00	0.00	0.00	granule	vc	Upper_shoreface	Prograding_shoreline
+1878.50	6407_6-1	94.64	Sandstone	 	 	100.00	0.00	0.00	granule	vc	Upper_shoreface	Prograding_shoreline
+1878.60	6407_6-1	95.31	Sandstone	 	 	100.00	0.00	0.00	granule	vc	Upper_shoreface	Prograding_shoreline
+1878.70	6407_6-1	95.99	Sandstone	 	 	100.00	0.00	0.00	granule	vc	Upper_shoreface	Prograding_shoreline
+1878.80	6407_6-1	96.66	Sandstone	 	 	100.00	0.00	0.00	granule	vc	Upper_shoreface	Prograding_shoreline
+1878.90	6407_6-1	97.34	Sandstone	 	 	100.00	0.00	0.00	granule	c	Upper_shoreface	Prograding_shoreline
+1879.00	6407_6-1	98.01	Sandstone	 	 	100.00	0.00	0.00	granule	c	Upper_shoreface	Prograding_shoreline
+1879.10	6407_6-1	98.69	Sandstone	 	 	100.00	0.00	0.00	granule	c	Upper_shoreface	Prograding_shoreline
+1879.20	6407_6-1	99.36	Sandstone	 	 	100.00	0.00	0.00	granule	c	Upper_shoreface	Prograding_shoreline
+1879.30	6407_6-1	100.04	Sandstone	 	 	100.00	0.00	0.00	granule	c	Upper_shoreface	Prograding_shoreline
+1879.40	6407_6-1	99.64	Sandstone	 	 	100.00	0.00	0.00	granule	c		Prograding_shoreline
+1879.50	6407_6-1	98.77	Sandstone	 	 	100.00	0.00	0.00	granule	c		Prograding_shoreline
+1879.60	6407_6-1	97.91	Sandstone	 	 	100.00	8.00	0.00	m	m		Prograding_shoreline
+1879.70	6407_6-1	97.04	Sandstone	 	 	100.00	8.00	0.00	m	m		Prograding_shoreline
+1879.80	6407_6-1	96.17	Sandstone	 	 	100.00	8.00	0.00	m	m		Prograding_shoreline
+1879.90	6407_6-1	95.30	Sandstone	 	 	100.00	8.00	0.00	m	m		Prograding_shoreline
+1880.00	6407_6-1	94.40	Sandstone	 	 	100.00	8.00	0.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1880.10	6407_6-1	93.43	Sandstone	 	 	100.00	8.00	0.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1880.20	6407_6-1	92.46	Sandstone	 	 	100.00	8.00	0.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1880.30	6407_6-1	91.49	Sandstone	 	 	100.00	8.00	0.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1880.40	6407_6-1	90.52	Sandstone	 	 	100.00	8.00	0.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1880.50	6407_6-1	89.54	Sandstone	 	 	100.00	8.00	0.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1880.60	6407_6-1	88.57	Sandstone	 	 	100.00	8.00	0.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1880.70	6407_6-1	87.60	Sandstone	 	 	100.00	8.00	0.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1880.80	6407_6-1	86.63	Sandstone	 	 	100.00	8.00	0.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1880.90	6407_6-1	85.66	Sandstone	 	 	100.00	8.00	0.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1881.00	6407_6-1	84.69	Sandstone	 	 	100.00	8.00	0.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1881.10	6407_6-1	83.72	Sandstone	 	 	100.00	8.00	0.00	m	m	Upper/Lower_shoreface_transition	Prograding_shoreline
+1881.20	6407_6-1	82.75	Sandstone	 	 	100.00	8.00	0.00	m	m	Transgression	Prograding_shoreline
+1881.30	6407_6-1	82.75	Sandstone	 	 	100.00	8.00	0.00	m	m	Transgression	Prograding_shoreline
+1881.40	6407_6-1	82.75	Sandstone	 	 	100.00	8.00	0.00	m	m	Transgression	Prograding_shoreline
+1881.50	6407_6-1	82.75	Sandstone	 	 	100.00	8.00	0.00	m	m	Transgression	Prograding_shoreline
+1881.60	6407_6-1	82.75	Sandstone	 	 	100.00	8.00	0.00	m	m	Transgression	Prograding_shoreline
+1881.70	6407_6-1	84.25	Sandstone	 	 	100.00	8.00	0.00	m	m	Transgression	Prograding_shoreline
+1881.80	6407_6-1	85.90	Sandstone	 	 	100.00	8.00	0.00	m	m	Transgression	Prograding_shoreline
+1881.90	6407_6-1	87.55	Sandstone	 	 	100.00	8.00	0.00	m	m	Transgression	Prograding_shoreline
+1882.00	6407_6-1	89.19	Sandstone	 	 	100.00	8.00	0.00	m	m	Transgression	Prograding_shoreline
+1882.10	6407_6-1	90.84	Sandstone	Coal	 	92.00	8.00	0.00	m	m	Transgression	Prograding_shoreline
+1882.20	6407_6-1	92.49	Sandstone	Coal	 	92.00	8.00	0.00	m	m	Transgression	Prograding_shoreline
+1882.30	6407_6-1	94.13	Sandstone	Coal	 	92.00	8.00	0.00	m	m	Upper_shoreface/_Foreshore	Prograding_shoreline
+1882.40	6407_6-1	93.86	Sandstone	Coal	 	92.00	8.00	0.00	m	m	Upper_shoreface/_Foreshore	Prograding_shoreline
+1882.50	6407_6-1	93.38	Sandstone	Coal	 	92.00	8.00	0.00	m	m	Upper_shoreface/_Foreshore	Prograding_shoreline
+1882.60	6407_6-1	92.40	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Upper_shoreface/_Foreshore	Prograding_shoreline
+1882.70	6407_6-1	91.05	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Upper_shoreface/_Foreshore	Prograding_shoreline
+1882.80	6407_6-1	89.69	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Upper_shoreface/_Foreshore	Prograding_shoreline
+1882.90	6407_6-1	88.34	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Upper_shoreface/_Foreshore	Prograding_shoreline
+1883.00	6407_6-1	86.98	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Upper_shoreface/_Foreshore	Prograding_shoreline
+1883.10	6407_6-1	86.27	 	 	 	100.00	0.00	0.00	 	 	Upper_shoreface/_Foreshore	Prograding_shoreline
+1883.20	6407_6-1	85.63	 	 	 	100.00	0.00	0.00	 	 	Upper_shoreface/_Foreshore	Prograding_shoreline
+1883.30	6407_6-1	85.00	Sandstone	 	 	100.00	0.00	0.00	vc/granule	c/vc	Upper_shoreface/_Foreshore	Prograding_shoreline
+1883.40	6407_6-1	84.36	Sandstone	 	 	100.00	0.00	0.00	vc/granule	c/vc	Upper_shoreface/_Foreshore	Prograding_shoreline
+1883.50	6407_6-1	84.31	Sandstone	 	 	100.00	0.00	0.00	vc/granule	c/vc	Upper_shoreface/_Foreshore	Prograding_shoreline
+1883.60	6407_6-1	84.40	Sandstone	 	 	100.00	0.00	0.00	vc/granule	c/vc	Upper_shoreface/_Foreshore	Prograding_shoreline
+1883.70	6407_6-1	84.49	Sandstone	 	 	100.00	0.00	0.00	vc/granule	c/vc	Upper_shoreface/_Foreshore	Prograding_shoreline
+1883.80	6407_6-1	84.58	Sandstone	 	 	100.00	0.00	0.00	vc/granule	c/vc	Upper_shoreface/_Foreshore	Prograding_shoreline
+1883.90	6407_6-1	85.86	Sandstone	 	 	100.00	0.00	0.00	vc/granule	c/vc	Upper_shoreface/_Foreshore	Prograding_shoreline
+1884.00	6407_6-1	87.60	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Upper_shoreface/_Foreshore	Prograding_shoreline
+1884.10	6407_6-1	89.34	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Upper_shoreface/_Foreshore	Prograding_shoreline
+1884.20	6407_6-1	91.07	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Upper_shoreface/_Foreshore	Prograding_shoreline
+1884.30	6407_6-1	92.81	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Upper_shoreface/_Foreshore	Prograding_shoreline
+1884.40	6407_6-1	94.55	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Upper_shoreface/_Foreshore	Prograding_shoreline
+1884.50	6407_6-1	96.37	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Upper_shoreface/_Foreshore	Prograding_shoreline
+1884.60	6407_6-1	98.37	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Upper_shoreface	Prograding_shoreline
+1884.70	6407_6-1	100.37	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Upper_shoreface	Prograding_shoreline
+1884.80	6407_6-1	102.38	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Upper_shoreface	Prograding_shoreline
+1884.90	6407_6-1	104.12	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Upper_shoreface	Prograding_shoreline
+1885.00	6407_6-1	104.87	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Upper_shoreface	Prograding_shoreline
+1885.10	6407_6-1	105.61	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Upper_shoreface	Prograding_shoreline
+1885.20	6407_6-1	106.35	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Upper_shoreface	Prograding_shoreline
+1885.30	6407_6-1	107.10	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Upper_shoreface	Prograding_shoreline
+1885.40	6407_6-1	107.84	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Upper_shoreface	Prograding_shoreline
+1885.50	6407_6-1	108.58	 	 	 	100.00	0.00	0.00	 	 	Upper_shoreface	Prograding_shoreline
+1885.60	6407_6-1	109.19	 	 	 	100.00	0.00	0.00	 	 	Upper_shoreface	Prograding_shoreline
+1885.70	6407_6-1	109.23	 	 	 	100.00	0.00	0.00	 	 	Upper_shoreface	Prograding_shoreline
+1885.80	6407_6-1	109.27	 	 	 	100.00	0.00	0.00	 	 	Upper_shoreface	Prograding_shoreline
+1885.90	6407_6-1	109.31	 	 	 	100.00	0.00	0.00	 	 	Lower_shoreface_transition	Prograding_shoreline
+1886.00	6407_6-1	109.35	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Lower_shoreface_transition	Prograding_shoreline
+1886.10	6407_6-1	109.39	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Lower_shoreface_transition	Prograding_shoreline
+1886.20	6407_6-1	109.43	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Lower_shoreface_transition	Prograding_shoreline
+1886.30	6407_6-1	109.47	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Lower_shoreface_transition	Prograding_shoreline
+1886.40	6407_6-1	109.51	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Lower_shoreface_transition	Prograding_shoreline
+1886.50	6407_6-1	109.55	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Lower_shoreface_transition	Prograding_shoreline
+1886.60	6407_6-1	108.70	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Lower_shoreface_transition	Prograding_shoreline
+1886.70	6407_6-1	107.69	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Lower_shoreface_transition	Prograding_shoreline
+1886.80	6407_6-1	106.68	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Lower_shoreface_transition	Prograding_shoreline
+1886.90	6407_6-1	105.67	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Lower_shoreface_transition	Prograding_shoreline
+1887.00	6407_6-1	104.66	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Lower_shoreface_transition	Prograding_shoreline
+1887.10	6407_6-1	103.65	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Lower_shoreface_transition	Prograding_shoreline
+1887.20	6407_6-1	102.64	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Lower_shoreface_transition	Prograding_shoreline
+1887.30	6407_6-1	100.14	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Lower_shoreface_transition	Prograding_shoreline
+1887.40	6407_6-1	97.36	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Lower_shoreface_transition	Prograding_shoreline
+1887.50	6407_6-1	94.59	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Lower_shoreface_transition	Prograding_shoreline
+1887.60	6407_6-1	91.81	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Lower_shoreface_transition	Prograding_shoreline
+1887.70	6407_6-1	89.03	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Lower_shoreface_transition	Prograding_shoreline
+1887.80	6407_6-1	86.25	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Lower_shoreface_transition	Prograding_shoreline
+1887.90	6407_6-1	83.48	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Lower_shoreface_transition	Prograding_shoreline
+1888.00	6407_6-1	80.70	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Lower_shoreface_transition	Prograding_shoreline
+1888.10	6407_6-1	76.63	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Lower_shoreface_transition	Prograding_shoreline
+1888.20	6407_6-1	76.21	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Lower_shoreface_transition	Prograding_shoreline

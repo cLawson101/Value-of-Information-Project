@@ -1,0 +1,2352 @@
+Depth.m	Hole ID.-	GR.API	Lithology1.-	Lithology2.-	Lithology3.-	Lithology1.%	Lithology2.%	Lithology3.%	Grain_size_Top.-	Grain_size_Base.-	Sub_Environment.-	Gross_Environment.-
+2260.00	6507_8-1	64.76										
+2260.10	6507_8-1	65.77										
+2260.20	6507_8-1	66.79										
+2260.30	6507_8-1	67.81										
+2260.40	6507_8-1	67.59										
+2260.50	6507_8-1	67.10										
+2260.60	6507_8-1	66.36										
+2260.70	6507_8-1	65.34										
+2260.80	6507_8-1	64.33										
+2260.90	6507_8-1	63.31										
+2261.00	6507_8-1	62.30										
+2261.10	6507_8-1	61.78										
+2261.20	6507_8-1	61.78										
+2261.30	6507_8-1	61.78										
+2261.40	6507_8-1	61.78										
+2261.50	6507_8-1	61.78										
+2261.60	6507_8-1	60.83										
+2261.70	6507_8-1	59.63										
+2261.80	6507_8-1	58.44										
+2261.90	6507_8-1	57.24										
+2262.00	6507_8-1	56.04										
+2262.10	6507_8-1	56.34										
+2262.20	6507_8-1	57.01										
+2262.30	6507_8-1	57.68										
+2262.40	6507_8-1	58.36										
+2262.50	6507_8-1	60.22	Sandstone			100.00	0.00	0.00	f/m	f/m	Fluvial_channels_?	
+2262.60	6507_8-1	60.33	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Fluvial_channels_?	
+2262.70	6507_8-1	60.94	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Fluvial_channels_?	
+2262.80	6507_8-1	62.51	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Fluvial_channels_?	
+2262.90	6507_8-1	64.79	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Fluvial_channels_?	
+2263.00	6507_8-1	67.58	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Fluvial_channels_?	
+2263.10	6507_8-1	70.37	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Fluvial_channels_?	
+2263.20	6507_8-1	73.16	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Fluvial_channels_?	
+2263.30	6507_8-1	75.96	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Fluvial_channels_?	
+2263.40	6507_8-1	76.67	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Fluvial_channels_?	
+2263.50	6507_8-1	77.11	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Fluvial_channels_?	
+2263.60	6507_8-1	77.56	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Fluvial_channels_?	
+2263.70	6507_8-1	78.01	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Fluvial_channels_?	
+2263.80	6507_8-1	78.82	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Fluvial_channels_?	
+2263.90	6507_8-1	79.73	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Fluvial_channels_?	
+2264.00	6507_8-1	80.65	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Fluvial_channels_?	
+2264.10	6507_8-1	82.09	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Fluvial_channels_?	
+2264.20	6507_8-1	85.04	 	 	 	100.00	0.00	0.00	 	 	Fluvial_channels_?	
+2264.30	6507_8-1	87.98	 	 	 	100.00	0.00	0.00	 	 	Fluvial_channels_?	
+2264.40	6507_8-1	90.93	 	 	 	100.00	0.00	0.00	 	 	Fluvial_channels_?	
+2264.50	6507_8-1	93.88	Sandstone	 	 	100.00	0.00	0.00	f	vf	Fluvial_channels_?	
+2264.60	6507_8-1	95.34	Sandstone	 	 	100.00	0.00	0.00	f	vf	Fluvial_channels_?	
+2264.70	6507_8-1	92.70	Sandstone	 	 	100.00	0.00	0.00	f	vf	Fluvial_channels_?	
+2264.80	6507_8-1	90.06	Sandstone	 	 	100.00	0.00	0.00	f	vf	Fluvial_channels_?	
+2264.90	6507_8-1	87.42	Sandstone	 	 	100.00	0.00	0.00	f	vf	Fluvial_channels_?	
+2265.00	6507_8-1	84.78	Sandstone	 	 	100.00	0.00	0.00	f	vf	Fluvial_channels_?	
+2265.10	6507_8-1	82.14	Sandstone	 	 	100.00	0.00	0.00	f	vf	Fluvial_channels_?	
+2265.20	6507_8-1	81.93	Sandstone	 	 	100.00	0.00	0.00	f	vf	Fluvial_channels_?	
+2265.30	6507_8-1	82.80	Sandstone	 	 	100.00	0.00	0.00	f	vf	Fluvial_channels_?	
+2265.40	6507_8-1	83.67	Sandstone	 	 	100.00	0.00	0.00	f	vf	Fluvial_channels_?	
+2265.50	6507_8-1	84.54	Sandstone	 	 	100.00	0.00	0.00	f	vf	Fluvial_channels_?	
+2265.60	6507_8-1	85.41	Sandstone	 	 	100.00	0.00	0.00	f	vf	Fluvial_channels_?	
+2265.70	6507_8-1	85.17	Sandstone	 	 	100.00	0.00	0.00	f	vf	Fluvial_channels_?	
+2265.80	6507_8-1	83.31	Sandstone	 	 	100.00	0.00	0.00	f	vf	Fluvial_channels_?	
+2265.90	6507_8-1	81.46	Sandstone	 	 	100.00	0.00	0.00	f	vf	Fluvial_channels_?	
+2266.00	6507_8-1	79.60	Sandstone	 	 	100.00	0.00	0.00	f	vf	Fluvial_channels_?	
+2266.10	6507_8-1	77.75	Sandstone	 	 	100.00	0.00	0.00	f	vf	Fluvial_channels_?	
+2266.20	6507_8-1	75.89	Sandstone	 	 	100.00	0.00	0.00	f	vf	Fluvial_channels_?	
+2266.30	6507_8-1	76.15	Sandstone	 	 	100.00	0.00	0.00	f	vf	Fluvial_channels_?	
+2266.40	6507_8-1	76.84	Sandstone	 	 	100.00	0.00	0.00	f	vf	Fluvial_channels_?	
+2266.50	6507_8-1	77.54	 	 	 	100.00	0.00	0.00	 	 	Fluvial_channels_?	
+2266.60	6507_8-1	78.23	 	 	 	100.00	0.00	0.00	 	 	Fluvial_channels_?	
+2266.70	6507_8-1	78.92	 	 	 	100.00	0.00	0.00	 	 	Fluvial_channels_?	
+2266.80	6507_8-1	79.69	 	 	 	100.00	0.00	0.00	 	 	Fluvial_channels_?	
+2266.90	6507_8-1	79.80	 	 	 	100.00	0.00	0.00	 	 	Fluvial_channels_?	
+2267.00	6507_8-1	78.79	 	 	 	100.00	0.00	0.00	 	 	Fluvial_channels_?	
+2267.10	6507_8-1	77.37	 	 	 	100.00	0.00	0.00	 	 	Fluvial_channels_?	
+2267.20	6507_8-1	75.07	 	 	 	100.00	0.00	0.00	 	 	Fluvial_channels_?	
+2267.30	6507_8-1	72.76	Matrix-supported conglomerate	 	 	100.00	0.00	0.00	m	c	Fluvial_channels_?	
+2267.40	6507_8-1	70.46	Matrix-supported conglomerate	 	 	100.00	0.00	0.00	m	c	Fluvial_channels_?	
+2267.50	6507_8-1	68.15	Matrix-supported conglomerate	 	 	100.00	0.00	0.00	m	c	Fluvial_channels_?	
+2267.60	6507_8-1	66.95	Sandstone	 	 	100.00	0.00	0.00	silt	m	Fluvial_channels_?	
+2267.70	6507_8-1	67.97	Sandstone	 	 	100.00	0.00	0.00	silt	m	Fluvial_channels_?	
+2267.80	6507_8-1	69.00	Sandstone	 	 	100.00	0.00	0.00	silt	m	Fluvial_channels_?	
+2267.90	6507_8-1	70.02	Sandstone	 	 	100.00	0.00	0.00	silt	m	Fluvial_channels_?	
+2268.00	6507_8-1	70.45	Sandstone	 	 	100.00	0.00	0.00	silt	m	Fluvial_channels_?	
+2268.10	6507_8-1	70.32	Sandstone	 	 	100.00	0.00	0.00	silt	m	Fluvial_channels_?	
+2268.20	6507_8-1	70.19	Sandstone	 	 	100.00	0.00	0.00	silt	m	Fluvial_channels_?	
+2268.30	6507_8-1	70.06	Sandstone	 	 	100.00	0.00	0.00	silt	m	Fluvial_channels_?	
+2268.40	6507_8-1	72.03	Sandstone	 	 	100.00	0.00	0.00	silt	m	Fluvial_channels_?	
+2268.50	6507_8-1	74.01	Sandstone	 	 	100.00	0.00	0.00	vf	clay	Fluvial_channels_?	
+2268.60	6507_8-1	75.99	Sandstone	 	 	100.00	0.00	0.00	vf	clay	Fluvial_channels_?	
+2268.70	6507_8-1	77.97	Sandstone	 	 	100.00	0.00	0.00	vf	clay	Fluvial_channels_?	
+2268.80	6507_8-1	79.94	Sandstone	 	 	100.00	0.00	0.00	vf	clay	Fluvial_channels_?	
+2268.90	6507_8-1	79.00	Sandstone	 	 	100.00	0.00	0.00	vf	clay	Fluvial_channels_?	
+2269.00	6507_8-1	77.54	Sandstone	 	 	100.00	0.00	0.00	vf	clay	Fluvial_channels_?	
+2269.10	6507_8-1	75.61	Sandstone	 	 	100.00	0.00	0.00	vf	clay	Fluvial_channels_?	
+2269.20	6507_8-1	73.69	Sandstone	 	 	100.00	0.00	0.00	vf	clay	Fluvial_channels_?	
+2269.30	6507_8-1	72.56	Sandstone	 	 	100.00	0.00	0.00	vf	clay	Fluvial_channels_?	
+2269.40	6507_8-1	73.23	Sandstone	 	 	100.00	0.00	0.00	vf	clay	Fluvial_channels_?	
+2269.50	6507_8-1	73.89	Sandstone	 	 	100.00	0.00	0.00	vf	clay	Fluvial_channels_?	
+2269.60	6507_8-1	74.55	Sandstone	 	 	100.00	0.00	0.00	vf	clay	Fluvial_channels_?	
+2269.70	6507_8-1	74.61	Sandstone	 	 	100.00	0.00	0.00	vf	clay	Fluvial_channels_?	
+2269.80	6507_8-1	74.04	Sandstone	 	 	100.00	0.00	0.00	vf	clay	Fluvial_channels_?	
+2269.90	6507_8-1	73.48	Sandstone	 	 	100.00	0.00	0.00	vf	clay	Fluvial_channels_?	
+2270.00	6507_8-1	72.91	Sandstone	 	 	100.00	0.00	0.00	vf	clay	Fluvial_channels_?	
+2270.10	6507_8-1	72.35	Sandstone	 	 	100.00	0.00	0.00	vf	clay	Fluvial_channels_?	
+2270.20	6507_8-1	72.21	Sandstone	 	 	100.00	0.00	0.00	vf	clay	Fluvial_channels_?	
+2270.30	6507_8-1	73.67	Sandstone	 	 	100.00	0.00	0.00	vf	clay	Fluvial_channels_?	
+2270.40	6507_8-1	75.14	Sandstone	 	 	100.00	0.00	0.00	vf	clay	Fluvial_channels_?	
+2270.50	6507_8-1	76.53	Sandstone	 	 	100.00	0.00	0.00	vf	clay	Fluvial_channels_?	
+2270.60	6507_8-1	77.90	Sandstone	 	 	100.00	0.00	0.00	vf	clay	Fluvial_channels_?	
+2270.70	6507_8-1	79.27	Sandstone	 	 	100.00	0.00	0.00	vf	clay		
+2270.80	6507_8-1	88.81	Sandstone	 	 	100.00	0.00	0.00	vf	clay		
+2270.90	6507_8-1	110.59	Sandstone	 	 	100.00	0.00	0.00	vf	clay		
+2271.00	6507_8-1	113.72	Sandstone	 	 	100.00	0.00	0.00	vf	clay		
+2271.10	6507_8-1	113.63	Sandstone	 	 	100.00	0.00	0.00	vf	clay		
+2271.20	6507_8-1	112.51	Sandstone	 	 	100.00	0.00	0.00	vf	clay		
+2271.30	6507_8-1	111.26	Sandstone	 	 	100.00	0.00	0.00	vf	clay		
+2271.40	6507_8-1	107.80	Sandstone	 	 	100.00	0.00	0.00	vf	clay		
+2271.50	6507_8-1	104.35	 	 								
+2271.60	6507_8-1	100.89	 	 								
+2271.70	6507_8-1	97.44	 	 								
+2271.80	6507_8-1	93.98	 	 								
+2271.90	6507_8-1	90.52	 	 								
+2272.00	6507_8-1	87.07	 	 								
+2272.10	6507_8-1	83.61	 	 								
+2272.20	6507_8-1	80.16	 	 								
+2272.30	6507_8-1	76.70	 	 								
+2272.40	6507_8-1	73.25	 	 								
+2272.50	6507_8-1	71.74	 	 								
+2272.60	6507_8-1	71.48	 	 								
+2272.70	6507_8-1	71.22	 	 								
+2272.80	6507_8-1	74.24	 	 								
+2272.90	6507_8-1	77.38	 	 								
+2273.00	6507_8-1	80.51	 	 								
+2273.10	6507_8-1	83.64	 	 								
+2273.20	6507_8-1	86.11	 	 								
+2273.30	6507_8-1	88.07	 	 								
+2273.40	6507_8-1	90.03	 	 								
+2273.50	6507_8-1	89.95	 	 								
+2273.60	6507_8-1	88.68	 	 								
+2273.70	6507_8-1	86.69	 	 								
+2273.80	6507_8-1	82.89	 	 								
+2273.90	6507_8-1	79.09	 	 								
+2274.00	6507_8-1	75.29	 	 								
+2274.10	6507_8-1	71.49	 	 								
+2274.20	6507_8-1	67.69	 	 								
+2274.30	6507_8-1	63.20	 	 								
+2274.40	6507_8-1	62.24	 	 								
+2274.50	6507_8-1	62.24	 	 								
+2274.60	6507_8-1	62.24	 	 								
+2274.70	6507_8-1	62.75	 	 								
+2274.80	6507_8-1	63.62	 	 								
+2274.90	6507_8-1	64.48	 	 								
+2275.00	6507_8-1	64.31	 	 								
+2275.10	6507_8-1	63.61	 	 								
+2275.20	6507_8-1	62.90	 	 								
+2275.30	6507_8-1	62.20	 	 								
+2275.40	6507_8-1	61.50	 	 								
+2275.50	6507_8-1	60.90	 	 								
+2275.60	6507_8-1	61.41	 	 								
+2275.70	6507_8-1	61.92	 	 								
+2275.80	6507_8-1	62.42	 	 								
+2275.90	6507_8-1	62.93	 	 								
+2276.00	6507_8-1	63.44	 	 								
+2276.10	6507_8-1	63.95	 	 								
+2276.20	6507_8-1	64.45	 	 								
+2276.30	6507_8-1	64.96	 	 								
+2276.40	6507_8-1	65.47	 	 								
+2276.50	6507_8-1	65.91	 	 								
+2276.60	6507_8-1	65.85	 	 								
+2276.70	6507_8-1	65.78	 	 								
+2276.80	6507_8-1	65.72	 	 								
+2276.90	6507_8-1	65.65	 	 								
+2277.00	6507_8-1	65.59	 	 								
+2277.10	6507_8-1	65.52	 	 								
+2277.20	6507_8-1	65.54	 	 								
+2277.30	6507_8-1	66.79	 	 								
+2277.40	6507_8-1	68.05	 	 								
+2277.50	6507_8-1	69.25	 	 								
+2277.60	6507_8-1	70.12	 	 								
+2277.70	6507_8-1	70.98	 	 								
+2277.80	6507_8-1	71.85	 	 								
+2277.90	6507_8-1	72.71	 	 								
+2278.00	6507_8-1	73.58	 	 								
+2278.10	6507_8-1	74.08	 	 								
+2278.20	6507_8-1	74.29	 	 								
+2278.30	6507_8-1	74.49	 	 								
+2278.40	6507_8-1	74.70	 	 								
+2278.50	6507_8-1	74.91	 	 								
+2278.60	6507_8-1	75.11	 	 								
+2278.70	6507_8-1	75.98	 	 								
+2278.80	6507_8-1	76.87	 	 								
+2278.90	6507_8-1	77.76	 	 								
+2279.00	6507_8-1	78.65	 	 								
+2279.10	6507_8-1	79.82	 	 								
+2279.20	6507_8-1	81.22	 	 								
+2279.30	6507_8-1	82.61	 	 								
+2279.40	6507_8-1	82.94	 	 								
+2279.50	6507_8-1	83.18	 	 								
+2279.60	6507_8-1	83.43	 	 								
+2279.70	6507_8-1	83.68	 	 								
+2279.80	6507_8-1	83.93	 	 								
+2279.90	6507_8-1	84.14	 	 								
+2280.00	6507_8-1	84.30	 	 								
+2280.10	6507_8-1	84.45	 	 								
+2280.20	6507_8-1	83.92	 	 								
+2280.30	6507_8-1	82.43	 	 								
+2280.40	6507_8-1	80.94	 	 								
+2280.50	6507_8-1	79.44	 	 								
+2280.60	6507_8-1	77.95	 	 								
+2280.70	6507_8-1	76.46	 	 								
+2280.80	6507_8-1	75.35	 	 								
+2280.90	6507_8-1	75.35	 	 								
+2281.00	6507_8-1	76.52	 	 								
+2281.10	6507_8-1	78.01	 	 								
+2281.20	6507_8-1	79.50	 	 								
+2281.30	6507_8-1	81.93	 	 								
+2281.40	6507_8-1	82.20	 	 								
+2281.50	6507_8-1	82.07	 	 								
+2281.60	6507_8-1	81.94	 	 								
+2281.70	6507_8-1	81.80	 	 								
+2281.80	6507_8-1	81.79	 	 								
+2281.90	6507_8-1	81.79	 	 								
+2282.00	6507_8-1	82.59	 	 								
+2282.10	6507_8-1	84.16	 	 								
+2282.20	6507_8-1	85.73	 	 								
+2282.30	6507_8-1	87.29	 	 								
+2282.40	6507_8-1	88.86	 	 								
+2282.50	6507_8-1	90.43	 	 								
+2282.60	6507_8-1	92.31	 	 								
+2282.70	6507_8-1	94.77	 	 								
+2282.80	6507_8-1	97.24	 	 								
+2282.90	6507_8-1	99.70	 	 								
+2283.00	6507_8-1	102.16	 	 								
+2283.10	6507_8-1	104.62	 	 								
+2283.20	6507_8-1	106.06	 	 								
+2283.30	6507_8-1	103.07	 	 								
+2283.40	6507_8-1	100.08	 	 								
+2283.50	6507_8-1	97.08	 	 								
+2283.60	6507_8-1	91.92	 	 								
+2283.70	6507_8-1	86.65	 	 								
+2283.80	6507_8-1	84.12	 	 								
+2283.90	6507_8-1	81.88	 	 								
+2284.00	6507_8-1	79.63	 	 								
+2284.10	6507_8-1	77.38	 	 								
+2284.20	6507_8-1	75.78	 	 								
+2284.30	6507_8-1	74.80	 	 								
+2284.40	6507_8-1	74.18	 	 								
+2284.50	6507_8-1	75.55	 	 								
+2284.60	6507_8-1	76.92	 	 								
+2284.70	6507_8-1	78.29	 	 								
+2284.80	6507_8-1	79.66	 	 								
+2284.90	6507_8-1	81.04	 	 								
+2285.00	6507_8-1	82.41	 	 								
+2285.10	6507_8-1	83.49	 	 								
+2285.20	6507_8-1	82.25	 	 								
+2285.30	6507_8-1	81.02	 	 								
+2285.40	6507_8-1	79.78	 	 								
+2285.50	6507_8-1	78.54	 	 								
+2285.60	6507_8-1	77.30	 	 								
+2285.70	6507_8-1	76.40	 	 								
+2285.80	6507_8-1	75.79	 	 								
+2285.90	6507_8-1	75.18	 	 								
+2286.00	6507_8-1	78.12	 	 								
+2286.10	6507_8-1	81.49	 	 								
+2286.20	6507_8-1	84.85	 	 								
+2286.30	6507_8-1	88.21	 	 								
+2286.40	6507_8-1	91.58	 	 								
+2286.50	6507_8-1	92.51	 	 								
+2286.60	6507_8-1	93.18	 	 								
+2286.70	6507_8-1	92.90	 	 								
+2286.80	6507_8-1	92.45	 	 								
+2286.90	6507_8-1	91.99	 	 								
+2287.00	6507_8-1	91.54	 	 								
+2287.10	6507_8-1	91.09	 	 								
+2287.20	6507_8-1	91.11	 	 								
+2287.30	6507_8-1	92.40	 	 								
+2287.40	6507_8-1	93.69	 	 								
+2287.50	6507_8-1	94.98	 	 								
+2287.60	6507_8-1	96.28	 	 								
+2287.70	6507_8-1	97.57	 	 								
+2287.80	6507_8-1	98.82	 	 								
+2287.90	6507_8-1	99.56	 	 								
+2288.00	6507_8-1	98.86	 	 								
+2288.10	6507_8-1	98.15	 	 								
+2288.20	6507_8-1	96.14	 	 								
+2288.30	6507_8-1	90.97	 	 								
+2288.40	6507_8-1	89.71	 	 								
+2288.50	6507_8-1	89.28	 	 								
+2288.60	6507_8-1	88.86	 	 								
+2288.70	6507_8-1	90.09	 	 								
+2288.80	6507_8-1	92.08	 	 								
+2288.90	6507_8-1	91.69	 	 								
+2289.00	6507_8-1	91.30	 	 								
+2289.10	6507_8-1	91.04	 	 								
+2289.20	6507_8-1	90.82	 	 								
+2289.30	6507_8-1	90.96	 	 								
+2289.40	6507_8-1	91.24	 	 								
+2289.50	6507_8-1	91.52	 	 								
+2289.60	6507_8-1	91.80	 	 								
+2289.70	6507_8-1	90.67	 	 								
+2289.80	6507_8-1	88.67	 	 								
+2289.90	6507_8-1	86.67	 	 								
+2290.00	6507_8-1	84.68	 	 								
+2290.10	6507_8-1	82.68	Sandstone	 	 	100.00	0.00	0.00	f	f		
+2290.20	6507_8-1	80.68	Sandstone	 	 	100.00	0.00	0.00	f	f		
+2290.30	6507_8-1	81.39	Sandstone	 	 	100.00	0.00	0.00	f	f		
+2290.40	6507_8-1	83.01	Sandstone	 	 	100.00	0.00	0.00	f	f		
+2290.50	6507_8-1	84.63	Sandstone	 	 	100.00	0.00	0.00	f	f		
+2290.60	6507_8-1	86.25	Sandstone	 	 	100.00	0.00	0.00	f	f		
+2290.70	6507_8-1	88.27	Sandstone	 	 	100.00	0.00	0.00	f	f		
+2290.80	6507_8-1	91.07	Sandstone	 	 	100.00	0.00	0.00	f	f		
+2290.90	6507_8-1	93.86	Sandstone	 	 	100.00	0.00	0.00	f	f		
+2291.00	6507_8-1	96.65	Sandstone	 	 	100.00	0.00	0.00	f	f		
+2291.10	6507_8-1	99.45	Sandstone	 	 	100.00	0.00	0.00	f	f		
+2291.20	6507_8-1	102.24	Sandstone	 	 	100.00	0.00	0.00	f	f		
+2291.30	6507_8-1	105.04	Sandstone	 	 	100.00	0.00	0.00	f	f		
+2291.40	6507_8-1	107.83	Sandstone	 	 	100.00	0.00	0.00	f	f		
+2291.50	6507_8-1	110.63	Sandstone	 	 	100.00	0.00	0.00	f	f		
+2291.60	6507_8-1	112.95	 							 		
+2291.70	6507_8-1	114.86	 							 		
+2291.80	6507_8-1	116.78	 							 		
+2291.90	6507_8-1	118.69	 							 		
+2292.00	6507_8-1	120.61	Sandstone	 	 	100.00	0.00	0.00	vf/f	f		
+2292.10	6507_8-1	122.96	Sandstone	 	 	100.00	0.00	0.00	vf/f	f		
+2292.20	6507_8-1	126.58	Sandstone	 	 	100.00	0.00	0.00	vf/f	f		
+2292.30	6507_8-1	130.21	Sandstone	 	 	100.00	0.00	0.00	vf/f	f		
+2292.40	6507_8-1	134.46	Sandstone	 	 	100.00	0.00	0.00	vf/f	f		
+2292.50	6507_8-1	138.76	Sandstone	 	 	100.00	0.00	0.00	vf/f	f		
+2292.60	6507_8-1	137.82	Sandstone	 	 	100.00	0.00	0.00	vf/f	f		
+2292.70	6507_8-1	132.77	Sandstone	 	 	100.00	0.00	0.00	vf/f	f		
+2292.80	6507_8-1	127.72	Sandstone	 	 	100.00	0.00	0.00	vf/f	f		
+2292.90	6507_8-1	124.29	Sandstone	 	 	100.00	0.00	0.00	vf/f	f		
+2293.00	6507_8-1	123.52	Sandstone	 	 	100.00	0.00	0.00	vf/f	f		
+2293.10	6507_8-1	125.80	Sandstone	 	 	100.00	0.00	0.00	vf/f	f		
+2293.20	6507_8-1	128.08	Sandstone	 	 	100.00	0.00	0.00	vf/f	f		
+2293.30	6507_8-1	134.13	Sandstone	 	 	100.00	0.00	0.00	vf/f	f		
+2293.40	6507_8-1	138.05	Sandstone	 	 	100.00	0.00	0.00	vf/f	f		
+2293.50	6507_8-1	142.63	 									
+2293.60	6507_8-1	144.83	 									
+2293.70	6507_8-1	143.49	 									
+2293.80	6507_8-1	142.14	 									
+2293.90	6507_8-1	140.79	Sandstone	 	 	100.00	0.00	0.00	f	vf/f		
+2294.00	6507_8-1	139.44	Sandstone	 	 	100.00	0.00	0.00	f	vf/f		
+2294.10	6507_8-1	138.10	Sandstone	 	 	100.00	0.00	0.00	f	vf/f		
+2294.20	6507_8-1	136.75	Sandstone	 	 	100.00	0.00	0.00	f	vf/f		
+2294.30	6507_8-1	135.40	Sandstone	 	 	100.00	0.00	0.00	f	vf/f		
+2294.40	6507_8-1	135.21	Sandstone	 	 	100.00	0.00	0.00	f	vf/f		
+2294.50	6507_8-1	135.48	Sandstone	 	 	100.00	0.00	0.00	f	vf/f		
+2294.60	6507_8-1	137.44	Sandstone	 	 	100.00	0.00	0.00	f	vf/f		
+2294.70	6507_8-1	139.40	Sandstone	 	 	100.00	0.00	0.00	f	vf/f		
+2294.80	6507_8-1	140.49	Sandstone	 	 	100.00	0.00	0.00	f	vf/f		
+2294.90	6507_8-1	139.07	Sandstone	 	 	100.00	0.00	0.00	f	vf/f		
+2295.00	6507_8-1	137.65	Sandstone	 	 	100.00	0.00	0.00	f	vf/f		
+2295.10	6507_8-1	136.23	Sandstone	 	 	100.00	0.00	0.00	f	vf/f		
+2295.20	6507_8-1	134.81	Sandstone	 	 	100.00	0.00	0.00	f	vf/f		
+2295.30	6507_8-1	134.28	Sandstone	 	 	100.00	0.00	0.00	f	vf/f		
+2295.40	6507_8-1	134.46										
+2295.50	6507_8-1	134.63										
+2295.60	6507_8-1	136.87										
+2295.70	6507_8-1	139.30										
+2295.80	6507_8-1	141.73	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Upper/lower_shoreface	
+2295.90	6507_8-1	144.16	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Upper/lower_shoreface	
+2296.00	6507_8-1	146.58	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Upper/lower_shoreface	
+2296.10	6507_8-1	149.01	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Upper/lower_shoreface	
+2296.20	6507_8-1	151.44	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Upper/lower_shoreface	
+2296.30	6507_8-1	153.86	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Upper/lower_shoreface	
+2296.40	6507_8-1	156.29	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Upper/lower_shoreface	
+2296.50	6507_8-1	158.72	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Upper/lower_shoreface	
+2296.60	6507_8-1	161.15	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Upper/lower_shoreface	
+2296.70	6507_8-1	163.57	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Upper/lower_shoreface	
+2296.80	6507_8-1	166.00	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Upper/lower_shoreface	
+2296.90	6507_8-1	168.43	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Upper/lower_shoreface	
+2297.00	6507_8-1	170.86	Sandstone	 	 	100.00	0.00	0.00	vf/f	f	Upper/lower_shoreface	
+2297.10	6507_8-1	173.36	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2297.20	6507_8-1	174.85	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2297.30	6507_8-1	174.96	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2297.40	6507_8-1	174.46	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2297.50	6507_8-1	173.96	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2297.60	6507_8-1	173.45	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2297.70	6507_8-1	174.21	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2297.80	6507_8-1	180.04	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2297.90	6507_8-1	185.87	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2298.00	6507_8-1	191.37	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2298.10	6507_8-1	196.59	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2298.20	6507_8-1	201.81	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2298.30	6507_8-1	201.84	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2298.40	6507_8-1	201.39	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2298.50	6507_8-1	193.27	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2298.60	6507_8-1	183.91	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2298.70	6507_8-1	174.55	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2298.80	6507_8-1	165.19	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2298.90	6507_8-1	155.83	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2299.00	6507_8-1	147.42	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2299.10	6507_8-1	143.53	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2299.20	6507_8-1	142.74	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2299.30	6507_8-1	141.96	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2299.40	6507_8-1	142.22	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2299.50	6507_8-1	142.81	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2299.60	6507_8-1	143.40	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2299.70	6507_8-1	143.99	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2299.80	6507_8-1	144.29	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2299.90	6507_8-1	140.68	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2300.00	6507_8-1	137.06	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2300.10	6507_8-1	133.45	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2300.20	6507_8-1	130.75	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2300.30	6507_8-1	130.80	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2300.40	6507_8-1	130.85	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2300.50	6507_8-1	130.91	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2300.60	6507_8-1	130.96	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2300.70	6507_8-1	134.01	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2300.80	6507_8-1	137.59	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f	Upper/lower_shoreface	
+2300.90	6507_8-1	140.66	Sandstone	 	 	100.00	0.00	0.00	vf/f	silt/vf	Upper/lower_shoreface	
+2301.00	6507_8-1	143.60	Sandstone	 	 	100.00	0.00	0.00	vf/f	silt/vf	Upper/lower_shoreface	
+2301.10	6507_8-1	145.54	Sandstone	 	 	100.00	0.00	0.00	vf/f	silt/vf	Upper/lower_shoreface	
+2301.20	6507_8-1	146.24	Sandstone	 	 	100.00	0.00	0.00	vf/f	silt/vf	Upper/lower_shoreface	
+2301.30	6507_8-1	146.95	Sandstone	 	 	100.00	0.00	0.00	vf/f	silt/vf	Upper/lower_shoreface	
+2301.40	6507_8-1	148.63	Sandstone	 	 	100.00	0.00	0.00	vf/f	silt/vf	Upper/lower_shoreface	
+2301.50	6507_8-1	151.24	Sandstone	 	 	100.00	0.00	0.00	vf/f	silt/vf	Upper/lower_shoreface	
+2301.60	6507_8-1	153.85	Sandstone	 	 	100.00	0.00	0.00	vf/f	silt/vf	Upper/lower_shoreface	
+2301.70	6507_8-1	156.46	Sandstone	 	 	100.00	0.00	0.00	vf/f	silt/vf	Upper/lower_shoreface	
+2301.80	6507_8-1	159.07	Sandstone	 	 	100.00	0.00	0.00	vf/f	silt/vf	Upper/lower_shoreface	
+2301.90	6507_8-1	162.04	Sandstone	 	 	100.00	0.00	0.00	vf/f	silt/vf	Upper/lower_shoreface	
+2302.00	6507_8-1	166.39	Sandstone	 	 	100.00	0.00	0.00	vf/f	silt/vf	Upper/lower_shoreface	
+2302.10	6507_8-1	162.39	Sandstone	 	 	100.00	0.00	0.00	vf/f	silt/vf	Upper/lower_shoreface	
+2302.20	6507_8-1	158.39	Sandstone	 	 	100.00	0.00	0.00	vf/f	silt/vf	Upper/lower_shoreface	
+2302.30	6507_8-1	154.39	Sandstone	 	 	100.00	0.00	0.00	vf/f	silt/vf	Upper/lower_shoreface	
+2302.40	6507_8-1	150.39	Sandstone	 	 	100.00	0.00	0.00	vf/f	silt/vf	Upper/lower_shoreface	
+2302.50	6507_8-1	146.39	Sandstone	 	 	100.00	0.00	0.00	vf/f	silt/vf	Upper/lower_shoreface	
+2302.60	6507_8-1	142.58	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper/lower_shoreface	
+2302.70	6507_8-1	138.96	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper/lower_shoreface	
+2302.80	6507_8-1	135.35	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper/lower_shoreface	
+2302.90	6507_8-1	131.73	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper/lower_shoreface	
+2303.00	6507_8-1	124.32	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper/lower_shoreface	
+2303.10	6507_8-1	121.11	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper/lower_shoreface	
+2303.20	6507_8-1	117.91	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper/lower_shoreface	
+2303.30	6507_8-1	114.70	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper/lower_shoreface	
+2303.40	6507_8-1	114.65	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Upper/lower_shoreface	
+2303.50	6507_8-1	115.54	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Upper/lower_shoreface	
+2303.60	6507_8-1	116.43	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Upper/lower_shoreface	
+2303.70	6507_8-1	115.65	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Upper/lower_shoreface	
+2303.80	6507_8-1	113.74	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Upper/lower_shoreface	
+2303.90	6507_8-1	110.60	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Upper/lower_shoreface	
+2304.00	6507_8-1	107.47	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Upper/lower_shoreface	
+2304.10	6507_8-1	105.01	Sandstone	Limestone	 	55.00	45.00	0.00	f/m	vf/f	Upper/lower_shoreface	
+2304.20	6507_8-1	105.01	Sandstone	Limestone	 	55.00	45.00	0.00	f/m	vf/f	Upper/lower_shoreface	
+2304.30	6507_8-1	106.03	Sandstone	Limestone	 	55.00	45.00	0.00	f/m	vf/f	Upper/lower_shoreface	
+2304.40	6507_8-1	108.26	Sandstone	Limestone	 	55.00	45.00	0.00	f/m	vf/f	Upper/lower_shoreface	
+2304.50	6507_8-1	110.49	Sandstone	Limestone	 	55.00	45.00	0.00	f/m	vf/f	Upper/lower_shoreface	
+2304.60	6507_8-1	112.72	Sandstone	Limestone	 	55.00	45.00	0.00	f/m	vf/f	Upper/lower_shoreface	
+2304.70	6507_8-1	110.42	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	?Tidal_sandwave	
+2304.80	6507_8-1	105.56	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	?Tidal_sandwave	
+2304.90	6507_8-1	100.70	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	?Tidal_sandwave	
+2305.00	6507_8-1	95.84	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	?Tidal_sandwave	
+2305.10	6507_8-1	90.99	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	?Tidal_sandwave	
+2305.20	6507_8-1	86.13	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	?Tidal_sandwave	
+2305.30	6507_8-1	83.20	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	?Tidal_sandwave	
+2305.40	6507_8-1	80.88	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	?Tidal_sandwave	
+2305.50	6507_8-1	82.45	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	?Tidal_sandwave	
+2305.60	6507_8-1	84.01	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	?Tidal_sandwave	
+2305.70	6507_8-1	85.58	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	?Tidal_sandwave	
+2305.80	6507_8-1	87.15	Sandstone	 	 	100.00	0.00	0.00	m/c	vf	?Tidal_sandwave	
+2305.90	6507_8-1	88.31	Sandstone	 	 	100.00	0.00	0.00	m/c	vf	?Tidal_sandwave	
+2306.00	6507_8-1	88.57	Sandstone	 	 	100.00	0.00	0.00	m/c	vf	?Tidal_sandwave	
+2306.10	6507_8-1	87.55	Sandstone	 	 	100.00	0.00	0.00	m/c	vf	?Tidal_sandwave	
+2306.20	6507_8-1	85.48	Sandstone	 	 	100.00	0.00	0.00	m/c	vf	?Tidal_sandwave	
+2306.30	6507_8-1	83.42	Sandstone	 	 	100.00	0.00	0.00	m/c	vf	?Tidal_sandwave	
+2306.40	6507_8-1	81.76	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	?Tidal_sandwave	
+2306.50	6507_8-1	80.98	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	?Tidal_sandwave	
+2306.60	6507_8-1	80.20	Sandstone	 	 	100.00	0.00	0.00	vf/f	m/c	?Tidal_sandwave	
+2306.70	6507_8-1	80.14	Sandstone	 	 	100.00	0.00	0.00	vf/f	m/c	?Tidal_sandwave	
+2306.80	6507_8-1	79.75	Sandstone	 	 	100.00	0.00	0.00	vf/f	m/c	?Tidal_sandwave	
+2306.90	6507_8-1	81.75	Sandstone	 	 	100.00	0.00	0.00	vf/f	m/c	?Tidal_sandwave	
+2307.00	6507_8-1	83.96	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	?Tidal_sandwave	
+2307.10	6507_8-1	86.16	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	?Tidal_sandwave	
+2307.20	6507_8-1	86.71	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	?Tidal_sandwave	
+2307.30	6507_8-1	85.40	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	?Tidal_sandwave	
+2307.40	6507_8-1	84.10	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	?Tidal_sandwave	
+2307.50	6507_8-1	82.79	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	?Tidal_sandwave	
+2307.60	6507_8-1	82.77	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	?Tidal_sandwave	
+2307.70	6507_8-1	83.66	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	?Tidal_sandwave	
+2307.80	6507_8-1	87.40	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	?Tidal_sandwave	
+2307.90	6507_8-1	93.66	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	?Tidal_sandwave	
+2308.00	6507_8-1	99.93	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	?Tidal_sandwave	
+2308.10	6507_8-1	103.91	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	?Tidal_sandwave	
+2308.20	6507_8-1	102.54	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	?Tidal_sandwave	
+2308.30	6507_8-1	101.17	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	?Tidal_sandwave	
+2308.40	6507_8-1	99.80	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	?Tidal_sandwave	
+2308.50	6507_8-1	98.43	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	?Tidal_sandwave	
+2308.60	6507_8-1	97.06	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	?Tidal_sandwave	
+2308.70	6507_8-1	95.30	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	?Tidal_sandwave	
+2308.80	6507_8-1	93.02	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	?Tidal_sandwave	
+2308.90	6507_8-1	90.74	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	?Tidal_sandwave	
+2309.00	6507_8-1	88.92	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	?Tidal_sandwave	
+2309.10	6507_8-1	88.92	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	?Tidal_sandwave	
+2309.20	6507_8-1	88.92	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper_and_lower_shoreface	
+2309.30	6507_8-1	89.81	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper_and_lower_shoreface	
+2309.40	6507_8-1	90.85	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper_and_lower_shoreface	
+2309.50	6507_8-1	91.90	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper_and_lower_shoreface	
+2309.60	6507_8-1	98.73	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper_and_lower_shoreface	
+2309.70	6507_8-1	114.59	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper_and_lower_shoreface	
+2309.80	6507_8-1	117.01	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper_and_lower_shoreface	
+2309.90	6507_8-1	119.43	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper_and_lower_shoreface	
+2310.00	6507_8-1	121.85	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper_and_lower_shoreface	
+2310.10	6507_8-1	122.57	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper_and_lower_shoreface	
+2310.20	6507_8-1	119.76	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper_and_lower_shoreface	
+2310.30	6507_8-1	115.85	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper_and_lower_shoreface	
+2310.40	6507_8-1	111.29	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper_and_lower_shoreface	
+2310.50	6507_8-1	105.81	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper_and_lower_shoreface	
+2310.60	6507_8-1	100.66	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper_and_lower_shoreface	
+2310.70	6507_8-1	98.58	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper_and_lower_shoreface	
+2310.80	6507_8-1	97.38	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper_and_lower_shoreface	
+2310.90	6507_8-1	96.19	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper_and_lower_shoreface	
+2311.00	6507_8-1	94.99	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper_and_lower_shoreface	
+2311.10	6507_8-1	93.80	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper_and_lower_shoreface	
+2311.20	6507_8-1	92.63	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper_and_lower_shoreface	
+2311.30	6507_8-1	91.58	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper_and_lower_shoreface	
+2311.40	6507_8-1	90.54	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper_and_lower_shoreface	
+2311.50	6507_8-1	89.49	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper_and_lower_shoreface	
+2311.60	6507_8-1	88.45	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper_and_lower_shoreface	
+2311.70	6507_8-1	87.40	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper_and_lower_shoreface	
+2311.80	6507_8-1	86.43	Sandstone	 	 	100.00	0.00	0.00	f/m	vf/f	Upper_and_lower_shoreface	
+2311.90	6507_8-1	88.39	Sandstone	 	 	100.00	0.00	0.00	vc/granule	granule	Upper_and_lower_shoreface	
+2312.00	6507_8-1	90.35	Sandstone	 	 	100.00	0.00	0.00	vc/granule	granule	Upper_and_lower_shoreface	
+2312.10	6507_8-1	92.31	Sandstone	 	 	100.00	0.00	0.00	vc/granule	granule	Upper_and_lower_shoreface	
+2312.20	6507_8-1	94.27	Sandstone	 	 	100.00	0.00	0.00	vc/granule	granule	Upper_and_lower_shoreface	
+2312.30	6507_8-1	96.23	Sandstone	 	 	100.00	0.00	0.00	vc/granule	granule	Upper_and_lower_shoreface	
+2312.40	6507_8-1	98.19	Sandstone	 	 	100.00	0.00	0.00	vc/granule	granule	Upper_and_lower_shoreface	
+2312.50	6507_8-1	100.15	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Upper_and_lower_shoreface	
+2312.60	6507_8-1	101.26	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Upper_and_lower_shoreface	
+2312.70	6507_8-1	102.36	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Upper_and_lower_shoreface	
+2312.80	6507_8-1	103.35	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Upper_and_lower_shoreface	
+2312.90	6507_8-1	102.17	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Upper_and_lower_shoreface	
+2313.00	6507_8-1	101.00	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Upper_and_lower_shoreface	
+2313.10	6507_8-1	99.33	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Upper_and_lower_shoreface	
+2313.20	6507_8-1	97.45	 	 	 	100.00	0.00	0.00	 	 	Upper_and_lower_shoreface	
+2313.30	6507_8-1	95.57	 	 	 	100.00	0.00	0.00	 	 	Upper_and_lower_shoreface	
+2313.40	6507_8-1	93.69	 	 	 	100.00	0.00	0.00	 	 	Upper_and_lower_shoreface	
+2313.50	6507_8-1	91.81	 	 	 	100.00	0.00	0.00	 	 	Upper_and_lower_shoreface	
+2313.60	6507_8-1	89.93	Matrix-supported conglomerate	 	 	100.00	0.00	0.00	c/vc	m/c	Upper_and_lower_shoreface	
+2313.70	6507_8-1	89.14	Matrix-supported conglomerate	 	 	100.00	0.00	0.00	c/vc	m/c	Upper_and_lower_shoreface	
+2313.80	6507_8-1	88.58	Matrix-supported conglomerate	 	 	100.00	0.00	0.00	c/vc	m/c	Upper_and_lower_shoreface	
+2313.90	6507_8-1	89.18	Matrix-supported conglomerate	 	 	100.00	0.00	0.00	c/vc	m/c	Upper_and_lower_shoreface	
+2314.00	6507_8-1	90.12	Sandstone	Limestone	 	90.00	10.00	0.00	f	f	Upper_and_lower_shoreface	
+2314.10	6507_8-1	91.06	Sandstone	Limestone	 	90.00	10.00	0.00	f	f	Upper_and_lower_shoreface	
+2314.20	6507_8-1	92.00	Sandstone	Limestone	 	90.00	10.00	0.00	f	f	Upper_and_lower_shoreface	
+2314.30	6507_8-1	92.01	Sandstone	Limestone	 	90.00	10.00	0.00	f	f	Upper_and_lower_shoreface	
+2314.40	6507_8-1	90.45	Sandstone	Limestone	 	90.00	10.00	0.00	f	f	Upper_and_lower_shoreface	
+2314.50	6507_8-1	88.88	Sandstone	Limestone	 	90.00	10.00	0.00	f	f	Upper_and_lower_shoreface	
+2314.60	6507_8-1	87.31	Sandstone	Limestone	 	90.00	10.00	0.00	f	f	Upper_and_lower_shoreface	
+2314.70	6507_8-1	85.75	Sandstone	Limestone	 	90.00	10.00	0.00	f	f	Upper_and_lower_shoreface	
+2314.80	6507_8-1	84.36	Sandstone	Limestone	 	90.00	10.00	0.00	f	f	Upper_and_lower_shoreface	
+2314.90	6507_8-1	84.90	Sandstone	Limestone	 	90.00	10.00	0.00	f	f	Upper_and_lower_shoreface	
+2315.00	6507_8-1	85.44	Sandstone	Limestone	 	90.00	10.00	0.00	f	f	Upper_and_lower_shoreface	
+2315.10	6507_8-1	85.98	 							 	Upper_and_lower_shoreface	
+2315.20	6507_8-1	86.52	 							 	Upper_and_lower_shoreface	
+2315.30	6507_8-1	86.49	 							 	Upper_and_lower_shoreface	
+2315.40	6507_8-1	85.60	 							 	Upper_and_lower_shoreface	
+2315.50	6507_8-1	84.70	 							 	Upper_and_lower_shoreface	
+2315.60	6507_8-1	83.81	 							 	Upper_and_lower_shoreface	
+2315.70	6507_8-1	82.91	 							 	Upper_and_lower_shoreface	
+2315.80	6507_8-1	82.02	 							 	Upper_and_lower_shoreface	
+2315.90	6507_8-1	81.07	 							 	Upper_and_lower_shoreface	
+2316.00	6507_8-1	79.97	 							 	Upper_and_lower_shoreface	
+2316.10	6507_8-1	78.87	Sandstone	Limestone	 	80.00	20.00	0.00	m/c	vf/f	Upper_and_lower_shoreface	
+2316.20	6507_8-1	77.76	Sandstone	Limestone	 	80.00	20.00	0.00	m/c	vf/f	Upper_and_lower_shoreface	
+2316.30	6507_8-1	76.66	Sandstone	Limestone	 	80.00	20.00	0.00	m/c	vf/f	Upper_and_lower_shoreface	
+2316.40	6507_8-1	75.55	Sandstone	Limestone	 	80.00	20.00	0.00	m/c	vf/f	Upper_and_lower_shoreface	
+2316.50	6507_8-1	74.45	Sandstone	Limestone	 	80.00	20.00	0.00	m/c	vf/f	Upper_and_lower_shoreface	
+2316.60	6507_8-1	75.51	Sandstone	Limestone	 	80.00	20.00	0.00	m/c	vf/f	Upper_and_lower_shoreface	
+2316.70	6507_8-1	77.20	Sandstone	Limestone	 	80.00	20.00	0.00	m/c	vf/f	Upper_and_lower_shoreface	
+2316.80	6507_8-1	78.24	Sandstone	Limestone	 	80.00	20.00	0.00	m/c	vf/f	Upper_and_lower_shoreface	
+2316.90	6507_8-1	78.98	Sandstone	Limestone	 	80.00	20.00	0.00	m/c	vf/f	Upper_and_lower_shoreface	
+2317.00	6507_8-1	78.78	Sandstone	Limestone	 	80.00	20.00	0.00	m/c	vf/f	Upper_and_lower_shoreface	
+2317.10	6507_8-1	78.59	Sandstone	Limestone	 	80.00	20.00	0.00	m/c	vf/f	Upper_and_lower_shoreface	
+2317.20	6507_8-1	78.39	Sandstone	Limestone	 	80.00	20.00	0.00	m/c	vf/f	Upper_and_lower_shoreface	
+2317.30	6507_8-1	79.14	Sandstone	Limestone	 	80.00	20.00	0.00	m/c	vf/f	Upper_and_lower_shoreface	
+2317.40	6507_8-1	80.25	Sandstone	Limestone	 	80.00	20.00	0.00	m/c	vf/f	Upper_and_lower_shoreface	
+2317.50	6507_8-1	81.36	Sandstone	Limestone	 	80.00	20.00	0.00	m/c	vf/f	Upper_and_lower_shoreface	
+2317.60	6507_8-1	85.34	Sandstone	Limestone	 	80.00	20.00	0.00	m/c	vf/f	Upper_and_lower_shoreface	
+2317.70	6507_8-1	100.44	Sandstone	Limestone	 	80.00	20.00	0.00	m/c	vf/f	Paleosol	
+2317.80	6507_8-1	115.54	Sandstone	 	 	100.00	0.00	0.00	c/vc	vf/f	Paleosol	
+2317.90	6507_8-1	130.64	Sandstone	 	 	100.00	0.00	0.00	c/vc	vf/f	Paleosol	
+2318.00	6507_8-1	130.64	Sandstone	 	 	100.00	0.00	0.00	c/vc	vf/f	Paleosol	
+2318.10	6507_8-1	130.64	Sandstone	 	 	100.00	0.00	0.00	c/vc	vf/f	Paleosol	
+2318.20	6507_8-1	130.64	Sandstone	 	 	100.00	0.00	0.00	c/vc	vf/f	Paleosol	
+2318.30	6507_8-1	130.64	Sandstone	 	 	100.00	0.00	0.00	c/vc	vf/f	Paleosol	
+2318.40	6507_8-1	130.64	Sandstone	 	 	100.00	0.00	0.00	c/vc	vf/f	Paleosol	
+2318.50	6507_8-1	124.74	Sandstone	 	 	100.00	0.00	0.00	c/vc	vf/f	Paleosol	
+2318.60	6507_8-1	118.17	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Paleosol	
+2318.70	6507_8-1	111.59	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Paleosol	
+2318.80	6507_8-1	105.02	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Paleosol	
+2318.90	6507_8-1	98.45	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Paleosol	
+2319.00	6507_8-1	93.75	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Paleosol	
+2319.10	6507_8-1	89.83	Sandstone	Limestone	 	90.00	10.00	0.00	m	m/c	Upper_shoreface	
+2319.20	6507_8-1	85.91	Sandstone	Limestone	 	90.00	10.00	0.00	m	m/c	Upper_shoreface	
+2319.30	6507_8-1	81.99	Sandstone	Limestone	 	90.00	10.00	0.00	m	m/c	Upper_shoreface	
+2319.40	6507_8-1	80.41	Sandstone	Limestone	 	90.00	10.00	0.00	m	m/c	Upper_shoreface	
+2319.50	6507_8-1	80.41	Sandstone	Limestone	 	90.00	10.00	0.00	m	m/c	Upper_shoreface	
+2319.60	6507_8-1	80.86	Sandstone	Limestone	 	90.00	10.00	0.00	m	m/c	Upper_shoreface	
+2319.70	6507_8-1	81.41	Sandstone	Limestone	 	90.00	10.00	0.00	m	m/c	Upper_shoreface	
+2319.80	6507_8-1	81.96	Sandstone	Limestone	 	90.00	10.00	0.00	m	m/c	Upper_shoreface	
+2319.90	6507_8-1	83.84	Sandstone	Limestone	 	90.00	10.00	0.00	m	m/c	Upper_shoreface	
+2320.00	6507_8-1	85.86	Sandstone	Limestone	 	90.00	10.00	0.00	m	m/c	Upper_shoreface	
+2320.10	6507_8-1	87.88	 							 	Upper_shoreface	
+2320.20	6507_8-1	90.03	 							 	Upper_shoreface	
+2320.30	6507_8-1	92.38	 							 	Upper_shoreface	
+2320.40	6507_8-1	93.76	 							 	Upper_shoreface	
+2320.50	6507_8-1	95.04	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Upper_shoreface	
+2320.60	6507_8-1	96.32	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Upper_shoreface	
+2320.70	6507_8-1	106.37	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Upper_shoreface	
+2320.80	6507_8-1	111.07	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Upper_shoreface	
+2320.90	6507_8-1	115.78	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Upper_shoreface	
+2321.00	6507_8-1	120.48	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Upper_shoreface	
+2321.10	6507_8-1	125.18	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Upper_shoreface	
+2321.20	6507_8-1	129.88	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Upper_shoreface	
+2321.30	6507_8-1	130.74	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Upper_shoreface	
+2321.40	6507_8-1	130.71	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Upper_shoreface	
+2321.50	6507_8-1	130.69	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Upper_shoreface	
+2321.60	6507_8-1	130.66	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Upper_shoreface	
+2321.70	6507_8-1	130.63	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Upper_shoreface	
+2321.80	6507_8-1	130.60	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Upper_shoreface	
+2321.90	6507_8-1	130.57	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Upper_shoreface	
+2322.00	6507_8-1	130.54	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Upper_shoreface	
+2322.10	6507_8-1	126.05	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Upper_shoreface	
+2322.20	6507_8-1	120.98	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Upper_shoreface	
+2322.30	6507_8-1	115.91	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Upper_shoreface	
+2322.40	6507_8-1	110.85	 	 	 	100.00	0.00	0.00	 	 	Upper_shoreface	
+2322.50	6507_8-1	107.47	 	 	 	100.00	0.00	0.00	 	 	Upper_shoreface	
+2322.60	6507_8-1	105.92	 	 	 	100.00	0.00	0.00	 	 	Upper_shoreface	
+2322.70	6507_8-1	105.40	 	 	 	100.00	0.00	0.00	 	 	Upper_shoreface	
+2322.80	6507_8-1	104.88	Sandstone	 	 	100.00	0.00	0.00	m/c	m	Upper_shoreface	
+2322.90	6507_8-1	104.36	Sandstone	 	 	100.00	0.00	0.00	m/c	m	Upper_shoreface	
+2323.00	6507_8-1	103.21	Sandstone	 	 	100.00	0.00	0.00	m/c	m	Upper_shoreface	
+2323.10	6507_8-1	101.43	Sandstone	 	 	100.00	0.00	0.00	m/c	m	Upper_shoreface	
+2323.20	6507_8-1	99.64	Sandstone	 	 	100.00	0.00	0.00	m/c	m	Upper_shoreface	
+2323.30	6507_8-1	97.86	Sandstone	 	 	100.00	0.00	0.00	m/c	m	Upper_shoreface	
+2323.40	6507_8-1	96.07	Sandstone	 	 	100.00	0.00	0.00	m/c	m	Upper_shoreface	
+2323.50	6507_8-1	94.48	Sandstone	Limestone	 	30.00	70.00	0.00	silt/vf	silt/vf	Offshore_marine	
+2323.60	6507_8-1	93.60	Sandstone	Limestone	 	30.00	70.00	0.00	silt/vf	silt/vf	Offshore_marine	
+2323.70	6507_8-1	92.72	Sandstone	Limestone	 	30.00	70.00	0.00	silt/vf	silt/vf	Offshore_marine	
+2323.80	6507_8-1	92.93	Sandstone	Limestone	 	30.00	70.00	0.00	silt/vf	silt/vf	Offshore_marine	
+2323.90	6507_8-1	93.32	Sandstone	Limestone	 	30.00	70.00	0.00	silt/vf	silt/vf	Offshore_marine	
+2324.00	6507_8-1	94.98	Sandstone	Limestone	 	30.00	70.00	0.00	silt/vf	silt/vf	Offshore_marine	
+2324.10	6507_8-1	97.83	Sandstone	Limestone	 	30.00	70.00	0.00	silt/vf	silt/vf	Offshore_marine	
+2324.20	6507_8-1	100.68	Sandstone	Limestone	 	30.00	70.00	0.00	silt/vf	silt/vf	Offshore_marine	
+2324.30	6507_8-1	102.99	Sandstone	Limestone	 	30.00	70.00	0.00	silt/vf	silt/vf	Offshore_marine	
+2324.40	6507_8-1	103.96	Sandstone	Limestone	 	30.00	70.00	0.00	silt/vf	silt/vf	Offshore_marine	
+2324.50	6507_8-1	104.93	Sandstone	Limestone	 	30.00	70.00	0.00	silt/vf	silt/vf	Offshore_marine	
+2324.60	6507_8-1	105.91	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt/vf	Offshore_marine	
+2324.70	6507_8-1	106.88	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt/vf	Offshore_marine	
+2324.80	6507_8-1	107.85	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt/vf	Offshore_marine	
+2324.90	6507_8-1	108.82	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt/vf	Offshore_marine	
+2325.00	6507_8-1	109.79	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt/vf	Offshore_marine	
+2325.10	6507_8-1	111.14	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt/vf	Offshore_marine	
+2325.20	6507_8-1	109.54	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt/vf	Offshore_marine	
+2325.30	6507_8-1	107.08	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt/vf	Offshore_marine	
+2325.40	6507_8-1	106.12	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt/vf	Offshore_marine	
+2325.50	6507_8-1	105.84	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt/vf	Offshore_marine	
+2325.60	6507_8-1	105.55	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt/vf	Offshore_marine	
+2325.70	6507_8-1	105.27	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2325.80	6507_8-1	103.34	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2325.90	6507_8-1	101.23	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2326.00	6507_8-1	99.12	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2326.10	6507_8-1	97.02	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2326.20	6507_8-1	95.18	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2326.30	6507_8-1	94.33	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2326.40	6507_8-1	93.48	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2326.50	6507_8-1	92.63	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2326.60	6507_8-1	94.98	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2326.70	6507_8-1	98.79	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2326.80	6507_8-1	100.75	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2326.90	6507_8-1	101.64	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2327.00	6507_8-1	101.69	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2327.10	6507_8-1	101.11	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2327.20	6507_8-1	100.53	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2327.30	6507_8-1	99.95	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2327.40	6507_8-1	99.37	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2327.50	6507_8-1	98.79	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2327.60	6507_8-1	98.20	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2327.70	6507_8-1	97.62	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2327.80	6507_8-1	98.11	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2327.90	6507_8-1	99.15	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2328.00	6507_8-1	100.20	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2328.10	6507_8-1	101.24	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2328.20	6507_8-1	102.29	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2328.30	6507_8-1	102.62	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2328.40	6507_8-1	101.75	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2328.50	6507_8-1	100.88	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2328.60	6507_8-1	99.92	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2328.70	6507_8-1	98.92	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2328.80	6507_8-1	97.92	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2328.90	6507_8-1	97.27	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2329.00	6507_8-1	96.96	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2329.10	6507_8-1	96.61	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2329.20	6507_8-1	95.83	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2329.30	6507_8-1	95.05	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2329.40	6507_8-1	94.26	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2329.50	6507_8-1	93.20	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2329.60	6507_8-1	92.11	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2329.70	6507_8-1	91.02	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2329.80	6507_8-1	89.93	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2329.90	6507_8-1	88.85	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2330.00	6507_8-1	89.54	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2330.10	6507_8-1	90.22	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2330.20	6507_8-1	90.90	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2330.30	6507_8-1	91.51	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2330.40	6507_8-1	91.70	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2330.50	6507_8-1	91.89	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2330.60	6507_8-1	92.08	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2330.70	6507_8-1	92.26	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2330.80	6507_8-1	94.12	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2330.90	6507_8-1	95.31	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2331.00	6507_8-1	96.05	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2331.10	6507_8-1	96.78	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2331.20	6507_8-1	97.41	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2331.30	6507_8-1	98.00	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2331.40	6507_8-1	98.58	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2331.50	6507_8-1	99.18	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2331.60	6507_8-1	99.83	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2331.70	6507_8-1	100.34	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2331.80	6507_8-1	100.42	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2331.90	6507_8-1	99.11	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2332.00	6507_8-1	97.79	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2332.10	6507_8-1	96.47	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2332.20	6507_8-1	95.47	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2332.30	6507_8-1	94.59	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2332.40	6507_8-1	93.82	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2332.50	6507_8-1	93.82	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2332.60	6507_8-1	93.82	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2332.70	6507_8-1	93.50	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2332.80	6507_8-1	92.54	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2332.90	6507_8-1	91.59	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2333.00	6507_8-1	90.63	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2333.10	6507_8-1	89.68	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2333.20	6507_8-1	88.72	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2333.30	6507_8-1	87.77	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2333.40	6507_8-1	86.81	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2333.50	6507_8-1	85.85	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2333.60	6507_8-1	86.34	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2333.70	6507_8-1	87.91	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2333.80	6507_8-1	89.47	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2333.90	6507_8-1	91.04	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2334.00	6507_8-1	92.18	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2334.10	6507_8-1	92.77	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2334.20	6507_8-1	92.93	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2334.30	6507_8-1	93.10	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2334.40	6507_8-1	93.26	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2334.50	6507_8-1	93.43	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2334.60	6507_8-1	93.59	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2334.70	6507_8-1	93.75	Sandstone	Limestone	Mudstone	75.00	5.00	20.00	vf	silt/vf	Offshore_marine	
+2334.80	6507_8-1	93.92	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2334.90	6507_8-1	94.38	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2335.00	6507_8-1	94.92	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2335.10	6507_8-1	95.46	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2335.20	6507_8-1	96.01	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2335.30	6507_8-1	96.55	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2335.40	6507_8-1	97.09	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2335.50	6507_8-1	97.63	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2335.60	6507_8-1	98.09	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2335.70	6507_8-1	97.85	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2335.80	6507_8-1	97.37	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2335.90	6507_8-1	96.88	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2336.00	6507_8-1	96.39	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2336.10	6507_8-1	95.91	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2336.20	6507_8-1	97.28	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2336.30	6507_8-1	99.66	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2336.40	6507_8-1	102.04	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2336.50	6507_8-1	104.42	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2336.60	6507_8-1	106.80	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2336.70	6507_8-1	106.69	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2336.80	6507_8-1	106.37	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2336.90	6507_8-1	106.05	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2337.00	6507_8-1	105.17	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2337.10	6507_8-1	104.26	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2337.20	6507_8-1	103.36	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2337.30	6507_8-1	102.45	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2337.40	6507_8-1	102.13	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2337.50	6507_8-1	102.27	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2337.60	6507_8-1	103.28	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2337.70	6507_8-1	104.77	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2337.80	6507_8-1	106.27	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2337.90	6507_8-1	107.76	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2338.00	6507_8-1	109.51	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2338.10	6507_8-1	111.32	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2338.20	6507_8-1	113.14	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2338.30	6507_8-1	113.87	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2338.40	6507_8-1	113.31	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2338.50	6507_8-1	112.76	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2338.60	6507_8-1	111.41	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2338.70	6507_8-1	109.57	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2338.80	6507_8-1	107.73	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2338.90	6507_8-1	105.89	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2339.00	6507_8-1	104.05	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2339.10	6507_8-1	102.21	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2339.20	6507_8-1	101.35	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2339.30	6507_8-1	102.13	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2339.40	6507_8-1	102.92	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2339.50	6507_8-1	103.70	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2339.60	6507_8-1	104.48	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2339.70	6507_8-1	105.22	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2339.80	6507_8-1	105.42	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2339.90	6507_8-1	105.63	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2340.00	6507_8-1	105.84	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2340.10	6507_8-1	106.04	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2340.20	6507_8-1	106.22	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2340.30	6507_8-1	106.38	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2340.40	6507_8-1	106.42	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2340.50	6507_8-1	105.57	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2340.60	6507_8-1	104.73	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2340.70	6507_8-1	103.89	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2340.80	6507_8-1	103.04	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2340.90	6507_8-1	102.20	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2341.00	6507_8-1	101.36	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2341.10	6507_8-1	100.84	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2341.20	6507_8-1	101.18	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2341.30	6507_8-1	101.93	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2341.40	6507_8-1	102.67	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2341.50	6507_8-1	103.42	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2341.60	6507_8-1	104.17	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2341.70	6507_8-1	104.10	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2341.80	6507_8-1	103.54	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2341.90	6507_8-1	105.42	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2342.00	6507_8-1	107.44	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2342.10	6507_8-1	109.47	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2342.20	6507_8-1	111.50	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2342.30	6507_8-1	112.33	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2342.40	6507_8-1	112.95	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2342.50	6507_8-1	113.58	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2342.60	6507_8-1	114.03	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2342.70	6507_8-1	113.97	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2342.80	6507_8-1	113.90	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2342.90	6507_8-1	113.71	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2343.00	6507_8-1	113.32	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2343.10	6507_8-1	112.93	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2343.20	6507_8-1	112.54	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2343.30	6507_8-1	112.15	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2343.40	6507_8-1	112.09	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2343.50	6507_8-1	112.30	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2343.60	6507_8-1	112.51	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2343.70	6507_8-1	112.71	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2343.80	6507_8-1	112.92	Sandstone	Siltstone	Mudstone	15.00	70.00	15.00	clay	silt/vf	Offshore_marine	
+2343.90	6507_8-1	112.66	 	 								
+2344.00	6507_8-1	112.40	 	 								
+2344.10	6507_8-1	112.14	 	 								
+2344.20	6507_8-1	111.87	 	 								
+2344.30	6507_8-1	111.61	 	 								
+2344.40	6507_8-1	112.35	 	 								
+2344.50	6507_8-1	113.13	 	 								
+2344.60	6507_8-1	113.91	 	 								
+2344.70	6507_8-1	114.70	 	 								
+2344.80	6507_8-1	115.38	 	 								
+2344.90	6507_8-1	116.24	 	 								
+2345.00	6507_8-1	117.92	 	 								
+2345.10	6507_8-1	119.60	 	 								
+2345.20	6507_8-1	121.28	 	 								
+2345.30	6507_8-1	122.96	 	 								
+2345.40	6507_8-1	123.80	 	 								
+2345.50	6507_8-1	119.57	 	 								
+2345.60	6507_8-1	118.73	 	 								
+2345.70	6507_8-1	118.10	 	 								
+2345.80	6507_8-1	117.68	 	 								
+2345.90	6507_8-1	117.44	 	 								
+2346.00	6507_8-1	117.20	 	 								
+2346.10	6507_8-1	116.25	 	 								
+2346.20	6507_8-1	114.29	 	 								
+2346.30	6507_8-1	112.35	 	 								
+2346.40	6507_8-1	112.09	 	 								
+2346.50	6507_8-1	111.83	 	 								
+2346.60	6507_8-1	111.60	 	 								
+2346.70	6507_8-1	111.60	 	 								
+2346.80	6507_8-1	111.60	 	 								
+2346.90	6507_8-1	111.60	 	 								
+2347.00	6507_8-1	111.60	 	 								
+2347.10	6507_8-1	111.35	 	 								
+2347.20	6507_8-1	110.90	 	 								
+2347.30	6507_8-1	110.45	 	 								
+2347.40	6507_8-1	110.45	 	 								
+2347.50	6507_8-1	112.24	 	 								
+2347.60	6507_8-1	113.11	 	 								
+2347.70	6507_8-1	113.11	 	 								
+2347.80	6507_8-1	113.11	 	 								
+2347.90	6507_8-1	113.11	 	 								
+2348.00	6507_8-1	113.63	 	 								
+2348.10	6507_8-1	115.18	 	 								
+2348.20	6507_8-1	117.04	 	 								
+2348.30	6507_8-1	118.91	 	 								
+2348.40	6507_8-1	120.77	 	 								
+2348.50	6507_8-1	122.63	 	 								
+2348.60	6507_8-1	124.49	 	 								
+2348.70	6507_8-1	124.43	 	 								
+2348.80	6507_8-1	124.26	 	 								
+2348.90	6507_8-1	124.09	 	 								
+2349.00	6507_8-1	123.92	 	 								
+2349.10	6507_8-1	123.75	 	 								
+2349.20	6507_8-1	123.82	 	 								
+2349.30	6507_8-1	124.22	 	 								
+2349.40	6507_8-1	124.63	 	 								
+2349.50	6507_8-1	125.04	 	 								
+2349.60	6507_8-1	125.44	 	 								
+2349.70	6507_8-1	125.85	 	 								
+2349.80	6507_8-1	126.26	 	 								
+2349.90	6507_8-1	125.60	 	 								
+2350.00	6507_8-1	124.87	 	 								
+2350.10	6507_8-1	124.13	 	 								
+2350.20	6507_8-1	123.51	 	 								
+2350.30	6507_8-1	124.08	 	 								
+2350.40	6507_8-1	124.66	 	 								
+2350.50	6507_8-1	125.23	 	 								
+2350.60	6507_8-1	125.01	 	 								
+2350.70	6507_8-1	123.94	 	 								
+2350.80	6507_8-1	122.86	 	 								
+2350.90	6507_8-1	121.79	 	 								
+2351.00	6507_8-1	120.72	 	 								
+2351.10	6507_8-1	119.64	 	 								
+2351.20	6507_8-1	118.57	 	 								
+2351.30	6507_8-1	120.69	 	 								
+2351.40	6507_8-1	122.82	 	 								
+2351.50	6507_8-1	124.96	 	 								
+2351.60	6507_8-1	127.09	 	 								
+2351.70	6507_8-1	127.07	 	 								
+2351.80	6507_8-1	126.00	 	 								
+2351.90	6507_8-1	124.93	 	 								
+2352.00	6507_8-1	123.85	 	 								
+2352.10	6507_8-1	123.00	 	 								
+2352.20	6507_8-1	124.01	 	 								
+2352.30	6507_8-1	125.02	 	 								
+2352.40	6507_8-1	126.02	 	 								
+2352.50	6507_8-1	125.06	 	 								
+2352.60	6507_8-1	123.41	 	 								
+2352.70	6507_8-1	121.76	 	 								
+2352.80	6507_8-1	120.11	 	 								
+2352.90	6507_8-1	118.82	 	 								
+2353.00	6507_8-1	119.18	 	 								
+2353.10	6507_8-1	119.54	 	 								
+2353.20	6507_8-1	119.88	 	 								
+2353.30	6507_8-1	119.74	 	 								
+2353.40	6507_8-1	119.60	 	 								
+2353.50	6507_8-1	119.46	 	 								
+2353.60	6507_8-1	119.32	 	 								
+2353.70	6507_8-1	119.18	 	 								
+2353.80	6507_8-1	119.04	 	 								
+2353.90	6507_8-1	119.20	 	 								
+2354.00	6507_8-1	119.98	 	 								
+2354.10	6507_8-1	120.76	 	 								
+2354.20	6507_8-1	121.55	 	 								
+2354.30	6507_8-1	121.82	 	 								
+2354.40	6507_8-1	121.90	 	 								
+2354.50	6507_8-1	122.12	 	 								
+2354.60	6507_8-1	122.66	 	 								
+2354.70	6507_8-1	123.19	 	 								
+2354.80	6507_8-1	123.73	 	 								
+2354.90	6507_8-1	124.26	 	 								
+2355.00	6507_8-1	124.77	 	 								
+2355.10	6507_8-1	124.51	 	 								
+2355.20	6507_8-1	123.42	 	 								
+2355.30	6507_8-1	121.77	 	 								
+2355.40	6507_8-1	120.11	 	 								
+2355.50	6507_8-1	118.46	 	 								
+2355.60	6507_8-1	117.33	 	 								
+2355.70	6507_8-1	117.65	 	 								
+2355.80	6507_8-1	117.97	 	 								
+2355.90	6507_8-1	118.29	 	 								
+2356.00	6507_8-1	118.62	 	 								
+2356.10	6507_8-1	118.94	 	 								
+2356.20	6507_8-1	119.33	 	 								
+2356.30	6507_8-1	119.72	 	 								
+2356.40	6507_8-1	119.93	 	 								
+2356.50	6507_8-1	118.52	 	 								
+2356.60	6507_8-1	117.11	 	 								
+2356.70	6507_8-1	115.70	 	 								
+2356.80	6507_8-1	115.18	 	 								
+2356.90	6507_8-1	115.57	 	 								
+2357.00	6507_8-1	115.97	 	 								
+2357.10	6507_8-1	116.36	 	 								
+2357.20	6507_8-1	116.75	 	 								
+2357.30	6507_8-1	116.85	 	 								
+2357.40	6507_8-1	115.83	 	 								
+2357.50	6507_8-1	114.81	 	 								
+2357.60	6507_8-1	113.79	 	 								
+2357.70	6507_8-1	112.77	 	 								
+2357.80	6507_8-1	112.13	 	 								
+2357.90	6507_8-1	112.04	 	 								
+2358.00	6507_8-1	111.94	 	 								
+2358.10	6507_8-1	111.85	 	 								
+2358.20	6507_8-1	112.16	 	 								
+2358.30	6507_8-1	113.34	 	 								
+2358.40	6507_8-1	114.51	 	 								
+2358.50	6507_8-1	115.69	 	 								
+2358.60	6507_8-1	120.70	 	 								
+2358.70	6507_8-1	125.90	 	 								
+2358.80	6507_8-1	131.37	 	 								
+2358.90	6507_8-1	131.37	 	 								
+2359.00	6507_8-1	131.37	 	 								
+2359.10	6507_8-1	131.37	 	 								
+2359.20	6507_8-1	131.37	 	 								
+2359.30	6507_8-1	130.05	 	 								
+2359.40	6507_8-1	127.39	 	 								
+2359.50	6507_8-1	125.12	 	 								
+2359.60	6507_8-1	125.04	 	 								
+2359.70	6507_8-1	125.65	 	 								
+2359.80	6507_8-1	129.46	 	 								
+2359.90	6507_8-1	131.37	 	 								
+2360.00	6507_8-1	131.37	 	 								
+2360.10	6507_8-1	131.37	 	 								
+2360.20	6507_8-1	131.37	 	 								
+2360.30	6507_8-1	131.37	 	 								
+2360.40	6507_8-1	131.37	 	 								
+2360.50	6507_8-1	131.37	 	 								
+2360.60	6507_8-1	130.35	 	 								
+2360.70	6507_8-1	128.43	 	 								
+2360.80	6507_8-1	126.51	 	 								
+2360.90	6507_8-1	124.59	 	 								
+2361.00	6507_8-1	122.67	 	 								
+2361.10	6507_8-1	121.67	 	 								
+2361.20	6507_8-1	121.20	 	 								
+2361.30	6507_8-1	121.20	 	 								
+2361.40	6507_8-1	120.82	 	 								
+2361.50	6507_8-1	120.17	 	 								
+2361.60	6507_8-1	119.53	 	 								
+2361.70	6507_8-1	118.89	 	 								
+2361.80	6507_8-1	118.25	 	 								
+2361.90	6507_8-1	118.16	 	 								
+2362.00	6507_8-1	119.24	 	 								
+2362.10	6507_8-1	120.33	 	 								
+2362.20	6507_8-1	121.42	 	 								
+2362.30	6507_8-1	122.51	 	 								
+2362.40	6507_8-1	122.31	 	 								
+2362.50	6507_8-1	122.09	 	 								
+2362.60	6507_8-1	121.70	 	 								
+2362.70	6507_8-1	120.97	 	 								
+2362.80	6507_8-1	120.25	 	 								
+2362.90	6507_8-1	119.52	 	 								
+2363.00	6507_8-1	118.79	 	 								
+2363.10	6507_8-1	118.06	 	 								
+2363.20	6507_8-1	117.34	 	 								
+2363.30	6507_8-1	117.84	 	 								
+2363.40	6507_8-1	119.09	 	 								
+2363.50	6507_8-1	120.34	 	 								
+2363.60	6507_8-1	121.60	 	 								
+2363.70	6507_8-1	122.85	 	 								
+2363.80	6507_8-1	122.90	 	 								
+2363.90	6507_8-1	122.68	 	 								
+2364.00	6507_8-1	122.45	 	 								
+2364.10	6507_8-1	122.46	 	 								
+2364.20	6507_8-1	122.76	 	 								
+2364.30	6507_8-1	122.51	 	 								
+2364.40	6507_8-1	121.78	 	 								
+2364.50	6507_8-1	121.05	 	 								
+2364.60	6507_8-1	120.31	 	 								
+2364.70	6507_8-1	116.15	 	 								
+2364.80	6507_8-1	111.71	 	 								
+2364.90	6507_8-1	109.85	 	 								
+2365.00	6507_8-1	108.79	 	 								
+2365.10	6507_8-1	107.72	 	 								
+2365.20	6507_8-1	106.77	 	 								
+2365.30	6507_8-1	105.99	 	 								
+2365.40	6507_8-1	105.20	 	 								
+2365.50	6507_8-1	104.42	 	 								
+2365.60	6507_8-1	102.84	 	 								
+2365.70	6507_8-1	100.62	 	 								
+2365.80	6507_8-1	98.40	 	 								
+2365.90	6507_8-1	96.18	 	 								
+2366.00	6507_8-1	94.63	 	 								
+2366.10	6507_8-1	95.33	 	 								
+2366.20	6507_8-1	96.06	 	 								
+2366.30	6507_8-1	97.28	 	 								
+2366.40	6507_8-1	98.50	 	 								
+2366.50	6507_8-1	99.71	 	 								
+2366.60	6507_8-1	100.93	 	 								
+2366.70	6507_8-1	101.38	 	 								
+2366.80	6507_8-1	101.56	 	 								
+2366.90	6507_8-1	101.74	 	 								
+2367.00	6507_8-1	101.48	 	 								
+2367.10	6507_8-1	100.93	 	 								
+2367.20	6507_8-1	100.39	 	 								
+2367.30	6507_8-1	99.85	 	 								
+2367.40	6507_8-1	99.31	 	 								
+2367.50	6507_8-1	98.76	 	 								
+2367.60	6507_8-1	98.62	 	 								
+2367.70	6507_8-1	99.16	 	 								
+2367.80	6507_8-1	99.69	 	 								
+2367.90	6507_8-1	100.23	 	 								
+2368.00	6507_8-1	100.77	 	 								
+2368.10	6507_8-1	100.43	 	 								
+2368.20	6507_8-1	99.87	 	 								
+2368.30	6507_8-1	99.32	 	 								
+2368.40	6507_8-1	98.77	 	 								
+2368.50	6507_8-1	98.22	 	 								
+2368.60	6507_8-1	97.67	 	 								
+2368.70	6507_8-1	98.10	 	 								
+2368.80	6507_8-1	100.61	 	 								
+2368.90	6507_8-1	103.13	 	 								
+2369.00	6507_8-1	105.64	 	 								
+2369.10	6507_8-1	108.16	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2369.20	6507_8-1	108.45	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2369.30	6507_8-1	108.03	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2369.40	6507_8-1	107.51	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2369.50	6507_8-1	106.23	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2369.60	6507_8-1	104.95	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2369.70	6507_8-1	103.68	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2369.80	6507_8-1	102.40	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2369.90	6507_8-1	101.12	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2370.00	6507_8-1	99.84	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2370.10	6507_8-1	99.76	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2370.20	6507_8-1	100.38	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2370.30	6507_8-1	101.49	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2370.40	6507_8-1	104.26	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2370.50	6507_8-1	107.04	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2370.60	6507_8-1	109.82	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2370.70	6507_8-1	112.60	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2370.80	6507_8-1	115.37	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2370.90	6507_8-1	115.23	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2371.00	6507_8-1	114.88	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2371.10	6507_8-1	114.53	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2371.20	6507_8-1	114.18	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2371.30	6507_8-1	114.17	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2371.40	6507_8-1	114.36	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2371.50	6507_8-1	114.56	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2371.60	6507_8-1	114.61	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2371.70	6507_8-1	114.61	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2371.80	6507_8-1	114.48	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2371.90	6507_8-1	112.91	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2372.00	6507_8-1	111.64	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2372.10	6507_8-1	111.86	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2372.20	6507_8-1	112.08	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2372.30	6507_8-1	112.31	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2372.40	6507_8-1	112.53	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2372.50	6507_8-1	112.67	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2372.60	6507_8-1	112.19	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2372.70	6507_8-1	111.70	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2372.80	6507_8-1	111.22	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2372.90	6507_8-1	110.73	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2373.00	6507_8-1	110.25	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2373.10	6507_8-1	109.76	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2373.20	6507_8-1	109.28	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2373.30	6507_8-1	108.79	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2373.40	6507_8-1	108.31	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2373.50	6507_8-1	107.82	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2373.60	6507_8-1	107.35	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2373.70	6507_8-1	106.88	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2373.80	6507_8-1	106.41	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2373.90	6507_8-1	105.94	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2374.00	6507_8-1	105.46	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2374.10	6507_8-1	104.91	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2374.20	6507_8-1	104.36	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2374.30	6507_8-1	105.49	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2374.40	6507_8-1	106.99	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2374.50	6507_8-1	108.49	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2374.60	6507_8-1	108.14	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2374.70	6507_8-1	107.66	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2374.80	6507_8-1	107.17	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2374.90	6507_8-1	106.69	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2375.00	6507_8-1	106.21	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2375.10	6507_8-1	105.73	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2375.20	6507_8-1	106.35	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2375.30	6507_8-1	107.49	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2375.40	6507_8-1	108.62	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2375.50	6507_8-1	109.75	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2375.60	6507_8-1	110.53	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2375.70	6507_8-1	110.68	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2375.80	6507_8-1	110.84	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2375.90	6507_8-1	111.00	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2376.00	6507_8-1	112.63	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2376.10	6507_8-1	114.74	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2376.20	6507_8-1	116.85	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2376.30	6507_8-1	117.51	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2376.40	6507_8-1	117.32	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2376.50	6507_8-1	117.14	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2376.60	6507_8-1	116.95	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2376.70	6507_8-1	117.49	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2376.80	6507_8-1	118.62	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2376.90	6507_8-1	119.74	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2377.00	6507_8-1	120.87	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2377.10	6507_8-1	120.61	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2377.20	6507_8-1	119.77	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2377.30	6507_8-1	118.93	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2377.40	6507_8-1	118.09	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2377.50	6507_8-1	117.25	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2377.60	6507_8-1	116.41	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2377.70	6507_8-1	115.57	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2377.80	6507_8-1	116.13	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2377.90	6507_8-1	116.72	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2378.00	6507_8-1	117.30	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2378.10	6507_8-1	118.06	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2378.20	6507_8-1	119.94	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2378.30	6507_8-1	121.82	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2378.40	6507_8-1	122.24	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2378.50	6507_8-1	122.12	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2378.60	6507_8-1	122.00	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2378.70	6507_8-1	121.19	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2378.80	6507_8-1	119.92	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2378.90	6507_8-1	118.65	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2379.00	6507_8-1	116.93	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2379.10	6507_8-1	114.72	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2379.20	6507_8-1	112.51	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2379.30	6507_8-1	110.29	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2379.40	6507_8-1	108.97	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2379.50	6507_8-1	108.97	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2379.60	6507_8-1	108.97	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2379.70	6507_8-1	108.97	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2379.80	6507_8-1	108.86	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2379.90	6507_8-1	108.51	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2380.00	6507_8-1	108.17	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2380.10	6507_8-1	107.83	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2380.20	6507_8-1	107.65	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2380.30	6507_8-1	107.65	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2380.40	6507_8-1	107.65	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2380.50	6507_8-1	108.26	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2380.60	6507_8-1	110.02	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2380.70	6507_8-1	111.16	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2380.80	6507_8-1	111.45	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2380.90	6507_8-1	111.75	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2381.00	6507_8-1	112.04	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2381.10	6507_8-1	113.02	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2381.20	6507_8-1	114.50	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2381.30	6507_8-1	115.67	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2381.40	6507_8-1	116.41	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2381.50	6507_8-1	117.15	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2381.60	6507_8-1	117.89	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2381.70	6507_8-1	119.08	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2381.80	6507_8-1	124.56	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2381.90	6507_8-1	130.04	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2382.00	6507_8-1	131.69	Sandstone	Mudstone	 	20.00	80.00	0.00	clay	clay/silt	Offshore_marine	
+2382.10	6507_8-1	131.61	Sandstone	 	 	100.00	0.00	0.00	m	m	Offshore_marine	
+2382.20	6507_8-1	131.53	Sandstone	 	 	100.00	0.00	0.00	m	m	Offshore_marine	
+2382.30	6507_8-1	131.45	Sandstone	 	 	100.00	0.00	0.00	m	m	Offshore_marine	
+2382.40	6507_8-1	131.38	Sandstone	 	 	100.00	0.00	0.00	m	m	Offshore_marine	
+2382.50	6507_8-1	126.59	Sandstone	Mudstone	 	57.00	43.00	0.00	vf	clay/silt	Offshore_marine	
+2382.60	6507_8-1	121.19	Sandstone	Mudstone	 	57.00	43.00	0.00	vf	clay/silt	Offshore_marine	
+2382.70	6507_8-1	115.09	Sandstone	Mudstone	 	57.00	43.00	0.00	vf	clay/silt	Offshore_marine	
+2382.80	6507_8-1	108.96	Sandstone	Mudstone	 	57.00	43.00	0.00	vf	clay/silt	Offshore_marine	
+2382.90	6507_8-1	108.85	Sandstone	Mudstone	 	57.00	43.00	0.00	vf	clay/silt	Offshore_marine	
+2383.00	6507_8-1	110.12	Sandstone	Mudstone	 	57.00	43.00	0.00	vf	clay/silt	Offshore_marine	
+2383.10	6507_8-1	113.89	Sandstone	Mudstone	 	57.00	43.00	0.00	vf	clay/silt	Offshore_marine	
+2383.20	6507_8-1	117.65	Sandstone	Mudstone	 	57.00	43.00	0.00	vf	clay/silt	Offshore_marine	
+2383.30	6507_8-1	121.41	Sandstone	Mudstone	 	57.00	43.00	0.00	vf	clay/silt	Offshore_marine	
+2383.40	6507_8-1	121.56	Sandstone	Mudstone	 	57.00	43.00	0.00	vf	clay/silt	Offshore_marine	
+2383.50	6507_8-1	120.54	Sandstone	Mudstone	 	57.00	43.00	0.00	vf	clay/silt	Offshore_marine	
+2383.60	6507_8-1	119.92	Sandstone	Mudstone	 	57.00	43.00	0.00	vf	clay/silt	Offshore_marine	
+2383.70	6507_8-1	120.03	Sandstone	Mudstone	 	57.00	43.00	0.00	vf	clay/silt	Offshore_marine	
+2383.80	6507_8-1	120.15	Sandstone	Mudstone	 	57.00	43.00	0.00	vf	clay/silt	Offshore_marine	
+2383.90	6507_8-1	120.26	Sandstone	Mudstone	 	57.00	43.00	0.00	vf	clay/silt	Offshore_marine	
+2384.00	6507_8-1	113.68	Sandstone	Mudstone	 	57.00	43.00	0.00	vf	clay/silt	Offshore_marine	
+2384.10	6507_8-1	107.02	Sandstone	Mudstone	 	57.00	43.00	0.00	vf	clay/silt	Offshore_marine	
+2384.20	6507_8-1	100.36	Sandstone	Mudstone	 	57.00	43.00	0.00	vf	clay/silt	Offshore_marine	
+2384.30	6507_8-1	93.55	Sandstone	Mudstone	 	57.00	43.00	0.00	vf	clay/silt	Offshore_marine	
+2384.40	6507_8-1	86.64	Sandstone	Mudstone	 	57.00	43.00	0.00	vf	clay/silt	Offshore_marine	
+2384.50	6507_8-1	79.73	Sandstone	Mudstone	 	57.00	43.00	0.00	vf	clay/silt	Offshore_marine	
+2384.60	6507_8-1	79.41	Sandstone	Mudstone	 	57.00	43.00	0.00	vf	clay/silt	Offshore_marine	
+2384.70	6507_8-1	79.23	Sandstone	Mudstone	 	57.00	43.00	0.00	vf	clay/silt	Offshore_marine	
+2384.80	6507_8-1	79.43	Sandstone	Mudstone	 	57.00	43.00	0.00	vf	clay/silt	Offshore_marine	
+2384.90	6507_8-1	79.63	Sandstone	Mudstone	 	57.00	43.00	0.00	vf	clay/silt	Offshore_marine	
+2385.00	6507_8-1	79.82	Sandstone	Mudstone	 	57.00	43.00	0.00	vf	clay/silt	Offshore_marine	
+2385.10	6507_8-1	80.02	Sandstone	 	 	100.00	0.00	0.00	c	silt	Offshore_marine	
+2385.20	6507_8-1	80.03	Sandstone	 	 	100.00	0.00	0.00	c	silt	Offshore_marine	
+2385.30	6507_8-1	79.53	Sandstone	 	 	100.00	0.00	0.00	c	silt	Offshore_marine	
+2385.40	6507_8-1	79.02	Sandstone	 	 	100.00	0.00	0.00	c	silt	Offshore_marine	
+2385.50	6507_8-1	78.51	Sandstone	 	 	100.00	0.00	0.00	c	silt	Offshore_marine	
+2385.60	6507_8-1	77.84	Sandstone	 	 	100.00	0.00	0.00	c	silt	Offshore_marine	
+2385.70	6507_8-1	76.38	Sandstone	 	 	100.00	0.00	0.00	c	silt	Offshore_marine	
+2385.80	6507_8-1	74.92	Sandstone	 	 	100.00	0.00	0.00	c	silt	Offshore_marine	
+2385.90	6507_8-1	73.45	Sandstone	 	 	100.00	0.00	0.00	c	silt	Offshore_marine	
+2386.00	6507_8-1	71.99	Sandstone	 	 	100.00	0.00	0.00	c	vf	Transgression	
+2386.10	6507_8-1	70.52	Sandstone	 	 	100.00	0.00	0.00	c	vf	Transgression	
+2386.20	6507_8-1	70.16	Sandstone	 	 	100.00	0.00	0.00	c	vf	Transgression	
+2386.30	6507_8-1	70.40	Sandstone	 	 	100.00	0.00	0.00	c	vf	Transgression	
+2386.40	6507_8-1	70.64	Sandstone	 	 	100.00	0.00	0.00	c	vf	Transgression	
+2386.50	6507_8-1	70.89	Sandstone	 	 	100.00	0.00	0.00	c	vf	Transgression	
+2386.60	6507_8-1	70.31	Sandstone	 	 	100.00	0.00	0.00	c	vf	Transgression	
+2386.70	6507_8-1	69.53	Sandstone	 	 	100.00	0.00	0.00	c	vf	Transgression	
+2386.80	6507_8-1	68.75	Sandstone	 	 	100.00	0.00	0.00	c	vf	Transgression	
+2386.90	6507_8-1	68.72	Sandstone	 	 	100.00	0.00	0.00	c	vf	Transgression	
+2387.00	6507_8-1	69.67	Sandstone	 	 	100.00	0.00	0.00	c	vf	Transgression	
+2387.10	6507_8-1	70.63	 	 								
+2387.20	6507_8-1	71.58	 	 								
+2387.30	6507_8-1	72.53	 	 								
+2387.40	6507_8-1	73.49	 	 								
+2387.50	6507_8-1	74.55	 	 								
+2387.60	6507_8-1	75.61	 	 								
+2387.70	6507_8-1	76.35	 	 								
+2387.80	6507_8-1	76.15	 	 								
+2387.90	6507_8-1	75.95	 	 								
+2388.00	6507_8-1	75.76	 	 								
+2388.10	6507_8-1	75.74	 	 								
+2388.20	6507_8-1	75.95	 	 								
+2388.30	6507_8-1	76.16	 	 								
+2388.40	6507_8-1	76.38	 	 								
+2388.50	6507_8-1	76.59	 	 								
+2388.60	6507_8-1	76.69	 	 								
+2388.70	6507_8-1	76.03	 	 								
+2388.80	6507_8-1	75.38	 	 								
+2388.90	6507_8-1	74.73	 	 								
+2389.00	6507_8-1	74.07	 	 								
+2389.10	6507_8-1	74.76	 	 								
+2389.20	6507_8-1	75.75	 	 								
+2389.30	6507_8-1	76.74	 	 								
+2389.40	6507_8-1	77.71	 	 								
+2389.50	6507_8-1	78.58	 	 								
+2389.60	6507_8-1	79.35	 	 								
+2389.70	6507_8-1	78.07	 	 								
+2389.80	6507_8-1	76.79	 	 								
+2389.90	6507_8-1	76.38	 	 								
+2390.00	6507_8-1	77.29	 	 								
+2390.10	6507_8-1	78.19	 	 								
+2390.20	6507_8-1	78.73	 	 								
+2390.30	6507_8-1	78.32	 	 								
+2390.40	6507_8-1	77.91	 	 								
+2390.50	6507_8-1	77.51	 	 								
+2390.60	6507_8-1	77.10	 	 								
+2390.70	6507_8-1	76.69	 	 								
+2390.80	6507_8-1	76.71	 	 								
+2390.90	6507_8-1	76.88	 	 								
+2391.00	6507_8-1	77.04	 	 								
+2391.10	6507_8-1	77.21	 	 								
+2391.20	6507_8-1	77.50	 	 								
+2391.30	6507_8-1	78.35	 	 								
+2391.40	6507_8-1	79.21	 	 								
+2391.50	6507_8-1	79.49	 	 								
+2391.60	6507_8-1	79.30	 	 								
+2391.70	6507_8-1	79.10	 	 								
+2391.80	6507_8-1	78.90	 	 								
+2391.90	6507_8-1	80.17	 	 								
+2392.00	6507_8-1	82.06	 	 								
+2392.10	6507_8-1	83.95	 	 								
+2392.20	6507_8-1	84.68	 	 								
+2392.30	6507_8-1	85.13	 	 								
+2392.40	6507_8-1	85.59	 	 								
+2392.50	6507_8-1	86.05	 	 								
+2392.60	6507_8-1	86.51	 	 								
+2392.70	6507_8-1	87.03	 	 								
+2392.80	6507_8-1	88.97	 	 								
+2392.90	6507_8-1	90.90	 	 								
+2393.00	6507_8-1	92.83	 	 								
+2393.10	6507_8-1	93.51	 	 								
+2393.20	6507_8-1	92.62	 	 								
+2393.30	6507_8-1	91.73	 	 								
+2393.40	6507_8-1	90.85	 	 								
+2393.50	6507_8-1	92.35	 	 								
+2393.60	6507_8-1	93.57	 	 								
+2393.70	6507_8-1	93.67	 	 								
+2393.80	6507_8-1	93.13	 	 								
+2393.90	6507_8-1	91.90	 	 								
+2394.00	6507_8-1	90.67	 	 								
+2394.10	6507_8-1	89.45	 	 								
+2394.20	6507_8-1	88.22	 	 								
+2394.30	6507_8-1	86.99	 	 								
+2394.40	6507_8-1	85.76	 	 								
+2394.50	6507_8-1	84.53	 	 								
+2394.60	6507_8-1	83.31	 	 								
+2394.70	6507_8-1	83.28	 	 								
+2394.80	6507_8-1	84.11	 	 								
+2394.90	6507_8-1	84.94	 	 								
+2395.00	6507_8-1	85.77	 	 								
+2395.10	6507_8-1	86.88	 	 								
+2395.20	6507_8-1	88.81	 	 								
+2395.30	6507_8-1	90.74	 	 								
+2395.40	6507_8-1	92.35	 	 								
+2395.50	6507_8-1	92.01	 	 								
+2395.60	6507_8-1	91.66	 	 								
+2395.70	6507_8-1	91.32	 	 								
+2395.80	6507_8-1	90.97	 	 								
+2395.90	6507_8-1	90.63	 	 								
+2396.00	6507_8-1	90.61	 	 								
+2396.10	6507_8-1	92.33	 	 								
+2396.20	6507_8-1	91.94	 	 								
+2396.30	6507_8-1	91.55	 	 								
+2396.40	6507_8-1	91.16	 	 								
+2396.50	6507_8-1	89.67	 	 								
+2396.60	6507_8-1	87.92	 	 								
+2396.70	6507_8-1	86.17	 	 								
+2396.80	6507_8-1	84.41	 	 								
+2396.90	6507_8-1	84.19	 	 								
+2397.00	6507_8-1	84.54	 	 								
+2397.10	6507_8-1	85.07	 	 								
+2397.20	6507_8-1	87.53	 	 								
+2397.30	6507_8-1	89.99	 	 								
+2397.40	6507_8-1	92.45	 	 								
+2397.50	6507_8-1	94.91	 	 								
+2397.60	6507_8-1	97.31	 	 								
+2397.70	6507_8-1	97.64	 	 								
+2397.80	6507_8-1	97.59	 	 								
+2397.90	6507_8-1	96.84	 	 								
+2398.00	6507_8-1	96.08	Sandstone	Shale	 	45.00	55.00	0.00	f/m	f/m	Tidalflat_-_Tidal_sandbar_complex	
+2398.10	6507_8-1	95.32	Sandstone	Shale	 	45.00	55.00	0.00	f/m	f/m	Tidalflat_-_Tidal_sandbar_complex	
+2398.20	6507_8-1	94.57	Sandstone	Shale	 	45.00	55.00	0.00	f/m	f/m	Tidalflat_-_Tidal_sandbar_complex	
+2398.30	6507_8-1	93.81	Sandstone	Shale	 	45.00	55.00	0.00	f/m	f/m	Tidalflat_-_Tidal_sandbar_complex	
+2398.40	6507_8-1	93.05	Sandstone	Shale	 	45.00	55.00	0.00	f/m	f/m	Tidalflat_-_Tidal_sandbar_complex	
+2398.50	6507_8-1	93.42	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2398.60	6507_8-1	95.59	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2398.70	6507_8-1	97.75	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2398.80	6507_8-1	99.92	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2398.90	6507_8-1	101.45	Sandstone	 	 	100.00	0.00	0.00	vf/f	m	Tidalflat_-_Tidal_sandbar_complex	
+2399.00	6507_8-1	101.48	Sandstone	 	 	100.00	0.00	0.00	vf/f	m	Tidalflat_-_Tidal_sandbar_complex	
+2399.10	6507_8-1	101.52	Sandstone	 	 	100.00	0.00	0.00	vf/f	m	Tidalflat_-_Tidal_sandbar_complex	
+2399.20	6507_8-1	101.55	Sandstone	 	 	100.00	0.00	0.00	vf/f	m	Tidalflat_-_Tidal_sandbar_complex	
+2399.30	6507_8-1	101.59	Sandstone	 	 	100.00	0.00	0.00	vf/f	m	Tidalflat_-_Tidal_sandbar_complex	
+2399.40	6507_8-1	101.65	Sandstone	 	 	100.00	0.00	0.00	vf/f	m	Tidalflat_-_Tidal_sandbar_complex	
+2399.50	6507_8-1	103.36	Sandstone	 	 	100.00	0.00	0.00	vf/f	m	Tidalflat_-_Tidal_sandbar_complex	
+2399.60	6507_8-1	105.07	Sandstone	Shale	 	25.00	75.00	0.00	vf	silt/vf	Tidalflat_-_Tidal_sandbar_complex	
+2399.70	6507_8-1	106.27	Sandstone	Shale	 	25.00	75.00	0.00	vf	silt/vf	Tidalflat_-_Tidal_sandbar_complex	
+2399.80	6507_8-1	106.60	Sandstone	Shale	 	25.00	75.00	0.00	vf	silt/vf	Tidalflat_-_Tidal_sandbar_complex	
+2399.90	6507_8-1	103.36	Sandstone	Shale	 	25.00	75.00	0.00	vf	silt/vf	Tidalflat_-_Tidal_sandbar_complex	
+2400.00	6507_8-1	98.50	Sandstone	Shale	 	25.00	75.00	0.00	vf	silt/vf	Tidalflat_-_Tidal_sandbar_complex	
+2400.10	6507_8-1	94.18	Sandstone	Shale	 	25.00	75.00	0.00	vf	silt/vf	Tidalflat_-_Tidal_sandbar_complex	
+2400.20	6507_8-1	91.17	Sandstone	Shale	 	25.00	75.00	0.00	vf	silt/vf	Tidalflat_-_Tidal_sandbar_complex	
+2400.30	6507_8-1	88.17	Sandstone	Shale	 	25.00	75.00	0.00	vf	silt/vf	Tidalflat_-_Tidal_sandbar_complex	
+2400.40	6507_8-1	86.43	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2400.50	6507_8-1	86.56	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2400.60	6507_8-1	87.37	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2400.70	6507_8-1	88.20	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2400.80	6507_8-1	89.04	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2400.90	6507_8-1	90.76	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2401.00	6507_8-1	92.91	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2401.10	6507_8-1	93.24	 	 	 	100.00	0.00	0.00	 	 	Tidalflat_-_Tidal_sandbar_complex	
+2401.20	6507_8-1	92.95	 	 	 	100.00	0.00	0.00	 	 	Tidalflat_-_Tidal_sandbar_complex	
+2401.30	6507_8-1	92.41	Sandstone	Shale	 	44.00	56.00	0.00	f/m	m	Tidalflat_-_Tidal_sandbar_complex	
+2401.40	6507_8-1	91.87	Sandstone	Shale	 	44.00	56.00	0.00	f/m	m	Tidalflat_-_Tidal_sandbar_complex	
+2401.50	6507_8-1	91.18	Sandstone	Shale	 	44.00	56.00	0.00	f/m	m	Tidalflat_-_Tidal_sandbar_complex	
+2401.60	6507_8-1	90.40	Sandstone	Shale	 	44.00	56.00	0.00	f/m	m	Tidalflat_-_Tidal_sandbar_complex	
+2401.70	6507_8-1	89.94	Sandstone	Shale	 	44.00	56.00	0.00	f/m	m	Tidalflat_-_Tidal_sandbar_complex	
+2401.80	6507_8-1	90.86	Sandstone	Shale	 	44.00	56.00	0.00	f/m	m	Tidalflat_-_Tidal_sandbar_complex	
+2401.90	6507_8-1	91.78	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2402.00	6507_8-1	92.70	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2402.10	6507_8-1	93.62	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2402.20	6507_8-1	94.55	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2402.30	6507_8-1	95.47	Sandstone	 	 	100.00	0.00	0.00	c/vc	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2402.40	6507_8-1	96.39	Sandstone	Shale	 	91.00	9.00	0.00	m	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2402.50	6507_8-1	97.29	Sandstone	Shale	 	91.00	9.00	0.00	m	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2402.60	6507_8-1	97.29	Sandstone	Shale	 	91.00	9.00	0.00	m	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2402.70	6507_8-1	97.29	Sandstone	Shale	 	91.00	9.00	0.00	m	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2402.80	6507_8-1	97.81	Sandstone	Shale	 	91.00	9.00	0.00	m	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2402.90	6507_8-1	99.18	Sandstone	Shale	 	91.00	9.00	0.00	m	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2403.00	6507_8-1	100.55	Sandstone	Shale	 	91.00	9.00	0.00	m	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2403.10	6507_8-1	101.12	Sandstone	Shale	 	91.00	9.00	0.00	m	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2403.20	6507_8-1	100.86	Sandstone	Shale	 	91.00	9.00	0.00	m	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2403.30	6507_8-1	100.60	Sandstone	Shale	 	91.00	9.00	0.00	m	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2403.40	6507_8-1	101.04	Sandstone	Shale	 	93.00	7.00	0.00	m/c	m	Tidalflat_-_Tidal_sandbar_complex	
+2403.50	6507_8-1	101.93	Sandstone	Shale	 	93.00	7.00	0.00	m/c	m	Tidalflat_-_Tidal_sandbar_complex	
+2403.60	6507_8-1	102.83	Sandstone	Shale	 	93.00	7.00	0.00	m/c	m	Tidalflat_-_Tidal_sandbar_complex	
+2403.70	6507_8-1	103.73	Sandstone	Shale	 	93.00	7.00	0.00	m/c	m	Tidalflat_-_Tidal_sandbar_complex	
+2403.80	6507_8-1	104.62	Sandstone	Shale	 	93.00	7.00	0.00	m/c	m	Tidalflat_-_Tidal_sandbar_complex	
+2403.90	6507_8-1	104.89	Sandstone	Shale	 	93.00	7.00	0.00	m/c	m	Tidalflat_-_Tidal_sandbar_complex	
+2404.00	6507_8-1	104.66	Sandstone	Shale	 	93.00	7.00	0.00	m/c	m	Tidalflat_-_Tidal_sandbar_complex	
+2404.10	6507_8-1	99.00	Sandstone	Shale	 	93.00	7.00	0.00	m/c	m	Tidalflat_-_Tidal_sandbar_complex	
+2404.20	6507_8-1	92.61	Sandstone	Shale	 	93.00	7.00	0.00	m/c	m	Tidalflat_-_Tidal_sandbar_complex	
+2404.30	6507_8-1	86.23	 	 	 	100.00	0.00	0.00	 	 	Tidalflat_-_Tidal_sandbar_complex	
+2404.40	6507_8-1	83.30	 	 	 	100.00	0.00	0.00	 	 	Tidalflat_-_Tidal_sandbar_complex	
+2404.50	6507_8-1	82.55	 	 	 	100.00	0.00	0.00	 	 	Tidalflat_-_Tidal_sandbar_complex	
+2404.60	6507_8-1	84.16	 	 	 	100.00	0.00	0.00	 	 	Tidalflat_-_Tidal_sandbar_complex	
+2404.70	6507_8-1	85.76	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2404.80	6507_8-1	87.37	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2404.90	6507_8-1	88.97	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2405.00	6507_8-1	90.53	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2405.10	6507_8-1	91.98	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Tidalflat_-_Tidal_sandbar_complex	
+2405.20	6507_8-1	93.42	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	Tidalflat_-_Tidal_sandbar_complex	
+2405.30	6507_8-1	94.62	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	Tidalflat_-_Tidal_sandbar_complex	
+2405.40	6507_8-1	94.36	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	Tidalflat_-_Tidal_sandbar_complex	
+2405.50	6507_8-1	94.10	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	Tidalflat_-_Tidal_sandbar_complex	
+2405.60	6507_8-1	92.83	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	Tidalflat_-_Tidal_sandbar_complex	
+2405.70	6507_8-1	91.55	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	Tidalflat_-_Tidal_sandbar_complex	
+2405.80	6507_8-1	90.27	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	Tidalflat_-_Tidal_sandbar_complex	
+2405.90	6507_8-1	88.99	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	Tidalflat_-_Tidal_sandbar_complex	
+2406.00	6507_8-1	87.71	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	Tidalflat_-_Tidal_sandbar_complex	
+2406.10	6507_8-1	86.43	Sandstone	 	 	100.00	0.00	0.00	m/c	f/m	Tidalflat_-_Tidal_sandbar_complex	
+2406.20	6507_8-1	85.15	Sandstone	Limestone	Shale	82.00	10.00	8.00	m/c	m	Tidalflat_-_Tidal_sandbar_complex	
+2406.30	6507_8-1	83.87	Sandstone	Limestone	Shale	82.00	10.00	8.00	m/c	m	Tidalflat_-_Tidal_sandbar_complex	
+2406.40	6507_8-1	82.59	Sandstone	Limestone	Shale	82.00	10.00	8.00	m/c	m	Tidalflat_-_Tidal_sandbar_complex	
+2406.50	6507_8-1	81.82	Sandstone	Limestone	Shale	82.00	10.00	8.00	m/c	m	Tidalflat_-_Tidal_sandbar_complex	
+2406.60	6507_8-1	84.37	Sandstone	Limestone	Shale	82.00	10.00	8.00	m/c	m	Tidalflat_-_Tidal_sandbar_complex	
+2406.70	6507_8-1	86.52	Sandstone	Limestone	Shale	82.00	10.00	8.00	m/c	m	Tidalflat_-_Tidal_sandbar_complex	
+2406.80	6507_8-1	87.20	Sandstone	Limestone	Shale	82.00	10.00	8.00	m/c	m	Tidalflat_-_Tidal_sandbar_complex	
+2406.90	6507_8-1	87.87	Sandstone	Limestone	Shale	82.00	10.00	8.00	m/c	m	Tidalflat_-_Tidal_sandbar_complex	
+2407.00	6507_8-1	88.55	Sandstone	Limestone	Shale	82.00	10.00	8.00	m/c	m	Tidalflat_-_Tidal_sandbar_complex	
+2407.10	6507_8-1	89.23	Sandstone	Limestone	Shale	82.00	10.00	8.00	m/c	m	Tidalflat_-_Tidal_sandbar_complex	
+2407.20	6507_8-1	89.90	Sandstone	Limestone	Shale	82.00	10.00	8.00	m/c	m	Tidalflat_-_Tidal_sandbar_complex	
+2407.30	6507_8-1	91.97	Sandstone	Shale	 	95.00	5.00	0.00	vf/f	m	Tidalflat_-_Tidal_sandbar_complex	
+2407.40	6507_8-1	94.15	Sandstone	Shale	 	95.00	5.00	0.00	vf/f	m	Tidalflat_-_Tidal_sandbar_complex	
+2407.50	6507_8-1	96.34	Sandstone	Shale	 	95.00	5.00	0.00	vf/f	m	Tidalflat_-_Tidal_sandbar_complex	
+2407.60	6507_8-1	96.69	Sandstone	Shale	 	95.00	5.00	0.00	vf/f	m	Tidalflat_-_Tidal_sandbar_complex	
+2407.70	6507_8-1	95.62	Sandstone	Shale	 	95.00	5.00	0.00	vf/f	m	Tidalflat_-_Tidal_sandbar_complex	
+2407.80	6507_8-1	94.55	Sandstone	Shale	 	95.00	5.00	0.00	vf/f	m	Tidalflat_-_Tidal_sandbar_complex	
+2407.90	6507_8-1	93.47	Sandstone	Shale	 	95.00	5.00	0.00	vf/f	m	Tidalflat_-_Tidal_sandbar_complex	
+2408.00	6507_8-1	92.40	Sandstone	Shale	 	95.00	5.00	0.00	vf/f	m	Tidalflat_-_Tidal_sandbar_complex	
+2408.10	6507_8-1	93.73	Sandstone	 	 	100.00	0.00	0.00	c	f	Foreshore	
+2408.20	6507_8-1	95.07	Sandstone	 	 	100.00	0.00	0.00	c	f	Foreshore	
+2408.30	6507_8-1	96.40	Sandstone	 	 	100.00	0.00	0.00	c	f	Foreshore	
+2408.40	6507_8-1	97.74	 								Foreshore	
+2408.50	6507_8-1	96.25	 								Foreshore	
+2408.60	6507_8-1	94.49	 								Foreshore	
+2408.70	6507_8-1	92.65	 								Foreshore	
+2408.80	6507_8-1	88.42	 								Foreshore	
+2408.90	6507_8-1	84.19	 								Foreshore	
+2409.00	6507_8-1	79.96	Sandstone	 	 	100.00	0.00	0.00	c/vc	c	Foreshore	
+2409.10	6507_8-1	76.91	Sandstone	 	 	100.00	0.00	0.00	c/vc	c	Foreshore	
+2409.20	6507_8-1	75.47	Sandstone	 	 	100.00	0.00	0.00	c/vc	c	Foreshore	
+2409.30	6507_8-1	74.03	Sandstone	 	 	100.00	0.00	0.00	c/vc	c	Foreshore	
+2409.40	6507_8-1	72.58	Sandstone	 	 	100.00	0.00	0.00	c/vc	c	Foreshore	
+2409.50	6507_8-1	71.14	Sandstone	 	 	100.00	0.00	0.00	c/vc	c	Foreshore	
+2409.60	6507_8-1	69.41	Sandstone	 	 	100.00	0.00	0.00	c/vc	c	Foreshore	
+2409.70	6507_8-1	67.64	Sandstone	 	 	100.00	0.00	0.00	c/vc	c	Foreshore	
+2409.80	6507_8-1	65.87	Sandstone	 	 	100.00	0.00	0.00	c/vc	c	Foreshore	
+2409.90	6507_8-1	64.10	Sandstone	 	 	100.00	0.00	0.00	c/vc	c	Foreshore	
+2410.00	6507_8-1	62.72	Sandstone	 	 	100.00	0.00	0.00	c/vc	c	Foreshore	
+2410.10	6507_8-1	62.31	Sandstone	 	 	100.00	0.00	0.00	c/vc	c	Foreshore	
+2410.20	6507_8-1	61.89	Sandstone	 	 	100.00	0.00	0.00	c/vc	c	Foreshore	
+2410.30	6507_8-1	61.48	 	 							Foreshore	
+2410.40	6507_8-1	61.29	 	 							Foreshore	
+2410.50	6507_8-1	61.93	 	 							Foreshore	
+2410.60	6507_8-1	62.58	 	 							Foreshore	
+2410.70	6507_8-1	63.23	Sandstone	 	 	100.00	0.00	0.00	m/c	c	Foreshore	
+2410.80	6507_8-1	63.87	Sandstone	 	 	100.00	0.00	0.00	m/c	c	Foreshore	
+2410.90	6507_8-1	64.52	Sandstone	 	 	100.00	0.00	0.00	f/m	m	Foreshore	
+2411.00	6507_8-1	65.31	Sandstone	 	 	100.00	0.00	0.00	f/m	m	Foreshore	
+2411.10	6507_8-1	66.17	Sandstone	 	 	100.00	0.00	0.00	f/m	m	Foreshore	
+2411.20	6507_8-1	67.09	Sandstone	 	 	100.00	0.00	0.00	f/m	m	Foreshore	
+2411.30	6507_8-1	69.67	Sandstone	 	 	100.00	0.00	0.00	f/m	m	Foreshore	
+2411.40	6507_8-1	72.25	Sandstone	 	 	100.00	0.00	0.00	f/m	m	Foreshore	
+2411.50	6507_8-1	74.83	Sandstone	 	 	100.00	0.00	0.00	f/m	m	Foreshore	
+2411.60	6507_8-1	77.41	 	 								
+2411.70	6507_8-1	79.99	 	 								
+2411.80	6507_8-1	82.30	 	 								
+2411.90	6507_8-1	83.90	 	 								
+2412.00	6507_8-1	85.51	 	 								
+2412.10	6507_8-1	87.12	 	 								
+2412.20	6507_8-1	88.72	 	 								
+2412.30	6507_8-1	89.26	 	 								
+2412.40	6507_8-1	88.60	 	 								
+2412.50	6507_8-1	87.94	 	 								
+2412.60	6507_8-1	87.03	 	 								
+2412.70	6507_8-1	85.67	 	 								
+2412.80	6507_8-1	84.31	 	 								
+2412.90	6507_8-1	82.95	 	 								
+2413.00	6507_8-1	81.59	 	 								
+2413.10	6507_8-1	81.09	 	 								
+2413.20	6507_8-1	82.29	 	 								
+2413.30	6507_8-1	83.49	 	 								
+2413.40	6507_8-1	84.69	 	 								
+2413.50	6507_8-1	85.93	 	 								
+2413.60	6507_8-1	87.18	 	 								
+2413.70	6507_8-1	88.44	 	 								
+2413.80	6507_8-1	89.97	 	 								
+2413.90	6507_8-1	94.31	 	 								
+2414.00	6507_8-1	98.64	 	 								
+2414.10	6507_8-1	102.98	 	 								
+2414.20	6507_8-1	110.54	 	 								
+2414.30	6507_8-1	112.33	 	 								
+2414.40	6507_8-1	112.07	 	 								
+2414.50	6507_8-1	107.90	 	 								
+2414.60	6507_8-1	103.29	 	 								
+2414.70	6507_8-1	98.68	 	 								
+2414.80	6507_8-1	94.07	 	 								
+2414.90	6507_8-1	91.33	 	 								
+2415.00	6507_8-1	89.17	 	 								
+2415.10	6507_8-1	87.02	 	 								
+2415.20	6507_8-1	85.84	 	 								
+2415.30	6507_8-1	84.79	 	 								
+2415.40	6507_8-1	83.75	 	 								
+2415.50	6507_8-1	82.70	 	 								
+2415.60	6507_8-1	81.66	 	 								
+2415.70	6507_8-1	80.88	 	 								
+2415.80	6507_8-1	82.22	 	 								
+2415.90	6507_8-1	84.21	 	 								
+2416.00	6507_8-1	87.06	 	 								
+2416.10	6507_8-1	89.91	 	 								
+2416.20	6507_8-1	92.32	 	 								
+2416.30	6507_8-1	89.48	 	 								
+2416.40	6507_8-1	85.81	 	 								
+2416.50	6507_8-1	84.81	 	 								
+2416.60	6507_8-1	83.82	 	 								
+2416.70	6507_8-1	82.83	 	 								
+2416.80	6507_8-1	83.83	 	 								
+2416.90	6507_8-1	85.40	 	 								
+2417.00	6507_8-1	87.57	 	 								
+2417.10	6507_8-1	90.11	Sandstone	 	 	100.00	0.00	0.00	m/c	c	Upper_shoreface/foreshore	
+2417.20	6507_8-1	89.65	Sandstone	 	 	100.00	0.00	0.00	m/c	c	Upper_shoreface/foreshore	
+2417.30	6507_8-1	87.87	Sandstone	 	 	100.00	0.00	0.00	m/c	c	Upper_shoreface/foreshore	
+2417.40	6507_8-1	86.86	Sandstone	 	 	100.00	0.00	0.00	m/c	c	Upper_shoreface/foreshore	
+2417.50	6507_8-1	85.84	Sandstone	 	 	100.00	0.00	0.00	m/c	c	Upper_shoreface/foreshore	
+2417.60	6507_8-1	84.83	Sandstone	 	 	100.00	0.00	0.00	m/c	c	Upper_shoreface/foreshore	
+2417.70	6507_8-1	83.81	Sandstone	 	 	100.00	0.00	0.00	m/c	c	Upper_shoreface/foreshore	
+2417.80	6507_8-1	84.74	Sandstone	 	 	100.00	0.00	0.00	m/c	c	Upper_shoreface/foreshore	
+2417.90	6507_8-1	85.82	Sandstone	 	 	100.00	0.00	0.00	m/c	c	Upper_shoreface/foreshore	
+2418.00	6507_8-1	86.89	Sandstone	 	 	100.00	0.00	0.00	m/c	c	Upper_shoreface/foreshore	
+2418.10	6507_8-1	87.92	Sandstone	 	 	100.00	0.00	0.00	m/c	c	Upper_shoreface/foreshore	
+2418.20	6507_8-1	88.35	Sandstone	 	 	100.00	0.00	0.00	m/c	c	Upper_shoreface/foreshore	
+2418.30	6507_8-1	88.79	Sandstone	 	 	100.00	0.00	0.00	m/c	c	Upper_shoreface/foreshore	
+2418.40	6507_8-1	88.46	Sandstone	 	 	100.00	0.00	0.00	m/c	c	Upper_shoreface/foreshore	
+2418.50	6507_8-1	88.07	Sandstone	 	 	100.00	0.00	0.00	m/c	c	Upper_shoreface/foreshore	
+2418.60	6507_8-1	86.50	Sandstone	 	 	100.00	0.00	0.00	m/c	c	Upper_shoreface/foreshore	
+2418.70	6507_8-1	84.57	Sandstone	 	 	100.00	0.00	0.00	m/c	c	Upper_shoreface/foreshore	
+2418.80	6507_8-1	84.21	Sandstone	 	 	100.00	0.00	0.00	m/c	c	Upper_shoreface/foreshore	
+2418.90	6507_8-1	83.86	Sandstone	 	 	100.00	0.00	0.00	m/c	c	Upper_shoreface/foreshore	
+2419.00	6507_8-1	83.24	Sandstone	 	 	100.00	0.00	0.00	m/c	c	Upper_shoreface/foreshore	
+2419.10	6507_8-1	82.51	Sandstone	 	 	100.00	0.00	0.00	m/c	c	Upper_shoreface/foreshore	
+2419.20	6507_8-1	81.78	Sandstone	 	 	100.00	0.00	0.00	m/c	c	Upper_shoreface/foreshore	
+2419.30	6507_8-1	81.04	Sandstone	 	 	100.00	0.00	0.00	m/c	c	Upper_shoreface/foreshore	
+2419.40	6507_8-1	78.43	Sandstone	 	 	100.00	0.00	0.00	m/c	c	Upper_shoreface/foreshore	
+2419.50	6507_8-1	77.40	Sandstone	 	 	100.00	0.00	0.00	m/c	c	Upper_shoreface/foreshore	
+2419.60	6507_8-1	76.37	Sandstone	 	 	100.00	0.00	0.00	m/c	c	Upper_shoreface/foreshore	
+2419.70	6507_8-1	75.34	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Upper_shoreface/foreshore	
+2419.80	6507_8-1	74.11	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Upper_shoreface/foreshore	
+2419.90	6507_8-1	72.80	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Upper_shoreface/foreshore	
+2420.00	6507_8-1	72.08	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Upper_shoreface/foreshore	
+2420.10	6507_8-1	71.78	Sandstone	 	 	100.00	0.00	0.00	m	m	Upper_shoreface/foreshore	
+2420.20	6507_8-1	71.48	Sandstone	 	 	100.00	0.00	0.00	m	m	Upper_shoreface/foreshore	
+2420.30	6507_8-1	71.34	Sandstone	 	 	100.00	0.00	0.00	m	m	Upper_shoreface/foreshore	
+2420.40	6507_8-1	71.40	Sandstone	 	 	100.00	0.00	0.00	m	m	Upper_shoreface/foreshore	
+2420.50	6507_8-1	71.46	Sandstone	 	 	100.00	0.00	0.00	m	m	Upper_shoreface/foreshore	
+2420.60	6507_8-1	72.09	Sandstone	 	 	100.00	0.00	0.00	m	m	Upper_shoreface/foreshore	
+2420.70	6507_8-1	73.86	Sandstone	 	 	100.00	0.00	0.00	m	m	Upper_shoreface/foreshore	
+2420.80	6507_8-1	75.17	Sandstone	 	 	100.00	0.00	0.00	m	m	Upper_shoreface/foreshore	
+2420.90	6507_8-1	75.84	Sandstone	 	 	100.00	0.00	0.00	m	m	Upper_shoreface/foreshore	
+2421.00	6507_8-1	75.87	Sandstone	 	 	100.00	0.00	0.00	m	m	Upper_shoreface/foreshore	
+2421.10	6507_8-1	75.66	Sandstone	 	 	100.00	0.00	0.00	m	m	Upper_shoreface/foreshore	
+2421.20	6507_8-1	75.46	Sandstone	 	 	100.00	0.00	0.00	m	m	Upper_shoreface/foreshore	
+2421.30	6507_8-1	75.25	Sandstone	 	 	100.00	0.00	0.00	m	m	Upper_shoreface/foreshore	
+2421.40	6507_8-1	75.10	Sandstone	 	 	100.00	0.00	0.00	m	m	Upper_shoreface/foreshore	
+2421.50	6507_8-1	75.24	Sandstone	 	 	100.00	0.00	0.00	m	m	Upper_shoreface/foreshore	
+2421.60	6507_8-1	75.38	Sandstone	 	 	100.00	0.00	0.00	m	m	Upper_shoreface/foreshore	
+2421.70	6507_8-1	75.51	Sandstone	 	 	100.00	0.00	0.00	m	m	Upper_shoreface/foreshore	
+2421.80	6507_8-1	75.65	Sandstone	 	 	100.00	0.00	0.00	m	m	Upper_shoreface/foreshore	
+2421.90	6507_8-1	75.78	Sandstone	 	 	100.00	0.00	0.00	m	m	Upper_shoreface/foreshore	
+2422.00	6507_8-1	75.26	Sandstone	 	 	100.00	0.00	0.00	m	m	Upper_shoreface/foreshore	
+2422.10	6507_8-1	74.36	Sandstone	 	 	100.00	0.00	0.00	m	m	Upper_shoreface/foreshore	
+2422.20	6507_8-1	73.45	Sandstone	 	 	100.00	0.00	0.00	m	m	Upper_shoreface/foreshore	
+2422.30	6507_8-1	72.55	Sandstone	 	 	100.00	0.00	0.00	m	m	Upper_shoreface/foreshore	
+2422.40	6507_8-1	71.65	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Upper_shoreface/foreshore	
+2422.50	6507_8-1	71.44	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Upper_shoreface/foreshore	
+2422.60	6507_8-1	71.36	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Upper_shoreface/foreshore	
+2422.70	6507_8-1	72.23	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Upper_shoreface/foreshore	
+2422.80	6507_8-1	74.34	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Upper_shoreface/foreshore	
+2422.90	6507_8-1	76.45	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc		
+2423.00	6507_8-1	78.56	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc		
+2423.10	6507_8-1	80.68	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc		
+2423.20	6507_8-1	82.79	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc		
+2423.30	6507_8-1	83.25	Sandstone	 	 	100.00	0.00	0.00	c	c		
+2423.40	6507_8-1	82.99	Sandstone	 	 	100.00	0.00	0.00	c	c		
+2423.50	6507_8-1	80.50	Sandstone	 	 	100.00	0.00	0.00	c	c		
+2423.60	6507_8-1	77.97	Sandstone	 	 	100.00	0.00	0.00	c	c		
+2423.70	6507_8-1	75.44	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc		
+2423.80	6507_8-1	72.91	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc		
+2423.90	6507_8-1	70.39	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc		
+2424.00	6507_8-1	69.23	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc		
+2424.10	6507_8-1	68.66	Sandstone	Shale	 	82.00	18.00	0.00	f/m	f/m		
+2424.20	6507_8-1	68.10	Sandstone	Shale	 	82.00	18.00	0.00	f/m	f/m		
+2424.30	6507_8-1	67.54	Sandstone	Shale	 	82.00	18.00	0.00	f/m	f/m		
+2424.40	6507_8-1	66.97	Sandstone	Shale	 	82.00	18.00	0.00	f/m	f/m		
+2424.50	6507_8-1	66.41	Sandstone	Shale	 	82.00	18.00	0.00	f/m	f/m		
+2424.60	6507_8-1	67.96	Sandstone	Shale	 	82.00	18.00	0.00	f/m	f/m		
+2424.70	6507_8-1	70.78	Sandstone	Shale	 	82.00	18.00	0.00	f/m	f/m		
+2424.80	6507_8-1	73.91	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c		
+2424.90	6507_8-1	75.74	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c		
+2425.00	6507_8-1	76.58	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c		
+2425.10	6507_8-1	77.41	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c		
+2425.20	6507_8-1	78.25	Sandstone	Shale	 	93.00	7.00	0.00	f/m	m		
+2425.30	6507_8-1	78.66	Sandstone	Shale	 	93.00	7.00	0.00	f/m	m		
+2425.40	6507_8-1	79.05	Sandstone	Shale	 	93.00	7.00	0.00	f/m	m		
+2425.50	6507_8-1	79.44	Sandstone	Shale	 	93.00	7.00	0.00	f/m	m		
+2425.60	6507_8-1	80.30	Sandstone	Shale	 	93.00	7.00	0.00	f/m	m		
+2425.70	6507_8-1	81.48	Sandstone	Shale	 	93.00	7.00	0.00	f/m	m		
+2425.80	6507_8-1	82.65	Sandstone	Shale	 	93.00	7.00	0.00	f/m	m		
+2425.90	6507_8-1	83.83	Sandstone	 	 	100.00	0.00	0.00	m	m		
+2426.00	6507_8-1	85.00	Sandstone	 	 	100.00	0.00	0.00	m	m		
+2426.10	6507_8-1	85.62	Sandstone	 	 	100.00	0.00	0.00	m	m		
+2426.20	6507_8-1	84.99	Sandstone	 	 	100.00	0.00	0.00	m	m		
+2426.30	6507_8-1	84.37	Sandstone	 	 	100.00	0.00	0.00	f	vf		
+2426.40	6507_8-1	83.75	Sandstone	 	 	100.00	0.00	0.00	f	vf		
+2426.50	6507_8-1	83.13	Sandstone	 	 	100.00	0.00	0.00	f	vf		
+2426.60	6507_8-1	82.50	Sandstone	 	 	100.00	0.00	0.00	f	vf		
+2426.70	6507_8-1	81.88	Sandstone	 	 	100.00	0.00	0.00	f	vf		
+2426.80	6507_8-1	81.26	Sandstone	 	 	100.00	0.00	0.00	f	vf		
+2426.90	6507_8-1	80.73	Sandstone	 	 	100.00	0.00	0.00	f	vf		
+2427.00	6507_8-1	80.73	Sandstone	 	 	100.00	0.00	0.00	f	vf		
+2427.10	6507_8-1	80.73	Sandstone	 	 	100.00	0.00	0.00	f	vf		
+2427.20	6507_8-1	81.90	Sandstone	 	 	100.00	0.00	0.00	f	vf		
+2427.30	6507_8-1	83.10	Sandstone	 	 	100.00	0.00	0.00	granule/pebble	granule	Erosion	
+2427.40	6507_8-1	84.29	Sandstone	 	 	100.00	0.00	0.00	granule/pebble	granule	Erosion	
+2427.50	6507_8-1	85.49	Sandstone	 	 	100.00	0.00	0.00	granule/pebble	granule	Erosion	
+2427.60	6507_8-1	86.15	Sandstone	 	 	100.00	0.00	0.00	granule/pebble	granule	Erosion	
+2427.70	6507_8-1	86.05	Sandstone	 	 	100.00	0.00	0.00	granule/pebble	granule	Erosion	
+2427.80	6507_8-1	85.95	Sandstone	Shale	 	60.00	40.00	0.00	vf/f	vf/f	Mixed_tidal_flat	
+2427.90	6507_8-1	85.85	Sandstone	Shale	 	60.00	40.00	0.00	vf/f	vf/f	Mixed_tidal_flat	
+2428.00	6507_8-1	86.03	Sandstone	Shale	 	60.00	40.00	0.00	vf/f	vf/f	Mixed_tidal_flat	
+2428.10	6507_8-1	86.43	Sandstone	Shale	 	60.00	40.00	0.00	vf/f	vf/f	Mixed_tidal_flat	
+2428.20	6507_8-1	86.82	Sandstone	Shale	 	60.00	40.00	0.00	vf/f	vf/f	Mixed_tidal_flat	
+2428.30	6507_8-1	87.21	Sandstone	Shale	 	60.00	40.00	0.00	vf/f	vf/f	Mixed_tidal_flat	
+2428.40	6507_8-1	87.05	Sandstone	Shale	 	60.00	40.00	0.00	vf/f	vf/f	Mixed_tidal_flat	
+2428.50	6507_8-1	86.69	Sandstone	Shale	 	60.00	40.00	0.00	vf/f	vf/f	Mixed_tidal_flat	
+2428.60	6507_8-1	86.33	Sandstone	Shale	 	60.00	40.00	0.00	vf/f	vf/f	Mixed_tidal_flat	
+2428.70	6507_8-1	87.13	Sandstone	Shale	 	60.00	40.00	0.00	vf/f	vf/f	Mixed_tidal_flat	
+2428.80	6507_8-1	88.34	Sandstone	Shale	 	60.00	40.00	0.00	vf/f	vf/f	Mixed_tidal_flat	
+2428.90	6507_8-1	87.68	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2429.00	6507_8-1	87.02	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2429.10	6507_8-1	86.36	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2429.20	6507_8-1	85.69	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2429.30	6507_8-1	85.03	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2429.40	6507_8-1	84.37	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2429.50	6507_8-1	83.71	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2429.60	6507_8-1	83.85	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2429.70	6507_8-1	84.86	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2429.80	6507_8-1	86.00	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2429.90	6507_8-1	88.66	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2430.00	6507_8-1	91.33	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2430.10	6507_8-1	93.99	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2430.20	6507_8-1	96.66	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2430.30	6507_8-1	99.24	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2430.40	6507_8-1	101.59	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2430.50	6507_8-1	103.94	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2430.60	6507_8-1	106.29	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2430.70	6507_8-1	108.64	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2430.80	6507_8-1	108.68	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2430.90	6507_8-1	107.74	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2431.00	6507_8-1	106.80	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2431.10	6507_8-1	106.01	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2431.20	6507_8-1	106.57	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2431.30	6507_8-1	107.13	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2431.40	6507_8-1	107.69	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2431.50	6507_8-1	108.49	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2431.60	6507_8-1	109.37	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2431.70	6507_8-1	110.26	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2431.80	6507_8-1	111.15	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2431.90	6507_8-1	112.04	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2432.00	6507_8-1	112.93	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2432.10	6507_8-1	113.81	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2432.20	6507_8-1	113.21	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2432.30	6507_8-1	111.25	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2432.40	6507_8-1	109.29	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2432.50	6507_8-1	107.54	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2432.60	6507_8-1	106.90	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2432.70	6507_8-1	106.26	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2432.80	6507_8-1	106.22	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2432.90	6507_8-1	106.75	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2433.00	6507_8-1	107.27	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2433.10	6507_8-1	108.80	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2433.20	6507_8-1	110.91	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2433.30	6507_8-1	113.02	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2433.40	6507_8-1	114.05	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2433.50	6507_8-1	113.28	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2433.60	6507_8-1	111.88	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2433.70	6507_8-1	110.48	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2433.80	6507_8-1	109.07	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2433.90	6507_8-1	107.64	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2434.00	6507_8-1	106.21	Sandstone	Shale	 	57.00	43.00	0.00	silt/vf	vf	Mixed_tidal_flat	
+2434.10	6507_8-1	104.78	 	 								
+2434.20	6507_8-1	103.35	 	 								
+2434.30	6507_8-1	101.92	 	 								
+2434.40	6507_8-1	101.75	 	 								
+2434.50	6507_8-1	102.22	 	 								
+2434.60	6507_8-1	102.93	 	 								
+2434.70	6507_8-1	104.37	 	 								
+2434.80	6507_8-1	105.81	 	 								
+2434.90	6507_8-1	107.24	 	 								
+2435.00	6507_8-1	108.68	 	 								
+2435.10	6507_8-1	110.12	 	 								
+2435.20	6507_8-1	111.55	 	 								
+2435.30	6507_8-1	112.84	 	 								
+2435.40	6507_8-1	111.21	 	 								
+2435.50	6507_8-1	109.58	 	 								
+2435.60	6507_8-1	107.96	 	 								
+2435.70	6507_8-1	107.33	 	 								
+2435.80	6507_8-1	106.78	 	 								
+2435.90	6507_8-1	106.93	 	 								
+2436.00	6507_8-1	107.71	 	 								
+2436.10	6507_8-1	108.49	 	 								
+2436.20	6507_8-1	109.10	 	 								
+2436.30	6507_8-1	108.76	 	 								
+2436.40	6507_8-1	106.97	 	 								
+2436.50	6507_8-1	103.57	 	 								
+2436.60	6507_8-1	100.18	 	 								
+2436.70	6507_8-1	96.78	 	 								
+2436.80	6507_8-1	93.39	 	 								
+2436.90	6507_8-1	89.99	 	 								
+2437.00	6507_8-1	86.52	 	 								
+2437.10	6507_8-1	86.44	 	 								
+2437.20	6507_8-1	86.82	 	 								
+2437.30	6507_8-1	88.24	 	 								
+2437.40	6507_8-1	89.67	 	 								
+2437.50	6507_8-1	91.10	 	 								
+2437.60	6507_8-1	92.11	 	 								
+2437.70	6507_8-1	91.66	 	 								
+2437.80	6507_8-1	91.20	 	 								
+2437.90	6507_8-1	90.75	 	 								
+2438.00	6507_8-1	90.30	 	 								
+2438.10	6507_8-1	91.15	 	 								
+2438.20	6507_8-1	92.67	 	 								
+2438.30	6507_8-1	94.20	 	 								
+2438.40	6507_8-1	95.73	 	 								
+2438.50	6507_8-1	97.26	 	 								
+2438.60	6507_8-1	98.42	 	 								
+2438.70	6507_8-1	97.66	 	 								
+2438.80	6507_8-1	95.92	 	 								
+2438.90	6507_8-1	94.06	 	 								
+2439.00	6507_8-1	92.08	 	 								
+2439.10	6507_8-1	90.10	Limestone	Shale	 	70.00	30.00	0.00	silt/vf	f	Exposure_Upper_shoreface_Foreshore	
+2439.20	6507_8-1	88.12	Limestone	Shale	 	70.00	30.00	0.00	silt/vf	f	Exposure_Upper_shoreface_Foreshore	
+2439.30	6507_8-1	87.33	Sandstone	Shale	 	80.00	20.00	0.00	f/m	silt/vf	Exposure_Upper_shoreface_Foreshore	
+2439.40	6507_8-1	88.30	Sandstone	Shale	 	80.00	20.00	0.00	f/m	silt/vf	Exposure_Upper_shoreface_Foreshore	
+2439.50	6507_8-1	89.27	Sandstone	Shale	 	80.00	20.00	0.00	f/m	silt/vf	Exposure_Upper_shoreface_Foreshore	
+2439.60	6507_8-1	90.24	Sandstone	Shale	 	80.00	20.00	0.00	f/m	silt/vf	Exposure_Upper_shoreface_Foreshore	
+2439.70	6507_8-1	91.21	Sandstone	Shale	 	80.00	20.00	0.00	f/m	silt/vf	Exposure_Upper_shoreface_Foreshore	
+2439.80	6507_8-1	92.54	Sandstone	Shale	 	80.00	20.00	0.00	f/m	silt/vf	Exposure_Upper_shoreface_Foreshore	
+2439.90	6507_8-1	94.50	Sandstone	Shale	 	80.00	20.00	0.00	f/m	silt/vf	Exposure_Upper_shoreface_Foreshore	
+2440.00	6507_8-1	96.46	Sandstone	Limestone	Shale	66.00	9.00	25.00	silt/vf	f/m	Exposure_Upper_shoreface_Foreshore	
+2440.10	6507_8-1	96.71	Sandstone	Limestone	Shale	66.00	9.00	25.00	silt/vf	f/m	Exposure_Upper_shoreface_Foreshore	
+2440.20	6507_8-1	96.88	Sandstone	Limestone	Shale	66.00	9.00	25.00	silt/vf	f/m	Exposure_Upper_shoreface_Foreshore	
+2440.30	6507_8-1	96.67	Sandstone	Limestone	Shale	66.00	9.00	25.00	silt/vf	f/m	Exposure_Upper_shoreface_Foreshore	
+2440.40	6507_8-1	96.35	Sandstone	Limestone	Shale	66.00	9.00	25.00	silt/vf	f/m	Exposure_Upper_shoreface_Foreshore	
+2440.50	6507_8-1	96.48	Sandstone	Limestone	Shale	66.00	9.00	25.00	silt/vf	f/m	Exposure_Upper_shoreface_Foreshore	
+2440.60	6507_8-1	97.30	Sandstone	Limestone	Shale	66.00	9.00	25.00	silt/vf	f/m	Exposure_Upper_shoreface_Foreshore	
+2440.70	6507_8-1	98.12	Sandstone	Limestone	Shale	66.00	9.00	25.00	silt/vf	f/m	Exposure_Upper_shoreface_Foreshore	
+2440.80	6507_8-1	98.93	Sandstone	Limestone	Shale	66.00	9.00	25.00	silt/vf	f/m	Exposure_Upper_shoreface_Foreshore	
+2440.90	6507_8-1	99.75	Sandstone	Limestone	Shale	66.00	9.00	25.00	silt/vf	f/m	Exposure_Upper_shoreface_Foreshore	
+2441.00	6507_8-1	100.56	Sandstone	Limestone	Shale	66.00	9.00	25.00	silt/vf	f/m	Exposure_Upper_shoreface_Foreshore	
+2441.10	6507_8-1	100.18	Sandstone	Limestone	Shale	66.00	9.00	25.00	silt/vf	f/m	Exposure_Upper_shoreface_Foreshore	
+2441.20	6507_8-1	99.08	Sandstone	Shale	 	73.00	27.00	0.00	f/m	silt/vf	Exposure_Upper_shoreface_Foreshore	
+2441.30	6507_8-1	97.97	Sandstone	Shale	 	73.00	27.00	0.00	f/m	silt/vf	Exposure_Upper_shoreface_Foreshore	
+2441.40	6507_8-1	96.87	Sandstone	Shale	 	73.00	27.00	0.00	f/m	silt/vf	Exposure_Upper_shoreface_Foreshore	
+2441.50	6507_8-1	95.76	Sandstone	Shale	 	73.00	27.00	0.00	f/m	silt/vf	Exposure_Upper_shoreface_Foreshore	
+2441.60	6507_8-1	93.94	Sandstone	Shale	 	73.00	27.00	0.00	f/m	silt/vf	Exposure_Upper_shoreface_Foreshore	
+2441.70	6507_8-1	90.71	Sandstone	Shale	 	90.00	10.00	0.00	f/m	m	Exposure_Upper_shoreface_Foreshore	
+2441.80	6507_8-1	88.17	Sandstone	Shale	 	90.00	10.00	0.00	f/m	m	Exposure_Upper_shoreface_Foreshore	
+2441.90	6507_8-1	86.60	Sandstone	Shale	 	90.00	10.00	0.00	f/m	m	Exposure_Upper_shoreface_Foreshore	
+2442.00	6507_8-1	85.04	Sandstone	Shale	 	90.00	10.00	0.00	f/m	m	Exposure_Upper_shoreface_Foreshore	
+2442.10	6507_8-1	83.92	Sandstone	Shale	 	90.00	10.00	0.00	f/m	m	Exposure_Upper_shoreface_Foreshore	
+2442.20	6507_8-1	83.21	Sandstone	Shale	 	90.00	10.00	0.00	f/m	m	Exposure_Upper_shoreface_Foreshore	
+2442.30	6507_8-1	82.50	Sandstone	Shale	 	90.00	10.00	0.00	f/m	m	Exposure_Upper_shoreface_Foreshore	
+2442.40	6507_8-1	82.42	Sandstone	Shale	 	90.00	10.00	0.00	f/m	m	Exposure_Upper_shoreface_Foreshore	
+2442.50	6507_8-1	82.42	Sandstone	Shale	 	90.00	10.00	0.00	f/m	m	Exposure_Upper_shoreface_Foreshore	
+2442.60	6507_8-1	82.42	Sandstone	Shale	 	90.00	10.00	0.00	f/m	m	Exposure_Upper_shoreface_Foreshore	
+2442.70	6507_8-1	82.77	Sandstone	Shale	 	90.00	10.00	0.00	f/m	m	Exposure_Upper_shoreface_Foreshore	
+2442.80	6507_8-1	83.97	Sandstone	Shale	 	90.00	10.00	0.00	f/m	m	Exposure_Upper_shoreface_Foreshore	
+2442.90	6507_8-1	85.18	Sandstone	Shale	 	90.00	10.00	0.00	f/m	m	Exposure_Upper_shoreface_Foreshore	
+2443.00	6507_8-1	86.38	Sandstone	Shale	 	90.00	10.00	0.00	f/m	m	Exposure_Upper_shoreface_Foreshore	
+2443.10	6507_8-1	87.59	Sandstone	Shale	 	90.00	10.00	0.00	f/m	m	Exposure_Upper_shoreface_Foreshore	
+2443.20	6507_8-1	88.79	Sandstone	Shale	 	90.00	10.00	0.00	f/m	m	Exposure_Upper_shoreface_Foreshore	
+2443.30	6507_8-1	90.01	Sandstone	Shale	 	90.00	10.00	0.00	f/m	m	Exposure_Upper_shoreface_Foreshore	
+2443.40	6507_8-1	91.39	Sandstone	Shale	 	90.00	10.00	0.00	f/m	m	Exposure_Upper_shoreface_Foreshore	
+2443.50	6507_8-1	92.78	Sandstone	Shale	 	90.00	10.00	0.00	f/m	m	Exposure_Upper_shoreface_Foreshore	
+2443.60	6507_8-1	94.17	Sandstone	Shale	 	90.00	10.00	0.00	f/m	m	Exposure_Upper_shoreface_Foreshore	
+2443.70	6507_8-1	94.28	Sandstone	Shale	 	90.00	10.00	0.00	f/m	m	Exposure_Upper_shoreface_Foreshore	
+2443.80	6507_8-1	94.05	Sandstone	Shale	 	90.00	10.00	0.00	f/m	m	Exposure_Upper_shoreface_Foreshore	
+2443.90	6507_8-1	93.56	Sandstone	Shale	 	90.00	10.00	0.00	f/m	m	Exposure_Upper_shoreface_Foreshore	
+2444.00	6507_8-1	93.77	Sandstone	Shale	 	90.00	10.00	0.00	f/m	m	Exposure_Upper_shoreface_Foreshore	
+2444.10	6507_8-1	94.56	Sandstone	Shale	 	90.00	10.00	0.00	f/m	m	Exposure_Upper_shoreface_Foreshore	
+2444.20	6507_8-1	95.34	Sandstone	Shale	 	90.00	10.00	0.00	f/m	m	Exposure_Upper_shoreface_Foreshore	
+2444.30	6507_8-1	96.12	Sandstone	Shale	 	90.00	10.00	0.00	f/m	m	Exposure_Upper_shoreface_Foreshore	
+2444.40	6507_8-1	96.91	Sandstone	Shale	Coal	86.00	10.00	4.00	vf/f	m	Exposure_Upper_shoreface_Foreshore	
+2444.50	6507_8-1	97.63	Sandstone	Shale	Coal	86.00	10.00	4.00	vf/f	m	Exposure_Upper_shoreface_Foreshore	
+2444.60	6507_8-1	96.06	Sandstone	Shale	Coal	86.00	10.00	4.00	vf/f	m	Exposure_Upper_shoreface_Foreshore	
+2444.70	6507_8-1	94.50	Sandstone	Shale	Coal	86.00	10.00	4.00	vf/f	m	Exposure_Upper_shoreface_Foreshore	
+2444.80	6507_8-1	92.93	Sandstone	Shale	Coal	86.00	10.00	4.00	vf/f	m	Exposure_Upper_shoreface_Foreshore	
+2444.90	6507_8-1	92.61	Sandstone	Shale	Coal	86.00	10.00	4.00	vf/f	m	Exposure_Upper_shoreface_Foreshore	
+2445.00	6507_8-1	92.94	Sandstone	Shale	Coal	86.00	10.00	4.00	vf/f	m	Exposure_Upper_shoreface_Foreshore	
+2445.10	6507_8-1	93.26	Sandstone	Shale	Coal	86.00	10.00	4.00	vf/f	m	Exposure_Upper_shoreface_Foreshore	
+2445.20	6507_8-1	93.58	Sandstone	Shale	Coal	86.00	10.00	4.00	vf/f	m	Exposure_Upper_shoreface_Foreshore	
+2445.30	6507_8-1	93.13	Sandstone	Shale	Coal	86.00	10.00	4.00	vf/f	m	Exposure_Upper_shoreface_Foreshore	
+2445.40	6507_8-1	92.10	Sandstone	Shale	Coal	86.00	10.00	4.00	vf/f	m	Exposure_Upper_shoreface_Foreshore	
+2445.50	6507_8-1	91.08	Sandstone	Shale	Coal	86.00	10.00	4.00	vf/f	m	Exposure_Upper_shoreface_Foreshore	
+2445.60	6507_8-1	90.05	Sandstone	Shale	Coal	86.00	10.00	4.00	vf/f	m	Exposure_Upper_shoreface_Foreshore	
+2445.70	6507_8-1	89.03	Sandstone	Shale	Coal	86.00	10.00	4.00	vf/f	m	Exposure_Upper_shoreface_Foreshore	
+2445.80	6507_8-1	88.00	Sandstone	Shale	Coal	86.00	10.00	4.00	vf/f	m	Exposure_Upper_shoreface_Foreshore	
+2445.90	6507_8-1	87.38	Sandstone	Shale	 	55.00	45.00	0.00	vf/f	f	Exposure_Upper_shoreface_Foreshore	
+2446.00	6507_8-1	87.58	Sandstone	Shale	 	55.00	45.00	0.00	vf/f	f	Exposure_Upper_shoreface_Foreshore	
+2446.10	6507_8-1	87.77	Sandstone	Shale	 	68.00	32.00	0.00	vf	f/m	Exposure_Upper_shoreface_Foreshore	
+2446.20	6507_8-1	88.29	Sandstone	Shale	 	68.00	32.00	0.00	vf	f/m	Exposure_Upper_shoreface_Foreshore	
+2446.30	6507_8-1	89.21	Sandstone	Shale	 	68.00	32.00	0.00	vf	f/m	Exposure_Upper_shoreface_Foreshore	
+2446.40	6507_8-1	90.13	Sandstone	Shale	 	68.00	32.00	0.00	vf	f/m	Exposure_Upper_shoreface_Foreshore	
+2446.50	6507_8-1	91.05	Sandstone	Shale	 	80.00	20.00	0.00	silt/vf	f/m	Exposure_Upper_shoreface_Foreshore	
+2446.60	6507_8-1	91.97	Sandstone	Shale	 	80.00	20.00	0.00	silt/vf	f/m	Exposure_Upper_shoreface_Foreshore	
+2446.70	6507_8-1	92.89	Sandstone	Shale	 	80.00	20.00	0.00	silt/vf	f/m	Exposure_Upper_shoreface_Foreshore	
+2446.80	6507_8-1	93.80	Sandstone	Shale	 	80.00	20.00	0.00	silt/vf	f/m	Exposure_Upper_shoreface_Foreshore	
+2446.90	6507_8-1	94.89	Sandstone	Shale	 	80.00	20.00	0.00	silt/vf	f/m	Exposure_Upper_shoreface_Foreshore	
+2447.00	6507_8-1	96.17	Sandstone	Limestone	Shale	81.00	8.00	11.00	vf/f	vf	Lower_-_upper_shoreface	
+2447.10	6507_8-1	97.44	Sandstone	Limestone	Shale	81.00	8.00	11.00	vf/f	vf	Lower_-_upper_shoreface	
+2447.20	6507_8-1	98.71	Sandstone	Limestone	Shale	81.00	8.00	11.00	vf/f	vf	Lower_-_upper_shoreface	
+2447.30	6507_8-1	99.98	Sandstone	Limestone	Shale	81.00	8.00	11.00	vf/f	vf	Lower_-_upper_shoreface	
+2447.40	6507_8-1	101.26	Sandstone	Limestone	Shale	81.00	8.00	11.00	vf/f	vf	Lower_-_upper_shoreface	
+2447.50	6507_8-1	102.53	Sandstone	Limestone	Shale	81.00	8.00	11.00	vf/f	vf	Lower_-_upper_shoreface	
+2447.60	6507_8-1	103.80	Sandstone	Limestone	Shale	81.00	8.00	11.00	vf/f	vf	Lower_-_upper_shoreface	
+2447.70	6507_8-1	103.45	Sandstone	Limestone	Shale	81.00	8.00	11.00	vf/f	vf	Lower_-_upper_shoreface	
+2447.80	6507_8-1	101.28	Sandstone	Limestone	Shale	81.00	8.00	11.00	vf/f	vf	Lower_-_upper_shoreface	
+2447.90	6507_8-1	98.83	Sandstone	Limestone	Shale	81.00	8.00	11.00	vf/f	vf	Lower_-_upper_shoreface	
+2448.00	6507_8-1	96.37	Sandstone	Limestone	Shale	81.00	8.00	11.00	vf/f	vf	Lower_-_upper_shoreface	
+2448.10	6507_8-1	94.58	Sandstone	Limestone	Shale	81.00	8.00	11.00	vf/f	vf	Lower_-_upper_shoreface	
+2448.20	6507_8-1	95.05	Sandstone	Limestone	Shale	81.00	8.00	11.00	vf/f	vf	Lower_-_upper_shoreface	
+2448.30	6507_8-1	95.52	Sandstone	Limestone	Shale	81.00	8.00	11.00	vf/f	vf	Lower_-_upper_shoreface	
+2448.40	6507_8-1	95.99	Sandstone	Limestone	Shale	77.00	15.00	8.00	f	f	Lower_-_upper_shoreface	
+2448.50	6507_8-1	96.46	Sandstone	Limestone	Shale	77.00	15.00	8.00	f	f	Lower_-_upper_shoreface	
+2448.60	6507_8-1	96.44	Sandstone	Limestone	Shale	77.00	15.00	8.00	f	f	Lower_-_upper_shoreface	
+2448.70	6507_8-1	95.75	Sandstone	Limestone	Shale	77.00	15.00	8.00	f	f	Lower_-_upper_shoreface	
+2448.80	6507_8-1	95.06	Sandstone	Limestone	Shale	77.00	15.00	8.00	f	f	Lower_-_upper_shoreface	
+2448.90	6507_8-1	94.36	Sandstone	Limestone	Shale	77.00	15.00	8.00	f	f	Lower_-_upper_shoreface	
+2449.00	6507_8-1	93.92	Sandstone	Limestone	Shale	77.00	15.00	8.00	f	f	Lower_-_upper_shoreface	
+2449.10	6507_8-1	93.97	Sandstone	Limestone	Shale	77.00	15.00	8.00	f	f	Lower_-_upper_shoreface	
+2449.20	6507_8-1	94.01	Sandstone	Limestone	Shale	77.00	15.00	8.00	f	f	Lower_-_upper_shoreface	
+2449.30	6507_8-1	94.06	Sandstone	Limestone	Shale	77.00	15.00	8.00	f	f	Lower_-_upper_shoreface	
+2449.40	6507_8-1	93.70	Sandstone	Limestone	Shale	77.00	15.00	8.00	f	f	Lower_-_upper_shoreface	
+2449.50	6507_8-1	92.13	Sandstone	Limestone	Shale	77.00	15.00	8.00	f	f	Lower_-_upper_shoreface	
+2449.60	6507_8-1	90.90	Sandstone	Limestone	Shale	77.00	15.00	8.00	f	f	Lower_-_upper_shoreface	
+2449.70	6507_8-1	90.34	Sandstone	Limestone	Shale	77.00	15.00	8.00	f	f	Lower_-_upper_shoreface	
+2449.80	6507_8-1	89.97	Sandstone	Limestone	Shale	77.00	15.00	8.00	f	f	Lower_-_upper_shoreface	
+2449.90	6507_8-1	89.71	Sandstone	Limestone	Shale	77.00	15.00	8.00	f	f	Lower_-_upper_shoreface	
+2450.00	6507_8-1	88.31	Sandstone	Limestone	Shale	77.00	15.00	8.00	f	f	Lower_-_upper_shoreface	
+2450.10	6507_8-1	85.70	Sandstone	Limestone	Shale	77.00	15.00	8.00	f	f	Lower_-_upper_shoreface	
+2450.20	6507_8-1	83.09	Sandstone	Limestone	Shale	77.00	15.00	8.00	f	f	Lower_-_upper_shoreface	
+2450.30	6507_8-1	80.47	Sandstone	Limestone	Shale	77.00	15.00	8.00	f	f	Lower_-_upper_shoreface	
+2450.40	6507_8-1	77.86	Sandstone	Shale	 	97.00	3.00	0.00	silt/vf	f/m	Lower_-_upper_shoreface	
+2450.50	6507_8-1	77.59	Sandstone	Shale	 	97.00	3.00	0.00	silt/vf	f/m	Lower_-_upper_shoreface	
+2450.60	6507_8-1	80.30	Sandstone	Shale	 	97.00	3.00	0.00	silt/vf	f/m	Lower_-_upper_shoreface	
+2450.70	6507_8-1	83.01	Sandstone	Shale	 	97.00	3.00	0.00	silt/vf	f/m	Lower_-_upper_shoreface	
+2450.80	6507_8-1	86.11	Sandstone	Shale	 	77.00	23.00	0.00	vf	f/m	Lower_-_upper_shoreface	
+2450.90	6507_8-1	90.02	Sandstone	Shale	 	77.00	23.00	0.00	vf	f/m	Lower_-_upper_shoreface	
+2451.00	6507_8-1	91.88	Sandstone	Shale	 	77.00	23.00	0.00	vf	f/m	Lower_-_upper_shoreface	
+2451.10	6507_8-1	92.56	Sandstone	Shale	 	77.00	23.00	0.00	vf	f/m	Lower_-_upper_shoreface	
+2451.20	6507_8-1	91.84	Sandstone	Shale	 	77.00	23.00	0.00	vf	f/m	Lower_-_upper_shoreface	
+2451.30	6507_8-1	91.06	Sandstone	Shale	 	77.00	23.00	0.00	vf	f/m	Lower_-_upper_shoreface	
+2451.40	6507_8-1	90.27	Sandstone	Shale	 	88.00	12.00	0.00	vf	f/m	Lower_-_upper_shoreface	
+2451.50	6507_8-1	89.49	Sandstone	Shale	 	88.00	12.00	0.00	vf	f/m	Lower_-_upper_shoreface	
+2451.60	6507_8-1	89.49	Sandstone	Shale	 	88.00	12.00	0.00	vf	f/m	Lower_-_upper_shoreface	
+2451.70	6507_8-1	89.96	Sandstone	Shale	 	88.00	12.00	0.00	vf	f/m	Lower_-_upper_shoreface	
+2451.80	6507_8-1	90.43	Sandstone	Shale	 	88.00	12.00	0.00	vf	f/m	Lower_-_upper_shoreface	
+2451.90	6507_8-1	90.90	Sandstone	Shale	 	88.00	12.00	0.00	vf	f/m	Lower_-_upper_shoreface	
+2452.00	6507_8-1	91.37	Sandstone	Shale	 	90.00	10.00	0.00	vf/f	f/m	Lower_-_upper_shoreface	
+2452.10	6507_8-1	91.38	Sandstone	Shale	 	90.00	10.00	0.00	vf/f	f/m	Lower_-_upper_shoreface	
+2452.20	6507_8-1	91.28	Sandstone	Shale	 	90.00	10.00	0.00	vf/f	f/m	Lower_-_upper_shoreface	
+2452.30	6507_8-1	91.18	Sandstone	Shale	 	90.00	10.00	0.00	vf/f	f/m	Lower_-_upper_shoreface	
+2452.40	6507_8-1	91.08	Sandstone	Shale	 	90.00	10.00	0.00	vf/f	f/m	Lower_-_upper_shoreface	
+2452.50	6507_8-1	90.99	Sandstone	Shale	 	90.00	10.00	0.00	vf/f	f/m	Lower_-_upper_shoreface	
+2452.60	6507_8-1	90.97	Sandstone	Shale	 	90.00	10.00	0.00	vf/f	f/m	Lower_-_upper_shoreface	
+2452.70	6507_8-1	92.40	Sandstone	Shale	 	30.00	70.00	0.00	vf	vf/f	Lower_-_upper_shoreface	
+2452.80	6507_8-1	93.83	Sandstone	Shale	 	30.00	70.00	0.00	vf	vf/f	Lower_-_upper_shoreface	
+2452.90	6507_8-1	95.26	Sandstone	Shale	 	30.00	70.00	0.00	vf	vf/f	Lower_-_upper_shoreface	
+2453.00	6507_8-1	96.69	Sandstone	Shale	 	30.00	70.00	0.00	vf	vf/f	Lower_-_upper_shoreface	
+2453.10	6507_8-1	97.11	Sandstone	Shale	 	30.00	70.00	0.00	vf	vf/f	Lower_-_upper_shoreface	
+2453.20	6507_8-1	96.79	Sandstone	Shale	 	30.00	70.00	0.00	vf	vf/f	Lower_-_upper_shoreface	
+2453.30	6507_8-1	95.84	Sandstone	Shale	 	30.00	70.00	0.00	vf	vf/f	Lower_-_upper_shoreface	
+2453.40	6507_8-1	94.89	Sandstone	Shale	 	30.00	70.00	0.00	vf	vf/f	Lower_-_upper_shoreface	
+2453.50	6507_8-1	93.94	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2453.60	6507_8-1	92.99	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2453.70	6507_8-1	92.03	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2453.80	6507_8-1	91.08	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2453.90	6507_8-1	90.80	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2454.00	6507_8-1	90.69	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2454.10	6507_8-1	90.58	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2454.20	6507_8-1	90.27	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2454.30	6507_8-1	89.72	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2454.40	6507_8-1	89.17	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2454.50	6507_8-1	88.62	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2454.60	6507_8-1	88.12	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2454.70	6507_8-1	88.58	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2454.80	6507_8-1	89.17	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2454.90	6507_8-1	89.76	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2455.00	6507_8-1	89.63	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2455.10	6507_8-1	89.50	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2455.20	6507_8-1	89.37	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2455.30	6507_8-1	89.24	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2455.40	6507_8-1	89.11	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2455.50	6507_8-1	88.98	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2455.60	6507_8-1	88.85	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2455.70	6507_8-1	89.16	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2455.80	6507_8-1	89.60	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2455.90	6507_8-1	90.03	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2456.00	6507_8-1	90.47	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2456.10	6507_8-1	91.14	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2456.20	6507_8-1	92.11	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2456.30	6507_8-1	93.07	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2456.40	6507_8-1	93.26	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2456.50	6507_8-1	91.87	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2456.60	6507_8-1	90.49	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2456.70	6507_8-1	89.11	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2456.80	6507_8-1	87.73	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2456.90	6507_8-1	86.34	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2457.00	6507_8-1	84.96	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2457.10	6507_8-1	83.58	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2457.20	6507_8-1	82.75	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2457.30	6507_8-1	84.79	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2457.40	6507_8-1	86.83	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2457.50	6507_8-1	88.87	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2457.60	6507_8-1	89.50	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2457.70	6507_8-1	89.02	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2457.80	6507_8-1	88.54	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2457.90	6507_8-1	88.07	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2458.00	6507_8-1	87.59	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2458.10	6507_8-1	87.16	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2458.20	6507_8-1	88.14	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2458.30	6507_8-1	89.12	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2458.40	6507_8-1	90.10	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2458.50	6507_8-1	91.08	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2458.60	6507_8-1	91.68	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2458.70	6507_8-1	90.99	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2458.80	6507_8-1	90.31	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2458.90	6507_8-1	89.62	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2459.00	6507_8-1	88.94	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2459.10	6507_8-1	88.25	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2459.20	6507_8-1	87.57	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2459.30	6507_8-1	86.88	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2459.40	6507_8-1	86.65	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2459.50	6507_8-1	86.80	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2459.60	6507_8-1	87.16	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2459.70	6507_8-1	88.77	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2459.80	6507_8-1	90.39	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2459.90	6507_8-1	92.00	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2460.00	6507_8-1	93.56	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2460.10	6507_8-1	94.18	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2460.20	6507_8-1	94.79	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2460.30	6507_8-1	95.41	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2460.40	6507_8-1	96.48	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2460.50	6507_8-1	97.77	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2460.60	6507_8-1	99.06	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2460.70	6507_8-1	99.60	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2460.80	6507_8-1	98.60	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2460.90	6507_8-1	97.59	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2461.00	6507_8-1	96.58	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2461.10	6507_8-1	95.04	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2461.20	6507_8-1	93.47	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2461.30	6507_8-1	91.90	Sandstone	Limestone	 	88.00	12.00	0.00	vf/f	vf/f	Lower_-_upper_shoreface	
+2461.40	6507_8-1	90.34	Sandstone	Limestone	 	90.00	10.00	0.00	vc/granule	c/vc	Lower_-_upper_shoreface	
+2461.50	6507_8-1	88.77	Sandstone	Limestone	 	90.00	10.00	0.00	vc/granule	c/vc	Lower_-_upper_shoreface	
+2461.60	6507_8-1	87.20	Sandstone	Limestone	 	90.00	10.00	0.00	vc/granule	c/vc	Lower_-_upper_shoreface	
+2461.70	6507_8-1	85.63	Sandstone	Limestone	 	90.00	10.00	0.00	vc/granule	c/vc	Lower_-_upper_shoreface	
+2461.80	6507_8-1	85.66	Sandstone	Limestone	 	90.00	10.00	0.00	vc/granule	c/vc	Lower_-_upper_shoreface	
+2461.90	6507_8-1	85.70	Sandstone	Limestone	 	90.00	10.00	0.00	vc/granule	c/vc	Lower_-_upper_shoreface	
+2462.00	6507_8-1	85.75	Sandstone	Limestone	 	90.00	10.00	0.00	vc/granule	c/vc	Lower_-_upper_shoreface	
+2462.10	6507_8-1	85.79	Sandstone	Limestone	 	90.00	10.00	0.00	vc/granule	c/vc	Lower_-_upper_shoreface	
+2462.20	6507_8-1	85.58	Sandstone	Limestone	 	90.00	10.00	0.00	vc/granule	c/vc	Lower_-_upper_shoreface	
+2462.30	6507_8-1	85.05	Sandstone	Limestone	 	90.00	10.00	0.00	vc/granule	c/vc	Lower_-_upper_shoreface	
+2462.40	6507_8-1	84.51	Sandstone	Limestone	 	90.00	10.00	0.00	vc/granule	c/vc	Lower_-_upper_shoreface	
+2462.50	6507_8-1	83.97	Sandstone	Limestone	 	90.00	10.00	0.00	vc/granule	c/vc	Lower_-_upper_shoreface	
+2462.60	6507_8-1	83.44	Sandstone	Shale	 	98.00	2.00	0.00	silt/vf	m/c	Lower_-_upper_shoreface	
+2462.70	6507_8-1	83.60	Sandstone	Shale	 	98.00	2.00	0.00	silt/vf	m/c	Lower_-_upper_shoreface	
+2462.80	6507_8-1	83.88	Sandstone	Shale	 	98.00	2.00	0.00	silt/vf	m/c	Lower_-_upper_shoreface	
+2462.90	6507_8-1	84.15	Sandstone	Shale	 	98.00	2.00	0.00	silt/vf	m/c	Lower_-_upper_shoreface	
+2463.00	6507_8-1	84.43	Sandstone	Shale	 	98.00	2.00	0.00	silt/vf	m/c	Lower_-_upper_shoreface	
+2463.10	6507_8-1	86.07	Sandstone	Shale	 	98.00	2.00	0.00	silt/vf	m/c	Lower_-_upper_shoreface	
+2463.20	6507_8-1	88.10	Sandstone	Shale	 	98.00	2.00	0.00	silt/vf	m/c	Lower_-_upper_shoreface	
+2463.30	6507_8-1	90.13	Sandstone	Shale	 	98.00	2.00	0.00	silt/vf	m/c	Lower_-_upper_shoreface	
+2463.40	6507_8-1	92.15	Sandstone	Shale	 	98.00	2.00	0.00	silt/vf	m/c	Lower_-_upper_shoreface	
+2463.50	6507_8-1	93.53	Sandstone	Shale	 	98.00	2.00	0.00	silt/vf	m/c	Lower_-_upper_shoreface	
+2463.60	6507_8-1	94.61	Sandstone	Shale	 	55.00	45.00	0.00	f/m	silt/vf	Lower_-_upper_shoreface	
+2463.70	6507_8-1	95.70	Sandstone	Shale	 	55.00	45.00	0.00	f/m	silt/vf	Lower_-_upper_shoreface	
+2463.80	6507_8-1	98.59	Sandstone	Shale	 	55.00	45.00	0.00	f/m	silt/vf	Lower_-_upper_shoreface	
+2463.90	6507_8-1	102.86	Sandstone	Shale	 	55.00	45.00	0.00	f/m	silt/vf	Lower_-_upper_shoreface	
+2464.00	6507_8-1	107.12	Sandstone	Shale	 	55.00	45.00	0.00	f/m	silt/vf	Lower_-_upper_shoreface	
+2464.10	6507_8-1	111.39	Sandstone	Shale	 	55.00	45.00	0.00	f/m	silt/vf	Lower_-_upper_shoreface	
+2464.20	6507_8-1	114.83	Sandstone	Shale	 	55.00	45.00	0.00	f/m	silt/vf	Lower_-_upper_shoreface	
+2464.30	6507_8-1	115.71	Sandstone	Shale	 	62.00	38.00	0.00	silt/vf	silt/vf	Lower_-_upper_shoreface	
+2464.40	6507_8-1	115.65	Sandstone	Shale	 	62.00	38.00	0.00	silt/vf	silt/vf	Lower_-_upper_shoreface	
+2464.50	6507_8-1	113.23	Sandstone	Shale	 	62.00	38.00	0.00	silt/vf	silt/vf	Lower_-_upper_shoreface	
+2464.60	6507_8-1	108.04	Sandstone	Shale	 	62.00	38.00	0.00	silt/vf	silt/vf	Lower_-_upper_shoreface	
+2464.70	6507_8-1	102.85	Sandstone	Shale	 	80.00	20.00	0.00	silt/vf	m/c	Lower_-_upper_shoreface	
+2464.80	6507_8-1	97.66	Sandstone	Shale	 	80.00	20.00	0.00	silt/vf	m/c	Lower_-_upper_shoreface	
+2464.90	6507_8-1	93.47	Sandstone	Shale	 	85.00	15.00	0.00	m/c	silt/vf	Erosion	
+2465.00	6507_8-1	92.93	Sandstone	Shale	 	85.00	15.00	0.00	m/c	silt/vf	Erosion	
+2465.1	6507_8-1	94.62	Sandstone	Shale	 	90	10	0	m/c	silt/vf	Erosion	
+2465.2	6507_8-1	96.30	Sandstone	Shale	 	90	10	0	m/c	silt/vf	Erosion	
+2465.3	6507_8-1	97.98	Sandstone	Shale	 	90	10	0	m/c	silt/vf	Erosion	
+2465.4	6507_8-1	99.67	Sandstone	 	 	100	0	0	c/vc	c/vc	Tidal_sandflat	
+2465.5	6507_8-1	99.65	Sandstone	 	 	100	0	0	c/vc	c/vc	Tidal_sandflat	
+2465.6	6507_8-1	98.01	Sandstone	 	 	100	0	0	c/vc	c/vc	Tidal_sandflat	
+2465.7	6507_8-1	96.36	Sandstone	 	 	100	0	0	c/vc	c/vc	Tidal_sandflat	
+2465.8	6507_8-1	94.72	Sandstone	 	 	100	0	0	c/vc	c/vc	Tidal_sandflat	
+2465.9	6507_8-1	93.07	Sandstone	 	 	100	0	0	c/vc	c/vc	Tidal_sandflat	
+2466	6507_8-1	88.84	Sandstone	 	 	100	0	0	vf/f	m/c	Tidal_sandflat	
+2466.1	6507_8-1	86.66	Sandstone	 	 	100	0	0	vf/f	m/c	Tidal_sandflat	
+2466.2	6507_8-1	87.59	Sandstone	 	 	100	0	0	vf/f	m/c	Tidal_sandflat	
+2466.3	6507_8-1	89.38	Sandstone	 	 	100	0	0	vf/f	m/c	Tidal_sandflat	
+2466.4	6507_8-1	91.17	Sandstone	 	 	100	0	0	vf/f	m/c	Tidal_sandflat	
+2466.5	6507_8-1	91.85	Sandstone	 	 	100	0	0	vf/f	m/c	Tidal_sandflat	
+2466.6	6507_8-1	90.98	Sandstone	 	 	100	0	0	vf/f	m/c	Tidal_sandflat	
+2466.7	6507_8-1	89.71	Sandstone	 	 	100	0	0	vf/f	m/c	Tidal_sandflat	
+2466.8	6507_8-1	87.29	Sandstone	 	 	94	-6	-6	m/c	m/c	Tidal_sandflat	
+2466.9	6507_8-1	84.88	Sandstone	 	 	95	-5	-5	m/c	m/c	Tidal_sandflat	
+2467	6507_8-1	83.36	Sandstone	 	 	96	-4	-4	m/c	m/c	Tidal_sandflat	
+2467.1	6507_8-1	83.36	Sandstone	 	 	97	-3	-3	m/c	m/c	Tidal_sandflat	
+2467.2	6507_8-1	83.36	Sandstone	 	 	98	-2	-2	m/c	m/c	Tidal_sandflat	
+2467.3	6507_8-1	83.36	Sandstone	 	 	99	-1	-1	m/c	m/c	Tidal_sandflat	
+2467.4	6507_8-1	82.99	Sandstone	 	 	100	0	0	m/c	m/c	Tidal_sandflat	
+2467.5	6507_8-1	82.51	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2467.6	6507_8-1	82.03	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2467.7	6507_8-1	83.00	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2467.8	6507_8-1	84.76	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2467.9	6507_8-1	86.29	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2468	6507_8-1	87.74	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2468.1	6507_8-1	89.19	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2468.2	6507_8-1	89.20	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2468.3	6507_8-1	88.26	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2468.4	6507_8-1	87.32	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2468.5	6507_8-1	86.38	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2468.6	6507_8-1	86.70	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2468.7	6507_8-1	87.02	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2468.8	6507_8-1	87.34	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2468.9	6507_8-1	87.66	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2469	6507_8-1	87.69	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2469.1	6507_8-1	87.69	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2469.2	6507_8-1	87.69	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2469.3	6507_8-1	87.69	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2469.4	6507_8-1	87.78	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2469.5	6507_8-1	88.56	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2469.6	6507_8-1	89.34	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2469.7	6507_8-1	90.13	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2469.8	6507_8-1	90.91	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2469.9	6507_8-1	90.65	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2470	6507_8-1	90.10	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2470.1	6507_8-1	89.56	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2470.2	6507_8-1	89.01	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2470.3	6507_8-1	88.46	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2470.4	6507_8-1	87.91	Sandstone	 	 	100	0	0	m	m/c	Tidal_sandflat	
+2470.5	6507_8-1	87.36	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2470.6	6507_8-1	86.81	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2470.7	6507_8-1	86.27	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2470.8	6507_8-1	86.05	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2470.9	6507_8-1	87.48	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2471	6507_8-1	88.90	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2471.1	6507_8-1	89.41	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2471.2	6507_8-1	89.10	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2471.3	6507_8-1	88.78	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2471.4	6507_8-1	88.47	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2471.5	6507_8-1	88.16	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2471.6	6507_8-1	89.20	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2471.7	6507_8-1	90.77	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2471.8	6507_8-1	92.33	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2471.9	6507_8-1	93.90	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2472	6507_8-1	95.47	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2472.1	6507_8-1	96.30	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2472.2	6507_8-1	94.11	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2472.3	6507_8-1	91.93	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2472.4	6507_8-1	89.74	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2472.5	6507_8-1	87.55	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2472.6	6507_8-1	85.36	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2472.7	6507_8-1	84.12	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2472.8	6507_8-1	84.12	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2472.9	6507_8-1	86.73	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2473	6507_8-1	89.39	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2473.1	6507_8-1	92.04	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2473.2	6507_8-1	92.40	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2473.3	6507_8-1	92.40	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2473.4	6507_8-1	92.40	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2473.5	6507_8-1	92.40	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2473.6	6507_8-1	92.40	Sandstone	 	 	100	0	0	f/m	m	Tidal_sandflat	
+2473.7	6507_8-1	93.22	Sandstone	 	 	100	0	0	c/vc	f/m	Tidal_channel	
+2473.8	6507_8-1	94.65	Sandstone	 	 	100	0	0	c/vc	f/m	Tidal_channel	
+2473.9	6507_8-1	96.07	Sandstone	 	 	100	0	0	c/vc	f/m	Tidal_channel	
+2474	6507_8-1	94.88	Sandstone	 	 	100	0	0	c/vc	f/m	Tidal_channel	
+2474.1	6507_8-1	93.51	Sandstone	 	 	100	0	0	c/vc	f/m	Tidal_channel	
+2474.2	6507_8-1	92.14	Sandstone	 	 	100	0	0	c/vc	f/m	Tidal_channel	
+2474.3	6507_8-1	90.69	Sandstone	 	 	100	0	0	c/vc	f/m	Tidal_channel	
+2474.4	6507_8-1	88.48	Sandstone	 	 	100	0	0	c/vc	f/m	Tidal_channel	
+2474.5	6507_8-1	86.26	Sandstone	 	 	100	0	0	c/vc	f/m	Tidal_channel	
+2474.6	6507_8-1	84.05	Sandstone	 	 	100	0	0	c/vc	f/m	Tidal_channel	
+2474.7	6507_8-1	81.83	Sandstone	 	 	100	0	0	c/vc	f/m	Tidal_channel	
+2474.8	6507_8-1	79.62	Limestone	 	 	100	0	0	c/vc	m/c	Tidal_channel	
+2474.9	6507_8-1	77.40	Limestone	 	 	100	0	0	c/vc	m/c	Tidal_channel	
+2475	6507_8-1	75.18	Limestone	 	 	100	0	0	c/vc	m/c	Tidal_channel	
+2475.1	6507_8-1	72.96	Limestone	 	 	100	0	0	c/vc	m/c	Tidal_channel	
+2475.2	6507_8-1	70.74	Sandstone	Limestone	 	55	45	0	c	m/c	Tidal_channel	
+2475.3	6507_8-1	68.52	Sandstone	Limestone	 	55	45	0	c	m/c	Tidal_channel	
+2475.4	6507_8-1	66.30	Sandstone	Limestone	 	55	45	0	c	m/c	Tidal_channel	
+2475.5	6507_8-1	66.90	Sandstone	Limestone	 	55	45	0	c	m/c	Tidal_channel	
+2475.6	6507_8-1	68.20	Sandstone	Limestone	 	55	45	0	c	m/c	Tidal_channel	
+2475.7	6507_8-1	69.51	Sandstone	Limestone	 	55	45	0	c	m/c	Tidal_channel	
+2475.8	6507_8-1	69.69	Sandstone	 	 	100	0	0	vf	m/c	Tidal_channel	
+2475.9	6507_8-1	69.76	Sandstone	 	 	100	0	0	vf	m/c	Tidal_channel	
+2476	6507_8-1	69.84	Sandstone	 	 	100	0	0	vf	m/c	Tidal_channel	
+2476.1	6507_8-1	69.91	Sandstone	 	 	100	0	0	vf	m/c	Tidal_channel	
+2476.2	6507_8-1	69.99	Sandstone	 	 	100	0	0	vf	m/c	Tidal_channel	
+2476.3	6507_8-1	72.27	Sandstone	 	 	100	0	0	vf	m/c	Tidal_channel	
+2476.4	6507_8-1	74.88	Sandstone	 	 	100	0	0	vf	m/c	Tidal_channel	
+2476.5	6507_8-1	77.49	Sandstone	 	 	100	0	0	vf	m/c	Tidal_channel	
+2476.6	6507_8-1	80.10	Sandstone	 	 	100	0	0	vf	m/c	Tidal_channel	
+2476.7	6507_8-1	82.71	Sandstone	 	 	100	0	0	vc/granule	vc/granule	Erosion	
+2476.8	6507_8-1	81.40	Sandstone	 	 	100	0	0	vc/granule	vc/granule	Erosion	
+2476.9	6507_8-1	79.25	Sandstone	 	 	100	0	0	vc/granule	vc/granule	Erosion	
+2477	6507_8-1	77.09	Sandstone	 	 	100	0	0	vc/granule	vc/granule	Erosion	
+2477.1	6507_8-1	74.94	Sandstone	 	 	100	0	0	vc/granule	vc/granule	Erosion	
+2477.2	6507_8-1	72.78	Sandstone	 	 	100	0	0	vc/granule	vc/granule	Erosion	
+2477.3	6507_8-1	70.63	Sandstone	Shale	 	70	30	0	vf/f	vf/f	Upper_/_lower_shoreface	
+2477.4	6507_8-1	69.27	Sandstone	Shale	 	70	30	0	vf/f	vf/f	Upper_/_lower_shoreface	
+2477.5	6507_8-1	75.38	Sandstone	Shale	 	40	60	0	vf/f	vf/f	Upper_/_lower_shoreface	
+2477.6	6507_8-1	81.49	Sandstone	Shale	 	40	60	0	vf/f	vf/f	Upper_/_lower_shoreface	
+2477.7	6507_8-1	87.60	Sandstone	Shale	 	60	40	0	vf/f	vf/f	Upper_/_lower_shoreface	
+2477.8	6507_8-1	93.87	Sandstone	Shale	 	35	65	0	m/c	vf/f	Upper_/_lower_shoreface	
+2477.9	6507_8-1	96.71	Sandstone	Shale	 	35	65	0	m/c	vf/f	Upper_/_lower_shoreface	
+2478	6507_8-1	100.25	Sandstone	Shale	 	35	65	0	m/c	vf/f	Upper_/_lower_shoreface	
+2478.1	6507_8-1	105.21	Sandstone	Shale	 	35	65	0	m/c	vf/f	Upper_/_lower_shoreface	
+2478.2	6507_8-1	109.20	Sandstone	Shale	 	35	65	0	m/c	vf/f	Upper_/_lower_shoreface	
+2478.3	6507_8-1	108.34	Sandstone	Shale	 	35	65	0	m/c	vf/f	Upper_/_lower_shoreface	
+2478.4	6507_8-1	107.49	Sandstone	Shale	 	35	65	0	m/c	vf/f	Upper_/_lower_shoreface	
+2478.5	6507_8-1	107.66	Sandstone	Shale	 	35	65	0	m/c	vf/f	Upper_/_lower_shoreface	
+2478.6	6507_8-1	108.77	Sandstone	Shale	 	35	65	0	m/c	vf/f	Upper_/_lower_shoreface	
+2478.7	6507_8-1	109.87	Sandstone	Shale	 	35	65	0	m/c	vf/f	Upper_/_lower_shoreface	
+2478.8	6507_8-1	110.97	Sandstone	Shale	 	70	30	0	f/m	vf/f	Upper_/_lower_shoreface	
+2478.9	6507_8-1	112.08	Sandstone	Shale	 	70	30	0	f/m	vf/f	Upper_/_lower_shoreface	
+2479	6507_8-1	112.25	Sandstone	Shale	 	70	30	0	f/m	vf/f	Upper_/_lower_shoreface	
+2479.1	6507_8-1	108.64	Sandstone	Shale	 	70	30	0	f/m	vf/f	Upper_/_lower_shoreface	
+2479.2	6507_8-1	105.04	Sandstone	Shale	 	70	30	0	f/m	vf/f	Upper_/_lower_shoreface	
+2479.3	6507_8-1	101.44	Sandstone	Shale	 	70	30	0	f/m	vf/f	Upper_/_lower_shoreface	
+2479.4	6507_8-1	97.83	Sandstone	Shale	 	90	10	0	m	vf	Upper_/_lower_shoreface	
+2479.5	6507_8-1	95.70	Sandstone	Shale	 	90	10	0	m	vf	Upper_/_lower_shoreface	
+2479.6	6507_8-1	95.48	Sandstone	Shale	 	80	20	0	m	vf/f	Upper_/_lower_shoreface	
+2479.7	6507_8-1	95.27	Sandstone	Shale	 	80	20	0	m	vf/f	Upper_/_lower_shoreface	
+2479.8	6507_8-1	97.34	Sandstone	Shale	 	80	20	0	m	vf/f	Upper_/_lower_shoreface	
+2479.9	6507_8-1	100.03	Sandstone	Shale	 	80	20	0	m	vf/f	Upper_/_lower_shoreface	
+2480	6507_8-1	102.72	Sandstone	Shale	 	65	35	0	f/m	f	Upper_/_lower_shoreface	
+2480.1	6507_8-1	104.47	Sandstone	Shale	 	65	35	0	f/m	f	Upper_/_lower_shoreface	
+2480.2	6507_8-1	104.96	Sandstone	Shale	 	65	35	0	f/m	f	Upper_/_lower_shoreface	
+2480.3	6507_8-1	106.26	Sandstone	Shale	 	65	35	0	f/m	f	Upper_/_lower_shoreface	
+2480.4	6507_8-1	108.37	Sandstone	Shale	 	30	70	0	vf/f	vf	Upper_/_lower_shoreface	
+2480.5	6507_8-1	110.48	Sandstone	Shale	 	30	70	0	vf/f	vf	Upper_/_lower_shoreface	
+2480.6	6507_8-1	111.81	Sandstone	Shale	 	30	70	0	vf/f	vf	Upper_/_lower_shoreface	
+2480.7	6507_8-1	111.86	Sandstone	 	 	100	0	0	vf	vf	Upper_/_lower_shoreface	
+2480.8	6507_8-1	111.91	Sandstone	 	 	100	0	0	vf	vf	Upper_/_lower_shoreface	
+2480.9	6507_8-1	111.95	Sandstone	 	 	100	0	0	vf	vf	Upper_/_lower_shoreface	
+2481	6507_8-1	111.98	Sandstone	 	 	100	0	0	vf	vf	Upper_/_lower_shoreface	
+2481.1	6507_8-1	111.98	Sandstone	Shale	 	92	8	0	f/m	m/c	Upper_/_lower_shoreface	
+2481.2	6507_8-1	111.98	Sandstone	Shale	 	92	8	0	f/m	m/c	Upper_/_lower_shoreface	
+2481.3	6507_8-1	112.87	Sandstone	Shale	 	92	8	0	f/m	m/c	Upper_/_lower_shoreface	
+2481.4	6507_8-1	115.02	Sandstone	Shale	 	92	8	0	f/m	m/c	Upper_/_lower_shoreface	
+2481.5	6507_8-1	117.17	Sandstone	Shale	 	90	10	0	f/m	m/c	Upper_/_lower_shoreface	
+2481.6	6507_8-1	119.33	Sandstone	Shale	 	90	10	0	f/m	m/c	Upper_/_lower_shoreface	
+2481.7	6507_8-1	121.48	Sandstone	Shale	 	90	10	0	f/m	m/c	Upper_/_lower_shoreface	
+2481.8	6507_8-1	123.64	Sandstone	Shale	 	90	10	0	f/m	m/c	Upper_/_lower_shoreface	
+2481.9	6507_8-1	125.50	Sandstone	Shale	 	90	10	0	f/m	m/c	Upper_/_lower_shoreface	
+2482	6507_8-1	126.20	Sandstone	Limestone	 	80	20	0	m	f/m	Upper_/_lower_shoreface	
+2482.1	6507_8-1	123.04	Sandstone	Limestone	 	80	20	0	m	f/m	Upper_/_lower_shoreface	
+2482.2	6507_8-1	119.87	Sandstone	Limestone	 	80	20	0	m	f/m	Upper_/_lower_shoreface	
+2482.3	6507_8-1	116.70	Sandstone	Limestone	 	80	20	0	m	f/m	Upper_/_lower_shoreface	
+2482.4	6507_8-1	113.54	Sandstone	Limestone	 	80	20	0	m	f/m	Upper_/_lower_shoreface	
+2482.5	6507_8-1	110.37	Sandstone	Limestone	 	80	20	0	m	f/m	Upper_/_lower_shoreface	
+2482.6	6507_8-1	108.93	Sandstone	Limestone	 	80	20	0	m	f/m	Upper_/_lower_shoreface	
+2482.7	6507_8-1	109.72	Sandstone	Limestone	 	80	20	0	m	f/m	Upper_/_lower_shoreface	
+2482.8	6507_8-1	110.50	Sandstone	Limestone	 	80	20	0	m	f/m	Upper_/_lower_shoreface	
+2482.9	6507_8-1	111.28	Sandstone	Limestone	 	80	20	0	m	f/m	Upper_/_lower_shoreface	
+2483	6507_8-1	112.07	Sandstone	Shale	 	92	8	0	f/m	m	Upper_/_lower_shoreface	
+2483.1	6507_8-1	110.84	Sandstone	Shale	 	92	8	0	f/m	m	Upper_/_lower_shoreface	
+2483.2	6507_8-1	109.32	Sandstone	Shale	 	92	8	0	f/m	m	Upper_/_lower_shoreface	
+2483.3	6507_8-1	107.80	Sandstone	Shale	 	92	8	0	f/m	m	Upper_/_lower_shoreface	
+2483.4	6507_8-1	106.28	Sandstone	 	 	100	0	0	c	f/m	Upper_/_lower_shoreface	
+2483.5	6507_8-1	106.70	Sandstone	 	 	100	0	0	c	f/m	Upper_/_lower_shoreface	
+2483.6	6507_8-1	107.66	Sandstone	 	 	100	0	0	c	f/m	Upper_/_lower_shoreface	
+2483.7	6507_8-1	108.61	Sandstone	 	 	100	0	0	c	f/m	Upper_/_lower_shoreface	
+2483.8	6507_8-1	109.57	Sandstone	 	 	100	0	0	c	f/m	Upper_/_lower_shoreface	
+2483.9	6507_8-1	110.52	Sandstone	 	 	100	0	0	c	f/m	Upper_/_lower_shoreface	
+2484	6507_8-1	110.70	Sandstone	 	 	100	0	0	c	f/m	Upper_/_lower_shoreface	
+2484.1	6507_8-1	108.72	Sandstone	Limestone	Shale	78	10	12	f/m	f/m	Upper_/_lower_shoreface	
+2484.2	6507_8-1	106.73	Sandstone	Limestone	Shale	78	10	12	f/m	f/m	Upper_/_lower_shoreface	
+2484.3	6507_8-1	104.75	Sandstone	Limestone	Shale	78	10	12	f/m	f/m	Upper_/_lower_shoreface	
+2484.4	6507_8-1	104.23	Sandstone	Limestone	Shale	78	10	12	f/m	f/m	Upper_/_lower_shoreface	
+2484.5	6507_8-1	104.47	Sandstone	Limestone	Shale	78	10	12	f/m	f/m	Upper_/_lower_shoreface	
+2484.6	6507_8-1	104.70	Sandstone	Limestone	Shale	78	10	12	f/m	f/m	Upper_/_lower_shoreface	
+2484.7	6507_8-1	104.94	Sandstone	Limestone	Shale	78	10	12	f/m	f/m	Upper_/_lower_shoreface	
+2484.8	6507_8-1	105.18	Sandstone	Limestone	Shale	78	10	12	f/m	f/m	Upper_/_lower_shoreface	
+2484.9	6507_8-1	105.33	Sandstone	Limestone	Shale	78	10	12	f/m	f/m	Upper_/_lower_shoreface	
+2485	6507_8-1	104.87	Sandstone	Limestone	Shale	78	10	12	f/m	f/m	Upper_/_lower_shoreface	
+2485.1	6507_8-1	104.41	Sandstone	Limestone	Shale	78	10	12	f/m	f/m	Upper_/_lower_shoreface	
+2485.2	6507_8-1	104.44	Sandstone	Limestone	Shale	78	10	12	f/m	f/m	Upper_/_lower_shoreface	
+2485.3	6507_8-1	105.93	Sandstone	Limestone	Shale	78	10	12	f/m	f/m	Upper_/_lower_shoreface	
+2485.4	6507_8-1	107.42	Sandstone	Limestone	Shale	78	10	12	f/m	f/m	Upper_/_lower_shoreface	
+2485.5	6507_8-1	107.65	Sandstone	Limestone	Shale	78	10	12	f/m	f/m	Upper_/_lower_shoreface	
+2485.6	6507_8-1	106.96	Sandstone	Limestone	Shale	78	10	12	f/m	f/m	Upper_/_lower_shoreface	
+2485.7	6507_8-1	105.25	Sandstone	Limestone	Shale	78	10	12	f/m	f/m	Upper_/_lower_shoreface	
+2485.8	6507_8-1	103.55	Sandstone	Limestone	Shale	78	10	12	f/m	f/m	Upper_/_lower_shoreface	
+2485.9	6507_8-1	101.84	Sandstone	Limestone	Shale	78	10	12	f/m	f/m	Upper_/_lower_shoreface	
+2486	6507_8-1	100.14	Sandstone	Limestone	Shale	78	10	12	f/m	f/m	Upper_/_lower_shoreface	
+2486.1	6507_8-1	98.43	Sandstone	Limestone	Shale	78	10	12	f/m	f/m	Upper_/_lower_shoreface	
+2486.2	6507_8-1	96.73	Sandstone	Shale	 	75	25	0	m	f	Upper_/_lower_shoreface	
+2486.3	6507_8-1	95.02	Sandstone	Shale	 	75	25	0	m	f	Upper_/_lower_shoreface	
+2486.4	6507_8-1	93.83	Sandstone	Shale	 	75	25	0	m	f	Upper_/_lower_shoreface	
+2486.5	6507_8-1	94.31	Sandstone	Shale	 	75	25	0	m	f	Upper_/_lower_shoreface	
+2486.6	6507_8-1	94.79	Sandstone	Shale	 	75	25	0	m	f	Upper_/_lower_shoreface	
+2486.7	6507_8-1	95.79	Sandstone	Shale	 	75	25	0	m	f	Upper_/_lower_shoreface	
+2486.8	6507_8-1	100.92	Sandstone	Shale	 	75	25	0	m	f	Upper_/_lower_shoreface	
+2486.9	6507_8-1	106.04	Sandstone	 	 	100	0	0	f	f/m	Upper_/_lower_shoreface	
+2487	6507_8-1	111.16	Sandstone	 	 	100	0	0	f	f/m	Upper_/_lower_shoreface	
+2487.1	6507_8-1	112.29	Sandstone	 	 	100	0	0	f	f/m	Upper_/_lower_shoreface	
+2487.2	6507_8-1	113.44	Sandstone	 	 	100	0	0	f	f/m	Upper_/_lower_shoreface	
+2487.3	6507_8-1	115.73	Sandstone	 	 	100	0	0	f	f/m	Upper_/_lower_shoreface	
+2487.4	6507_8-1	118.01	Sandstone	 	 	100	0	0	f	f/m	Upper_/_lower_shoreface	
+2487.5	6507_8-1	119.65	Sandstone	 	 	100	0	0	f	f/m	Upper_/_lower_shoreface	
+2487.6	6507_8-1	118.35	Sandstone	 	 	100	0	0	f	f/m	Upper_/_lower_shoreface	
+2487.7	6507_8-1	117.06	Sandstone	 	 	100	0	0	f	f/m	Upper_/_lower_shoreface	
+2487.8	6507_8-1	115.76	Sandstone	 	 	100	0	0	f	f/m	Upper_/_lower_shoreface	
+2487.9	6507_8-1	114.46	Sandstone	 	 	100	0	0	f	f/m	Upper_/_lower_shoreface	
+2488	6507_8-1	113.17	Sandstone	 	 	100	0	0	f	f/m	Upper_/_lower_shoreface	
+2488.1	6507_8-1	111.87	Sandstone	 	 	100	0	0	f	f/m	Upper_/_lower_shoreface	
+2488.2	6507_8-1	113.25	Sandstone	 	 	100	0	0	f	f/m	Upper_/_lower_shoreface	
+2488.3	6507_8-1	114.82	Sandstone	 	 	100	0	0	f	f/m	Upper_/_lower_shoreface	
+2488.4	6507_8-1	116.39	Sandstone	 	 	100	0	0	f	f/m	Upper_/_lower_shoreface	
+2488.5	6507_8-1	117.96	Sandstone	Shale	Limestone	79	13	8	f	f/m	Upper_/_lower_shoreface	
+2488.6	6507_8-1	118.07	Sandstone	Shale	Limestone	79	13	8	f	f/m	Upper_/_lower_shoreface	
+2488.7	6507_8-1	117.25	Sandstone	Shale	Limestone	79	13	8	f	f/m	Upper_/_lower_shoreface	
+2488.8	6507_8-1	116.44	Sandstone	Shale	Limestone	79	13	8	f	f/m	Upper_/_lower_shoreface	
+2488.9	6507_8-1	115.62	Sandstone	Shale	Limestone	79	13	8	f	f/m	Upper_/_lower_shoreface	
+2489	6507_8-1	114.80	Sandstone	Shale	Limestone	79	13	8	f	f/m	Upper_/_lower_shoreface	
+2489.1	6507_8-1	113.99	Sandstone	Shale	Limestone	79	13	8	f	f/m	Upper_/_lower_shoreface	
+2489.2	6507_8-1	115.12	Sandstone	Shale	Limestone	79	13	8	f	f/m	Upper_/_lower_shoreface	
+2489.3	6507_8-1	116.62	Sandstone	Shale	Limestone	79	13	8	f	f/m	Upper_/_lower_shoreface	
+2489.4	6507_8-1	118.11	Sandstone	Shale	Limestone	79	13	8	f	f/m	Upper_/_lower_shoreface	
+2489.5	6507_8-1	119.61	Sandstone	Shale	Limestone	79	13	8	f	f/m	Upper_/_lower_shoreface	
+2489.6	6507_8-1	121.10	Sandstone	Shale	Limestone	79	13	8	f	f/m	Upper_/_lower_shoreface	
+2489.7	6507_8-1	121.05	Sandstone	Shale	Limestone	79	13	8	f	f/m	Upper_/_lower_shoreface	
+2489.8	6507_8-1	119.77	Sandstone	Shale	Limestone	79	13	8	f	f/m	Upper_/_lower_shoreface	
+2489.9	6507_8-1	118.49	Sandstone	Shale	Limestone	79	13	8	f	f/m	Upper_/_lower_shoreface	
+2490	6507_8-1	117.20	Sandstone	Shale	Limestone	79	13	8	f	f/m	Upper_/_lower_shoreface	
+2490.1	6507_8-1	115.92	Sandstone	Shale	Limestone	79	13	8	f	f/m	Upper_/_lower_shoreface	
+2490.2	6507_8-1	115.82	Sandstone	Shale	Limestone	79	13	8	f	f/m	Upper_/_lower_shoreface	
+2490.3	6507_8-1	118.86	Sandstone	Shale	Limestone	79	13	8	f	f/m	Upper_/_lower_shoreface	
+2490.4	6507_8-1	121.91	Sandstone	Shale	Limestone	79	13	8	f	f/m	Upper_/_lower_shoreface	
+2490.5	6507_8-1	124.96	Sandstone	Shale	Limestone	79	13	8	f	f/m	Upper_/_lower_shoreface	
+2490.6	6507_8-1	128.01	Sandstone	Shale	 	98	2	0	m/c	f	Upper_/_lower_shoreface	
+2490.7	6507_8-1	127.16	Sandstone	Shale	 	98	2	0	m/c	f	Upper_/_lower_shoreface	
+2490.8	6507_8-1	126.09	Sandstone	Shale	 	98	2	0	m/c	f	Upper_/_lower_shoreface	
+2490.9	6507_8-1	125.03	Sandstone	Shale	 	98	2	0	m/c	f	Upper_/_lower_shoreface	
+2491	6507_8-1	123.96	Sandstone	Shale	 	98	2	0	m/c	f	Upper_/_lower_shoreface	
+2491.1	6507_8-1	122.90	Sandstone	Shale	 	98	2	0	m/c	f	Upper_/_lower_shoreface	
+2491.2	6507_8-1	121.83	Sandstone	Shale	 	98	2	0	m/c	f	Upper_/_lower_shoreface	
+2491.3	6507_8-1	119.21	Sandstone	Shale	 	98	2	0	m/c	f	Upper_/_lower_shoreface	
+2491.4	6507_8-1	116.50	Sandstone	Shale	 	98	2	0	m/c	f	Upper_/_lower_shoreface	
+2491.5	6507_8-1	113.79	Sandstone	Shale	 	98	2	0	m/c	f	Upper_/_lower_shoreface	
+2491.6	6507_8-1	111.07	Sandstone	Limestone	 	70	30	0	f/m	f/m	Upper_/_lower_shoreface	
+2491.7	6507_8-1	108.36	Sandstone	Limestone	 	70	30	0	f/m	f/m	Upper_/_lower_shoreface	
+2491.8	6507_8-1	105.64	Sandstone	Limestone	 	70	30	0	f/m	f/m	Upper_/_lower_shoreface	
+2491.9	6507_8-1	103.71	Sandstone	Limestone	 	70	30	0	f/m	f/m	Upper_/_lower_shoreface	
+2492	6507_8-1	104.69	Sandstone	Limestone	 	70	30	0	f/m	f/m	Upper_/_lower_shoreface	
+2492.1	6507_8-1	105.67	Sandstone	Limestone	 	70	30	0	f/m	f/m	Upper_/_lower_shoreface	
+2492.2	6507_8-1	106.65	Sandstone	Limestone	 	70	30	0	f/m	f/m	Upper_/_lower_shoreface	
+2492.3	6507_8-1	107.63	Sandstone	Limestone	 	70	30	0	f/m	f/m	Upper_/_lower_shoreface	
+2492.4	6507_8-1	107.26	Sandstone	Limestone	 	70	30	0	f/m	f/m	Upper_/_lower_shoreface	
+2492.5	6507_8-1	104.93	Sandstone	Limestone	 	70	30	0	f/m	f/m	Upper_/_lower_shoreface	
+2492.6	6507_8-1	102.60	Sandstone	Limestone	 	70	30	0	f/m	f/m	Upper_/_lower_shoreface	
+2492.7	6507_8-1	100.27	Sandstone	Shale	 	65	35	0	silt/vf	vf/f	Upper_/_lower_shoreface	
+2492.8	6507_8-1	97.94	Sandstone	Shale	 	65	35	0	silt/vf	vf/f	Upper_/_lower_shoreface	
+2492.9	6507_8-1	95.61	Sandstone	Shale	 	65	35	0	silt/vf	vf/f	Upper_/_lower_shoreface	
+2493	6507_8-1	93.28	Sandstone	Shale	 	65	35	0	silt/vf	vf/f	Upper_/_lower_shoreface	
+2493.1	6507_8-1	90.95	Sandstone	 	 	100	0	0	f/m	m	Upper_/_lower_shoreface	
+2493.2	6507_8-1	88.62	Sandstone	 	 	100	0	0	f/m	m	Upper_/_lower_shoreface	
+2493.3	6507_8-1	86.28	Sandstone	 	 	100	0	0	f/m	m	Upper_/_lower_shoreface	
+2493.4	6507_8-1	88.10	Sandstone	 	 	100	0	0	f/m	m	Upper_/_lower_shoreface	
+2493.5	6507_8-1	90.97	Sandstone	 	 	100	0	0	f/m	m	Upper_/_lower_shoreface	
+2493.6	6507_8-1	93.84	Sandstone	Limestone	 	75	25	0	m	f/m	Upper_/_lower_shoreface	
+2493.7	6507_8-1	96.72	Sandstone	Limestone	 	75	25	0	m	f/m	Upper_/_lower_shoreface	
+2493.8	6507_8-1	99.59	Sandstone	Limestone	 	75	25	0	m	f/m	Upper_/_lower_shoreface	
+2493.9	6507_8-1	102.25	Sandstone	Limestone	 	75	25	0	m	f/m	Upper_/_lower_shoreface	
+2494	6507_8-1	98.15	Sandstone	Limestone	 	75	25	0	m	f/m	Upper_/_lower_shoreface	
+2494.1	6507_8-1	94.04	Sandstone	Limestone	 	75	25	0	m	f/m	Upper_/_lower_shoreface	
+2494.2	6507_8-1	89.94	Sandstone	Limestone	 	75	25	0	m	f/m	Upper_/_lower_shoreface	
+2494.3	6507_8-1	85.84	Sandstone	Limestone	 	75	25	0	m	f/m	Upper_/_lower_shoreface	
+2494.4	6507_8-1	81.73	Sandstone	Limestone	 	75	25	0	m	f/m	Upper_/_lower_shoreface	
+2494.5	6507_8-1	83.54	Sandstone	Limestone	 	75	25	0	m	f/m	Upper_/_lower_shoreface	
+2494.6	6507_8-1	85.44	Sandstone	Limestone	 	75	25	0	m	f/m	Upper_/_lower_shoreface	
+2494.7	6507_8-1	87.33	Sandstone	 	 	100	0	0	f/m	m/c	Upper_/_lower_shoreface	
+2494.8	6507_8-1	89.23	Sandstone	 	 	100	0	0	f/m	m/c	Upper_/_lower_shoreface	
+2494.9	6507_8-1	91.13	Sandstone	 	 	100	0	0	f/m	m/c	Upper_/_lower_shoreface	
+2495	6507_8-1	93.03	Sandstone	 	 	100	0	0	f/m	m/c	Upper_/_lower_shoreface	

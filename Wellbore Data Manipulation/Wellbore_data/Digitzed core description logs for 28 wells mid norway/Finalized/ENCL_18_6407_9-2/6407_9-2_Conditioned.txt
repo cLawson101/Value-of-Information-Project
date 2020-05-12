@@ -1,0 +1,529 @@
+Depth.m	Hole ID.-	GR.API	Lithology1.-	Lithology2.-	Lithology3.-	Lithology1.%	Lithology2.%	Lithology3.%	Grain_size_Top.-	Grain_size_Base.-	Sub_Environment.-	Gross_Environment.-
+1653.50	6407_9-2	72.44	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1653.60	6407_9-2	72.47	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1653.70	6407_9-2	72.49	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1653.80	6407_9-2	72.51	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1653.90	6407_9-2	72.41	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1654.00	6407_9-2	72.31	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1654.10	6407_9-2	72.22	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1654.20	6407_9-2	72.12	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1654.30	6407_9-2	72.02	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1654.40	6407_9-2	71.93	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1654.50	6407_9-2	71.77	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1654.60	6407_9-2	71.59	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1654.70	6407_9-2	71.41	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1654.80	6407_9-2	71.22	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1654.90	6407_9-2	71.04	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1655.00	6407_9-2	70.85	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1655.10	6407_9-2	70.78	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1655.20	6407_9-2	70.71	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1655.30	6407_9-2	70.64	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1655.40	6407_9-2	72.21	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1655.50	6407_9-2	73.85	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1655.60	6407_9-2	74.40	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1655.70	6407_9-2	74.02	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1655.80	6407_9-2	73.21	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1655.90	6407_9-2	72.35	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1656.00	6407_9-2	71.50	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1656.10	6407_9-2	70.64	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1656.20	6407_9-2	69.79	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1656.30	6407_9-2	69.50	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1656.40	6407_9-2	69.40	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1656.50	6407_9-2	69.29	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1656.60	6407_9-2	69.18	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1656.70	6407_9-2	69.07	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1656.80	6407_9-2	68.96	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1656.90	6407_9-2	68.86	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1657.00	6407_9-2	68.75	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1657.10	6407_9-2	68.64	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1657.20	6407_9-2	68.53	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1657.30	6407_9-2	68.42	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1657.40	6407_9-2	68.26	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1657.50	6407_9-2	67.68	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1657.60	6407_9-2	67.11	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1657.70	6407_9-2	66.54	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1657.80	6407_9-2	65.97	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1657.90	6407_9-2	65.40	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1658.00	6407_9-2	64.83	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1658.10	6407_9-2	63.50	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1658.20	6407_9-2	62.08	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1658.30	6407_9-2	60.67	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1658.40	6407_9-2	59.26	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1658.50	6407_9-2	58.33	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1658.60	6407_9-2	58.46	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1658.70	6407_9-2	58.60	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1658.80	6407_9-2	58.74	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1658.90	6407_9-2	58.87	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1659.00	6407_9-2	59.54	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1659.10	6407_9-2	60.43	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1659.20	6407_9-2	61.33	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1659.30	6407_9-2	62.02	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1659.40	6407_9-2	61.86	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1659.50	6407_9-2	61.70	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1659.60	6407_9-2	61.54	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1659.70	6407_9-2	61.38	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1659.80	6407_9-2	61.23	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1659.90	6407_9-2	61.07	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1660.00	6407_9-2	60.91	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1660.10	6407_9-2	60.75	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1660.20	6407_9-2	60.59	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1660.30	6407_9-2	60.88	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1660.40	6407_9-2	61.17	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1660.50	6407_9-2	61.47	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1660.60	6407_9-2	61.76	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1660.70	6407_9-2	62.06	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1660.80	6407_9-2	62.19	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1660.90	6407_9-2	61.94	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1661.00	6407_9-2	61.70	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1661.10	6407_9-2	61.45	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1661.20	6407_9-2	61.21	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1661.30	6407_9-2	61.06	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1661.40	6407_9-2	61.40	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1661.50	6407_9-2	61.75	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1661.60	6407_9-2	62.09	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1661.70	6407_9-2	62.44	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1661.80	6407_9-2	62.78	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1661.90	6407_9-2	63.12	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1662.00	6407_9-2	63.47	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1662.10	6407_9-2	63.22	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1662.20	6407_9-2	62.87	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1662.30	6407_9-2	62.52	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1662.40	6407_9-2	62.18	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1662.50	6407_9-2	61.83	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1662.60	6407_9-2	61.72	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1662.70	6407_9-2	61.91	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1662.80	6407_9-2	62.11	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1662.90	6407_9-2	62.30	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1663.00	6407_9-2	62.49	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1663.10	6407_9-2	62.69	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1663.20	6407_9-2	62.88	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1663.30	6407_9-2	63.07	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1663.40	6407_9-2	63.27	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1663.50	6407_9-2	62.76	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1663.60	6407_9-2	62.05	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1663.70	6407_9-2	61.35	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1663.80	6407_9-2	61.36	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1663.90	6407_9-2	61.55	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1664.00	6407_9-2	61.73	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1664.10	6407_9-2	61.92	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1664.20	6407_9-2	62.10	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1664.30	6407_9-2	62.28	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1664.40	6407_9-2	62.41	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1664.50	6407_9-2	62.57	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1664.60	6407_9-2	62.50	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1664.70	6407_9-2	62.07	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1664.80	6407_9-2	61.64	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1664.90	6407_9-2	61.63	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1665.00	6407_9-2	61.63	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1665.10	6407_9-2	61.63	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1665.20	6407_9-2	61.63	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1665.30	6407_9-2	61.79	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1665.40	6407_9-2	62.22	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1665.50	6407_9-2	62.64	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1665.60	6407_9-2	62.76	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1665.70	6407_9-2	62.43	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1665.80	6407_9-2	62.10	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1665.90	6407_9-2	61.78	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1666.00	6407_9-2	61.45	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1666.10	6407_9-2	61.12	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1666.20	6407_9-2	60.79	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1666.30	6407_9-2	60.71	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1666.40	6407_9-2	61.04	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1666.50	6407_9-2	61.37	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1666.60	6407_9-2	61.70	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1666.70	6407_9-2	62.03	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1666.80	6407_9-2	62.37	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1666.90	6407_9-2	62.70	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1667.00	6407_9-2	63.03	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1667.10	6407_9-2	62.78	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1667.20	6407_9-2	62.37	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1667.30	6407_9-2	61.96	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1667.40	6407_9-2	61.56	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1667.50	6407_9-2	61.15	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1667.60	6407_9-2	60.90	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1667.70	6407_9-2	60.75	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1667.80	6407_9-2	60.60	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1667.90	6407_9-2	60.44	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1668.00	6407_9-2	60.29	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1668.10	6407_9-2	60.15	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1668.20	6407_9-2	60.08	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1668.30	6407_9-2	60.01	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1668.40	6407_9-2	59.62	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1668.50	6407_9-2	58.33	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1668.60	6407_9-2	57.05	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1668.70	6407_9-2	55.29	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1668.80	6407_9-2	54.23	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1668.90	6407_9-2	54.05	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1669.00	6407_9-2	53.96	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1669.10	6407_9-2	55.95	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1669.20	6407_9-2	57.67	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1669.30	6407_9-2	57.79	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1669.40	6407_9-2	57.91	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1669.50	6407_9-2	58.03	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1669.60	6407_9-2	58.15	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1669.70	6407_9-2	58.27	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1669.80	6407_9-2	58.39	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1669.90	6407_9-2	58.50	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1670.00	6407_9-2	58.60	Sandstone	 	 	100.00	0.00	0.00	m/c	f	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1670.10	6407_9-2	58.69	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1670.20	6407_9-2	58.78	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1670.30	6407_9-2	58.87	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1670.40	6407_9-2	58.97	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1670.50	6407_9-2	59.06	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1670.60	6407_9-2	59.33	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1670.70	6407_9-2	59.93	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1670.80	6407_9-2	60.54	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1670.90	6407_9-2	61.14	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1671.00	6407_9-2	61.75	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1671.10	6407_9-2	62.35	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1671.20	6407_9-2	62.96	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1671.30	6407_9-2	63.56	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1671.40	6407_9-2	64.17	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1671.50	6407_9-2	64.77	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1671.60	6407_9-2	65.38	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1671.70	6407_9-2	65.99	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1671.80	6407_9-2	66.59	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1671.90	6407_9-2	65.69	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1672.00	6407_9-2	64.57	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1672.10	6407_9-2	63.41	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1672.20	6407_9-2	62.99	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1672.30	6407_9-2	62.65	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1672.40	6407_9-2	62.71	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1672.50	6407_9-2	63.21	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1672.60	6407_9-2	63.71	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1672.70	6407_9-2	64.21	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1672.80	6407_9-2	64.71	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1672.90	6407_9-2	64.17	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1673.00	6407_9-2	63.48	 	 	 	100.00	0.00	0.00	 	 	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1673.10	6407_9-2	62.79	Sandstone		 	93.00	7.00	0.00	vf	c/vc	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1673.20	6407_9-2	62.11	Sandstone		 	93.00	7.00	0.00	vf	c/vc	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1673.30	6407_9-2	61.42	Sandstone		 	93.00	7.00	0.00	vf	c/vc	Sentral_del_av_sokkelsand-banke,_sand_trolig_tilfort_vod_stormer_eller_avboyning_av_kyststrommer	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1673.40	6407_9-2	60.73	Sandstone		 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1673.50	6407_9-2	60.04	Sandstone		 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1673.60	6407_9-2	60.31	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1673.70	6407_9-2	61.30	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1673.80	6407_9-2	62.28	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1673.90	6407_9-2	62.38	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1674.00	6407_9-2	61.89	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1674.10	6407_9-2	61.39	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1674.20	6407_9-2	60.89	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1674.30	6407_9-2	60.39	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1674.40	6407_9-2	59.90	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1674.50	6407_9-2	59.40	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1674.60	6407_9-2	58.91	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1674.70	6407_9-2	59.05	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1674.80	6407_9-2	59.18	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1674.90	6407_9-2	59.31	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1675.00	6407_9-2	59.45	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1675.10	6407_9-2	59.58	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1675.20	6407_9-2	59.71	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1675.30	6407_9-2	59.85	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1675.40	6407_9-2	60.15	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1675.50	6407_9-2	61.27	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1675.60	6407_9-2	62.40	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1675.70	6407_9-2	70.07	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1675.80	6407_9-2	71.65	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1675.90	6407_9-2	71.39	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1676.00	6407_9-2	71.14	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1676.10	6407_9-2	70.88	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1676.20	6407_9-2	71.27	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1676.30	6407_9-2	71.76	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1676.40	6407_9-2	72.25	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1676.50	6407_9-2	72.17	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1676.60	6407_9-2	72.02	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1676.70	6407_9-2	71.54	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1676.80	6407_9-2	69.61	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1676.90	6407_9-2	67.67	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1677.00	6407_9-2	66.62	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1677.10	6407_9-2	66.53	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1677.20	6407_9-2	66.48	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1677.30	6407_9-2	67.41	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1677.40	6407_9-2	68.34	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1677.50	6407_9-2	69.27	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1677.60	6407_9-2	70.20	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1677.70	6407_9-2	71.12	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1677.80	6407_9-2	72.05	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1677.90	6407_9-2	72.98	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1678.00	6407_9-2	73.91	Sandstone	Clay	 	93.00	7.00	0.00	vf	c/vc	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1678.10	6407_9-2	74.84	Limestone	Clay	 	90.00	10.00	0.00	f	f	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1678.20	6407_9-2	74.73	Limestone	Clay	 	90.00	10.00	0.00	f	f	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1678.30	6407_9-2	73.82	Limestone	Clay	 	90.00	10.00	0.00	f	f	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1678.40	6407_9-2	72.92	Limestone	Clay	 	90.00	10.00	0.00	f	f	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1678.50	6407_9-2	72.24	Limestone	Clay	 	90.00	10.00	0.00	f	f	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1678.60	6407_9-2	72.01	Limestone	Clay	 	90.00	10.00	0.00	f	f	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1678.70	6407_9-2	71.78	Limestone	Clay	 	90.00	10.00	0.00	f	f	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1678.80	6407_9-2	71.55	Limestone	Clay	 	90.00	10.00	0.00	f	f	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1678.90	6407_9-2	71.33	Limestone	Clay	 	90.00	10.00	0.00	f	f	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1679.00	6407_9-2	71.32	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1679.10	6407_9-2	71.41	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1679.20	6407_9-2	71.50	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1679.30	6407_9-2	71.59	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1679.40	6407_9-2	71.68	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1679.50	6407_9-2	71.77	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1679.60	6407_9-2	71.86	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1679.70	6407_9-2	71.94	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1679.80	6407_9-2	72.03	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1679.90	6407_9-2	72.26	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1680.00	6407_9-2	72.93	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1680.10	6407_9-2	73.60	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1680.20	6407_9-2	74.28	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1680.30	6407_9-2	74.95	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1680.40	6407_9-2	75.62	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1680.50	6407_9-2	76.29	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1680.60	6407_9-2	76.96	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1680.70	6407_9-2	77.66	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1680.80	6407_9-2	78.57	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1680.90	6407_9-2	79.49	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1681.00	6407_9-2	80.40	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1681.10	6407_9-2	81.31	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1681.20	6407_9-2	82.23	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1681.30	6407_9-2	82.81	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1681.40	6407_9-2	81.85	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1681.50	6407_9-2	80.89	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1681.60	6407_9-2	80.68	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1681.70	6407_9-2	80.47	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1681.80	6407_9-2	80.27	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1681.90	6407_9-2	80.06	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1682.00	6407_9-2	80.79	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1682.10	6407_9-2	81.56	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1682.20	6407_9-2	82.33	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1682.30	6407_9-2	83.11	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1682.40	6407_9-2	83.88	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1682.50	6407_9-2	84.46	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1682.60	6407_9-2	84.88	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1682.70	6407_9-2	85.30	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1682.80	6407_9-2	85.70	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1682.90	6407_9-2	85.70	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1683.00	6407_9-2	85.70	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1683.10	6407_9-2	85.70	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1683.20	6407_9-2	85.70	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1683.30	6407_9-2	85.70	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1683.40	6407_9-2	85.66	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1683.50	6407_9-2	85.52	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1683.60	6407_9-2	85.37	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1683.70	6407_9-2	85.23	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1683.80	6407_9-2	85.09	Sandstone	Clay	 	80.00	20.00	0.00	f	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1683.90	6407_9-2	84.95	 	 	 	100.00	0.00	0.00	 	 	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1684.00	6407_9-2	85.06	 	 	 	100.00	0.00	0.00	 	 	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1684.10	6407_9-2	85.58	Sandstone	Clay	 	60.00	40.00	0.00	vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1684.20	6407_9-2	86.10	Sandstone	Clay	 	60.00	40.00	0.00	vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1684.30	6407_9-2	86.61	Sandstone	Clay	 	60.00	40.00	0.00	vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1684.40	6407_9-2	86.72	Sandstone	Clay	 	60.00	40.00	0.00	vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1684.50	6407_9-2	85.99	Sandstone	Clay	 	60.00	40.00	0.00	vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1684.60	6407_9-2	85.26	Sandstone	Clay	 	60.00	40.00	0.00	vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1684.70	6407_9-2	84.52	Sandstone	Clay	 	60.00	40.00	0.00	vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1684.80	6407_9-2	83.79	Sandstone	Clay	 	60.00	40.00	0.00	vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1684.90	6407_9-2	78.45	Sandstone	Clay	 	60.00	40.00	0.00	vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1685.00	6407_9-2	77.67	Sandstone	Clay	 	60.00	40.00	0.00	vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1685.10	6407_9-2	76.92	Sandstone	Clay	 	60.00	40.00	0.00	vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1685.20	6407_9-2	77.46	Sandstone	Clay	 	60.00	40.00	0.00	vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1685.30	6407_9-2	77.99	Sandstone	Clay	 	60.00	40.00	0.00	vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1685.40	6407_9-2	78.53	Sandstone	Clay	 	60.00	40.00	0.00	vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1685.50	6407_9-2	83.87	Sandstone	Clay	 	60.00	40.00	0.00	vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1685.60	6407_9-2	86.12	Sandstone	Clay	 	60.00	40.00	0.00	vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1685.70	6407_9-2	86.12	Sandstone	Clay	 	60.00	40.00	0.00	vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1685.80	6407_9-2	86.12	Sandstone	Clay	 	60.00	40.00	0.00	vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1685.90	6407_9-2	86.12	Sandstone	Clay	 	60.00	40.00	0.00	vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1686.00	6407_9-2	86.02	Sandstone	Clay	 	60.00	40.00	0.00	vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1686.10	6407_9-2	84.88	Sandstone	Clay	 	60.00	40.00	0.00	vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1686.20	6407_9-2	83.74	Sandstone	Clay	 	60.00	40.00	0.00	vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1686.30	6407_9-2	82.60	Sandstone	Clay	 	60.00	40.00	0.00	vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1686.40	6407_9-2	81.46	Sandstone	Clay	 	60.00	40.00	0.00	vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1686.50	6407_9-2	80.31	Sandstone	Clay	 	60.00	40.00	0.00	vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1686.60	6407_9-2	74.10	Sandstone	Clay	 	60.00	40.00	0.00	vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1686.70	6407_9-2	74.40	Sandstone	Clay	 	60.00	40.00	0.00	vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1686.80	6407_9-2	74.70	Sandstone	Clay	 	60.00	40.00	0.00	vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1686.90	6407_9-2	75.00	 	Clay	 	100.00	0.00	0.00	 	 	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1687.00	6407_9-2	82.91	 	Clay	 	100.00	0.00	0.00	 	 	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1687.10	6407_9-2	85.41	 	Clay	 	100.00	0.00	0.00	 	 	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1687.20	6407_9-2	86.36	 	Clay	 	100.00	0.00	0.00	 	 	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1687.30	6407_9-2	87.30	 	Clay	 	100.00	0.00	0.00	 	 	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1687.40	6407_9-2	88.24	 	Clay	 	100.00	0.00	0.00	 	 	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1687.50	6407_9-2	89.18	 	Clay	 	100.00	0.00	0.00	 	 	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1687.60	6407_9-2	90.12	 	Clay	 	100.00	0.00	0.00	 	 	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1687.70	6407_9-2	90.52	 	Clay	 	100.00	0.00	0.00	 	 	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1687.80	6407_9-2	90.52	 	Clay	 	100.00	0.00	0.00	 	 	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1687.90	6407_9-2	90.52	 	Clay	 	100.00	0.00	0.00	 	 	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1688.00	6407_9-2	90.52	 	Clay	 	100.00	0.00	0.00	 	 	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1688.10	6407_9-2	90.52	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1688.20	6407_9-2	90.41	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Marginale_deler_av_sokkelsand-banke,_stormdominert	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1688.30	6407_9-2	90.17	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1688.40	6407_9-2	89.92	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1688.50	6407_9-2	89.68	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1688.60	6407_9-2	89.43	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1688.70	6407_9-2	89.00	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1688.80	6407_9-2	88.11	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1688.90	6407_9-2	87.22	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1689.00	6407_9-2	86.33	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1689.10	6407_9-2	85.44	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1689.20	6407_9-2	84.55	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1689.30	6407_9-2	85.44	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1689.40	6407_9-2	86.55	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1689.50	6407_9-2	87.17	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1689.60	6407_9-2	87.17	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1689.70	6407_9-2	87.17	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1689.80	6407_9-2	87.17	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1689.90	6407_9-2	87.17	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1690.00	6407_9-2	87.17	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1690.10	6407_9-2	87.17	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1690.20	6407_9-2	87.30	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1690.30	6407_9-2	87.44	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1690.40	6407_9-2	87.58	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1690.50	6407_9-2	88.26	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1690.60	6407_9-2	88.94	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1690.70	6407_9-2	89.63	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1690.80	6407_9-2	90.31	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1690.90	6407_9-2	91.00	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1691.00	6407_9-2	91.68	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1691.10	6407_9-2	92.37	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1691.20	6407_9-2	93.05	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1691.30	6407_9-2	93.74	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1691.40	6407_9-2	93.51	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1691.50	6407_9-2	92.39	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1691.60	6407_9-2	91.27	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1691.70	6407_9-2	90.14	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1691.80	6407_9-2	89.02	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1691.90	6407_9-2	88.04	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1692.00	6407_9-2	88.45	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1692.10	6407_9-2	88.86	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1692.20	6407_9-2	89.27	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1692.30	6407_9-2	89.67	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1692.40	6407_9-2	90.08	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1692.50	6407_9-2	92.65	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1692.60	6407_9-2	95.32	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1692.70	6407_9-2	98.00	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1692.80	6407_9-2	99.52	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1692.90	6407_9-2	99.52	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1693.00	6407_9-2	99.52	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1693.10	6407_9-2	99.52	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1693.20	6407_9-2	99.52	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1693.30	6407_9-2	99.52	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1693.40	6407_9-2	99.52	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1693.50	6407_9-2	98.80	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1693.60	6407_9-2	93.13	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1693.70	6407_9-2	88.36	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1693.80	6407_9-2	85.08	Sandstone	Clay	 	60.00	40.00	0.00	silt/vf	vf	Stormtilforte_sedimenter_til_''offshore''	Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1693.90	6407_9-2	85.08	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1694.00	6407_9-2	85.08	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1694.10	6407_9-2	86.38	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1694.20	6407_9-2	89.06	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1694.30	6407_9-2	89.17	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1694.40	6407_9-2	89.27	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1694.50	6407_9-2	89.38	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1694.60	6407_9-2	89.48	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1694.70	6407_9-2	89.59	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1694.80	6407_9-2	89.85	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1694.90	6407_9-2	91.13	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1695.00	6407_9-2	92.40	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1695.10	6407_9-2	93.67	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1695.20	6407_9-2	94.56	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1695.30	6407_9-2	94.76	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1695.40	6407_9-2	94.95	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1695.50	6407_9-2	95.14	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1695.60	6407_9-2	95.34	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1695.70	6407_9-2	95.53	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1695.80	6407_9-2	94.65	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1695.90	6407_9-2	93.69	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1696.00	6407_9-2	92.74	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1696.10	6407_9-2	91.78	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1696.20	6407_9-2	90.54	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1696.30	6407_9-2	88.74	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1696.40	6407_9-2	88.22	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1696.50	6407_9-2	88.22	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1696.60	6407_9-2	88.61	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1696.70	6407_9-2	90.05	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1696.80	6407_9-2	90.52	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1696.90	6407_9-2	89.42	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1697.00	6407_9-2	88.33	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1697.10	6407_9-2	86.86	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1697.20	6407_9-2	83.27	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1697.30	6407_9-2	84.70	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1697.40	6407_9-2	86.37	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1697.50	6407_9-2	89.24	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1697.60	6407_9-2	91.28	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1697.70	6407_9-2	90.97	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1697.80	6407_9-2	90.67	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1697.90	6407_9-2	90.37	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1698.00	6407_9-2	90.07	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1698.10	6407_9-2	90.09	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1698.20	6407_9-2	90.61	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1698.30	6407_9-2	91.12	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1698.40	6407_9-2	91.64	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1698.50	6407_9-2	92.15	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1698.60	6407_9-2	92.67	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1698.70	6407_9-2	93.19	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1698.80	6407_9-2	93.88	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1698.90	6407_9-2	94.58	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1699.00	6407_9-2	95.29	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1699.10	6407_9-2	96.00	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1699.20	6407_9-2	96.71	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1699.30	6407_9-2	97.42	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1699.40	6407_9-2	102.88	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1699.50	6407_9-2	110.31	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1699.60	6407_9-2	136.33	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1699.70	6407_9-2	151.21	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1699.80	6407_9-2	155.77	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1699.90	6407_9-2	160.33	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1700.00	6407_9-2	160.63	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1700.10	6407_9-2	159.17	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1700.20	6407_9-2	154.16	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1700.30	6407_9-2	148.40	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1700.40	6407_9-2	143.18	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1700.50	6407_9-2	138.80	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1700.60	6407_9-2	137.25	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1700.70	6407_9-2	136.57	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1700.80	6407_9-2	135.88	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1700.90	6407_9-2	135.20	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1701.00	6407_9-2	133.68	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1701.10	6407_9-2	127.93	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1701.20	6407_9-2	122.59	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1701.30	6407_9-2	118.34	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1701.40	6407_9-2	114.09	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1701.50	6407_9-2	109.83	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1701.60	6407_9-2	105.58	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1701.70	6407_9-2	101.32	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1701.80	6407_9-2	100.39	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1701.90	6407_9-2	98.29	 	 	 	100.00	0.00	0.00	 	 		Oppbygning_av_sandbanke_pa_hoyenergi_sokkel
+1702.00	6407_9-2	96.89	 	 	 	100.00	0.00	0.00	 	 	Apen_marin_sokkel	Apen_marin_sokkel
+1702.10	6407_9-2	94.51	Limestone	Clay	Sandstone	45.00	45.00	10.00	vf/f	clay/silt	Apen_marin_sokkel	Apen_marin_sokkel
+1702.20	6407_9-2	90.26	Limestone	Clay	Sandstone	45.00	45.00	10.00	vf/f	clay/silt	Apen_marin_sokkel	Apen_marin_sokkel
+1702.30	6407_9-2	86.00	Limestone	Clay	Sandstone	45.00	45.00	10.00	vf/f	clay/silt	Apen_marin_sokkel	Apen_marin_sokkel
+1702.40	6407_9-2	81.75	Limestone	Clay	Sandstone	45.00	45.00	10.00	vf/f	clay/silt	Apen_marin_sokkel	Apen_marin_sokkel
+1702.50	6407_9-2	78.70	Limestone	Clay	Sandstone	45.00	45.00	10.00	vf/f	clay/silt	Apen_marin_sokkel	Apen_marin_sokkel
+1702.60	6407_9-2	76.64	Limestone	Clay	Sandstone	45.00	45.00	10.00	vf/f	clay/silt	Apen_marin_sokkel	Apen_marin_sokkel
+1702.70	6407_9-2	76.16	Limestone	Clay	Sandstone	45.00	45.00	10.00	vf/f	clay/silt	Apen_marin_sokkel	Apen_marin_sokkel
+1702.80	6407_9-2	75.79	Limestone	Clay	Sandstone	45.00	45.00	10.00	vf/f	clay/silt	Apen_marin_sokkel	Apen_marin_sokkel
+1702.90	6407_9-2	75.43	Limestone	Clay	Sandstone	45.00	45.00	10.00	vf/f	clay/silt	Marin_''hardground''	Marin_''hardground''
+1703.00	6407_9-2	75.06	Limestone	Clay	Sandstone	45.00	45.00	10.00	vf/f	clay/silt	Marin_''hardground''	Marin_''hardground''
+1703.10	6407_9-2	74.55	Limestone	Clay	Sandstone	45.00	45.00	10.00	vf/f	clay/silt	Marin_''hardground''	Marin_''hardground''
+1703.20	6407_9-2	73.73	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Marin_''hardground''	Marin_''hardground''
+1703.30	6407_9-2	72.91	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Marin_''hardground''	Marin_''hardground''
+1703.40	6407_9-2	72.08	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Marin_''hardground''	Marin_''hardground''
+1703.50	6407_9-2	71.26	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Ovre_strandskraning_forstrand	Ovre_strandskraning_forstrand
+1703.60	6407_9-2	71.69	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Ovre_strandskraning_forstrand	Ovre_strandskraning_forstrand
+1703.70	6407_9-2	72.11	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Ovre_strandskraning_forstrand	Ovre_strandskraning_forstrand
+1703.80	6407_9-2	72.54	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Ovre_strandskraning_forstrand	Ovre_strandskraning_forstrand
+1703.90	6407_9-2	72.96	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Ovre_strandskraning_forstrand	Ovre_strandskraning_forstrand
+1704.00	6407_9-2	73.39	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Ovre_strandskraning_forstrand	Ovre_strandskraning_forstrand
+1704.10	6407_9-2	73.06	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Ovre_strandskraning_forstrand	Ovre_strandskraning_forstrand
+1704.20	6407_9-2	72.21	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Ovre_strandskraning_forstrand	Ovre_strandskraning_forstrand
+1704.30	6407_9-2	71.35	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Ovre_strandskraning_forstrand	Ovre_strandskraning_forstrand
+1704.40	6407_9-2	70.50	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Ovre_strandskraning_forstrand	Ovre_strandskraning_forstrand
+1704.50	6407_9-2	69.64	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Ovre_strandskraning_forstrand	Ovre_strandskraning_forstrand
+1704.60	6407_9-2	69.45	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Ovre_strandskraning_forstrand	Ovre_strandskraning_forstrand
+1704.70	6407_9-2	70.09	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Ovre_strandskraning_forstrand	Ovre_strandskraning_forstrand
+1704.80	6407_9-2	70.73	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Ovre_strandskraning_forstrand	Ovre_strandskraning_forstrand
+1704.90	6407_9-2	71.37	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Ovre_strandskraning_forstrand	Ovre_strandskraning_forstrand
+1705.00	6407_9-2	72.01	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Ovre_strandskraning_forstrand	Ovre_strandskraning_forstrand
+1705.10	6407_9-2	72.65	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Ovre_strandskraning_forstrand	Ovre_strandskraning_forstrand
+1705.20	6407_9-2	73.29	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Ovre_strandskraning_forstrand	Ovre_strandskraning_forstrand
+1705.30	6407_9-2	73.93	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Ovre_strandskraning_forstrand	Ovre_strandskraning_forstrand
+1705.40	6407_9-2	74.06	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Ovre_strandskraning_forstrand	Ovre_strandskraning_forstrand
+1705.50	6407_9-2	73.84	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Ovre_strandskraning_forstrand	Ovre_strandskraning_forstrand
+1705.60	6407_9-2	73.62	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Ovre_strandskraning_forstrand	Ovre_strandskraning_forstrand
+1705.70	6407_9-2	73.40	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Ovre_strandskraning_forstrand	Ovre_strandskraning_forstrand
+1705.80	6407_9-2	73.20	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Ovre_strandskraning_forstrand	Ovre_strandskraning_forstrand
+1705.90	6407_9-2	73.00	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Ovre_strandskraning_forstrand	Ovre_strandskraning_forstrand
+1706.00	6407_9-2	72.81	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Ovre_strandskraning_forstrand	Ovre_strandskraning_forstrand
+1706.10	6407_9-2	2.73	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Ovre_strandskraning_forstrand	Ovre_strandskraning_forstrand
+1706.20	6407_9-2	2.73	Sandstone	 	 	100.00	0.00	0.00	f	vf/f	Ovre_strandskraning_forstrand	Ovre_strandskraning_forstrand

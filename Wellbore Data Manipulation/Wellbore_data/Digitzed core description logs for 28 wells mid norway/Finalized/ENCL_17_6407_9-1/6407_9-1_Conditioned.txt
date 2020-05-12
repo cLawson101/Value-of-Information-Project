@@ -1,0 +1,522 @@
+Depth.m	Hole ID.-	GR.API	Lithology1.-	Lithology2.-	Lithology3.-	Lithology1.%	Lithology2.%	Lithology3.%	Grain_size_Top.-	Grain_size_Base.-	Sub_Environment.-	Gross_Environment.-
+1631.00	6407_9-1	20.48	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1631.10	6407_9-1	21.03	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1631.20	6407_9-1	21.58	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1631.30	6407_9-1	21.86	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1631.40	6407_9-1	22.13	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1631.50	6407_9-1	22.39	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1631.60	6407_9-1	22.54	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1631.70	6407_9-1	21.97	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1631.80	6407_9-1	21.40	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1631.90	6407_9-1	20.82	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1632.00	6407_9-1	20.25	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1632.10	6407_9-1	19.68	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1632.20	6407_9-1	19.11	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1632.30	6407_9-1	18.54	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1632.40	6407_9-1	17.97	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1632.50	6407_9-1	17.60	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1632.60	6407_9-1	17.74	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1632.70	6407_9-1	17.88	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1632.80	6407_9-1	18.02	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1632.90	6407_9-1	18.17	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1633.00	6407_9-1	18.31	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1633.10	6407_9-1	18.45	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1633.20	6407_9-1	18.59	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1633.30	6407_9-1	18.74	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1633.40	6407_9-1	18.88	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1633.50	6407_9-1	19.02	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1633.60	6407_9-1	19.48	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1633.70	6407_9-1	20.13	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1633.80	6407_9-1	20.78	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1633.90	6407_9-1	21.43	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1634.00	6407_9-1	22.08	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1634.10	6407_9-1	22.73	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1634.20	6407_9-1	22.37	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1634.30	6407_9-1	21.74	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1634.40	6407_9-1	21.10	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1634.50	6407_9-1	20.47	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1634.60	6407_9-1	19.83	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1634.70	6407_9-1	19.38	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1634.80	6407_9-1	19.63	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1634.90	6407_9-1	19.88	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1635.00	6407_9-1	20.13	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1635.10	6407_9-1	20.38	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1635.20	6407_9-1	20.53	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1635.30	6407_9-1	20.07	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1635.40	6407_9-1	19.62	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1635.50	6407_9-1	19.16	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1635.60	6407_9-1	18.70	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1635.70	6407_9-1	18.24	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1635.80	6407_9-1	17.87	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1635.90	6407_9-1	18.96	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1636.00	6407_9-1	20.04	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1636.10	6407_9-1	20.72	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1636.20	6407_9-1	20.22	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1636.30	6407_9-1	19.72	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1636.40	6407_9-1	19.22	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1636.50	6407_9-1	18.72	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1636.60	6407_9-1	18.22	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1636.70	6407_9-1	17.72	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1636.80	6407_9-1	17.33	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1636.90	6407_9-1	17.51	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1637.00	6407_9-1	17.68	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1637.10	6407_9-1	17.85	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1637.20	6407_9-1	18.03	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1637.30	6407_9-1	18.20	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1637.40	6407_9-1	18.56	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1637.50	6407_9-1	19.31	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1637.60	6407_9-1	20.06	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1637.70	6407_9-1	20.81	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1637.80	6407_9-1	21.13	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1637.90	6407_9-1	20.30	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1638.00	6407_9-1	19.46	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1638.10	6407_9-1	18.63	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1638.20	6407_9-1	17.80	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1638.30	6407_9-1	17.71	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1638.40	6407_9-1	17.93	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1638.50	6407_9-1	18.14	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1638.60	6407_9-1	18.36	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1638.70	6407_9-1	18.58	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1638.80	6407_9-1	18.80	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1638.90	6407_9-1	18.47	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1639.00	6407_9-1	18.07	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1639.10	6407_9-1	17.67	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1639.20	6407_9-1	17.28	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1639.30	6407_9-1	16.88	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1639.40	6407_9-1	16.48	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1639.50	6407_9-1	16.56	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1639.60	6407_9-1	17.06	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1639.70	6407_9-1	17.56	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1639.80	6407_9-1	18.06	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1639.90	6407_9-1	18.56	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1640.00	6407_9-1	19.05	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1640.10	6407_9-1	19.55	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1640.20	6407_9-1	19.44	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1640.30	6407_9-1	19.29	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1640.40	6407_9-1	19.14	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1640.50	6407_9-1	18.99	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1640.60	6407_9-1	18.84	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1640.70	6407_9-1	19.20	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1640.80	6407_9-1	19.63	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1640.90	6407_9-1	20.06	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1641.00	6407_9-1	20.50	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1641.10	6407_9-1	20.93	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1641.20	6407_9-1	21.36	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1641.30	6407_9-1	21.79	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1641.40	6407_9-1	22.00	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1641.50	6407_9-1	21.56	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1641.60	6407_9-1	21.13	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1641.70	6407_9-1	20.70	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1641.80	6407_9-1	20.26	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1641.90	6407_9-1	19.83	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1642.00	6407_9-1	19.93	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1642.10	6407_9-1	20.73	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1642.20	6407_9-1	21.52	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1642.30	6407_9-1	22.32	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1642.40	6407_9-1	23.12	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1642.50	6407_9-1	23.60	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1642.60	6407_9-1	23.50	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1642.70	6407_9-1	23.40	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1642.80	6407_9-1	23.31	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1642.90	6407_9-1	23.21	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1643.00	6407_9-1	23.11	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1643.10	6407_9-1	23.02	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1643.20	6407_9-1	22.92	Sandstone	Limestone	Coal	92.00	4.00	4.00	c/vc	c/vc	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1643.30	6407_9-1	22.15	 	 	 	100.00	0.00	0.00	 	 	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1643.40	6407_9-1	20.69	 	 	 	100.00	0.00	0.00	 	 	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1643.50	6407_9-1	19.24	 	 	 	100.00	0.00	0.00	 	 	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1643.60	6407_9-1	19.21	 	 	 	100.00	0.00	0.00	 	 	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1643.70	6407_9-1	19.75	 	 	 	100.00	0.00	0.00	 	 	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1643.80	6407_9-1	20.29	 	 	 	100.00	0.00	0.00	 	 	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1643.90	6407_9-1	20.83	 	 	 	100.00	0.00	0.00	 	 	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1644.00	6407_9-1	21.37	 	 	 	100.00	0.00	0.00	 	 	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1644.10	6407_9-1	21.91	 	 	 	100.00	0.00	0.00	 	 	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1644.20	6407_9-1	22.02	 	 	 	100.00	0.00	0.00	 	 	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1644.30	6407_9-1	21.86	 	 	 	100.00	0.00	0.00	 	 	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1644.40	6407_9-1	21.71	 	 	 	100.00	0.00	0.00	 	 	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1644.50	6407_9-1	21.56	 	 	 	100.00	0.00	0.00	 	 	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1644.60	6407_9-1	21.40	 	 	 	100.00	0.00	0.00	 	 	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1644.70	6407_9-1	21.25	 	 	 	100.00	0.00	0.00	 	 	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1644.80	6407_9-1	21.09	 	 	 	100.00	0.00	0.00	 	 	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1644.90	6407_9-1	20.65	 	 	 	100.00	0.00	0.00	 	 	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1645.00	6407_9-1	20.22	 	 	 	100.00	0.00	0.00	 	 	Central_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1645.10	6407_9-1	19.78	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1645.20	6407_9-1	19.35	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1645.30	6407_9-1	18.92	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1645.40	6407_9-1	18.73	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1645.50	6407_9-1	19.54	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1645.60	6407_9-1	20.35	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1645.70	6407_9-1	21.15	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1645.80	6407_9-1	21.96	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1645.90	6407_9-1	22.77	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1646.00	6407_9-1	22.33	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1646.10	6407_9-1	21.71	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1646.20	6407_9-1	21.10	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1646.30	6407_9-1	20.48	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1646.40	6407_9-1	19.86	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1646.50	6407_9-1	19.84	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1646.60	6407_9-1	20.30	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1646.70	6407_9-1	20.77	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1646.80	6407_9-1	21.23	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1646.90	6407_9-1	21.70	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1647.00	6407_9-1	22.17	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1647.10	6407_9-1	22.63	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1647.20	6407_9-1	23.10	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1647.30	6407_9-1	23.12	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1647.40	6407_9-1	23.12	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1647.50	6407_9-1	23.12	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1647.60	6407_9-1	23.12	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1647.70	6407_9-1	23.12	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1647.80	6407_9-1	23.43	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1647.90	6407_9-1	23.93	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1648.00	6407_9-1	24.43	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1648.10	6407_9-1	24.93	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1648.20	6407_9-1	25.43	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1648.30	6407_9-1	25.93	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1648.40	6407_9-1	26.43	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1648.50	6407_9-1	26.93	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1648.60	6407_9-1	27.42	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1648.70	6407_9-1	27.92	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1648.80	6407_9-1	28.26	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1648.90	6407_9-1	28.59	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1649.00	6407_9-1	28.92	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1649.10	6407_9-1	29.26	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1649.20	6407_9-1	29.65	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1649.30	6407_9-1	30.11	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1649.40	6407_9-1	30.58	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1649.50	6407_9-1	31.04	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1649.60	6407_9-1	31.20	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1649.70	6407_9-1	31.18	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1649.80	6407_9-1	31.15	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1649.90	6407_9-1	31.12	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1650.00	6407_9-1	31.09	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1650.10	6407_9-1	31.06	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1650.20	6407_9-1	31.03	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1650.30	6407_9-1	31.00	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1650.40	6407_9-1	30.97	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1650.50	6407_9-1	32.09	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1650.60	6407_9-1	33.22	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1650.70	6407_9-1	34.35	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1650.80	6407_9-1	35.23	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1650.90	6407_9-1	34.98	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1651.00	6407_9-1	34.73	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1651.10	6407_9-1	34.48	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1651.20	6407_9-1	34.23	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1651.30	6407_9-1	33.98	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1651.40	6407_9-1	33.75	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1651.50	6407_9-1	33.52	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1651.60	6407_9-1	33.29	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1651.70	6407_9-1	33.69	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1651.80	6407_9-1	34.24	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1651.90	6407_9-1	34.76	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1652.00	6407_9-1	34.40	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1652.10	6407_9-1	34.05	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1652.20	6407_9-1	33.69	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1652.30	6407_9-1	33.34	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1652.40	6407_9-1	32.98	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1652.50	6407_9-1	32.63	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1652.60	6407_9-1	32.28	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1652.70	6407_9-1	32.12	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1652.80	6407_9-1	32.95	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1652.90	6407_9-1	33.79	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1653.00	6407_9-1	34.53	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1653.10	6407_9-1	34.63	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1653.20	6407_9-1	34.72	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1653.30	6407_9-1	34.61	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1653.40	6407_9-1	34.35	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1653.50	6407_9-1	34.09	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1653.60	6407_9-1	33.83	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1653.70	6407_9-1	33.57	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1653.80	6407_9-1	33.31	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1653.90	6407_9-1	34.69	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1654.00	6407_9-1	36.60	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1654.10	6407_9-1	38.50	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1654.20	6407_9-1	40.98	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1654.30	6407_9-1	40.39	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1654.40	6407_9-1	39.66	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1654.50	6407_9-1	38.93	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1654.60	6407_9-1	38.29	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1654.70	6407_9-1	38.13	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1654.80	6407_9-1	37.98	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1654.90	6407_9-1	37.82	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1655.00	6407_9-1	38.49	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1655.10	6407_9-1	39.29	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1655.20	6407_9-1	40.10	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1655.30	6407_9-1	40.90	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1655.40	6407_9-1	41.71	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1655.50	6407_9-1	42.51	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1655.60	6407_9-1	43.32	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1655.70	6407_9-1	44.12	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1655.80	6407_9-1	45.04	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1655.90	6407_9-1	45.97	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1656.00	6407_9-1	46.89	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1656.10	6407_9-1	47.30	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1656.20	6407_9-1	47.49	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1656.30	6407_9-1	47.68	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1656.40	6407_9-1	47.87	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1656.50	6407_9-1	48.06	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1656.60	6407_9-1	48.83	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1656.70	6407_9-1	50.57	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1656.80	6407_9-1	52.32	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1656.90	6407_9-1	54.07	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1657.00	6407_9-1	55.81	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1657.10	6407_9-1	57.02	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1657.20	6407_9-1	56.99	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1657.30	6407_9-1	56.95	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1657.40	6407_9-1	56.91	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1657.50	6407_9-1	56.87	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1657.60	6407_9-1	56.83	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1657.70	6407_9-1	56.79	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1657.80	6407_9-1	57.21	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1657.90	6407_9-1	57.80	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1658.00	6407_9-1	58.40	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1658.10	6407_9-1	59.00	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1658.20	6407_9-1	59.60	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1658.30	6407_9-1	60.20	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1658.40	6407_9-1	60.80	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1658.50	6407_9-1	61.36	Sandstone	Limestone	 	96.00	4.00	0.00	c	c/vc	Erosion	Development_of_sandbars_on_a_high_energy_shelf
+1658.60	6407_9-1	61.61	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1658.70	6407_9-1	61.86	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1658.80	6407_9-1	62.18	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1658.90	6407_9-1	63.74	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1659.00	6407_9-1	65.29	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1659.10	6407_9-1	65.85	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1659.20	6407_9-1	66.12	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1659.30	6407_9-1	66.39	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1659.40	6407_9-1	66.66	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1659.50	6407_9-1	66.93	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1659.60	6407_9-1	67.20	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1659.70	6407_9-1	67.47	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1659.80	6407_9-1	67.74	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1659.90	6407_9-1	68.01	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1660.00	6407_9-1	68.28	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1660.10	6407_9-1	68.55	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1660.20	6407_9-1	68.82	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1660.30	6407_9-1	69.33	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1660.40	6407_9-1	70.00	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1660.50	6407_9-1	70.66	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1660.60	6407_9-1	71.61	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1660.70	6407_9-1	72.79	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1660.80	6407_9-1	73.96	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1660.90	6407_9-1	75.13	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1661.00	6407_9-1	76.02	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1661.10	6407_9-1	76.02	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1661.20	6407_9-1	76.02	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1661.30	6407_9-1	71.95	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1661.40	6407_9-1	67.74	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1661.50	6407_9-1	63.54	 	 	 	100.00	0.00	0.00	 	 	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1661.60	6407_9-1	60.36	 	 	 	100.00	0.00	0.00	 	 	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1661.70	6407_9-1	59.71	 	 	 	100.00	0.00	0.00	 	 	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1661.80	6407_9-1	60.71	 	 	 	100.00	0.00	0.00	 	 	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1661.90	6407_9-1	60.83	 	 	 	100.00	0.00	0.00	 	 	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1662.00	6407_9-1	62.27	 	 	 	100.00	0.00	0.00	 	 	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1662.10	6407_9-1	66.26	 	 	 	100.00	0.00	0.00	 	 	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1662.20	6407_9-1	70.16	 	 	 	100.00	0.00	0.00	 	 	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1662.30	6407_9-1	73.05	 	 	 	100.00	0.00	0.00	 	 	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1662.40	6407_9-1	75.93	 	 	 	100.00	0.00	0.00	 	 	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1662.50	6407_9-1	78.57	 	 	 	100.00	0.00	0.00	 	 	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1662.60	6407_9-1	81.15	 	 	 	100.00	0.00	0.00	 	 	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1662.70	6407_9-1	83.73	 	 	 	100.00	0.00	0.00	 	 	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1662.80	6407_9-1	85.62	 	 	 	100.00	0.00	0.00	 	 	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1662.90	6407_9-1	84.19	 	 	 	100.00	0.00	0.00	 	 	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1663.00	6407_9-1	82.73	 	 	 	100.00	0.00	0.00	 	 	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1663.10	6407_9-1	81.27	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1663.20	6407_9-1	78.05	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1663.30	6407_9-1	76.89	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1663.40	6407_9-1	77.07	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1663.50	6407_9-1	77.36	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1663.60	6407_9-1	77.39	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1663.70	6407_9-1	77.02	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1663.80	6407_9-1	76.52	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1663.90	6407_9-1	75.79	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1664.00	6407_9-1	75.06	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1664.10	6407_9-1	75.65	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1664.20	6407_9-1	77.25	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1664.30	6407_9-1	78.85	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1664.40	6407_9-1	80.55	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1664.50	6407_9-1	82.24	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1664.60	6407_9-1	83.94	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1664.70	6407_9-1	85.64	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1664.80	6407_9-1	87.33	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1664.90	6407_9-1	87.85	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1665.00	6407_9-1	88.31	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1665.10	6407_9-1	88.77	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1665.20	6407_9-1	89.24	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1665.30	6407_9-1	89.70	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1665.40	6407_9-1	90.16	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1665.50	6407_9-1	90.63	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1665.60	6407_9-1	91.37	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1665.70	6407_9-1	92.16	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1665.80	6407_9-1	92.96	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1665.90	6407_9-1	93.75	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1666.00	6407_9-1	94.54	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1666.10	6407_9-1	95.33	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1666.20	6407_9-1	96.12	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1666.30	6407_9-1	96.11	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1666.40	6407_9-1	95.31	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1666.50	6407_9-1	94.51	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1666.60	6407_9-1	93.72	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1666.70	6407_9-1	93.06	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1666.80	6407_9-1	92.46	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1666.90	6407_9-1	91.86	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1667.00	6407_9-1	91.26	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1667.10	6407_9-1	94.46	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1667.20	6407_9-1	94.26	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1667.30	6407_9-1	94.06	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1667.40	6407_9-1	92.40	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1667.50	6407_9-1	89.77	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1667.60	6407_9-1	87.14	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1667.70	6407_9-1	84.51	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1667.80	6407_9-1	81.88	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1667.90	6407_9-1	79.31	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1668.00	6407_9-1	79.58	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1668.10	6407_9-1	79.67	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1668.20	6407_9-1	79.76	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1668.30	6407_9-1	82.57	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1668.40	6407_9-1	88.42	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1668.50	6407_9-1	91.64	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1668.60	6407_9-1	93.72	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1668.70	6407_9-1	95.79	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1668.80	6407_9-1	97.76	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1668.90	6407_9-1	99.67	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1669.00	6407_9-1	101.57	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1669.10	6407_9-1	104.07	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1669.20	6407_9-1	106.67	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1669.30	6407_9-1	111.03	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1669.40	6407_9-1	116.84	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1669.50	6407_9-1	120.98	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1669.60	6407_9-1	125.13	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1669.70	6407_9-1	132.28	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1669.80	6407_9-1	144.68	Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1669.90	6407_9-1		Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1670.00	6407_9-1		Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1670.10	6407_9-1		Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1670.20	6407_9-1		Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1670.30	6407_9-1		Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1670.40	6407_9-1		Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1670.50	6407_9-1		Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1670.60	6407_9-1		Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1670.70	6407_9-1		Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1670.80	6407_9-1		Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1670.90	6407_9-1		Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1671.00	6407_9-1		Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1671.10	6407_9-1		Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1671.20	6407_9-1		Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1671.30	6407_9-1		Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1671.40	6407_9-1		Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1671.50	6407_9-1		Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1671.60	6407_9-1		Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1671.70	6407_9-1		Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1671.80	6407_9-1		Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1671.90	6407_9-1		Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1672.00	6407_9-1		Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1672.10	6407_9-1		Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Marginal_sandbar_on_open_marine_'shelf'	Development_of_sandbars_on_a_high_energy_shelf
+1672.20	6407_9-1		Sandstone	Limestone	 	93.00	7.00	0.00	vf/f	f/m	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1672.30	6407_9-1		Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1672.40	6407_9-1		Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1672.50	6407_9-1		Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1672.60	6407_9-1		Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1672.70	6407_9-1		Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1672.80	6407_9-1		Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1672.90	6407_9-1		Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1673.00	6407_9-1		Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1673.10	6407_9-1		Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1673.20	6407_9-1		Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1673.30	6407_9-1		Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1673.40	6407_9-1	129.55	Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1673.50	6407_9-1	121.33	Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1673.60	6407_9-1	112.96	Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1673.70	6407_9-1	104.58	Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1673.80	6407_9-1	96.21	Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1673.90	6407_9-1	92.48	Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1674.00	6407_9-1	94.85	Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1674.10	6407_9-1	97.23	Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1674.20	6407_9-1	99.61	Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1674.30	6407_9-1	101.98	Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1674.40	6407_9-1	103.54	Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1674.50	6407_9-1	98.19	Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1674.60	6407_9-1	92.85	Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1674.70	6407_9-1	87.51	Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1674.80	6407_9-1	82.17	Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1674.90	6407_9-1	80.29	Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1675.00	6407_9-1	79.49	Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1675.10	6407_9-1	78.69	Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1675.20	6407_9-1	78.51	Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1675.30	6407_9-1	78.95	Clay	 	 	100.00	0.00	0.00	silt	silt/vf	Offshore_Trangression	Development_of_sandbars_on_a_high_energy_shelf
+1675.40	6407_9-1	79.38	Sandstone	Limestone	 	70.00	30.00	0.00	f/m	silt/vf	Erosion	Proximal_delta_front
+1675.50	6407_9-1	79.82	Sandstone	Limestone	 	70.00	30.00	0.00	f/m	silt/vf	Erosion	Proximal_delta_front
+1675.60	6407_9-1	79.62	Sandstone	Limestone	 	70.00	30.00	0.00	f/m	silt/vf	Erosion	Proximal_delta_front
+1675.70	6407_9-1	78.63	Sandstone	Limestone	 	70.00	30.00	0.00	f/m	silt/vf	Erosion	Proximal_delta_front
+1675.80	6407_9-1	77.63	Sandstone	Limestone	 	70.00	30.00	0.00	f/m	silt/vf	Erosion	Proximal_delta_front
+1675.90	6407_9-1	76.63	Sandstone	Limestone	 	70.00	30.00	0.00	f/m	silt/vf	Erosion	Proximal_delta_front
+1676.00	6407_9-1	76.81	Sandstone	Limestone	 	70.00	30.00	0.00	f/m	silt/vf	Erosion	Proximal_delta_front
+1676.10	6407_9-1	77.13	Sandstone	Limestone	 	70.00	30.00	0.00	f/m	silt/vf	Erosion	Proximal_delta_front
+1676.20	6407_9-1	77.45	Sandstone	Limestone	 	70.00	30.00	0.00	f/m	silt/vf	Erosion	Proximal_delta_front
+1676.30	6407_9-1	77.77	Sandstone	Limestone	 	70.00	30.00	0.00	f/m	silt/vf	Erosion	Proximal_delta_front
+1676.40	6407_9-1	78.10	Sandstone	Limestone	 	70.00	30.00	0.00	f/m	silt/vf	Erosion	Proximal_delta_front
+1676.50	6407_9-1	78.42	Sandstone	Limestone	 	70.00	30.00	0.00	f/m	silt/vf	Erosion	Proximal_delta_front
+1676.60	6407_9-1	78.74	Sandstone	Limestone	 	70.00	30.00	0.00	f/m	silt/vf	Erosion	Proximal_delta_front
+1676.70	6407_9-1	79.02	Sandstone	Limestone	 	70.00	30.00	0.00	f/m	silt/vf	Erosion	Proximal_delta_front
+1676.80	6407_9-1	77.96	Sandstone	Limestone	 	70.00	30.00	0.00	f/m	silt/vf	Erosion	Proximal_delta_front
+1676.90	6407_9-1	76.91	Sandstone	Limestone	 	70.00	30.00	0.00	f/m	silt/vf	Erosion	Proximal_delta_front
+1677.00	6407_9-1	75.85	Sandstone	Limestone	 	70.00	30.00	0.00	f/m	silt/vf	Erosion	Proximal_delta_front
+1677.10	6407_9-1	74.79	Sandstone	Limestone	 	70.00	30.00	0.00	f/m	silt/vf	Erosion	Proximal_delta_front
+1677.20	6407_9-1	73.34	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion	Proximal_delta_front
+1677.30	6407_9-1	71.72	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion	Proximal_delta_front
+1677.40	6407_9-1	70.11	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion	Proximal_delta_front
+1677.50	6407_9-1	67.94	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1677.60	6407_9-1	65.02	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1677.70	6407_9-1	62.10	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1677.80	6407_9-1	59.18	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1677.90	6407_9-1	63.17	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1678.00	6407_9-1	69.57	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1678.10	6407_9-1	81.44	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1678.20	6407_9-1	85.82	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1678.30	6407_9-1	103.85	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1678.40	6407_9-1	108.34	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1678.50	6407_9-1	112.65	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1678.60	6407_9-1	110.55	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1678.70	6407_9-1	108.44	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1678.80	6407_9-1	90.80	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1678.90	6407_9-1	80.25	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1679.00	6407_9-1	78.81	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1679.10	6407_9-1	77.37	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1679.20	6407_9-1	75.92	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1679.30	6407_9-1	74.48	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1679.40	6407_9-1	73.60	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1679.50	6407_9-1	73.04	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1679.60	6407_9-1	72.54	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1679.70	6407_9-1	73.81	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1679.80	6407_9-1	75.34	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1679.90	6407_9-1	76.88	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1680.00	6407_9-1	79.32	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1680.10	6407_9-1	82.44	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1680.20	6407_9-1	86.58	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1680.30	6407_9-1	85.51	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1680.40	6407_9-1	82.76	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1680.50	6407_9-1	80.02	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1680.60	6407_9-1	73.21	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1680.70	6407_9-1	64.97	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1680.80	6407_9-1	56.74	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1680.90	6407_9-1	50.77	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1681.00	6407_9-1	46.72	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1681.10	6407_9-1	44.41	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1681.20	6407_9-1	44.61	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1681.30	6407_9-1	44.81	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1681.40	6407_9-1	47.00	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1681.50	6407_9-1	50.37	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1681.60	6407_9-1	51.81	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1681.70	6407_9-1	51.97	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1681.80	6407_9-1	52.12	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1681.90	6407_9-1	51.79	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1682.00	6407_9-1	50.33	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1682.10	6407_9-1	48.87	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1682.20	6407_9-1	47.40	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1682.30	6407_9-1	42.71	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1682.40	6407_9-1	38.02	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1682.50	6407_9-1	33.33	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1682.60	6407_9-1	28.64	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1682.70	6407_9-1	23.95	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1682.80	6407_9-1	23.63	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1682.90	6407_9-1	24.13	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front
+1683.00	6407_9-1	24.88	Sandstone	Limestone	 	82.00	18.00	0.00	f	f/m	Erosion_Upper_shoreface_or_proximal_mouth_bar	Proximal_delta_front

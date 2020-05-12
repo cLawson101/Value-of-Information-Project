@@ -1,0 +1,455 @@
+Depth.m	Hole ID.-	GR.API	Lithology1.-	Lithology2.-	Lithology3.-	Lithology1.%	Lithology2.%	Lithology3.%	Grain_size_Top.-	Grain_size_Base.-	Sub_Environment.-	Gross_Environment.-
+1666	6407_9-4	66.53	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1666.1	6407_9-4	65.90	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1666.2	6407_9-4	65.26	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1666.3	6407_9-4	65.43	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1666.4	6407_9-4	65.83	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1666.5	6407_9-4	66.76	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1666.6	6407_9-4	68.24	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1666.7	6407_9-4	69.72	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1666.8	6407_9-4	69.74	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1666.9	6407_9-4	69.48	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1667	6407_9-4	69.21	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1667.1	6407_9-4	68.85	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1667.2	6407_9-4	68.34	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1667.3	6407_9-4	67.83	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1667.4	6407_9-4	67.33	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1667.5	6407_9-4	66.89	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1667.6	6407_9-4	66.71	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1667.7	6407_9-4	66.52	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1667.8	6407_9-4	66.33	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1667.9	6407_9-4	66.20	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1668	6407_9-4	66.07	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1668.1	6407_9-4	65.95	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1668.2	6407_9-4	65.82	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1668.3	6407_9-4	65.69	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1668.4	6407_9-4	65.60	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1668.5	6407_9-4	65.94	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1668.6	6407_9-4	66.27	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1668.7	6407_9-4	67.84	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1668.8	6407_9-4	69.70	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1668.9	6407_9-4	71.56	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1669	6407_9-4	71.37	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1669.1	6407_9-4	71.09	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1669.2	6407_9-4	70.81	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1669.3	6407_9-4	70.54	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1669.4	6407_9-4	70.28	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1669.5	6407_9-4	70.79	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1669.6	6407_9-4	71.31	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1669.7	6407_9-4	71.83	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1669.8	6407_9-4	72.15	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1669.9	6407_9-4	71.73	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1670	6407_9-4	71.32	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1670.1	6407_9-4	70.90	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1670.2	6407_9-4	70.48	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1670.3	6407_9-4	70.07	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1670.4	6407_9-4	69.65	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1670.5	6407_9-4	69.23	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1670.6	6407_9-4	68.82	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1670.7	6407_9-4	69.27	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1670.8	6407_9-4	69.89	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1670.9	6407_9-4	70.51	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1671	6407_9-4	71.35	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1671.1	6407_9-4	72.50	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1671.2	6407_9-4	73.64	Sandstone	Limestone	 	90.00	10.00	0.00	f/m	f/m		Stacked_upper_shoreface/proximal_delta_front
+1671.3	6407_9-4	73.89	 	 	 	100.00	0.00	0.00	 	 		Stacked_upper_shoreface/proximal_delta_front
+1671.4	6407_9-4	72.67	 	 	 	100.00	0.00	0.00	 	 		Stacked_upper_shoreface/proximal_delta_front
+1671.5	6407_9-4	71.44	 	 	 	100.00	0.00	0.00	 	 		Stacked_upper_shoreface/proximal_delta_front
+1671.6	6407_9-4	70.21	 	 	 	100.00	0.00	0.00	 	 		Stacked_upper_shoreface/proximal_delta_front
+1671.7	6407_9-4	68.98	 	 	 	100.00	0.00	0.00	 	 		Stacked_upper_shoreface/proximal_delta_front
+1671.8	6407_9-4	67.75	 	 	 	100.00	0.00	0.00	 	 		Stacked_upper_shoreface/proximal_delta_front
+1671.9	6407_9-4	66.52	 	 	 	100.00	0.00	0.00	 	 		Stacked_upper_shoreface/proximal_delta_front
+1672	6407_9-4	64.01	 	 	 	100.00	0.00	0.00	 	 		Stacked_upper_shoreface/proximal_delta_front
+1672.1	6407_9-4	61.03	 	 	 	100.00	0.00	0.00	 	 		Stacked_upper_shoreface/proximal_delta_front
+1672.2	6407_9-4	60.59	 	 	 	100.00	0.00	0.00	 	 		Stacked_upper_shoreface/proximal_delta_front
+1672.3	6407_9-4	60.15	 	 	 	100.00	0.00	0.00	 	 		Stacked_upper_shoreface/proximal_delta_front
+1672.4	6407_9-4	59.71	 	 	 	100.00	0.00	0.00	 	 		Stacked_upper_shoreface/proximal_delta_front
+1672.5	6407_9-4	58.98	 	 	 	100.00	0.00	0.00	 	 		Stacked_upper_shoreface/proximal_delta_front
+1672.6	6407_9-4	57.13	 	 	 	100.00	0.00	0.00	 	 		Stacked_upper_shoreface/proximal_delta_front
+1672.7	6407_9-4	55.27	 	 	 	100.00	0.00	0.00	 	 		Stacked_upper_shoreface/proximal_delta_front
+1672.8	6407_9-4	54.52	 	 	 	100.00	0.00	0.00	 	 		Stacked_upper_shoreface/proximal_delta_front
+1672.9	6407_9-4	55.82	 	 	 	100.00	0.00	0.00	 	 		Stacked_upper_shoreface/proximal_delta_front
+1673	6407_9-4	57.12	 	 	 	100.00	0.00	0.00	 	 	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1673.1	6407_9-4	58.42	Limestone	 	 	100.00	0.00	0.00	clay/silt	clay/silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1673.2	6407_9-4	59.07	Limestone	 	 	100.00	0.00	0.00	clay/silt	clay/silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1673.3	6407_9-4	59.50	Limestone	 	 	100.00	0.00	0.00	clay/silt	clay/silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1673.4	6407_9-4	59.35	Limestone	 	 	100.00	0.00	0.00	clay/silt	clay/silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1673.5	6407_9-4	57.58	Limestone	 	 	100.00	0.00	0.00	clay/silt	clay/silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1673.6	6407_9-4	56.99	Limestone	 	 	100.00	0.00	0.00	clay/silt	clay/silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1673.7	6407_9-4	57.36	Limestone	 	 	100.00	0.00	0.00	clay/silt	clay/silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1673.8	6407_9-4	57.92	Limestone	 	 	100.00	0.00	0.00	silt	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1673.9	6407_9-4	60.71	Sandstone	Limestone	 	98.00	2.00	0.00	vf	vf	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1674	6407_9-4	60.84	Sandstone	Limestone	 	98.00	2.00	0.00	vf	vf	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1674.1	6407_9-4	60.81	Sandstone	Limestone	 	98.00	2.00	0.00	vf	vf	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1674.2	6407_9-4	60.77	Sandstone	Limestone	 	98.00	2.00	0.00	vf	vf	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1674.3	6407_9-4	60.73	Sandstone	Limestone	 	98.00	2.00	0.00	vf	vf	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1674.4	6407_9-4	62.44	Sandstone	Limestone	 	98.00	2.00	0.00	vf	vf	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1674.5	6407_9-4	64.72	Sandstone	Limestone	 	98.00	2.00	0.00	vf	vf	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1674.6	6407_9-4	67.49	Sandstone	Limestone	 	98.00	2.00	0.00	vf	vf	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1674.7	6407_9-4	75.15	Sandstone	Limestone	 	98.00	2.00	0.00	vf	vf	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1674.8	6407_9-4	79.09	 	 	 	100.00	0.00	0.00	 	 	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1674.9	6407_9-4	80.22	 	 	 	100.00	0.00	0.00	 	 	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1675	6407_9-4	86.72	 	 	 	100.00	0.00	0.00	 	 	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1675.1	6407_9-4	87.58	 	 	 	100.00	0.00	0.00	 	 	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1675.2	6407_9-4	88.45	 	 	 	100.00	0.00	0.00	 	 	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1675.3	6407_9-4	89.31	 	 	 	100.00	0.00	0.00	 	 	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1675.4	6407_9-4	90.17	 	 	 	100.00	0.00	0.00	 	 	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1675.5	6407_9-4	91.03	 	 	 	100.00	0.00	0.00	 	 	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1675.6	6407_9-4	91.90	 	 	 	100.00	0.00	0.00	 	 	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1675.7	6407_9-4	92.16	 	 	 	100.00	0.00	0.00	 	 	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1675.8	6407_9-4	91.66	 	 	 	100.00	0.00	0.00	 	 	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1675.9	6407_9-4	90.40	 	 	 	100.00	0.00	0.00	 	 	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1676	6407_9-4	89.07	 	 	 	100.00	0.00	0.00	 	 	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1676.1	6407_9-4	87.75	 	 	 	100.00	0.00	0.00	 	 	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1676.2	6407_9-4	86.42	 	 	 	100.00	0.00	0.00	 	 	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1676.3	6407_9-4	85.42	 	 	 	100.00	0.00	0.00	 	 	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1676.4	6407_9-4	85.02	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1676.5	6407_9-4	84.41	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1676.6	6407_9-4	83.53	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1676.7	6407_9-4	83.62	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1676.8	6407_9-4	84.49	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1676.9	6407_9-4	85.91	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1677	6407_9-4	88.01	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1677.1	6407_9-4	90.10	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1677.2	6407_9-4	91.02	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1677.3	6407_9-4	90.31	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1677.4	6407_9-4	89.60	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1677.5	6407_9-4	88.89	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1677.6	6407_9-4	87.77	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1677.7	6407_9-4	86.56	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1677.8	6407_9-4	85.35	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1677.9	6407_9-4	84.14	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1678	6407_9-4	82.96	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1678.1	6407_9-4	82.36	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1678.2	6407_9-4	81.77	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1678.3	6407_9-4	81.17	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1678.4	6407_9-4	80.57	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1678.5	6407_9-4	80.24	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1678.6	6407_9-4	80.19	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1678.7	6407_9-4	80.14	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1678.8	6407_9-4	81.16	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1678.9	6407_9-4	83.55	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1679	6407_9-4	84.50	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1679.1	6407_9-4	84.21	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1679.2	6407_9-4	83.36	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1679.3	6407_9-4	81.81	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1679.4	6407_9-4	80.25	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1679.5	6407_9-4	78.70	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1679.6	6407_9-4	77.15	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1679.7	6407_9-4	75.60	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1679.8	6407_9-4	74.04	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1679.9	6407_9-4	72.49	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1680	6407_9-4	71.44	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1680.1	6407_9-4	70.48	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1680.2	6407_9-4	69.53	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1680.3	6407_9-4	68.57	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1680.4	6407_9-4	67.66	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1680.5	6407_9-4	67.32	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1680.6	6407_9-4	66.97	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1680.7	6407_9-4	66.66	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1680.8	6407_9-4	67.40	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1680.9	6407_9-4	68.14	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1681	6407_9-4	68.12	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1681.1	6407_9-4	66.84	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1681.2	6407_9-4	65.55	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1681.3	6407_9-4	64.27	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1681.4	6407_9-4	63.51	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1681.5	6407_9-4	62.78	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1681.6	6407_9-4	62.09	Sandstone	Limestone	 	83.00	17.00	0.00	f/m	silt	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1681.7	6407_9-4	61.40	Limestone	 	 	100.00	0.00	0.00	vf	vf	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1681.8	6407_9-4	60.73	Limestone	 	 	100.00	0.00	0.00	vf	vf	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1681.9	6407_9-4	60.73	Limestone	 	 	100.00	0.00	0.00	vf	vf	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1682	6407_9-4	60.80	Limestone	 	 	100.00	0.00	0.00	vf	vf	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1682.1	6407_9-4	61.53	Limestone	 	 	100.00	0.00	0.00	vf	vf	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1682.2	6407_9-4	62.23	Sandstone	Limestone	 	60.00	40.00	0.00	f/m	f/m	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1682.3	6407_9-4	61.22	Sandstone	Limestone	 	60.00	40.00	0.00	f/m	f/m	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1682.4	6407_9-4	60.21	Sandstone	Limestone	 	60.00	40.00	0.00	f/m	f/m	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1682.5	6407_9-4	59.20	Sandstone	Limestone	 	60.00	40.00	0.00	f/m	f/m	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1682.6	6407_9-4	58.19	Sandstone	Limestone	 	60.00	40.00	0.00	f/m	f/m	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1682.7	6407_9-4	57.19	Sandstone	Limestone	 	60.00	40.00	0.00	f/m	f/m	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1682.8	6407_9-4	56.47	Sandstone	Limestone	 	60.00	40.00	0.00	f/m	f/m	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1682.9	6407_9-4	56.41	Sandstone	Limestone	 	60.00	40.00	0.00	f/m	f/m	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1683	6407_9-4	56.34	Sandstone	Limestone	 	60.00	40.00	0.00	f/m	f/m	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1683.1	6407_9-4	56.67	Sandstone	Limestone	 	60.00	40.00	0.00	f/m	f/m	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1683.2	6407_9-4	57.06	Sandstone	Limestone	 	60.00	40.00	0.00	f/m	f/m	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1683.3	6407_9-4	57.46	Sandstone	Limestone	 	60.00	40.00	0.00	f/m	f/m	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1683.4	6407_9-4	57.86	Sandstone	Limestone	 	60.00	40.00	0.00	f/m	f/m	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1683.5	6407_9-4	58.26	Sandstone	Limestone	 	60.00	40.00	0.00	f/m	f/m	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1683.6	6407_9-4	58.20	Sandstone	Limestone	 	60.00	40.00	0.00	f/m	f/m	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1683.7	6407_9-4	58.09	Sandstone	Limestone	 	60.00	40.00	0.00	f/m	f/m	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1683.8	6407_9-4	58.28	Sandstone	Limestone	 	60.00	40.00	0.00	f/m	f/m	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1683.9	6407_9-4	59.50	Sandstone	Limestone	 	60.00	40.00	0.00	f/m	f/m	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1684	6407_9-4	60.73	Sandstone	Limestone	 	60.00	40.00	0.00	f/m	f/m	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1684.1	6407_9-4	61.38	Sandstone	Limestone	 	60.00	40.00	0.00	f/m	f/m	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1684.2	6407_9-4	61.85	Sandstone	Limestone	 	60.00	40.00	0.00	f/m	f/m	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1684.3	6407_9-4	62.32	Sandstone	Limestone	 	60.00	40.00	0.00	f/m	f/m	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1684.4	6407_9-4	62.79	Sandstone	Limestone	 	60.00	40.00	0.00	f/m	f/m	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1684.5	6407_9-4	63.90	Sandstone	Limestone	 	60.00	40.00	0.00	f/m	f/m	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1684.6	6407_9-4	65.50	 	 	 	100.00	0.00	0.00	 	 	Stacked_upper_shoreface_sequenses	Stacked_upper_shoreface/proximal_delta_front
+1684.7	6407_9-4	68.13	 	 	 	100.00	0.00	0.00	 	 	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1684.8	6407_9-4	71.28	 	 	 	100.00	0.00	0.00	 	 	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1684.9	6407_9-4	74.43	 	 	 	100.00	0.00	0.00	 	 	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1685	6407_9-4	77.59	 	 	 	100.00	0.00	0.00	 	 	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1685.1	6407_9-4	80.74	 	 	 	100.00	0.00	0.00	 	 	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1685.2	6407_9-4	81.38	 	 	 	100.00	0.00	0.00	 	 	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1685.3	6407_9-4	81.77	 	 	 	100.00	0.00	0.00	 	 	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1685.4	6407_9-4	80.72	 	 	 	100.00	0.00	0.00	 	 	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1685.5	6407_9-4	79.67	 	 	 	100.00	0.00	0.00	 	 	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1685.6	6407_9-4	78.62	 	 	 	100.00	0.00	0.00	 	 	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1685.7	6407_9-4	77.57	 	 	 	100.00	0.00	0.00	 	 	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1685.8	6407_9-4	75.62	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1685.9	6407_9-4	73.48	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1686	6407_9-4	71.35	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1686.1	6407_9-4	69.69	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1686.2	6407_9-4	69.92	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1686.3	6407_9-4	71.46	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1686.4	6407_9-4	73.01	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1686.5	6407_9-4	74.49	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1686.6	6407_9-4	73.69	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1686.7	6407_9-4	72.89	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1686.8	6407_9-4	72.10	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1686.9	6407_9-4	71.46	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1687	6407_9-4	71.35	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1687.1	6407_9-4	71.25	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1687.2	6407_9-4	71.14	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1687.3	6407_9-4	71.04	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1687.4	6407_9-4	71.18	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1687.5	6407_9-4	70.65	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1687.6	6407_9-4	70.12	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1687.7	6407_9-4	69.59	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1687.8	6407_9-4	69.51	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1687.9	6407_9-4	69.79	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1688	6407_9-4	71.75	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1688.1	6407_9-4	73.72	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1688.2	6407_9-4	75.00	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1688.3	6407_9-4	74.62	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1688.4	6407_9-4	74.24	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1688.5	6407_9-4	73.86	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1688.6	6407_9-4	73.47	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1688.7	6407_9-4	73.53	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1688.8	6407_9-4	73.96	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1688.9	6407_9-4	74.39	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1689	6407_9-4	74.82	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1689.1	6407_9-4	75.25	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1689.2	6407_9-4	74.55	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1689.3	6407_9-4	73.81	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1689.4	6407_9-4	73.39	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1689.5	6407_9-4	73.69	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1689.6	6407_9-4	73.98	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1689.7	6407_9-4	73.96	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1689.8	6407_9-4	73.05	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1689.9	6407_9-4	72.14	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1690	6407_9-4	71.23	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1690.1	6407_9-4	70.31	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1690.2	6407_9-4	69.40	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1690.3	6407_9-4	68.49	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1690.4	6407_9-4	67.58	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1690.5	6407_9-4	66.67	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1690.6	6407_9-4	65.95	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1690.7	6407_9-4	66.51	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1690.8	6407_9-4	67.06	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1690.9	6407_9-4	67.62	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1691	6407_9-4	68.08	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1691.1	6407_9-4	68.33	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1691.2	6407_9-4	68.59	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1691.3	6407_9-4	68.84	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1691.4	6407_9-4	69.10	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1691.5	6407_9-4	69.16	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1691.6	6407_9-4	69.09	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1691.7	6407_9-4	69.01	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1691.8	6407_9-4	68.94	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1691.9	6407_9-4	68.26	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1692	6407_9-4	67.16	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1692.1	6407_9-4	66.05	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1692.2	6407_9-4	64.94	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1692.3	6407_9-4	63.84	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1692.4	6407_9-4	62.73	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1692.5	6407_9-4	61.63	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1692.6	6407_9-4	60.52	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1692.7	6407_9-4	59.41	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1692.8	6407_9-4	58.31	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1692.9	6407_9-4	57.93	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1693	6407_9-4	59.15	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1693.1	6407_9-4	60.38	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1693.2	6407_9-4	66.98	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1693.3	6407_9-4	73.07	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1693.4	6407_9-4	78.46	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1693.5	6407_9-4	81.74	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1693.6	6407_9-4	81.49	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1693.7	6407_9-4	80.59	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1693.8	6407_9-4	79.17	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1693.9	6407_9-4	77.74	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1694	6407_9-4	76.32	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1694.1	6407_9-4	75.17	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1694.2	6407_9-4	74.06	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1694.3	6407_9-4	73.45	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1694.4	6407_9-4	72.85	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1694.5	6407_9-4	72.24	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1694.6	6407_9-4	71.64	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1694.7	6407_9-4	71.04	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1694.8	6407_9-4	69.51	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1694.9	6407_9-4	67.84	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1695	6407_9-4	67.84	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1695.1	6407_9-4	68.45	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1695.2	6407_9-4	69.82	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1695.3	6407_9-4	71.20	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1695.4	6407_9-4	72.57	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1695.5	6407_9-4	74.62	Sandstone	Limestone	 	80.00	20.00	0.00	silt/vf	m/c	Coarsening_upwards_prograding_shoreline_sequenses_(Delta_front)	Prograding_proximal_delta_front_(fan_delta)
+1695.6	6407_9-4	78.67	 	 	 	100.00	0.00	0.00	 	 	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1695.7	6407_9-4	82.72	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt/vf	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1695.8	6407_9-4	83.86	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt/vf	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1695.9	6407_9-4	84.92	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt/vf	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1696	6407_9-4	85.97	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt/vf	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1696.1	6407_9-4	87.03	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt/vf	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1696.2	6407_9-4	88.08	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt/vf	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1696.3	6407_9-4	89.14	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt/vf	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1696.4	6407_9-4	90.19	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt/vf	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1696.5	6407_9-4	90.94	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt/vf	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1696.6	6407_9-4	91.17	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt/vf	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1696.7	6407_9-4	91.39	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt/vf	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1696.8	6407_9-4	91.61	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt/vf	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1696.9	6407_9-4	91.84	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt/vf	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1697	6407_9-4	92.03	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt/vf	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1697.1	6407_9-4	92.21	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1697.2	6407_9-4	92.39	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1697.3	6407_9-4	92.48	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1697.4	6407_9-4	92.18	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1697.5	6407_9-4	91.89	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1697.6	6407_9-4	91.59	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1697.7	6407_9-4	91.30	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1697.8	6407_9-4	91.03	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1697.9	6407_9-4	91.23	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1698	6407_9-4	91.44	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1698.1	6407_9-4	91.64	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1698.2	6407_9-4	91.85	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1698.3	6407_9-4	92.06	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1698.4	6407_9-4	91.08	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1698.5	6407_9-4	89.99	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1698.6	6407_9-4	88.91	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1698.7	6407_9-4	87.82	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1698.8	6407_9-4	86.73	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1698.9	6407_9-4	86.29	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1699	6407_9-4	88.35	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1699.1	6407_9-4	90.42	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1699.2	6407_9-4	92.48	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1699.3	6407_9-4	96.30	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1699.4	6407_9-4	97.86	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1699.5	6407_9-4	98.15	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1699.6	6407_9-4	98.43	Sandstone	 	 	100.00	0.00	0.00	silt/vf	silt	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1699.7	6407_9-4	97.48	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1699.8	6407_9-4	96.50	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1699.9	6407_9-4	95.52	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1700	6407_9-4	94.55	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1700.1	6407_9-4	93.89	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1700.2	6407_9-4	94.25	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1700.3	6407_9-4	94.62	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1700.4	6407_9-4	94.98	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1700.5	6407_9-4	95.01	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1700.6	6407_9-4	93.96	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1700.7	6407_9-4	92.91	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1700.8	6407_9-4	91.86	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1700.9	6407_9-4	90.81	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1701	6407_9-4	89.92	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1701.1	6407_9-4	89.21	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1701.2	6407_9-4	88.51	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1701.3	6407_9-4	87.87	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1701.4	6407_9-4	88.54	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1701.5	6407_9-4	89.21	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1701.6	6407_9-4	89.88	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1701.7	6407_9-4	90.04	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1701.8	6407_9-4	89.53	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1701.9	6407_9-4	89.03	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1702	6407_9-4	88.53	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1702.1	6407_9-4	87.69	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1702.2	6407_9-4	87.49	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1702.3	6407_9-4	88.02	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1702.4	6407_9-4	88.55	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1702.5	6407_9-4	89.08	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Alternating_lower_and_middle_shoreface_Small_scale_cyclicity	Prograding_proximal_delta_front_(fan_delta)
+1702.6	6407_9-4	88.52	Sandstone	 	 	100.00	0.00	0.00	silt/vf	f/m	Transgression	Prograding_proximal_delta_front_(fan_delta)
+1702.7	6407_9-4	86.85	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Transgression	Prograding_proximal_delta_front_(fan_delta)
+1702.8	6407_9-4	85.18	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Transgression	Prograding_proximal_delta_front_(fan_delta)
+1702.9	6407_9-4	83.52	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Transgression	Prograding_proximal_delta_front_(fan_delta)
+1703	6407_9-4	81.85	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Transgression	Prograding_proximal_delta_front_(fan_delta)
+1703.1	6407_9-4	80.18	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Erosion	Proximal_delta_front_(fan_delta)
+1703.2	6407_9-4	77.90	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Erosion	Proximal_delta_front_(fan_delta)
+1703.3	6407_9-4	74.75	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Erosion	Proximal_delta_front_(fan_delta)
+1703.4	6407_9-4	71.60	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Erosion	Proximal_delta_front_(fan_delta)
+1703.5	6407_9-4	68.44	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Erosion	Proximal_delta_front_(fan_delta)
+1703.6	6407_9-4	65.29	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Erosion	Proximal_delta_front_(fan_delta)
+1703.7	6407_9-4	63.71	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1703.8	6407_9-4	62.95	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1703.9	6407_9-4	62.19	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1704	6407_9-4	61.43	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1704.1	6407_9-4	60.67	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1704.2	6407_9-4	59.90	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1704.3	6407_9-4	59.14	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1704.4	6407_9-4	58.38	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1704.5	6407_9-4	57.72	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1704.6	6407_9-4	57.95	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1704.7	6407_9-4	58.18	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1704.8	6407_9-4	58.42	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1704.9	6407_9-4	58.65	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1705	6407_9-4	58.96	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1705.1	6407_9-4	59.35	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1705.2	6407_9-4	59.73	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1705.3	6407_9-4	60.11	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1705.4	6407_9-4	60.50	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1705.5	6407_9-4	60.88	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1705.6	6407_9-4	61.28	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1705.7	6407_9-4	61.68	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1705.8	6407_9-4	62.08	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1705.9	6407_9-4	62.48	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1706	6407_9-4	66.53	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1706.1	6407_9-4	68.64	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1706.2	6407_9-4	68.11	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1706.3	6407_9-4	67.40	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1706.4	6407_9-4	66.06	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1706.5	6407_9-4	64.72	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1706.6	6407_9-4	63.37	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1706.7	6407_9-4	62.63	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1706.8	6407_9-4	62.27	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1706.9	6407_9-4	61.91	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1707	6407_9-4	61.55	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1707.1	6407_9-4	61.55	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1707.2	6407_9-4	61.63	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1707.3	6407_9-4	61.71	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1707.4	6407_9-4	61.79	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1707.5	6407_9-4	61.21	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1707.6	6407_9-4	60.63	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1707.7	6407_9-4	60.05	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1707.8	6407_9-4	59.47	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1707.9	6407_9-4	59.30	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1708	6407_9-4	59.22	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1708.1	6407_9-4	60.05	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1708.2	6407_9-4	60.97	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1708.3	6407_9-4	61.89	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1708.4	6407_9-4	62.81	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1708.5	6407_9-4	63.72	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1708.6	6407_9-4	63.34	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1708.7	6407_9-4	62.91	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1708.8	6407_9-4	62.49	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1708.9	6407_9-4	62.06	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1709	6407_9-4	61.63	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1709.1	6407_9-4	61.21	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1709.2	6407_9-4	60.78	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1709.3	6407_9-4	60.52	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1709.4	6407_9-4	61.11	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1709.5	6407_9-4	61.70	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1709.6	6407_9-4	62.28	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1709.7	6407_9-4	62.07	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1709.8	6407_9-4	61.21	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1709.9	6407_9-4	60.37	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1710	6407_9-4	59.78	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1710.1	6407_9-4	59.18	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1710.2	6407_9-4	59.23	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1710.3	6407_9-4	59.45	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1710.4	6407_9-4	59.78	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1710.5	6407_9-4	60.16	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1710.6	6407_9-4	60.54	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1710.7	6407_9-4	60.86	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1710.8	6407_9-4	60.71	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1710.9	6407_9-4	60.55	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1711	6407_9-4	60.40	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1711.1	6407_9-4	60.25	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1711.2	6407_9-4	60.09	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)
+1711.3	6407_9-4	60.13	Sandstone	 	 	100.00	0.00	0.00	m/c	c/vc	Proximal_mouth_Upper_shoreface	Proximal_delta_front_(fan_delta)

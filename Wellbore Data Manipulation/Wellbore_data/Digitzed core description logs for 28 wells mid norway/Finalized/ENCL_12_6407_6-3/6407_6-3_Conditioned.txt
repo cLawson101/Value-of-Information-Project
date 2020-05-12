@@ -1,0 +1,1432 @@
+Depth.m	Hole ID.-	GR.API	Lithology1.-	Lithology2.-	Lithology3.-	Lithology1.%	Lithology2.%	Lithology3.%	Grain_size_Top.-	Grain_size_Base.-	Sub_Environment.-	Gross_Environment.-
+2472.00	6407_6-3	64.17	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2472.10	6407_6-3	64.91	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2472.20	6407_6-3	65.41	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2472.30	6407_6-3	65.91	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2472.40	6407_6-3	66.41	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2472.50	6407_6-3	66.53	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2472.60	6407_6-3	66.66	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2472.70	6407_6-3	66.79	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2472.80	6407_6-3	66.68	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2472.90	6407_6-3	66.49	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2473.00	6407_6-3	66.30	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2473.10	6407_6-3	66.32	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2473.20	6407_6-3	66.46	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2473.30	6407_6-3	66.66	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2473.40	6407_6-3	67.41	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2473.50	6407_6-3	68.27	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2473.60	6407_6-3	70.01	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2473.70	6407_6-3	71.74	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2473.80	6407_6-3	73.91	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2473.90	6407_6-3	75.47	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2474.00	6407_6-3	76.11	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2474.10	6407_6-3	75.02	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2474.20	6407_6-3	73.10	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2474.30	6407_6-3	70.36	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2474.40	6407_6-3	69.46	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2474.50	6407_6-3	68.87	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2474.60	6407_6-3	68.54	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2474.70	6407_6-3	68.22	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2474.80	6407_6-3	68.20	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2474.90	6407_6-3	68.23	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2475.00	6407_6-3	68.48	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2475.10	6407_6-3	68.86	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2475.20	6407_6-3	69.24	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2475.30	6407_6-3	69.71	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2475.40	6407_6-3	70.19	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2475.50	6407_6-3	70.67	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2475.60	6407_6-3	70.80	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2475.70	6407_6-3	70.51	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2475.80	6407_6-3	70.26	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2475.90	6407_6-3	70.26	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2476.00	6407_6-3	70.32	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2476.10	6407_6-3	70.81	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2476.20	6407_6-3	71.62	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2476.30	6407_6-3	72.55	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2476.40	6407_6-3	73.92	 	 	 	100.00	0.00	0.00	 	 	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2476.50	6407_6-3	75.22	 	 	 	100.00	0.00	0.00	 	 	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2476.60	6407_6-3	75.86	 	 	 	100.00	0.00	0.00	 	 	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2476.70	6407_6-3	76.51	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2476.80	6407_6-3	76.17	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2476.90	6407_6-3	75.34	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2477.00	6407_6-3	73.97	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2477.10	6407_6-3	72.61	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2477.20	6407_6-3	71.24	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2477.30	6407_6-3	70.08	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2477.40	6407_6-3	69.00	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2477.50	6407_6-3	68.84	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2477.60	6407_6-3	68.88	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2477.70	6407_6-3	69.41	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2477.80	6407_6-3	70.56	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2477.90	6407_6-3	71.95	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2478.00	6407_6-3	74.56	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2478.10	6407_6-3	77.11	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2478.20	6407_6-3	78.47	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2478.30	6407_6-3	79.09	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2478.40	6407_6-3	79.15	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2478.50	6407_6-3	78.32	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2478.60	6407_6-3	76.97	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2478.70	6407_6-3	74.82	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2478.80	6407_6-3	73.62	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2478.90	6407_6-3	72.67	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2479.00	6407_6-3	72.09	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2479.10	6407_6-3	71.50	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2479.20	6407_6-3	70.79	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2479.30	6407_6-3	69.93	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2479.40	6407_6-3	69.06	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2479.50	6407_6-3	67.89	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2479.60	6407_6-3	66.72	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2479.70	6407_6-3	65.74	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2479.80	6407_6-3	65.08	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2479.90	6407_6-3	64.73	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2480.00	6407_6-3	64.73	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2480.10	6407_6-3	64.73	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2480.20	6407_6-3	64.85	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2480.30	6407_6-3	65.11	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2480.40	6407_6-3	65.36	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2480.50	6407_6-3	65.61	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2480.60	6407_6-3	65.86	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2480.70	6407_6-3	66.28	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2480.80	6407_6-3	66.85	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2480.90	6407_6-3	67.42	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2481.00	6407_6-3	67.99	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2481.10	6407_6-3	68.56	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2481.20	6407_6-3	69.10	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2481.30	6407_6-3	69.63	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2481.40	6407_6-3	70.16	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2481.50	6407_6-3	70.70	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2481.60	6407_6-3	71.23	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2481.70	6407_6-3	71.76	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2481.80	6407_6-3	71.90	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2481.90	6407_6-3	71.65	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2482.00	6407_6-3	71.36	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2482.10	6407_6-3	71.67	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2482.20	6407_6-3	72.01	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2482.30	6407_6-3	72.97	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2482.40	6407_6-3	73.69	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2482.50	6407_6-3	73.65	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2482.60	6407_6-3	72.51	Sandstone	 	 	100.00	0.00	0.00	c	c	Proksimal_braid_delta_front_or_braided_channel_syste	Braidplane-braid_delta_front
+2482.70	6407_6-3	71.11	 	 	 	100.00	0.00	0.00	 	 		
+2482.80	6407_6-3	69.70	 	 	 	100.00	0.00	0.00	 	 		
+2482.90	6407_6-3	68.45	 	 	 	100.00	0.00	0.00	 	 		
+2483.00	6407_6-3	67.34	 	 	 	100.00	0.00	0.00	 	 		
+2483.10	6407_6-3	67.09	 	 	 	100.00	0.00	0.00	 	 		
+2483.20	6407_6-3	66.92	 	 	 	100.00	0.00	0.00	 	 		
+2483.30	6407_6-3	67.10	 	 	 	100.00	0.00	0.00	 	 		
+2483.40	6407_6-3	67.31	 	 	 	100.00	0.00	0.00	 	 		
+2483.50	6407_6-3	67.56	 	 	 	100.00	0.00	0.00	 	 		
+2483.60	6407_6-3	68.01	 	 	 	100.00	0.00	0.00	 	 		
+2483.70	6407_6-3	68.46	 	 	 	100.00	0.00	0.00	 	 		
+2483.80	6407_6-3	68.91	 	 	 	100.00	0.00	0.00	 	 		
+2483.90	6407_6-3	69.36	 	 	 	100.00	0.00	0.00	 	 		
+2484.00	6407_6-3	69.80	 	 	 	100.00	0.00	0.00	 	 		
+2484.10	6407_6-3	70.25	 	 	 	100.00	0.00	0.00	 	 		
+2484.20	6407_6-3	70.71	 	 	 	100.00	0.00	0.00	 	 		
+2484.30	6407_6-3	71.35	 	 	 	100.00	0.00	0.00	 	 		
+2484.40	6407_6-3	71.99	 	 	 	100.00	0.00	0.00	 	 		
+2484.50	6407_6-3	72.63	 	 	 	100.00	0.00	0.00	 	 		
+2484.60	6407_6-3	72.81	 	 	 	100.00	0.00	0.00	 	 		
+2484.70	6407_6-3	72.86	 	 	 	100.00	0.00	0.00	 	 		
+2484.80	6407_6-3	72.86	 	 	 	100.00	0.00	0.00	 	 		
+2484.90	6407_6-3	72.60	 	 	 	100.00	0.00	0.00	 	 		
+2485.00	6407_6-3	71.63	 	 	 	100.00	0.00	0.00	 	 		
+2485.10	6407_6-3	70.86	 	 	 	100.00	0.00	0.00	 	 		
+2485.20	6407_6-3	70.51	 	 	 	100.00	0.00	0.00	 	 		
+2485.30	6407_6-3	70.38	 	 	 	100.00	0.00	0.00	 	 		
+2485.40	6407_6-3	70.51	 	 	 	100.00	0.00	0.00	 	 		
+2485.50	6407_6-3	70.74	 	 	 	100.00	0.00	0.00	 	 		
+2485.60	6407_6-3	70.97	 	 	 	100.00	0.00	0.00	 	 		
+2485.70	6407_6-3	71.21	 	 	 	100.00	0.00	0.00	 	 		
+2485.80	6407_6-3	71.36	 	 	 	100.00	0.00	0.00	 	 		
+2485.90	6407_6-3	71.39	 	 	 	100.00	0.00	0.00	 	 		
+2486.00	6407_6-3	71.42	 	 	 	100.00	0.00	0.00	 	 		
+2486.10	6407_6-3	71.33	 	 	 	100.00	0.00	0.00	 	 		
+2486.20	6407_6-3	71.13	 	 	 	100.00	0.00	0.00	 	 		
+2486.30	6407_6-3	70.94	 	 	 	100.00	0.00	0.00	 	 		
+2486.40	6407_6-3	70.66	 	 	 	100.00	0.00	0.00	 	 		
+2486.50	6407_6-3	70.39	 	 	 	100.00	0.00	0.00	 	 		
+2486.60	6407_6-3	70.19	 	 	 	100.00	0.00	0.00	 	 		
+2486.70	6407_6-3	70.07	 	 	 	100.00	0.00	0.00	 	 		
+2486.80	6407_6-3	70.17	 	 	 	100.00	0.00	0.00	 	 		
+2486.90	6407_6-3	70.48	 	 	 	100.00	0.00	0.00	 	 		
+2487.00	6407_6-3	71.24	 	 	 	100.00	0.00	0.00	 	 		
+2487.10	6407_6-3	72.25	 	 	 	100.00	0.00	0.00	 	 		
+2487.20	6407_6-3	73.26	 	 	 	100.00	0.00	0.00	 	 		
+2487.30	6407_6-3	73.19	 	 	 	100.00	0.00	0.00	 	 		
+2487.40	6407_6-3	72.95	 	 	 	100.00	0.00	0.00	 	 		
+2487.50	6407_6-3	70.79	 	 	 	100.00	0.00	0.00	 	 		
+2487.60	6407_6-3	69.64	 	 	 	100.00	0.00	0.00	 	 		
+2487.70	6407_6-3	68.97	 	 	 	100.00	0.00	0.00	 	 		
+2487.80	6407_6-3	68.90	 	 	 	100.00	0.00	0.00	 	 		
+2487.90	6407_6-3	68.99	 	 	 	100.00	0.00	0.00	 	 		
+2488.00	6407_6-3	69.07	 	 	 	100.00	0.00	0.00	 	 		
+2488.10	6407_6-3	69.62	 	 	 	100.00	0.00	0.00	 	 		
+2488.20	6407_6-3	70.27	 	 	 	100.00	0.00	0.00	 	 		
+2488.30	6407_6-3	71.20	 	 	 	100.00	0.00	0.00	 	 		
+2488.40	6407_6-3	72.42	 	 	 	100.00	0.00	0.00	 	 		
+2488.50	6407_6-3	73.63	 	 	 	100.00	0.00	0.00	 	 		
+2488.60	6407_6-3	74.85	 	 	 	100.00	0.00	0.00	 	 		
+2488.70	6407_6-3	75.89	 	 	 	100.00	0.00	0.00	 	 		
+2488.80	6407_6-3	76.60	 	 	 	100.00	0.00	0.00	 	 		
+2488.90	6407_6-3	77.06	 	 	 	100.00	0.00	0.00	 	 		
+2489.00	6407_6-3	76.68	 	 	 	100.00	0.00	0.00	 	 		
+2489.10	6407_6-3	75.29	 	 	 	100.00	0.00	0.00	 	 		
+2489.20	6407_6-3	74.63	 	 	 	100.00	0.00	0.00	 	 		
+2489.30	6407_6-3	74.59	 	 	 	100.00	0.00	0.00	 	 		
+2489.40	6407_6-3	74.99	 	 	 	100.00	0.00	0.00	 	 		
+2489.50	6407_6-3	75.61	 	 	 	100.00	0.00	0.00	 	 		
+2489.60	6407_6-3	76.23	 	 	 	100.00	0.00	0.00	 	 		
+2489.70	6407_6-3	76.80	 	 	 	100.00	0.00	0.00	 	 		
+2489.80	6407_6-3	76.84	 	 	 	100.00	0.00	0.00	 	 		
+2489.90	6407_6-3	76.88	 	 	 	100.00	0.00	0.00	 	 		
+2490.00	6407_6-3	76.48	 	 	 	100.00	0.00	0.00	 	 		
+2490.10	6407_6-3	76.06	 	 	 	100.00	0.00	0.00	 	 		
+2490.20	6407_6-3	75.54	 	 	 	100.00	0.00	0.00	 	 		
+2490.30	6407_6-3	74.97	 	 	 	100.00	0.00	0.00	 	 		
+2490.40	6407_6-3	73.94	 	 	 	100.00	0.00	0.00	 	 		
+2490.50	6407_6-3	73.52	 	 	 	100.00	0.00	0.00	 	 		
+2490.60	6407_6-3	73.68	 	 	 	100.00	0.00	0.00	 	 		
+2490.70	6407_6-3	73.95	 	 	 	100.00	0.00	0.00	 	 		
+2490.80	6407_6-3	74.86	 	 	 	100.00	0.00	0.00	 	 		
+2490.90	6407_6-3	76.15	 	 	 	100.00	0.00	0.00	 	 		
+2491.00	6407_6-3	77.68	 	 	 	100.00	0.00	0.00	 	 	Proksimal_braiddelta_front	
+2491.10	6407_6-3	78.69	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2491.20	6407_6-3	79.25	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2491.30	6407_6-3	79.30	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2491.40	6407_6-3	78.95	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2491.50	6407_6-3	78.26	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2491.60	6407_6-3	76.94	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2491.70	6407_6-3	76.77	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2491.80	6407_6-3	76.72	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2491.90	6407_6-3	76.72	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2492.00	6407_6-3	76.78	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2492.10	6407_6-3	77.06	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2492.20	6407_6-3	77.34	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2492.30	6407_6-3	77.62	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2492.40	6407_6-3	77.61	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2492.50	6407_6-3	77.57	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2492.60	6407_6-3	77.44	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2492.70	6407_6-3	77.17	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2492.80	6407_6-3	76.98	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2492.90	6407_6-3	77.04	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2493.00	6407_6-3	77.10	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2493.10	6407_6-3	76.91	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2493.20	6407_6-3	76.36	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2493.30	6407_6-3	75.50	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2493.40	6407_6-3	74.88	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2493.50	6407_6-3	74.71	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2493.60	6407_6-3	74.81	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2493.70	6407_6-3	75.25	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2493.80	6407_6-3	76.64	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2493.90	6407_6-3	78.84	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2494.00	6407_6-3	82.23	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2494.10	6407_6-3	86.33	Sandstone	 	 	100.00	0.00	0.00	m	m/c	Proksimal_braiddelta_front	
+2494.20	6407_6-3	92.41	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Proksimal_braiddelta_front	
+2494.30	6407_6-3	98.90	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Proksimal_braiddelta_front	
+2494.40	6407_6-3	106.38	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Proksimal_braiddelta_front	
+2494.50	6407_6-3	113.98	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2494.60	6407_6-3	117.32	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2494.70	6407_6-3	117.25	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2494.80	6407_6-3	115.79	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2494.90	6407_6-3	111.35	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2495.00	6407_6-3	106.94	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2495.10	6407_6-3	102.31	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2495.20	6407_6-3	99.02	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2495.30	6407_6-3	97.84	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2495.40	6407_6-3	97.31	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2495.50	6407_6-3	96.94	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2495.60	6407_6-3	96.65	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2495.70	6407_6-3	96.35	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2495.80	6407_6-3	95.46	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2495.90	6407_6-3	94.48	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2496.00	6407_6-3	92.04	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2496.10	6407_6-3	90.18	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2496.20	6407_6-3	88.85	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2496.30	6407_6-3	88.57	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2496.40	6407_6-3	88.30	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2496.50	6407_6-3	88.90	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2496.60	6407_6-3	89.54	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2496.70	6407_6-3	90.19	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2496.80	6407_6-3	90.84	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2496.90	6407_6-3	90.66	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2497.00	6407_6-3	90.11	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2497.10	6407_6-3	89.32	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2497.20	6407_6-3	87.93	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2497.30	6407_6-3	86.34	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2497.40	6407_6-3	85.12	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2497.50	6407_6-3	84.17	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2497.60	6407_6-3	84.04	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2497.70	6407_6-3	84.09	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2497.80	6407_6-3	85.82	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2497.90	6407_6-3	89.95	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2498.00	6407_6-3	94.50	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2498.10	6407_6-3	103.25	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2498.20	6407_6-3	118.23	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2498.30	6407_6-3	127.93	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2498.40	6407_6-3	129.74	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2498.50	6407_6-3	130.41	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2498.60	6407_6-3	130.60	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2498.70	6407_6-3	130.56	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2498.80	6407_6-3	129.81	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2498.90	6407_6-3	126.03	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2499.00	6407_6-3	120.67	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2499.10	6407_6-3	115.92	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2499.20	6407_6-3	110.50	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2499.30	6407_6-3	106.57	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2499.40	6407_6-3	102.23	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2499.50	6407_6-3	100.72	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2499.60	6407_6-3	101.41	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2499.70	6407_6-3	103.85	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2499.80	6407_6-3	109.56	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2499.90	6407_6-3	118.05	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2500.00	6407_6-3	128.33	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2500.10	6407_6-3	130.46	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2500.20	6407_6-3	130.63	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2500.30	6407_6-3	130.64	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2500.40	6407_6-3	130.65	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2500.50	6407_6-3	130.66	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2500.60	6407_6-3	130.67	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2500.70	6407_6-3	130.68	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2500.80	6407_6-3	130.69	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2500.90	6407_6-3	130.70	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2501.00	6407_6-3	130.71	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2501.10	6407_6-3	129.64	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2501.20	6407_6-3	122.75	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2501.30	6407_6-3	114.51	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2501.40	6407_6-3	98.12	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2501.50	6407_6-3	91.51	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2501.60	6407_6-3	88.50	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2501.70	6407_6-3	87.40	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2501.80	6407_6-3	86.34	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2501.90	6407_6-3	86.01	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2502.00	6407_6-3	85.87	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2502.10	6407_6-3	85.79	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2502.20	6407_6-3	85.71	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2502.30	6407_6-3	85.32	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2502.40	6407_6-3	84.81	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2502.50	6407_6-3	83.77	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2502.60	6407_6-3	82.68	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2502.70	6407_6-3	81.84	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2502.80	6407_6-3	81.42	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2502.90	6407_6-3	81.41	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2503.00	6407_6-3	81.70	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2503.10	6407_6-3	82.62	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2503.20	6407_6-3	84.01	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2503.30	6407_6-3	85.38	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2503.40	6407_6-3	86.74	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2503.50	6407_6-3	87.88	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2503.60	6407_6-3	88.81	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2503.70	6407_6-3	89.15	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2503.80	6407_6-3	89.50	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2503.90	6407_6-3	89.33	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2504.00	6407_6-3	88.71	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2504.10	6407_6-3	87.70	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2504.20	6407_6-3	86.79	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2504.30	6407_6-3	86.30	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2504.40	6407_6-3	86.14	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2504.50	6407_6-3	85.98	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2504.60	6407_6-3	85.75	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2504.70	6407_6-3	85.27	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2504.80	6407_6-3	84.65	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2504.90	6407_6-3	83.70	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2505.00	6407_6-3	83.16	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2505.10	6407_6-3	82.78	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2505.20	6407_6-3	83.16	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2505.30	6407_6-3	83.74	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2505.40	6407_6-3	84.61	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2505.50	6407_6-3	85.09	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2505.60	6407_6-3	85.57	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2505.70	6407_6-3	86.05	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2505.80	6407_6-3	86.53	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2505.90	6407_6-3	87.01	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2506.00	6407_6-3	87.49	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2506.10	6407_6-3	87.97	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2506.20	6407_6-3	88.45	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2506.30	6407_6-3	88.80	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2506.40	6407_6-3	88.92	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2506.50	6407_6-3	88.73	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2506.60	6407_6-3	88.54	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2506.70	6407_6-3	88.49	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2506.80	6407_6-3	88.47	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2506.90	6407_6-3	88.75	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2507.00	6407_6-3	89.03	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2507.10	6407_6-3	90.01	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2507.20	6407_6-3	91.03	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2507.30	6407_6-3	92.25	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2507.40	6407_6-3	93.23	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2507.50	6407_6-3	93.95	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2507.60	6407_6-3	94.53	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2507.70	6407_6-3	94.68	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2507.80	6407_6-3	94.82	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2507.90	6407_6-3	94.69	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2508.00	6407_6-3	93.92	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2508.10	6407_6-3	93.79	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2508.20	6407_6-3	93.76	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2508.30	6407_6-3	93.81	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2508.40	6407_6-3	94.35	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2508.50	6407_6-3	94.89	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2508.60	6407_6-3	95.47	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2508.70	6407_6-3	96.10	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2508.80	6407_6-3	96.73	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2508.90	6407_6-3	97.10	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2509.00	6407_6-3	97.46	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2509.10	6407_6-3	97.61	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Øvre_strandskråning,_overgang_til_nedre_strandskråning	Distal_deltafront
+2509.20	6407_6-3	97.47	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Transgresjon	Distal_deltafront
+2509.30	6407_6-3	96.85	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Transgresjon	Distal_deltafront
+2509.40	6407_6-3	95.59	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Transgresjon	Distal_deltafront
+2509.50	6407_6-3	93.37	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Transgresjon	Distal_deltafront
+2509.60	6407_6-3	91.17	Sandstone	 	 	100.00	0.00	0.00	vf	vf/f	Transgresjon	Distal_deltafront
+2509.70	6407_6-3	90.01	Sandstone	 	 	100.00	0.00	0.00	f	f	Transgresjon	Distal_deltafront
+2509.80	6407_6-3	89.58	Sandstone	 	 	100.00	0.00	0.00	f	f	Transgresjon	Distal_deltafront
+2509.90	6407_6-3	89.75	Sandstone	 	 	100.00	0.00	0.00	f	f	Transgresjon	Distal_deltafront
+2510.00	6407_6-3	90.23	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2510.10	6407_6-3	91.30	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2510.20	6407_6-3	92.37	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2510.30	6407_6-3	93.86	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2510.40	6407_6-3	95.57	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2510.50	6407_6-3	96.89	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2510.60	6407_6-3	97.99	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2510.70	6407_6-3	99.10	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2510.80	6407_6-3	99.56	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2510.90	6407_6-3	100.03	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2511.00	6407_6-3	100.27	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2511.10	6407_6-3	99.30	Sandstone	 	 	100.00	0.00	0.00	vf	vf	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2511.20	6407_6-3	98.11	Sandstone	 	 	100.00	0.00	0.00	vf	vf	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2511.30	6407_6-3	96.95	Sandstone	 	 	100.00	0.00	0.00	vf	vf	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2511.40	6407_6-3	96.39	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2511.50	6407_6-3	96.34	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2511.60	6407_6-3	96.75	Sandstone	Shale	 	95.00	5.00	0.00	f	f/m	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2511.70	6407_6-3	97.35	Sandstone	Shale	 	95.00	5.00	0.00	f	f/m	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2511.80	6407_6-3	98.49	Sandstone	Shale	 	95.00	5.00	0.00	f	f/m	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2511.90	6407_6-3	100.17	Sandstone	Shale	 	95.00	5.00	0.00	f	f/m	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2512.00	6407_6-3	102.51	Sandstone	Shale	 	95.00	5.00	0.00	f	f/m	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2512.10	6407_6-3	104.30	Sandstone	Shale	 	95.00	5.00	0.00	f	f/m	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2512.20	6407_6-3	105.42	Sandstone	Shale	 	95.00	5.00	0.00	f	f/m	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2512.30	6407_6-3	105.72	Sandstone	Shale	 	95.00	5.00	0.00	f	f/m	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2512.40	6407_6-3	104.92	Sandstone	Shale	 	95.00	5.00	0.00	f	f/m	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2512.50	6407_6-3	102.74	Sandstone	Shale	 	95.00	5.00	0.00	f	f/m	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2512.60	6407_6-3	100.29	Sandstone	Shale	 	95.00	5.00	0.00	f	f/m	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2512.70	6407_6-3	97.89	Sandstone	Shale	 	95.00	5.00	0.00	f	f/m	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2512.80	6407_6-3	95.56	Sandstone	Shale	 	95.00	5.00	0.00	f	f/m	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2512.90	6407_6-3	93.92	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2513.00	6407_6-3	92.71	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2513.10	6407_6-3	92.99	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2513.20	6407_6-3	95.45	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2513.30	6407_6-3	98.80	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2513.40	6407_6-3	99.56	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2513.50	6407_6-3	100.25	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2513.60	6407_6-3	99.75	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2513.70	6407_6-3	99.25	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2513.80	6407_6-3	98.75	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2513.90	6407_6-3	98.68	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2514.00	6407_6-3	98.68	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2514.10	6407_6-3	98.68	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2514.20	6407_6-3	98.68	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2514.30	6407_6-3	99.28	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2514.40	6407_6-3	99.68	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2514.50	6407_6-3	100.04	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2514.60	6407_6-3	100.27	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2514.70	6407_6-3	99.90	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2514.80	6407_6-3	99.73	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2514.90	6407_6-3	100.09	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2515.00	6407_6-3	100.46	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2515.10	6407_6-3	102.18	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2515.20	6407_6-3	103.90	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2515.30	6407_6-3	105.61	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2515.40	6407_6-3	107.05	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2515.50	6407_6-3	107.85	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2515.60	6407_6-3	108.56	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2515.70	6407_6-3	109.09	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2515.80	6407_6-3	109.62	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2515.90	6407_6-3	109.81	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2516.00	6407_6-3	109.89	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2516.10	6407_6-3	109.53	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2516.20	6407_6-3	109.00	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2516.30	6407_6-3	108.18	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2516.40	6407_6-3	107.10	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2516.50	6407_6-3	106.47	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2516.60	6407_6-3	106.05	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2516.70	6407_6-3	105.98	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2516.80	6407_6-3	106.09	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2516.90	6407_6-3	106.22	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2517.00	6407_6-3	107.20	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2517.10	6407_6-3	108.23	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2517.20	6407_6-3	109.88	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2517.30	6407_6-3	111.65	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2517.40	6407_6-3	113.59	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2517.50	6407_6-3	115.53	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2517.60	6407_6-3	117.27	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2517.70	6407_6-3	118.18	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2517.80	6407_6-3	118.63	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2517.90	6407_6-3	118.55	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2518.00	6407_6-3	118.16	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2518.10	6407_6-3	117.76	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2518.20	6407_6-3	117.63	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2518.30	6407_6-3	117.63	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2518.40	6407_6-3	117.64	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2518.50	6407_6-3	118.20	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2518.60	6407_6-3	118.77	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2518.70	6407_6-3	119.36	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2518.80	6407_6-3	119.60	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2518.90	6407_6-3	119.34	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2519.00	6407_6-3	118.74	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2519.10	6407_6-3	118.14	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2519.20	6407_6-3	117.62	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2519.30	6407_6-3	117.29	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2519.40	6407_6-3	116.97	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2519.50	6407_6-3	116.64	Sandstone	 	 	100.00	0.00	0.00	f	f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2519.60	6407_6-3	116.72	Sandstone	Shale	 	93.00	7.00	0.00	vf/f	vf/f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2519.70	6407_6-3	116.98	Sandstone	Shale	 	93.00	7.00	0.00	vf/f	vf/f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2519.80	6407_6-3	117.33	Sandstone	Shale	 	93.00	7.00	0.00	vf/f	vf/f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2519.90	6407_6-3	118.19	Sandstone	Shale	 	93.00	7.00	0.00	vf/f	vf/f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2520.00	6407_6-3	119.04	Sandstone	Shale	 	93.00	7.00	0.00	vf/f	vf/f	Strand/_øvre_strandskråning	Bølgedominert_delta_front
+2520.10	6407_6-3	119.87	Sandstone	Shale	 	93.00	7.00	0.00	vf/f	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2520.20	6407_6-3	120.66	Sandstone	Shale	 	93.00	7.00	0.00	vf/f	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2520.30	6407_6-3	120.93	Sandstone	Shale	 	93.00	7.00	0.00	vf/f	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2520.40	6407_6-3	121.02	Sandstone	Shale	 	93.00	7.00	0.00	vf/f	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2520.50	6407_6-3	120.56	Sandstone	Shale	 	93.00	7.00	0.00	vf/f	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2520.60	6407_6-3	119.77	Sandstone	Shale	 	93.00	7.00	0.00	vf/f	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2520.70	6407_6-3	119.07	Sandstone	Shale	 	93.00	7.00	0.00	vf/f	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2520.80	6407_6-3	118.79	Sandstone	Shale	 	93.00	7.00	0.00	vf/f	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2520.90	6407_6-3	119.01	Sandstone	Shale	 	93.00	7.00	0.00	vf/f	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2521.00	6407_6-3	119.38	Sandstone	Shale	 	93.00	7.00	0.00	vf/f	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2521.10	6407_6-3	120.27	Sandstone	Shale	 	93.00	7.00	0.00	vf/f	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2521.20	6407_6-3	121.23	Sandstone	Shale	 	93.00	7.00	0.00	vf/f	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2521.30	6407_6-3	122.27	Sandstone	Shale	 	93.00	7.00	0.00	vf/f	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2521.40	6407_6-3	124.21	Sandstone	Shale	 	93.00	7.00	0.00	vf/f	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2521.50	6407_6-3	127.05	Sandstone	Shale	 	93.00	7.00	0.00	vf/f	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2521.60	6407_6-3	129.88	Sandstone	 	 	100.00	0.00	0.00	 	 	Øvre_strandskråning	Bølgedominert_delta_front
+2521.70	6407_6-3	130.94	Sandstone	 	 	100.00	0.00	0.00	 	 	Øvre_strandskråning	Bølgedominert_delta_front
+2521.80	6407_6-3	130.93	Sandstone	 	 	100.00	0.00	0.00	 	 	Øvre_strandskråning	Bølgedominert_delta_front
+2521.90	6407_6-3	130.93	Sandstone	 	 	100.00	0.00	0.00	 	 	Øvre_strandskråning	Bølgedominert_delta_front
+2522.00	6407_6-3	130.93	Sandstone	 	 	100.00	0.00	0.00	 	 	Øvre_strandskråning	Bølgedominert_delta_front
+2522.10	6407_6-3	130.93	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2522.20	6407_6-3	130.92	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2522.30	6407_6-3	130.92	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2522.40	6407_6-3	130.92	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2522.50	6407_6-3	130.92	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2522.60	6407_6-3	130.91	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2522.70	6407_6-3	130.91	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2522.80	6407_6-3	130.91	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2522.90	6407_6-3	130.91	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2523.00	6407_6-3	130.90	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2523.10	6407_6-3	130.90	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2523.20	6407_6-3	130.90	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2523.30	6407_6-3	130.90	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2523.40	6407_6-3	130.89	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2523.50	6407_6-3	130.89	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2523.60	6407_6-3	130.89	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2523.70	6407_6-3	130.88	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2523.80	6407_6-3	130.88	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2523.90	6407_6-3	130.88	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2524.00	6407_6-3	130.88	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2524.10	6407_6-3	130.87	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2524.20	6407_6-3	130.87	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2524.30	6407_6-3	130.87	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2524.40	6407_6-3	130.87	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2524.50	6407_6-3	130.86	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2524.60	6407_6-3	130.86	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2524.70	6407_6-3	130.86	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2524.80	6407_6-3	130.86	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2524.90	6407_6-3	130.85	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Øvre_strandskråning	Bølgedominert_delta_front
+2525.00	6407_6-3	130.85	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2525.10	6407_6-3	130.85	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2525.20	6407_6-3	130.85	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2525.30	6407_6-3	130.84	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2525.40	6407_6-3	130.84	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2525.50	6407_6-3	130.84	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2525.60	6407_6-3	130.83	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2525.70	6407_6-3	130.83	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2525.80	6407_6-3	130.83	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2525.90	6407_6-3	130.83	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2526.00	6407_6-3	130.82	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2526.10	6407_6-3	130.82	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2526.20	6407_6-3	130.82	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2526.30	6407_6-3	130.82	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2526.40	6407_6-3	130.81	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2526.50	6407_6-3	130.81	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2526.60	6407_6-3	130.81	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2526.70	6407_6-3	130.81	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2526.80	6407_6-3	130.80	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2526.90	6407_6-3	130.80	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2527.00	6407_6-3	130.80	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2527.10	6407_6-3	130.80	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2527.20	6407_6-3	130.79	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2527.30	6407_6-3	130.79	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2527.40	6407_6-3	130.79	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2527.50	6407_6-3	130.78	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2527.60	6407_6-3	130.78	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2527.70	6407_6-3	130.78	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2527.80	6407_6-3	130.78	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2527.90	6407_6-3	130.77	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2528.00	6407_6-3	130.77	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2528.10	6407_6-3	130.77	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2528.20	6407_6-3	130.77	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2528.30	6407_6-3	130.76	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2528.40	6407_6-3	130.76	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2528.50	6407_6-3	130.76	Sandstone	Shale	 	75.00	25.00	0.00	vf	vf/f	Nedre_standskråning	Bølgedominert_delta_front
+2528.60	6407_6-3	130.76		 	 	100.00	0.00	0.00	 	 	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Bølgedominert_delta_front
+2528.70	6407_6-3	130.75		 	 	100.00	0.00	0.00	 	 	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2528.80	6407_6-3	130.75		 	 	100.00	0.00	0.00	 	 	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2528.90	6407_6-3	130.75	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2529.00	6407_6-3	130.75	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2529.10	6407_6-3	130.74	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2529.20	6407_6-3	130.74	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2529.30	6407_6-3	130.74	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2529.40	6407_6-3	130.74	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2529.50	6407_6-3	130.73	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2529.60	6407_6-3	130.73	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2529.70	6407_6-3	130.73	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2529.80	6407_6-3	130.72	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2529.90	6407_6-3	130.72	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2530.00	6407_6-3	130.72	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2530.10	6407_6-3	130.72	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2530.20	6407_6-3	130.71	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2530.30	6407_6-3	130.71	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2530.40	6407_6-3	130.71	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2530.50	6407_6-3	130.71	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2530.60	6407_6-3	130.70	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2530.70	6407_6-3	130.70	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2530.80	6407_6-3	130.70	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2530.90	6407_6-3	130.70	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2531.00	6407_6-3	130.69	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2531.10	6407_6-3	130.69	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2531.20	6407_6-3	130.69	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2531.30	6407_6-3	130.69	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2531.40	6407_6-3	130.68	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2531.50	6407_6-3	130.68	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2531.60	6407_6-3	130.68	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2531.70	6407_6-3	130.67	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2531.80	6407_6-3	130.67	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2531.90	6407_6-3	130.67	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2532.00	6407_6-3	130.67	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2532.10	6407_6-3	130.66	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2532.20	6407_6-3	130.66	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2532.30	6407_6-3	130.66	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2532.40	6407_6-3	130.66	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2532.50	6407_6-3	130.65	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2532.60	6407_6-3	130.65	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2532.70	6407_6-3	130.65	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2532.80	6407_6-3	130.65	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2532.90	6407_6-3	130.64	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2533.00	6407_6-3	130.64	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2533.10	6407_6-3	130.64	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2533.20	6407_6-3	130.64	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2533.30	6407_6-3	130.63	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2533.40	6407_6-3	130.63	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2533.50	6407_6-3	130.63	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2533.60	6407_6-3	130.62	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2533.70	6407_6-3	130.62	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2533.80	6407_6-3	130.62	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2533.90	6407_6-3	130.62	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2534.00	6407_6-3	130.61	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2534.10	6407_6-3	130.61	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2534.20	6407_6-3	130.61	Sandstone	Shale	 	15.00	85.00	0.00	silt	silt	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2534.30	6407_6-3	130.61		 	 	100.00	0.00	0.00	 	 	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2534.40	6407_6-3	130.60		 	 	100.00	0.00	0.00	 	 	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2534.50	6407_6-3	130.60		 	 	100.00	0.00	0.00	 	 	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2534.60	6407_6-3	130.60	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2534.70	6407_6-3	130.60	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2534.80	6407_6-3	130.59	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2534.90	6407_6-3	130.59	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2535.00	6407_6-3	130.59	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2535.10	6407_6-3	130.59	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2535.20	6407_6-3	130.58	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2535.30	6407_6-3	130.58	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2535.40	6407_6-3	130.58	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2535.50	6407_6-3	130.57	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2535.60	6407_6-3	130.57	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2535.70	6407_6-3	130.57	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2535.80	6407_6-3	130.57	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2535.90	6407_6-3	130.56	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2536.00	6407_6-3	130.56	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2536.10	6407_6-3	130.56	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2536.20	6407_6-3	130.56	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2536.30	6407_6-3	130.56	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2536.40	6407_6-3	130.56	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2536.50	6407_6-3	130.56	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2536.60	6407_6-3	130.56	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2536.70	6407_6-3	130.56	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2536.80	6407_6-3	130.56	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2536.90	6407_6-3	130.56	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2537.00	6407_6-3	130.56	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2537.10	6407_6-3	130.56	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2537.20	6407_6-3	130.56	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2537.30	6407_6-3	130.56	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2537.40	6407_6-3	130.56	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2537.50	6407_6-3	130.56	Sandstone	Shale	 	10.00	90.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2537.60	6407_6-3	130.56		 	 	100.00	0.00	0.00	 	 	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2537.70	6407_6-3	130.56		 	 	100.00	0.00	0.00	 	 	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2537.80	6407_6-3	130.56		 	 	100.00	0.00	0.00	 	 	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2537.90	6407_6-3	130.56		 	 	100.00	0.00	0.00	 	 	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2538.00	6407_6-3	130.56		 	 	100.00	0.00	0.00	 	 	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2538.10	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2538.20	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2538.30	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2538.40	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2538.50	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2538.60	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2538.70	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2538.80	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2538.90	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2539.00	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2539.10	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2539.20	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2539.30	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2539.40	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2539.50	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2539.60	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2539.70	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2539.80	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2539.90	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold,_reduserende_forhold	Prodelta
+2540.00	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2540.10	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2540.20	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2540.30	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2540.40	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2540.50	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2540.60	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2540.70	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2540.80	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2540.90	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2541.00	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2541.10	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2541.20	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2541.30	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2541.40	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2541.50	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2541.60	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2541.70	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2541.80	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2541.90	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2542.00	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2542.10	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2542.20	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2542.30	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2542.40	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2542.50	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2542.60	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2542.70	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2542.80	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2542.90	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2543.00	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2543.10	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2543.20	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2543.30	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2543.40	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2543.50	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2543.60	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2543.70	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2543.80	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2543.90	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2544.00	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2544.10	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2544.20	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2544.30	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2544.40	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2544.50	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2544.60	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2544.70	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2544.80	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2544.90	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2545.00	6407_6-3	130.56	Sandstone	Shale	 	5.00	95.00	0.00	silt	silt/vf	Reduserende_forhold	Prodelta
+2545.10	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2545.20	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2545.30	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2545.40	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2545.50	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2545.60	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2545.70	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2545.80	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2545.90	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2546.00	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2546.10	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2546.20	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2546.30	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2546.40	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2546.50	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2546.60	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2546.70	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2546.80	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2546.90	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2547.00	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2547.10	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2547.20	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2547.30	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2547.40	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2547.50	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2547.60	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2547.70	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2547.80	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2547.90	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2548.00	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2548.10	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2548.20	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2548.30	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2548.40	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2548.50	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2548.60	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2548.70	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2548.80	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2548.90	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2549.00	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2549.10	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2549.20	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2549.30	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2549.40	6407_6-3	126.40	 	 	 	100.00	0.00	0.00	 	 		
+2549.50	6407_6-3	120.39	 	 	 	100.00	0.00	0.00	 	 		
+2549.60	6407_6-3	109.83	 	 	 	100.00	0.00	0.00	 	 		
+2549.70	6407_6-3	101.04	 	 	 	100.00	0.00	0.00	 	 		
+2549.80	6407_6-3	93.04	 	 	 	100.00	0.00	0.00	 	 		
+2549.90	6407_6-3	81.80	 	 	 	100.00	0.00	0.00	 	 		
+2550.00	6407_6-3	80.21	 	 	 	100.00	0.00	0.00	 	 		
+2550.10	6407_6-3	79.47	 	 	 	100.00	0.00	0.00	 	 		
+2550.20	6407_6-3	79.21	 	 	 	100.00	0.00	0.00	 	 		
+2550.30	6407_6-3	79.43	 	 	 	100.00	0.00	0.00	 	 		
+2550.40	6407_6-3	79.95	 	 	 	100.00	0.00	0.00	 	 		
+2550.50	6407_6-3	81.41	 	 	 	100.00	0.00	0.00	 	 		
+2550.60	6407_6-3	82.94	 	 	 	100.00	0.00	0.00	 	 		
+2550.70	6407_6-3	83.26	 	 	 	100.00	0.00	0.00	 	 		
+2550.80	6407_6-3	82.81	 	 	 	100.00	0.00	0.00	 	 		
+2550.90	6407_6-3	81.97	 	 	 	100.00	0.00	0.00	 	 		
+2551.00	6407_6-3	80.71	 	 	 	100.00	0.00	0.00	 	 		
+2551.10	6407_6-3	79.13	 	 	 	100.00	0.00	0.00	 	 		
+2551.20	6407_6-3	77.54	 	 	 	100.00	0.00	0.00	 	 		
+2551.30	6407_6-3	76.08	 	 	 	100.00	0.00	0.00	 	 		
+2551.40	6407_6-3	75.04	 	 	 	100.00	0.00	0.00	 	 		
+2551.50	6407_6-3	74.35	 	 	 	100.00	0.00	0.00	 	 		
+2551.60	6407_6-3	73.89	 	 	 	100.00	0.00	0.00	 	 		
+2551.70	6407_6-3	73.63	 	 	 	100.00	0.00	0.00	 	 		
+2551.80	6407_6-3	73.38	 	 	 	100.00	0.00	0.00	 	 		
+2551.90	6407_6-3	73.12	 	 	 	100.00	0.00	0.00	 	 		
+2552.00	6407_6-3	72.36	 	 	 	100.00	0.00	0.00	 	 	Fluvial_kanal	Kanal
+2552.10	6407_6-3	71.51	Sandstone	 	 	100.00	0.00	0.00	vc	c	Fluvial_kanal	Kanal
+2552.20	6407_6-3	71.42	Sandstone	 	 	100.00	0.00	0.00	vc	c	Fluvial_kanal	Kanal
+2552.30	6407_6-3	71.33	Sandstone	 	 	100.00	0.00	0.00	vc	c	Fluvial_kanal	Kanal
+2552.40	6407_6-3	71.24	Sandstone	 	 	100.00	0.00	0.00	vc	c	Fluvial_kanal	Kanal
+2552.50	6407_6-3	71.30	Sandstone	 	 	100.00	0.00	0.00	vc	c	Fluvial_kanal	Kanal
+2552.60	6407_6-3	71.39	Sandstone	 	 	100.00	0.00	0.00	vc	c	Fluvial_kanal	Kanal
+2552.70	6407_6-3	71.48	Sandstone	 	 	100.00	0.00	0.00	vc	c	Fluvial_kanal	Kanal
+2552.80	6407_6-3	71.52	Sandstone	 	 	100.00	0.00	0.00	vc	c	Fluvial_kanal	Kanal
+2552.90	6407_6-3	71.49	Sandstone	 	 	100.00	0.00	0.00	vc	c	Fluvial_kanal	Kanal
+2553.00	6407_6-3	71.46	Sandstone	 	 	100.00	0.00	0.00	vc	c	Fluvial_kanal	Kanal
+2553.10	6407_6-3	71.44	Sandstone	 	 	100.00	0.00	0.00	vc	c	Fluvial_kanal	Kanal
+2553.20	6407_6-3	71.31	Sandstone	 	 	100.00	0.00	0.00	vc	c	Fluvial_kanal	Kanal
+2553.30	6407_6-3	71.09	Sandstone	 	 	100.00	0.00	0.00	vc	c	Fluvial_kanal	Kanal
+2553.40	6407_6-3	70.87	Sandstone	 	 	100.00	0.00	0.00	vc	c	Fluvial_kanal	Kanal
+2553.50	6407_6-3	70.65	Sandstone	 	 	100.00	0.00	0.00	vc	c	Fluvial_kanal	Kanal
+2553.60	6407_6-3	70.43	Sandstone	 	 	100.00	0.00	0.00	vc	c	Fluvial_kanal	Kanal
+2553.70	6407_6-3	70.20	Sandstone	 	 	100.00	0.00	0.00	vc	c	Fluvial_kanal	Kanal
+2553.80	6407_6-3	70.07	Sandstone	 	 	100.00	0.00	0.00	vc	c	Fluvial_kanal	Kanal
+2553.90	6407_6-3	70.24	Sandstone	 	 	100.00	0.00	0.00	vc	c	Fluvial_kanal	Kanal
+2554.00	6407_6-3	70.42	Sandstone	 	 	100.00	0.00	0.00	vc	c	Fluvial_kanal	Kanal
+2554.10	6407_6-3	70.60	Sandstone	 	 	100.00	0.00	0.00	vc	c	Fluvial_kanal	Kanal
+2554.20	6407_6-3	70.77	Sandstone	 	 	100.00	0.00	0.00	vc	c	Fluvial_kanal	Kanal
+2554.30	6407_6-3	71.05	Sandstone	 	 	100.00	0.00	0.00	vc	c	Fluvial_kanal	Kanal
+2554.40	6407_6-3	71.37	Sandstone	 	 	100.00	0.00	0.00	vc	c	Fluvial_kanal	Kanal
+2554.50	6407_6-3	71.70	Sandstone	 	 	100.00	0.00	0.00	vc	c	Fluvial_kanal	Kanal
+2554.60	6407_6-3	72.02	Sandstone	 	 	100.00	0.00	0.00	vc	c	Fluvial_kanal	Kanal
+2554.70	6407_6-3	72.34	Sandstone	 	 	100.00	0.00	0.00	c	c	Fluvial_kanal	Kanal
+2554.80	6407_6-3	72.58	Sandstone	 	 	100.00	0.00	0.00	c	c	Fluvial_kanal	Kanal
+2554.90	6407_6-3	72.25	Sandstone	 	 	100.00	0.00	0.00	c	c	Fluvial_kanal	Kanal
+2555.00	6407_6-3	71.91	Sandstone	 	 	100.00	0.00	0.00	c	c	Fluvial_kanal	Kanal
+2555.10	6407_6-3	72.39	Sandstone	 	 	100.00	0.00	0.00	c	c	Fluvial_kanal	Kanal
+2555.20	6407_6-3	73.15	Sandstone	 	 	100.00	0.00	0.00	c	c	Fluvial_kanal	Kanal
+2555.30	6407_6-3	73.91	Sandstone	 	 	100.00	0.00	0.00	c	c	Fluvial_kanal	Kanal
+2555.40	6407_6-3	74.67	Sandstone	 	 	100.00	0.00	0.00	c	c	Fluvial_kanal	Kanal
+2555.50	6407_6-3	75.43	Sandstone	 	 	100.00	0.00	0.00	c	c	Fluvial_kanal	Kanal
+2555.60	6407_6-3	76.19	Sandstone	 	 	100.00	0.00	0.00	c	c	Fluvial_kanal	Kanal
+2555.70	6407_6-3	76.66	Sandstone	 	 	100.00	0.00	0.00	c	c	Fluvial_kanal	Kanal
+2555.80	6407_6-3	76.93	Sandstone	 	 	100.00	0.00	0.00	c	c	Fluvial_kanal	Kanal
+2555.90	6407_6-3	77.19	Sandstone	 	 	100.00	0.00	0.00	c	c	Fluvial_kanal	Kanal
+2556.00	6407_6-3	77.17		 	 	100.00	0.00	0.00	c	c	Erosjon	Kanal
+2556.10	6407_6-3	77.13		 	 	100.00	0.00	0.00	c	c	Erosjon	Kanal
+2556.20	6407_6-3	76.40		 	 	100.00	0.00	0.00	c	c	Erosjon	Kanal
+2556.30	6407_6-3	74.63		 	 	100.00	0.00	0.00	c	c	Erosjon	Kanal
+2556.40	6407_6-3	72.14		 	 	100.00	0.00	0.00	c	c	Erosjon	Kanal
+2556.50	6407_6-3	71.48		 	 	100.00	0.00	0.00	 	 	Erosjon	Kanal
+2556.60	6407_6-3	71.07		 	 	100.00	0.00	0.00	 	 	Erosjon	Kanal
+2556.70	6407_6-3	71.41		 	 	100.00	0.00	0.00	 	 	Erosjon	Kanal
+2556.80	6407_6-3	71.88		 	 	100.00	0.00	0.00	c	c	Erosjon	Kanal
+2556.90	6407_6-3	72.60		 	 	100.00	0.00	0.00	c	c	Erosjon	Kanal
+2557.00	6407_6-3	77.04	Sandstone	 	 	100.00	0.00	0.00	c	c	Erosjon	Kanal
+2557.10	6407_6-3	79.64	Sandstone	 	 	100.00	0.00	0.00	c	c	Erosjon	Kanal
+2557.20	6407_6-3	82.24	Sandstone	 	 	100.00	0.00	0.00	c	c	Erosjon	Kanal
+2557.30	6407_6-3	84.08	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Erosjon	Kanal
+2557.40	6407_6-3	84.86	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Erosjon	Kanal
+2557.50	6407_6-3	85.23	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2557.60	6407_6-3	85.60	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2557.70	6407_6-3	85.79	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2557.80	6407_6-3	85.98	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2557.90	6407_6-3	86.17	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2558.00	6407_6-3	86.19	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2558.10	6407_6-3	86.11	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2558.20	6407_6-3	85.47	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2558.30	6407_6-3	84.83	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2558.40	6407_6-3	84.20	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2558.50	6407_6-3	83.56	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2558.60	6407_6-3	82.93	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2558.70	6407_6-3	82.29	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2558.80	6407_6-3	81.68	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2558.90	6407_6-3	81.36	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2559.00	6407_6-3	81.46	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2559.10	6407_6-3	81.66	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2559.20	6407_6-3	82.51	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2559.30	6407_6-3	85.63	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2559.40	6407_6-3	88.97	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2559.50	6407_6-3	92.89	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2559.60	6407_6-3	97.35	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2559.70	6407_6-3	107.80	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2559.80	6407_6-3	110.87	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2559.90	6407_6-3	113.39	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2560.00	6407_6-3	115.91	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2560.10	6407_6-3	118.42	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2560.20	6407_6-3	121.01	Sandstone	Shale	 	90.00	10.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2560.30	6407_6-3	123.61	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2560.40	6407_6-3	128.14	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2560.50	6407_6-3	130.48	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2560.60	6407_6-3	130.48	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2560.70	6407_6-3	130.48	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2560.80	6407_6-3	130.48	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2560.90	6407_6-3	130.48	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2561.00	6407_6-3	130.48	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2561.10	6407_6-3	130.48	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2561.20	6407_6-3	130.48	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2561.30	6407_6-3	130.48	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2561.40	6407_6-3	130.48	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2561.50	6407_6-3	130.48	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2561.60	6407_6-3	130.48	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2561.70	6407_6-3	130.48	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2561.80	6407_6-3	130.48	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2561.90	6407_6-3	130.48	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2562.00	6407_6-3	130.48	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2562.10	6407_6-3	130.48	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2562.20	6407_6-3	130.48	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Tidevannsdom_delta_front	Tidevannsdominert_delta_front
+2562.30	6407_6-3	130.48	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Bølgedominert	Tidevannsdominert_delta_front
+2562.40	6407_6-3	130.48	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Bølgedominert	Tidevannsdominert_delta_front
+2562.50	6407_6-3	130.48	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Bølgedominert	Tidevannsdominert_delta_front
+2562.60	6407_6-3	130.48	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Bølgedominert	Tidevannsdominert_delta_front
+2562.70	6407_6-3	130.48	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Bølgedominert	Tidevannsdominert_delta_front
+2562.80	6407_6-3	130.48	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Bølgedominert	Tidevannsdominert_delta_front
+2562.90	6407_6-3	130.48	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Bølgedominert	Tidevannsdominert_delta_front
+2563.00	6407_6-3	130.48	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Bølgedominert	Tidevannsdominert_delta_front
+2563.10	6407_6-3	129.15	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Bølgedominert	Tidevannsdominert_delta_front
+2563.20	6407_6-3	126.66	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Bølgedominert	Tidevannsdominert_delta_front
+2563.30	6407_6-3	123.86	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Bølgedominert	Tidevannsdominert_delta_front
+2563.40	6407_6-3	119.10	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Bølgedominert	Tidevannsdominert_delta_front
+2563.50	6407_6-3	112.63	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Bølgedominert	Tidevannsdominert_delta_front
+2563.60	6407_6-3	106.29	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Bølgedominert	Tidevannsdominert_delta_front
+2563.70	6407_6-3	105.82	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Bølgedominert	Tidevannsdominert_delta_front
+2563.80	6407_6-3	108.72	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Bølgedominert	Tidevannsdominert_delta_front
+2563.90	6407_6-3	112.31	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Bølgedominert	Tidevannsdominert_delta_front
+2564.00	6407_6-3	115.72	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Bølgedominert	Tidevannsdominert_delta_front
+2564.10	6407_6-3	118.89	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Bølgedominert	Tidevannsdominert_delta_front
+2564.20	6407_6-3	122.05	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Bølgedominert	Tidevannsdominert_delta_front
+2564.30	6407_6-3	123.99	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Bølgedominert	Tidevannsdominert_delta_front
+2564.40	6407_6-3	124.30	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Bølgedominert	Tidevannsdominert_delta_front
+2564.50	6407_6-3	123.85	Sandstone	Shale	 	92.00	8.00	0.00	m	f	Bølgedominert	Tidevannsdominert_delta_front
+2564.60	6407_6-3	122.95	Sandstone	 	 	100.00	0.00	0.00	f	vf	Bølgedominert	Tidevannsdominert_delta_front
+2564.70	6407_6-3	121.94	Sandstone	 	 	100.00	0.00	0.00	f	vf	Bølgedominert	Tidevannsdominert_delta_front
+2564.80	6407_6-3	120.85	Sandstone	 	 	100.00	0.00	0.00	f	vf	Bølgedominert	Tidevannsdominert_delta_front
+2564.90	6407_6-3	120.28	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Bølgedominert	Tidevannsdominert_delta_front
+2565.00	6407_6-3	120.07	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Bølgedominert	Tidevannsdominert_delta_front
+2565.10	6407_6-3	120.35	Sandstone	 	 	100.00	0.00	0.00	f/m	f/m	Bølgedominert	Tidevannsdominert_delta_front
+2565.20	6407_6-3	120.88	Sandstone	Shale	 	95.00	5.00	0.00	f/m	f/m	Bølgedominert	Tidevannsdominert_delta_front
+2565.30	6407_6-3	122.09	Sandstone	Shale	 	95.00	5.00	0.00	f/m	f/m	Bølgedominert	Tidevannsdominert_delta_front
+2565.40	6407_6-3	123.30	Sandstone	Shale	 	95.00	5.00	0.00	f/m	f/m	Bølgedominert	Tidevannsdominert_delta_front
+2565.50	6407_6-3	124.98	Sandstone	Shale	 	95.00	5.00	0.00	f/m	f/m	Bølgedominert	Tidevannsdominert_delta_front
+2565.60	6407_6-3	126.88	Sandstone	Shale	 	95.00	5.00	0.00	f/m	f/m	Bølgedominert	Tidevannsdominert_delta_front
+2565.70	6407_6-3	130.39	Sandstone	Shale	 	95.00	5.00	0.00	f/m	f/m	Bølgedominert	Tidevannsdominert_delta_front
+2565.80	6407_6-3	130.40	Sandstone	Shale	 	95.00	5.00	0.00	f/m	f/m	Bølgedominert	Tidevannsdominert_delta_front
+2565.90	6407_6-3	130.42	Sandstone	Shale	 	95.00	5.00	0.00	f/m	f/m	Bølgedominert	Tidevannsdominert_delta_front
+2566.00	6407_6-3	130.43	Sandstone	Shale	 	95.00	5.00	0.00	f/m	f/m	Bølgedominert	Tidevannsdominert_delta_front
+2566.10	6407_6-3	130.45	 	 	 	100.00	0.00	0.00	 	 		Tidevannsdominert_delta_front
+2566.20	6407_6-3	130.46	 	 	 	100.00	0.00	0.00	 	 		Tidevannsdominert_delta_front
+2566.30	6407_6-3	130.48	 	 	 	100.00	0.00	0.00	 	 		
+2566.40	6407_6-3	130.50	 	 	 	100.00	0.00	0.00	 	 		
+2566.50	6407_6-3	130.51	 	 	 	100.00	0.00	0.00	 	 		
+2566.60	6407_6-3	130.53	 	 	 	100.00	0.00	0.00	 	 		
+2566.70	6407_6-3	130.54	 	 	 	100.00	0.00	0.00	 	 		
+2566.80	6407_6-3	130.56	 	 	 	100.00	0.00	0.00	 	 		
+2566.90	6407_6-3	130.57	 	 	 	100.00	0.00	0.00	 	 		
+2567.00	6407_6-3	129.83	 	 	 	100.00	0.00	0.00	 	 		
+2567.10	6407_6-3	128.54	 	 	 	100.00	0.00	0.00	 	 		
+2567.20	6407_6-3	127.68	 	 	 	100.00	0.00	0.00	 	 		
+2567.30	6407_6-3	126.81	 	 	 	100.00	0.00	0.00	 	 		
+2567.40	6407_6-3	126.23	 	 	 	100.00	0.00	0.00	 	 		
+2567.50	6407_6-3	125.92	 	 	 	100.00	0.00	0.00	 	 		
+2567.60	6407_6-3	125.73	 	 	 	100.00	0.00	0.00	 	 		
+2567.70	6407_6-3	125.86	 	 	 	100.00	0.00	0.00	 	 		
+2567.80	6407_6-3	125.99	 	 	 	100.00	0.00	0.00	 	 		
+2567.90	6407_6-3	125.99	 	 	 	100.00	0.00	0.00	 	 		
+2568.00	6407_6-3	125.40	 	 	 	100.00	0.00	0.00	 	 		
+2568.10	6407_6-3	123.34	 	 	 	100.00	0.00	0.00	 	 		
+2568.20	6407_6-3	121.27	 	 	 	100.00	0.00	0.00	 	 		
+2568.30	6407_6-3	118.10	 	 	 	100.00	0.00	0.00	 	 		
+2568.40	6407_6-3	113.52	 	 	 	100.00	0.00	0.00	 	 		
+2568.50	6407_6-3	106.37	 	 	 	100.00	0.00	0.00	 	 		
+2568.60	6407_6-3	105.45	 	 	 	100.00	0.00	0.00	 	 		
+2568.70	6407_6-3	107.48	 	 	 	100.00	0.00	0.00	 	 		
+2568.80	6407_6-3	109.80	 	 	 	100.00	0.00	0.00	 	 		
+2568.90	6407_6-3	115.79	 	 	 	100.00	0.00	0.00	 	 		
+2569.00	6407_6-3	119.54	 	 	 	100.00	0.00	0.00	 	 		
+2569.10	6407_6-3	122.69	 	 	 	100.00	0.00	0.00	 	 		
+2569.20	6407_6-3	124.36	 	 	 	100.00	0.00	0.00	 	 		
+2569.30	6407_6-3	124.42	 	 	 	100.00	0.00	0.00	 	 		
+2569.40	6407_6-3	123.65	 	 	 	100.00	0.00	0.00	 	 		
+2569.50	6407_6-3	121.67	 	 	 	100.00	0.00	0.00	 	 		
+2569.60	6407_6-3	119.54	 	 	 	100.00	0.00	0.00	 	 		
+2569.70	6407_6-3	117.58	 	 	 	100.00	0.00	0.00	 	 		
+2569.80	6407_6-3	116.00	 	 	 	100.00	0.00	0.00	 	 		
+2569.90	6407_6-3	114.83	 	 	 	100.00	0.00	0.00	 	 		
+2570.00	6407_6-3	115.62	 	 	 	100.00	0.00	0.00	 	 		
+2570.10	6407_6-3	116.91	 	 	 	100.00	0.00	0.00	 	 		
+2570.20	6407_6-3	118.20	 	 	 	100.00	0.00	0.00	 	 		
+2570.30	6407_6-3	119.49	 	 	 	100.00	0.00	0.00	 	 		
+2570.40	6407_6-3	121.05	 	 	 	100.00	0.00	0.00	 	 		
+2570.50	6407_6-3	122.63	 	 	 	100.00	0.00	0.00	 	 		
+2570.60	6407_6-3	124.09	 	 	 	100.00	0.00	0.00	 	 		
+2570.70	6407_6-3	124.70	 	 	 	100.00	0.00	0.00	 	 		
+2570.80	6407_6-3	124.70	 	 	 	100.00	0.00	0.00	 	 		
+2570.90	6407_6-3	124.35	 	 	 	100.00	0.00	0.00	 	 		
+2571.00	6407_6-3	123.89	 	 	 	100.00	0.00	0.00	 	 		
+2571.10	6407_6-3	123.43	 	 	 	100.00	0.00	0.00	 	 		
+2571.20	6407_6-3	123.41	 	 	 	100.00	0.00	0.00	 	 		
+2571.30	6407_6-3	123.57	 	 	 	100.00	0.00	0.00	 	 		
+2571.40	6407_6-3	124.22	 	 	 	100.00	0.00	0.00	 	 		
+2571.50	6407_6-3	124.97	 	 	 	100.00	0.00	0.00	 	 		
+2571.60	6407_6-3	125.43	 	 	 	100.00	0.00	0.00	 	 		
+2571.70	6407_6-3	125.53	 	 	 	100.00	0.00	0.00	 	 		
+2571.80	6407_6-3	125.62	 	 	 	100.00	0.00	0.00	 	 		
+2571.90	6407_6-3	125.71	 	 	 	100.00	0.00	0.00	 	 		
+2572.00	6407_6-3	125.80	 	 	 	100.00	0.00	0.00	 	 		
+2572.10	6407_6-3	125.90	 	 	 	100.00	0.00	0.00	 	 		
+2572.20	6407_6-3	125.99	 	 	 	100.00	0.00	0.00	 	 		
+2572.30	6407_6-3	126.08	 	 	 	100.00	0.00	0.00	 	 		
+2572.40	6407_6-3	125.63	 	 	 	100.00	0.00	0.00	 	 		
+2572.50	6407_6-3	124.51	 	 	 	100.00	0.00	0.00	 	 		
+2572.60	6407_6-3	122.37	 	 	 	100.00	0.00	0.00	 	 		
+2572.70	6407_6-3	115.95	 	 	 	100.00	0.00	0.00	 	 		
+2572.80	6407_6-3	111.02	 	 	 	100.00	0.00	0.00	 	 		
+2572.90	6407_6-3	107.49	 	 	 	100.00	0.00	0.00	 	 		
+2573.00	6407_6-3	104.18	 	 	 	100.00	0.00	0.00	 	 		
+2573.10	6407_6-3	101.19	 	 	 	100.00	0.00	0.00	 	 		
+2573.20	6407_6-3	98.29	 	 	 	100.00	0.00	0.00	 	 		
+2573.30	6407_6-3	96.95	 	 	 	100.00	0.00	0.00	 	 		
+2573.40	6407_6-3	95.61	 	 	 	100.00	0.00	0.00	 	 		
+2573.50	6407_6-3	94.28	 	 	 	100.00	0.00	0.00	 	 		
+2573.60	6407_6-3	92.97	 	 	 	100.00	0.00	0.00	 	 		
+2573.70	6407_6-3	92.69	 	 	 	100.00	0.00	0.00	 	 		
+2573.80	6407_6-3	93.39	 	 	 	100.00	0.00	0.00	 	 		
+2573.90	6407_6-3	94.85	 	 	 	100.00	0.00	0.00	 	 		
+2574.00	6407_6-3	96.42	 	 	 	100.00	0.00	0.00	 	 		
+2574.10	6407_6-3	97.98	 	 	 	100.00	0.00	0.00	 	 		
+2574.20	6407_6-3	99.54	 	 	 	100.00	0.00	0.00	 	 		
+2574.30	6407_6-3	101.11	 	 	 	100.00	0.00	0.00	 	 		
+2574.40	6407_6-3	103.09	 	 	 	100.00	0.00	0.00	 	 		
+2574.50	6407_6-3	105.23	 	 	 	100.00	0.00	0.00	 	 		
+2574.60	6407_6-3	107.31	 	 	 	100.00	0.00	0.00	 	 		
+2574.70	6407_6-3	109.33	 	 	 	100.00	0.00	0.00	 	 		
+2574.80	6407_6-3	111.36	 	 	 	100.00	0.00	0.00	 	 		
+2574.90	6407_6-3	113.39	 	 	 	100.00	0.00	0.00	 	 		
+2575.00	6407_6-3	115.54	 	 	 	100.00	0.00	0.00	 	 	Distal_front,_bølgedominert	
+2575.10	6407_6-3	116.02	Sandstone	 	 	100.00	0.00	0.00	f	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2575.20	6407_6-3	115.09	Sandstone	 	 	100.00	0.00	0.00	f	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2575.30	6407_6-3	111.10	Sandstone	 	 	100.00	0.00	0.00	f	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2575.40	6407_6-3	105.97	Sandstone	 	 	100.00	0.00	0.00	f	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2575.50	6407_6-3	101.59	Sandstone	 	 	100.00	0.00	0.00	f	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2575.60	6407_6-3	98.12	Sandstone	 	 	100.00	0.00	0.00	f	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2575.70	6407_6-3	95.89	Sandstone	 	 	100.00	0.00	0.00	f	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2575.80	6407_6-3	94.94	Sandstone	 	 	100.00	0.00	0.00	f	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2575.90	6407_6-3	94.39	Sandstone	 	 	100.00	0.00	0.00	f	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2576.00	6407_6-3	94.47	Sandstone	 	 	100.00	0.00	0.00	f	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2576.10	6407_6-3	95.75	Sandstone	 	 	100.00	0.00	0.00	f	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2576.20	6407_6-3	97.09	Sandstone	 	 	100.00	0.00	0.00	f	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2576.30	6407_6-3	97.65	Sandstone	 	 	100.00	0.00	0.00	f/m	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2576.40	6407_6-3	98.16	Sandstone	 	 	100.00	0.00	0.00	f/m	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2576.50	6407_6-3	98.03	Sandstone	 	 	100.00	0.00	0.00	f/m	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2576.60	6407_6-3	97.75	Sandstone	 	 	100.00	0.00	0.00	f/m	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2576.70	6407_6-3	97.47	Sandstone	 	 	100.00	0.00	0.00	f/m	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2576.80	6407_6-3	97.08	Sandstone	 	 	100.00	0.00	0.00	f/m	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2576.90	6407_6-3	96.42	Sandstone	 	 	100.00	0.00	0.00	f/m	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2577.00	6407_6-3	95.76	Sandstone	 	 	100.00	0.00	0.00	f/m	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2577.10	6407_6-3	95.25	Sandstone	 	 	100.00	0.00	0.00	f/m	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2577.20	6407_6-3	94.74	Sandstone	 	 	100.00	0.00	0.00	f/m	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2577.30	6407_6-3	95.24	Sandstone	 	 	100.00	0.00	0.00	f/m	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2577.40	6407_6-3	97.04	Sandstone	 	 	100.00	0.00	0.00	f/m	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2577.50	6407_6-3	99.62	Sandstone	 	 	100.00	0.00	0.00	f/m	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2577.60	6407_6-3	101.41	Sandstone	 	 	100.00	0.00	0.00	f/m	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2577.70	6407_6-3	102.89	Sandstone	 	 	100.00	0.00	0.00	f/m	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2577.80	6407_6-3	104.37	Sandstone	 	 	100.00	0.00	0.00	f/m	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2577.90	6407_6-3	104.74	Sandstone	 	 	100.00	0.00	0.00	f/m	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2578.00	6407_6-3	104.85	Sandstone	 	 	100.00	0.00	0.00	f/m	f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2578.10	6407_6-3	105.16	Sandstone	Shale	 	50.00	50.00	0.00	 	 	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2578.20	6407_6-3	106.43	Sandstone	Shale	 	50.00	50.00	0.00	 	 	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2578.30	6407_6-3	107.69	Sandstone	Shale	 	50.00	50.00	0.00	 	 	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2578.40	6407_6-3	109.08	Sandstone	Shale	 	99.00	1.00	0.00	m	m	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2578.50	6407_6-3	110.53	Sandstone	Shale	 	99.00	1.00	0.00	m	m	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2578.60	6407_6-3	111.68	Sandstone	Shale	 	99.00	1.00	0.00	m	m	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2578.70	6407_6-3	112.34	Sandstone	Shale	 	99.00	1.00	0.00	m	m	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2578.80	6407_6-3	112.93	Sandstone	Shale	 	99.00	1.00	0.00	m	m	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2578.90	6407_6-3	112.93	Sandstone	Shale	 	99.00	1.00	0.00	m	m	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2579.00	6407_6-3	112.93	Sandstone	Shale	 	99.00	1.00	0.00	m	m	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2579.10	6407_6-3	112.16	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2579.20	6407_6-3	111.36	Sandstone	 	 	100.00	0.00	0.00	vf/f	vf/f	Distal_front,_bølgedominert	Bølgedominert_delta_front
+2579.30	6407_6-3	110.42	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2579.40	6407_6-3	109.15	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2579.50	6407_6-3	107.88	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2579.60	6407_6-3	106.11	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2579.70	6407_6-3	104.22	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2579.80	6407_6-3	101.65	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2579.90	6407_6-3	98.48	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2580.00	6407_6-3	95.31	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2580.10	6407_6-3	88.83	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2580.20	6407_6-3	85.55	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2580.30	6407_6-3	85.15	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2580.40	6407_6-3	86.18	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2580.50	6407_6-3	90.09	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2580.60	6407_6-3	94.05	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2580.70	6407_6-3	98.78	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2580.80	6407_6-3	101.33	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2580.90	6407_6-3	103.79	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2581.00	6407_6-3	105.33	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2581.10	6407_6-3	106.46	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2581.20	6407_6-3	107.56	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2581.30	6407_6-3	107.97	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2581.40	6407_6-3	108.38	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2581.50	6407_6-3	108.78	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2581.60	6407_6-3	109.14	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2581.70	6407_6-3	109.88	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2581.80	6407_6-3	112.54	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2581.90	6407_6-3	114.19	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2582.00	6407_6-3	115.24	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2582.10	6407_6-3	116.06	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2582.20	6407_6-3	116.84	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2582.30	6407_6-3	117.12	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2582.40	6407_6-3	117.40	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2582.50	6407_6-3	117.68	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2582.60	6407_6-3	117.96	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2582.70	6407_6-3	118.13	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2582.80	6407_6-3	118.27	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2582.90	6407_6-3	118.41	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2583.00	6407_6-3	118.75	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2583.10	6407_6-3	119.61	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2583.20	6407_6-3	121.44	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2583.30	6407_6-3	123.82	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2583.40	6407_6-3	124.99	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2583.50	6407_6-3	125.79	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2583.60	6407_6-3	126.58	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2583.70	6407_6-3	127.15	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2583.80	6407_6-3	125.72	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2583.90	6407_6-3	122.83	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2584.00	6407_6-3	120.97	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2584.10	6407_6-3	119.71	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2584.20	6407_6-3	118.98	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2584.30	6407_6-3	118.87	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2584.40	6407_6-3	118.76	Sandstone	Shale	Limestone	50.00	40.00	10.00	silt/vf	vf	Nedre_strandskråning_prodelta,_åpen_marin	Bølgedominert_delta_front
+2584.50	6407_6-3	118.65	 	 	 	100.00	0.00	0.00	 	 		Bølgedominert_delta_front
+2584.60	6407_6-3	118.19	 	 	 	100.00	0.00	0.00	 	 		Bølgedominert_delta_front
+2584.70	6407_6-3	117.54	 	 	 	100.00	0.00	0.00	 	 		
+2584.80	6407_6-3	116.30	 	 	 	100.00	0.00	0.00	 	 		
+2584.90	6407_6-3	114.03	 	 	 	100.00	0.00	0.00	 	 		
+2585.00	6407_6-3	111.86	 	 	 	100.00	0.00	0.00	 	 		
+2585.10	6407_6-3	112.14	 	 	 	100.00	0.00	0.00	 	 		
+2585.20	6407_6-3	112.71	 	 	 	100.00	0.00	0.00	 	 		
+2585.30	6407_6-3	113.28	 	 	 	100.00	0.00	0.00	 	 		
+2585.40	6407_6-3	113.87	 	 	 	100.00	0.00	0.00	 	 		
+2585.50	6407_6-3	114.53	 	 	 	100.00	0.00	0.00	 	 		
+2585.60	6407_6-3	115.20	 	 	 	100.00	0.00	0.00	 	 		
+2585.70	6407_6-3	115.89	 	 	 	100.00	0.00	0.00	 	 		
+2585.80	6407_6-3	116.98	 	 	 	100.00	0.00	0.00	 	 		
+2585.90	6407_6-3	118.07	 	 	 	100.00	0.00	0.00	 	 		
+2586.00	6407_6-3	119.25	 	 	 	100.00	0.00	0.00	 	 		
+2586.10	6407_6-3	122.42	 	 	 	100.00	0.00	0.00	 	 		
+2586.20	6407_6-3	126.90	 	 	 	100.00	0.00	0.00	 	 		
+2586.30	6407_6-3	130.58	 	 	 	100.00	0.00	0.00	 	 		
+2586.40	6407_6-3	130.58	 	 	 	100.00	0.00	0.00	 	 		
+2586.50	6407_6-3	130.58	 	 	 	100.00	0.00	0.00	 	 		
+2586.60	6407_6-3	130.58	 	 	 	100.00	0.00	0.00	 	 		
+2586.70	6407_6-3	130.58	 	 	 	100.00	0.00	0.00	 	 		
+2586.80	6407_6-3	130.58	 	 	 	100.00	0.00	0.00	 	 		
+2586.90	6407_6-3	130.58	 	 	 	100.00	0.00	0.00	 	 		
+2587.00	6407_6-3	130.58	 	 	 	100.00	0.00	0.00	 	 		
+2587.10	6407_6-3	130.58	 	 	 	100.00	0.00	0.00	 	 		
+2587.20	6407_6-3	130.58	 	 	 	100.00	0.00	0.00	 	 		
+2587.30	6407_6-3	130.58	 	 	 	100.00	0.00	0.00	 	 		
+2587.40	6407_6-3	129.55	 	 	 	100.00	0.00	0.00	 	 		
+2587.50	6407_6-3	127.85	 	 	 	100.00	0.00	0.00	 	 		
+2587.60	6407_6-3	125.99	 	 	 	100.00	0.00	0.00	 	 		
+2587.70	6407_6-3	123.82	 	 	 	100.00	0.00	0.00	 	 		
+2587.80	6407_6-3	121.22	 	 	 	100.00	0.00	0.00	 	 		
+2587.90	6407_6-3	114.46	 	 	 	100.00	0.00	0.00	 	 		
+2588.00	6407_6-3	106.95	 	 	 	100.00	0.00	0.00	 	 	Ravinement/abondonment	Prodelta/distal_delta_front
+2588.10	6407_6-3	103.67	Sandstone	Limestone	 	50.00	50.00	0.00	vc	vc	Ravinement/abondonment	Prodelta/distal_delta_front
+2588.20	6407_6-3	101.66	Sandstone	Limestone	 	50.00	50.00	0.00	vc	vc	Ravinement/abondonment	Prodelta/distal_delta_front
+2588.30	6407_6-3	100.47	Sandstone	Limestone	 	50.00	50.00	0.00	vc	vc	Ravinement/abondonment	Prodelta/distal_delta_front
+2588.40	6407_6-3	99.63	Sandstone	Limestone	 	50.00	50.00	0.00	vc	vc	Ravinement/abondonment	Prodelta/distal_delta_front
+2588.50	6407_6-3	99.50	Sandstone	Limestone	 	50.00	50.00	0.00	vc	vc	Ravinement/abondonment	Prodelta/distal_delta_front
+2588.60	6407_6-3	100.18	Sandstone	Limestone	 	50.00	50.00	0.00	vc	vc	Ravinement/abondonment	Prodelta/distal_delta_front
+2588.70	6407_6-3	102.67	Sandstone	Limestone	 	50.00	50.00	0.00	vc	vc	Ravinement/abondonment	Prodelta/distal_delta_front
+2588.80	6407_6-3	105.27	Sandstone	Limestone	 	50.00	50.00	0.00	vc	vc	Ravinement/abondonment	Prodelta/distal_delta_front
+2588.90	6407_6-3	108.11	Sandstone	Limestone	 	50.00	50.00	0.00	vc	vc	Ravinement/abondonment	Prodelta/distal_delta_front
+2589.00	6407_6-3	111.25	Sandstone	Limestone	 	50.00	50.00	0.00	vc	vc	Ravinement/abondonment	Prodelta/distal_delta_front
+2589.10	6407_6-3	114.47	Sandstone	Limestone	 	50.00	50.00	0.00	vc	vc	Ravinement/abondonment	Prodelta/distal_delta_front
+2589.20	6407_6-3	118.54	Sandstone	Limestone	 	50.00	50.00	0.00	vc	vc	Ravinement/abondonment	Prodelta/distal_delta_front
+2589.30	6407_6-3	124.17	 	 	 	100.00	0.00	0.00	 	 	Ravinement/abondonment	Prodelta/distal_delta_front
+2589.40	6407_6-3	129.21	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Ravinement/abondonment	Prodelta/distal_delta_front
+2589.50	6407_6-3	129.09	Sandstone	 	 	100.00	0.00	0.00	m/c	m/c	Ravinement/abondonment	Prodelta/distal_delta_front
+2589.60	6407_6-3	128.49	Sandstone	Limestone	Shale	45.00	40.00	15.00	silt/vf	silt/vf	Ravinement/abondonment	Prodelta/distal_delta_front
+2589.70	6407_6-3	127.89	Sandstone	Limestone	Shale	45.00	40.00	15.00	silt/vf	silt/vf	Ravinement/abondonment	Prodelta/distal_delta_front
+2589.80	6407_6-3	126.57	Sandstone	Limestone	Shale	45.00	40.00	15.00	silt/vf	silt/vf	Ravinement/abondonment	Prodelta/distal_delta_front
+2589.90	6407_6-3	124.89	Sandstone	Limestone	Shale	45.00	40.00	15.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2590.00	6407_6-3	122.85	Sandstone	Limestone	Shale	45.00	40.00	15.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2590.10	6407_6-3	121.73	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2590.20	6407_6-3	121.41	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2590.30	6407_6-3	121.70	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2590.40	6407_6-3	122.19	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2590.50	6407_6-3	123.08	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2590.60	6407_6-3	123.97	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2590.70	6407_6-3	124.78	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2590.80	6407_6-3	125.39	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2590.90	6407_6-3	126.00	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2591.00	6407_6-3	126.60	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2591.10	6407_6-3	126.75	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2591.20	6407_6-3	126.83	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2591.30	6407_6-3	126.39	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2591.40	6407_6-3	125.95	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2591.50	6407_6-3	125.26	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2591.60	6407_6-3	124.80	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2591.70	6407_6-3	124.80	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2591.80	6407_6-3	125.20	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2591.90	6407_6-3	125.77	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2592.00	6407_6-3	126.34	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2592.10	6407_6-3	127.04	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2592.20	6407_6-3	127.74	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2592.30	6407_6-3	127.66	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2592.40	6407_6-3	127.30	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2592.50	6407_6-3	126.70	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2592.60	6407_6-3	125.17	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2592.70	6407_6-3	124.92	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2592.80	6407_6-3	125.01	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2592.90	6407_6-3	125.38	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2593.00	6407_6-3	126.15	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2593.10	6407_6-3	126.92	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2593.20	6407_6-3	127.69	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2593.30	6407_6-3	128.32	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2593.40	6407_6-3	127.62	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2593.50	6407_6-3	126.93	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2593.60	6407_6-3	125.59	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2593.70	6407_6-3	124.97	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2593.80	6407_6-3	124.93	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2593.90	6407_6-3	124.93	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2594.00	6407_6-3	125.63	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2594.10	6407_6-3	126.32	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2594.20	6407_6-3	128.36	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2594.30	6407_6-3	129.04	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2594.40	6407_6-3	129.54	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2594.50	6407_6-3	129.90	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2594.60	6407_6-3	129.21	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2594.70	6407_6-3	128.53	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2594.80	6407_6-3	127.84	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2594.90	6407_6-3	127.22	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2595.00	6407_6-3	126.74	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2595.10	6407_6-3	127.04	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2595.20	6407_6-3	127.67	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2595.30	6407_6-3	128.31	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2595.40	6407_6-3	128.94	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2595.50	6407_6-3	129.57	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2595.60	6407_6-3	130.18	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2595.70	6407_6-3	130.18	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2595.80	6407_6-3	130.17	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2595.90	6407_6-3	130.17	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2596.00	6407_6-3	130.16	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2596.10	6407_6-3	130.16	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2596.20	6407_6-3	130.16	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2596.30	6407_6-3	130.15	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2596.40	6407_6-3	130.15	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2596.50	6407_6-3	130.14	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2596.60	6407_6-3	130.14	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2596.70	6407_6-3	130.13	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2596.80	6407_6-3	130.13	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2596.90	6407_6-3	130.12	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2597.00	6407_6-3	130.12	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2597.10	6407_6-3	130.11	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2597.20	6407_6-3	130.11	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2597.30	6407_6-3	130.10	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2597.40	6407_6-3	130.10	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2597.50	6407_6-3	130.10	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2597.60	6407_6-3	130.09	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2597.70	6407_6-3	130.09	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2597.80	6407_6-3	130.08	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2597.90	6407_6-3	130.08	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2598.00	6407_6-3	130.07	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2598.10	6407_6-3	130.07	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2598.20	6407_6-3	130.06	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2598.30	6407_6-3	130.06	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2598.40	6407_6-3	130.05	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2598.50	6407_6-3	130.05	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2598.60	6407_6-3	130.05	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2598.70	6407_6-3	130.04	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2598.80	6407_6-3	130.04	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2598.90	6407_6-3	130.03	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2599.00	6407_6-3	130.03	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2599.10	6407_6-3	130.02	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2599.20	6407_6-3	130.02	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2599.30	6407_6-3	130.01	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2599.40	6407_6-3	130.01	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2599.50	6407_6-3	130.00	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2599.60	6407_6-3	130.00	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2599.70	6407_6-3	129.99	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2599.80	6407_6-3	129.99	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2599.90	6407_6-3	129.99	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Åpen_marin_distale_facies,_lav_energiforhold_(prodelta)	Prodelta/distal_delta_front
+2600.00	6407_6-3	126.88	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2600.10	6407_6-3	117.62	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2600.20	6407_6-3	106.75	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2600.30	6407_6-3	99.22	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2600.40	6407_6-3	94.15	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2600.50	6407_6-3	90.45	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2600.60	6407_6-3	86.88	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2600.70	6407_6-3	83.27	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2600.80	6407_6-3	80.73	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2600.90	6407_6-3	79.89	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2601.00	6407_6-3	79.47	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2601.10	6407_6-3	79.63	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2601.20	6407_6-3	79.90	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2601.30	6407_6-3	79.81	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2601.40	6407_6-3	79.47	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2601.50	6407_6-3	79.26	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2601.60	6407_6-3	80.03	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2601.70	6407_6-3	81.55	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2601.80	6407_6-3	83.52	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2601.90	6407_6-3	85.48	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2602.00	6407_6-3	87.45	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2602.10	6407_6-3	89.42	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2602.20	6407_6-3	91.38	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2602.30	6407_6-3	93.35	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2602.40	6407_6-3	95.27	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2602.50	6407_6-3	96.85	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2602.60	6407_6-3	98.43	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2602.70	6407_6-3	100.02	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2602.80	6407_6-3	101.35	Sandstone	Shale	 	35.00	65.00	0.00	silt/vf	silt/vf	Transgresiv_bearbeiding	Prograderende_delta_front
+2602.90	6407_6-3	102.22	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Transgresiv_bearbeiding	Prograderende_delta_front
+2603.00	6407_6-3	103.10	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Transgresiv_bearbeiding	Prograderende_delta_front
+2603.10	6407_6-3	103.41	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Transgresiv_bearbeiding	Prograderende_delta_front
+2603.20	6407_6-3	102.85	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Transgresiv_bearbeiding	Prograderende_delta_front
+2603.30	6407_6-3	101.93	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Transgresiv_bearbeiding	Prograderende_delta_front
+2603.40	6407_6-3	100.15	Sandstone	 	 	100.00	0.00	0.00	c/vc	c/vc	Transgresiv_bearbeiding	Prograderende_delta_front
+2603.50	6407_6-3	98.37	 	 	 	100.00	0.00	0.00	 	 	Transgresjon	Prograderende_delta_front
+2603.60	6407_6-3	95.39	 	 	 	100.00	0.00	0.00	 	 	Transgresjon	Prograderende_delta_front
+2603.70	6407_6-3	91.79	Sandstone	 	 	100.00	0.00	0.00	vc/granule	vc/granule	Transgresjon	Prograderende_delta_front
+2603.80	6407_6-3	88.23	Sandstone	 	 	100.00	0.00	0.00	vc/granule	vc/granule	Transgresjon	Prograderende_delta_front
+2603.90	6407_6-3	84.93	Sandstone	 	 	100.00	0.00	0.00	vc/granule	vc/granule	Transgresjon	Prograderende_delta_front
+2604.00	6407_6-3	81.46	Sandstone	 	 	100.00	0.00	0.00	vc/granule	vc/granule	Transgresjon	Prograderende_delta_front
+2604.10	6407_6-3	79.06	Sandstone	Limestone	 	90.00	10.00	0.00	vc	vc	Transgresjon	Prograderende_delta_front
+2604.20	6407_6-3	77.54	Sandstone	Limestone	 	90.00	10.00	0.00	vc	vc	Transgresjon	Prograderende_delta_front
+2604.30	6407_6-3	76.80	Sandstone	Limestone	 	90.00	10.00	0.00	vc	vc	Transgresjon	Prograderende_delta_front
+2604.40	6407_6-3	76.41	Sandstone	Limestone	 	90.00	10.00	0.00	vc	vc	Transgresjon	Prograderende_delta_front
+2604.50	6407_6-3	77.23	Sandstone	Limestone	 	90.00	10.00	0.00	vc	vc	Transgresjon	Prograderende_delta_front
+2604.60	6407_6-3	78.77	Sandstone	Limestone	 	90.00	10.00	0.00	vc	vc	Transgresjon	Prograderende_delta_front
+2604.70	6407_6-3	79.16	Sandstone	Limestone	 	90.00	10.00	0.00	vc	vc	Transgresjon	Prograderende_delta_front
+2604.80	6407_6-3	78.83	Sandstone	Limestone	 	90.00	10.00	0.00	vc	vc	Transgresjon	Prograderende_delta_front
+2604.90	6407_6-3	77.97	Sandstone	Limestone	 	90.00	10.00	0.00	vc	vc	Transgresjon	Prograderende_delta_front
+2605.00	6407_6-3	77.18	 	 	 	100.00	0.00	0.00	 	 	Transgresjon	Prograderende_delta_front
+2605.10	6407_6-3	76.86	 	 	 	100.00	0.00	0.00	 	 	Transgresjon	Prograderende_delta_front
+2605.20	6407_6-3	77.25	 	 	 	100.00	0.00	0.00	 	 	Transgresjon	Prograderende_delta_front
+2605.30	6407_6-3	78.36	 	 	 	100.00	0.00	0.00	 	 	Transgresjon	Prograderende_delta_front
+2605.40	6407_6-3	81.10	Sandstone	Shale	 	60.00	40.00	0.00	c	c	Prograderende_delta_front	Prograderende_delta_front
+2605.50	6407_6-3	83.84	Sandstone	Shale	 	60.00	40.00	0.00	c	c	Prograderende_delta_front	Prograderende_delta_front
+2605.60	6407_6-3	86.57	Sandstone	Shale	 	60.00	40.00	0.00	c	c	Prograderende_delta_front	Prograderende_delta_front
+2605.70	6407_6-3	89.31	Sandstone	Shale	 	60.00	40.00	0.00	c	c	Prograderende_delta_front	Prograderende_delta_front
+2605.80	6407_6-3	92.39	Sandstone	Shale	 	60.00	40.00	0.00	c	c	Prograderende_delta_front	Prograderende_delta_front
+2605.90	6407_6-3	95.69	Sandstone	Shale	 	60.00	40.00	0.00	c	c	Prograderende_delta_front	Prograderende_delta_front
+2606.00	6407_6-3	99.48	Sandstone	Shale	 	60.00	40.00	0.00	c	c	Prograderende_delta_front	Prograderende_delta_front
+2606.10	6407_6-3	102.78	Sandstone	Shale	 	60.00	40.00	0.00	c	c	Prograderende_delta_front	Prograderende_delta_front
+2606.20	6407_6-3	104.56	Sandstone	Shale	 	60.00	40.00	0.00	c	c	Prograderende_delta_front	Prograderende_delta_front
+2606.30	6407_6-3	107.15	Sandstone	Shale	 	60.00	40.00	0.00	c	c	Prograderende_delta_front	Prograderende_delta_front
+2606.40	6407_6-3	109.59	Sandstone	Shale	 	60.00	40.00	0.00	c	c	Prograderende_delta_front	Prograderende_delta_front
+2606.50	6407_6-3	111.70	Sandstone	Shale	 	60.00	40.00	0.00	c	c	Prograderende_delta_front	Prograderende_delta_front
+2606.60	6407_6-3	113.85	Sandstone	Shale	 	60.00	40.00	0.00	c	c	Prograderende_delta_front	Prograderende_delta_front
+2606.70	6407_6-3	116.06	Sandstone	 	 	100.00	0.00	0.00	c	c	Munningsbanke	Prograderende_delta_front
+2606.80	6407_6-3	117.51	Sandstone	 	 	100.00	0.00	0.00	c	c	Munningsbanke	Prograderende_delta_front
+2606.90	6407_6-3	118.56	Sandstone	 	 	100.00	0.00	0.00	c	c	Munningsbanke	Prograderende_delta_front
+2607.00	6407_6-3	119.62	Sandstone	 	 	100.00	0.00	0.00	c	c	Munningsbanke	Prograderende_delta_front
+2607.10	6407_6-3	120.30	Sandstone	 	 	100.00	0.00	0.00	c	c	Munningsbanke	Prograderende_delta_front
+2607.20	6407_6-3	120.77	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2607.30	6407_6-3	120.96	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2607.40	6407_6-3	120.86	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2607.50	6407_6-3	120.43	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2607.60	6407_6-3	119.64	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2607.70	6407_6-3	117.84	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2607.80	6407_6-3	118.23	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2607.90	6407_6-3	119.21	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2608.00	6407_6-3	120.24	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2608.10	6407_6-3	121.52	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2608.20	6407_6-3	122.01	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2608.30	6407_6-3	121.85	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2608.40	6407_6-3	121.68	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2608.50	6407_6-3	121.51	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2608.60	6407_6-3	121.35	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2608.70	6407_6-3	122.20	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2608.80	6407_6-3	123.39	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2608.90	6407_6-3	124.29	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2609.00	6407_6-3	124.25	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2609.10	6407_6-3	124.21	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2609.20	6407_6-3	124.06	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2609.30	6407_6-3	123.84	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2609.40	6407_6-3	121.96	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2609.50	6407_6-3	119.73	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2609.60	6407_6-3	117.55	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2609.70	6407_6-3	115.39	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2609.80	6407_6-3	112.58	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2609.90	6407_6-3	108.86	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2610.00	6407_6-3	104.05	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2610.10	6407_6-3	98.54	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2610.20	6407_6-3	96.95	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2610.30	6407_6-3	96.53	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2610.40	6407_6-3	96.91	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2610.50	6407_6-3	98.23	Sandstone	Shale	Limestone	68.00	12.00	20.00	m/c	m/c	Munningsbanke	Prograderende_delta_front
+2610.60	6407_6-3	103.95	Sandstone	 	 	100.00	0.00	0.00	 	 	Storm/flompulser	Prograderende_delta_front
+2610.70	6407_6-3	106.93	Sandstone	 	 	100.00	0.00	0.00	 	 	Storm/flompulser	Prograderende_delta_front
+2610.80	6407_6-3	109.61	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Storm/flompulser	Prograderende_delta_front
+2610.90	6407_6-3	110.54	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Storm/flompulser	Prograderende_delta_front
+2611.00	6407_6-3	111.46	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Storm/flompulser	Prograderende_delta_front
+2611.10	6407_6-3	112.39	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Storm/flompulser	Prograderende_delta_front
+2611.20	6407_6-3	113.38	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Storm/flompulser	Prograderende_delta_front
+2611.30	6407_6-3	114.38	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Storm/flompulser	Prograderende_delta_front
+2611.40	6407_6-3	115.38	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Storm/flompulser	Prograderende_delta_front
+2611.50	6407_6-3	116.50	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Storm/flompulser	Prograderende_delta_front
+2611.60	6407_6-3	118.45	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Storm/flompulser	Prograderende_delta_front
+2611.70	6407_6-3	123.96	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Storm/flompulser	Prograderende_delta_front
+2611.80	6407_6-3	127.00	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Storm/flompulser	Prograderende_delta_front
+2611.90	6407_6-3	128.36	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Storm/flompulser	Prograderende_delta_front
+2612.00	6407_6-3	128.79	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Storm/flompulser	Prograderende_delta_front
+2612.10	6407_6-3	128.79	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Storm/flompulser	Prograderende_delta_front
+2612.20	6407_6-3	128.21	Sandstone	 	 	100.00	0.00	0.00	f	f/m	Storm/flompulser	Prograderende_delta_front
+2612.30	6407_6-3	127.62	Sandstone	Shale	 	85.00	15.00	0.00	vf/f	vc		Prograderende_delta_front
+2612.40	6407_6-3	127.04	Sandstone	Shale	 	85.00	15.00	0.00	vf/f	vc		Prograderende_delta_front
+2612.50	6407_6-3	127.02	Sandstone	Shale	 	85.00	15.00	0.00	vf/f	vc		Prograderende_delta_front
+2612.60	6407_6-3	127.42	Sandstone	Shale	 	85.00	15.00	0.00	vf/f	vc		Prograderende_delta_front
+2612.70	6407_6-3	127.81	Sandstone	Shale	 	85.00	15.00	0.00	vf/f	vc		Prograderende_delta_front
+2612.80	6407_6-3	127.64	Sandstone	Shale	 	85.00	15.00	0.00	vf/f	vc		Prograderende_delta_front
+2612.90	6407_6-3	125.68	Sandstone	Shale	 	85.00	15.00	0.00	vf/f	vc		Prograderende_delta_front
+2613.00	6407_6-3	123.62	Sandstone	Shale	 	85.00	15.00	0.00	vf/f	vc		Prograderende_delta_front
+2613.10	6407_6-3	120.52	Sandstone	Shale	 	85.00	15.00	0.00	vf/f	vc		Prograderende_delta_front
+2613.20	6407_6-3	115.89	Sandstone	Shale	 	85.00	15.00	0.00	vf/f	vc		Prograderende_delta_front
+2613.30	6407_6-3	110.56	Sandstone	Shale	 	85.00	15.00	0.00	vf/f	vc		Prograderende_delta_front
+2613.40	6407_6-3	105.03	Sandstone	Shale	 	85.00	15.00	0.00	vf/f	vc		Prograderende_delta_front
+2613.50	6407_6-3	100.80	Sandstone	Shale	 	85.00	15.00	0.00	vf/f	vc		Prograderende_delta_front
+2613.60	6407_6-3	93.60	Sandstone	Shale	 	85.00	15.00	0.00	vf/f	vc		Prograderende_delta_front
+2613.70	6407_6-3		Sandstone	Shale	 	85.00	15.00	0.00	vf/f	vc		Prograderende_delta_front
+2613.80	6407_6-3		Sandstone	Shale	 	85.00	15.00	0.00	vf/f	vc		Prograderende_delta_front
+2613.90	6407_6-3		Sandstone	Shale	 	85.00	15.00	0.00	vf/f	vc		Prograderende_delta_front
+2614.00	6407_6-3		Sandstone	Shale	 	85.00	15.00	0.00	vf/f	vc		Prograderende_delta_front
+2614.10	6407_6-3		Sandstone	Shale	 	85.00	15.00	0.00	vf/f	vc		Prograderende_delta_front
+2614.20	6407_6-3		Sandstone	Shale	 	85.00	15.00	0.00	vf/f	vc		Prograderende_delta_front
+2614.30	6407_6-3		 	 	 	100.00	0.00	0.00	 	 		Prograderende_delta_front
+2614.40	6407_6-3		Sandstone	 	 	100.00	0.00	0.00	m/c	m/c		Prograderende_delta_front
+2614.50	6407_6-3		Sandstone	 	 	100.00	0.00	0.00	m/c	m/c		Prograderende_delta_front
+2614.60	6407_6-3		Sandstone	 	 	100.00	0.00	0.00	m/c	m/c		Prograderende_delta_front
+2614.70	6407_6-3		Sandstone	 	 	100.00	0.00	0.00	m/c	m/c		Prograderende_delta_front
+2614.80	6407_6-3		Sandstone	 	 	100.00	0.00	0.00	m/c	m/c		Prograderende_delta_front
+2614.90	6407_6-3		Sandstone	 	 	100.00	0.00	0.00	m/c	m/c		Prograderende_delta_front
+2615.00	6407_6-3		Sandstone	 	 	100.00	0.00	0.00	m/c	m/c		Prograderende_delta_front

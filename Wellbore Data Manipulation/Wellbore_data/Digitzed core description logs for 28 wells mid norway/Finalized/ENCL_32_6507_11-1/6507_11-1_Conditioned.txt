@@ -1,0 +1,405 @@
+Depth.m	Hole ID.-	GR.API	Lithology1.-	Lithology2.-	Lithology3.-	Lithology1.%	Lithology2.%	Lithology3.%	Grain_size_Top.-	Grain_size_Base.-	Sub_Environment.-	Gross_Environment.-
+2502.70	6507_11-1	24.10	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2502.80	6507_11-1	23.50	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2502.90	6507_11-1	23.64	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2503.00	6507_11-1	24.34	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2503.10	6507_11-1	24.76	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2503.20	6507_11-1	24.47	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2503.30	6507_11-1	24.17	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2503.40	6507_11-1	23.85	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2503.50	6507_11-1	23.48	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2503.60	6507_11-1	23.11	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2503.70	6507_11-1	22.74	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2503.80	6507_11-1	22.37	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2503.90	6507_11-1	22.00	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2504.00	6507_11-1	22.01	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2504.10	6507_11-1	22.28	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2504.20	6507_11-1	22.75	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2504.30	6507_11-1	23.36	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2504.40	6507_11-1	24.24	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2504.50	6507_11-1	25.12	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2504.60	6507_11-1	26.00	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2504.70	6507_11-1	26.89	Limestone	 	 	100.00	0.00	0.00	f/m	vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2504.80	6507_11-1	27.77	Limestone	 	 	100.00	0.00	0.00	f/m	vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2504.90	6507_11-1	28.65	Limestone	 	 	100.00	0.00	0.00	f/m	vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2505.00	6507_11-1	29.53	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2505.10	6507_11-1	28.68	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2505.20	6507_11-1	27.79	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2505.30	6507_11-1	26.90	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2505.40	6507_11-1	26.01	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2505.50	6507_11-1	25.12	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2505.60	6507_11-1	25.08	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2505.70	6507_11-1	25.41	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2505.80	6507_11-1	25.75	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2505.90	6507_11-1	26.00	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2506.00	6507_11-1	25.87	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2506.10	6507_11-1	24.59	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2506.20	6507_11-1	23.31	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2506.30	6507_11-1	22.02	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2506.40	6507_11-1	21.70	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2506.50	6507_11-1	22.67	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2506.60	6507_11-1	23.64	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2506.70	6507_11-1	24.40	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2506.80	6507_11-1	24.40	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2506.90	6507_11-1	24.40	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2507.00	6507_11-1	24.40	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2507.10	6507_11-1	24.92	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	Lav-energi_marin_troling_nedre_strand_skråning.	
+2507.20	6507_11-1	25.89	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	TRANSGRESJON	
+2507.30	6507_11-1	26.85	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	TRANSGRESJON	
+2507.40	6507_11-1	27.82	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	TRANSGRESJON	
+2507.50	6507_11-1	28.79	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	TRANSGRESJON	
+2507.60	6507_11-1	29.76	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	TRANSGRESJON	
+2507.70	6507_11-1	30.72	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	TRANSGRESJON	
+2507.80	6507_11-1	31.69	Sandstone	Shale	 	65.00	35.00	0.00	f/m	vf	TRANSGRESJON	
+2507.90	6507_11-1	32.29	Sandstone	 	 	100.00	0.00	0.00	granule	granule	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2508.00	6507_11-1	32.75	Sandstone	 	 	100.00	0.00	0.00	granule	granule	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2508.10	6507_11-1	33.20	Sandstone	 	 	100.00	0.00	0.00	granule	granule	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2508.20	6507_11-1	33.66	Sandstone	 	 	100.00	0.00	0.00	granule	granule	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2508.30	6507_11-1	34.12	Sandstone	 	 	100.00	0.00	0.00	granule	granule	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2508.40	6507_11-1	34.58	Sandstone	 	 	100.00	0.00	0.00	granule	granule	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2508.50	6507_11-1	34.64	Sandstone	 	 	100.00	0.00	0.00	granule	granule	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2508.60	6507_11-1	34.35	Sandstone	 	 	100.00	0.00	0.00	granule	granule	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2508.70	6507_11-1	34.06									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2508.80	6507_11-1	33.77									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2508.90	6507_11-1	33.48									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2509.00	6507_11-1	33.19									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2509.10	6507_11-1	32.65									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2509.20	6507_11-1	32.12									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2509.30	6507_11-1	31.50									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2509.40	6507_11-1	28.32									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2509.50	6507_11-1	25.13									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2509.60	6507_11-1	21.94									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2509.70	6507_11-1	18.76									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2509.80	6507_11-1	16.13									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2509.90	6507_11-1	15.66	Sandstone	Limestone	Shale	90.00	5.00	5.00	m/c	m	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2510.00	6507_11-1	15.34	Sandstone	Limestone	Shale	90.00	5.00	5.00	m/c	m	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2510.10	6507_11-1	16.04	Sandstone	Limestone	Shale	90.00	5.00	5.00	m/c	m	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2510.20	6507_11-1	16.73	Sandstone	Limestone	Shale	90.00	5.00	5.00	m/c	m	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2510.30	6507_11-1	17.42	Sandstone	Limestone	Shale	90.00	5.00	5.00	m/c	m	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2510.40	6507_11-1	18.11	Sandstone	Limestone	Shale	90.00	5.00	5.00	m/c	m	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2510.50	6507_11-1	19.67	Sandstone	Limestone	Shale	90.00	5.00	5.00	m/c	m	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2510.60	6507_11-1	21.49	Sandstone	Limestone	Shale	90.00	5.00	5.00	m/c	m	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2510.70	6507_11-1	23.30	Sandstone	Limestone	Shale	90.00	5.00	5.00	m/c	m	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2510.80	6507_11-1	25.11	Sandstone	Limestone	Shale	90.00	5.00	5.00	m/c	m	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2510.90	6507_11-1	27.13	Sandstone	Limestone	Shale	90.00	5.00	5.00	m/c	m	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2511.00	6507_11-1	28.72	Sandstone	Limestone	Shale	90.00	5.00	5.00	m/c	m	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2511.10	6507_11-1	29.54	Sandstone	Limestone	Shale	90.00	5.00	5.00	m/c	m	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2511.20	6507_11-1	30.36	Sandstone	Limestone	Shale	90.00	5.00	5.00	m/c	m	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2511.30	6507_11-1	31.18	Sandstone	Limestone	Shale	90.00	5.00	5.00	m/c	m	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2511.40	6507_11-1	30.58	Sandstone	Limestone	Shale	90.00	5.00	5.00	m/c	m	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2511.50	6507_11-1	29.67	Sandstone	Limestone	Shale	90.00	5.00	5.00	m/c	m	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2511.60	6507_11-1	28.75									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2511.70	6507_11-1	27.84									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2511.80	6507_11-1	26.93									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2511.90	6507_11-1	26.01									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2512.00	6507_11-1	25.10									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2512.10	6507_11-1	24.18									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2512.20	6507_11-1	23.26									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2512.30	6507_11-1	22.35									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2512.40	6507_11-1	21.43									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2512.50	6507_11-1	20.52									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2512.60	6507_11-1	19.60									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2512.70	6507_11-1	18.69									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2512.80	6507_11-1	17.96									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2512.90	6507_11-1	17.59									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2513.00	6507_11-1	17.22									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2513.10	6507_11-1	16.84									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2513.20	6507_11-1	16.47									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2513.30	6507_11-1	16.10									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2513.40	6507_11-1	15.77									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2513.50	6507_11-1	15.66									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2513.60	6507_11-1	15.56									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2513.70	6507_11-1	15.45									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2513.80	6507_11-1	15.34									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2513.90	6507_11-1	15.31									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2514.00	6507_11-1	15.91									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2514.10	6507_11-1	16.51									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2514.20	6507_11-1	17.11									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2514.30	6507_11-1	17.71									Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2514.40	6507_11-1	17.35	Sandstone	Shale	 	50.00	50.00	0.00	silt	silt	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2514.50	6507_11-1	16.94	Sandstone	Shale	 	50.00	50.00	0.00	silt	silt	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2514.60	6507_11-1	16.54	Sandstone	Shale	 	50.00	50.00	0.00	silt	silt	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2514.70	6507_11-1	16.14	Sandstone	Shale	 	50.00	50.00	0.00	silt	silt	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2514.80	6507_11-1	15.73	Sandstone	Shale	 	50.00	50.00	0.00	silt	silt	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2514.90	6507_11-1	16.22	Sandstone	Shale	 	50.00	50.00	0.00	silt	silt	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2515.00	6507_11-1	17.13	Sandstone	Shale	 	50.00	50.00	0.00	silt	silt	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2515.10	6507_11-1	18.04	Sandstone	Shale	 	50.00	50.00	0.00	silt	silt	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2515.20	6507_11-1	18.95	Sandstone	Shale	 	50.00	50.00	0.00	silt	silt	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2515.30	6507_11-1	19.87	Sandstone	Shale	 	50.00	50.00	0.00	silt	silt	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2515.40	6507_11-1	20.86	Sandstone	Shale	 	50.00	50.00	0.00	silt	silt	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2515.50	6507_11-1	21.86	Sandstone	Shale	 	50.00	50.00	0.00	silt	silt	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2515.60	6507_11-1	22.86	Sandstone	Shale	 	50.00	50.00	0.00	silt	silt	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2515.70	6507_11-1	23.86	Sandstone	Shale	 	50.00	50.00	0.00	silt	silt	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2515.80	6507_11-1	24.86	Sandstone	Shale	 	50.00	50.00	0.00	silt	silt	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2515.90	6507_11-1	25.86	Sandstone	Shale	 	90.00	10.00	0.00	vc	c/vc	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2516.00	6507_11-1	26.86	Sandstone	Shale	 	90.00	10.00	0.00	vc	c/vc	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2516.10	6507_11-1	27.86	Sandstone	Shale	 	90.00	10.00	0.00	vc	c/vc	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2516.20	6507_11-1	27.37	Sandstone	Shale	 	90.00	10.00	0.00	vc	c/vc	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2516.30	6507_11-1	26.55	Sandstone	Shale	 	90.00	10.00	0.00	vc	c/vc	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2516.40	6507_11-1	25.73	Sandstone	Shale	 	90.00	10.00	0.00	vc	c/vc	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2516.50	6507_11-1	24.91	Sandstone	Shale	 	90.00	10.00	0.00	vc	c/vc	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2516.60	6507_11-1	24.08	Sandstone	Shale	 	90.00	10.00	0.00	vc	c/vc	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2516.70	6507_11-1	23.26	Sandstone	Shale	 	90.00	10.00	0.00	vc	c/vc	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2516.80	6507_11-1	22.44	Sandstone	Shale	 	90.00	10.00	0.00	vc	c/vc	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2516.90	6507_11-1	22.79	Sandstone	Shale	 	90.00	10.00	0.00	vc	c/vc	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2517.00	6507_11-1	24.47	Sandstone	Shale	 	90.00	10.00	0.00	vc	c/vc	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2517.10	6507_11-1	26.16	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2517.20	6507_11-1	27.27	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2517.30	6507_11-1	26.66	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2517.40	6507_11-1	24.85	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2517.50	6507_11-1	23.37	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2517.60	6507_11-1	22.91	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2517.70	6507_11-1	22.45	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2517.80	6507_11-1	21.99	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2517.90	6507_11-1	21.33	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2518.00	6507_11-1	20.61	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2518.10	6507_11-1	19.90	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2518.20	6507_11-1	19.18	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2518.30	6507_11-1	18.47	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2518.40	6507_11-1	17.76	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2518.50	6507_11-1	17.91	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2518.60	6507_11-1	18.22	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2518.70	6507_11-1	18.53	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2518.80	6507_11-1	18.84	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2518.90	6507_11-1	18.97	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2519.00	6507_11-1	18.58	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2519.10	6507_11-1	18.20	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2519.20	6507_11-1	17.95	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2519.30	6507_11-1	18.09	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2519.40	6507_11-1	18.22	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2519.50	6507_11-1	18.36	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2519.60	6507_11-1	18.49	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2519.70	6507_11-1	18.39	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2519.80	6507_11-1	18.18	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2519.90	6507_11-1	17.96	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2520.00	6507_11-1	17.75	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2520.10	6507_11-1	17.76	Sandstone	Shale	 	95.00	5.00	0.00	m/c	m	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2520.20	6507_11-1	17.98	Sandstone	Shale	 	95.00	5.00	0.00	m/c	m	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2520.30	6507_11-1	18.19	Sandstone	Shale	 	95.00	5.00	0.00	m/c	m	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2520.40	6507_11-1	18.40	Sandstone	Shale	 	95.00	5.00	0.00	m/c	m	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2520.50	6507_11-1	18.62	Sandstone	Shale	 	95.00	5.00	0.00	m/c	m	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2520.60	6507_11-1	18.83	Sandstone	Shale	 	95.00	5.00	0.00	m/c	m	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2520.70	6507_11-1	19.04	Sandstone	Shale	 	95.00	5.00	0.00	m/c	m	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2520.80	6507_11-1	19.64	Sandstone	Shale	 	95.00	5.00	0.00	m/c	m	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2520.90	6507_11-1	20.28	Sandstone	Shale	 	95.00	5.00	0.00	m/c	m	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2521.00	6507_11-1	20.80	Sandstone	Shale	 	87.00	13.00	0.00	c/vc	c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2521.10	6507_11-1	20.41	Sandstone	Shale	 	87.00	13.00	0.00	c/vc	c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2521.20	6507_11-1	20.02	Sandstone	Shale	 	87.00	13.00	0.00	c/vc	c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2521.30	6507_11-1	19.64	Sandstone	Shale	 	87.00	13.00	0.00	c/vc	c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2521.40	6507_11-1	19.25	Sandstone	Shale	 	87.00	13.00	0.00	c/vc	c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2521.50	6507_11-1	18.86	Sandstone	Shale	 	87.00	13.00	0.00	c/vc	c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2521.60	6507_11-1	18.48	Sandstone	Shale	 	87.00	13.00	0.00	c/vc	c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2521.70	6507_11-1	18.09	Sandstone	Shale	 	87.00	13.00	0.00	c/vc	c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2521.80	6507_11-1	17.70	Sandstone	Shale	 	87.00	13.00	0.00	c/vc	c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2521.90	6507_11-1	17.59	Sandstone	Shale	 	87.00	13.00	0.00	c/vc	c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2522.00	6507_11-1	18.80	Sandstone	Shale	 	87.00	13.00	0.00	c/vc	c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2522.10	6507_11-1	19.99	Sandstone	Shale	 	87.00	13.00	0.00	c/vc	c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2522.20	6507_11-1	21.15	Sandstone	Shale	 	87.00	13.00	0.00	c/vc	c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2522.30	6507_11-1	22.31	Sandstone	Shale	 	87.00	13.00	0.00	c/vc	c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2522.40	6507_11-1	23.47	Sandstone	Shale	 	87.00	13.00	0.00	c/vc	c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2522.50	6507_11-1	24.63	Sandstone	Shale	 	87.00	13.00	0.00	c/vc	c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2522.60	6507_11-1	25.10	Sandstone	Shale	 	87.00	13.00	0.00	c/vc	c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2522.70	6507_11-1	25.04	Sandstone	Shale	 	87.00	13.00	0.00	c/vc	c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2522.80	6507_11-1	24.12	Sandstone	Shale	 	87.00	13.00	0.00	c/vc	c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2522.90	6507_11-1	23.19	Sandstone	Shale	 	87.00	13.00	0.00	c/vc	c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2523.00	6507_11-1	22.26	Sandstone	Shale	 	87.00	13.00	0.00	c/vc	c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2523.10	6507_11-1	21.33	Sandstone	Shale	 	87.00	13.00	0.00	c/vc	c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2523.20	6507_11-1	21.41	Sandstone	Shale	 	87.00	13.00	0.00	c/vc	c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2523.30	6507_11-1	21.80	Sandstone	Shale	 	30.00	70.00	0.00	vf	vf	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2523.40	6507_11-1	22.18	Sandstone	Shale	 	30.00	70.00	0.00	vf	vf	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2523.50	6507_11-1	21.90	Sandstone	Shale	 	30.00	70.00	0.00	vf	vf	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2523.60	6507_11-1	21.43	Sandstone	Shale	 	30.00	70.00	0.00	vf	vf	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2523.70	6507_11-1	22.04	Sandstone	Shale	 	30.00	70.00	0.00	vf	vf	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2523.80	6507_11-1	23.10	Sandstone	Shale	 	30.00	70.00	0.00	vf	vf	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2523.90	6507_11-1	23.85	Sandstone	Shale	 	30.00	70.00	0.00	vf	vf	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2524.00	6507_11-1	23.28	Sandstone	Shale	 	30.00	70.00	0.00	vf	vf	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2524.10	6507_11-1	22.71	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2524.20	6507_11-1	22.14	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2524.30	6507_11-1	21.57	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2524.40	6507_11-1	21.48	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2524.50	6507_11-1	21.50	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2524.60	6507_11-1	21.52	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2524.70	6507_11-1	21.53	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2524.80	6507_11-1	21.55	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2524.90	6507_11-1	21.56	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2525.00	6507_11-1	21.56	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2525.10	6507_11-1	21.56	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2525.20	6507_11-1	21.67	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2525.30	6507_11-1	22.02	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2525.40	6507_11-1	22.37	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2525.50	6507_11-1	22.72	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2525.60	6507_11-1	23.07	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2525.70	6507_11-1	23.71	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2525.80	6507_11-1	24.65	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2525.90	6507_11-1	25.58	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2526.00	6507_11-1	26.51	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2526.10	6507_11-1	27.79	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2526.20	6507_11-1	29.30	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2526.30	6507_11-1	30.80	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2526.40	6507_11-1	32.31	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2526.50	6507_11-1	33.81	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2526.60	6507_11-1	35.27	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2526.70	6507_11-1	36.74	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2526.80	6507_11-1	38.18	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2526.90	6507_11-1	38.67	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2527.00	6507_11-1	39.16	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2527.10	6507_11-1	39.65	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2527.20	6507_11-1	40.14	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2527.30	6507_11-1	40.23	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2527.40	6507_11-1	40.12	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2527.50	6507_11-1	40.01	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2527.60	6507_11-1	39.25	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2527.70	6507_11-1	37.67	 								Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2527.80	6507_11-1	35.90	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2527.90	6507_11-1	33.05	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2528.00	6507_11-1	30.21	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2528.10	6507_11-1	27.36	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2528.20	6507_11-1	26.28	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2528.30	6507_11-1	25.33	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2528.40	6507_11-1	25.20	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2528.50	6507_11-1	26.46	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2528.60	6507_11-1	28.22	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2528.70	6507_11-1	29.98	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2528.80	6507_11-1	31.74	Sandstone	Shale	 	50.00	50.00	0.00	silt/vf	silt/vf	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2528.90	6507_11-1	32.64	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2529.00	6507_11-1	32.91	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2529.10	6507_11-1	32.76	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2529.20	6507_11-1	31.54	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2529.30	6507_11-1	30.31	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2529.40	6507_11-1	29.09	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2529.50	6507_11-1	27.86	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2529.60	6507_11-1	26.64	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2529.70	6507_11-1	26.59	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2529.80	6507_11-1	26.89	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2529.90	6507_11-1	27.20	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2530.00	6507_11-1	27.74	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2530.10	6507_11-1	28.48	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2530.20	6507_11-1	29.22	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2530.30	6507_11-1	29.96	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2530.40	6507_11-1	30.70	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2530.50	6507_11-1	31.44	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2530.60	6507_11-1	32.18	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2530.70	6507_11-1	32.92	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2530.80	6507_11-1	32.80	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2530.90	6507_11-1	32.38	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2531.00	6507_11-1	31.96	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2531.10	6507_11-1	29.73	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2531.20	6507_11-1	27.48	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2531.30	6507_11-1	25.23	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2531.40	6507_11-1	23.60	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2531.50	6507_11-1	23.33	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2531.60	6507_11-1	23.05	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2531.70	6507_11-1	22.77	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2531.80	6507_11-1	22.50	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2531.90	6507_11-1	22.33	Sandstone	Shale	 	70.00	30.00	0.00	c	m/c	Indre_del_av_bukt.__Dominert__av__(?)_tidevanns-kanaler	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2532.00	6507_11-1	22.27	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2532.10	6507_11-1	22.22	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2532.20	6507_11-1	22.34	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2532.30	6507_11-1	22.92	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2532.40	6507_11-1	23.50	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2532.50	6507_11-1	24.11	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2532.60	6507_11-1	24.76	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2532.70	6507_11-1	25.40	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2532.80	6507_11-1	26.05	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2532.90	6507_11-1	26.87	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2533.00	6507_11-1	27.99	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2533.10	6507_11-1	28.51	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2533.20	6507_11-1	28.56	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2533.30	6507_11-1	28.60	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2533.40	6507_11-1	28.65	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2533.50	6507_11-1	28.45	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2533.60	6507_11-1	28.13	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2533.70	6507_11-1	27.80	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2533.80	6507_11-1	27.47	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2533.90	6507_11-1	27.17	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2534.00	6507_11-1	27.41	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2534.10	6507_11-1	27.65	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2534.20	6507_11-1	27.89	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2534.30	6507_11-1	28.23	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2534.40	6507_11-1	28.74	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2534.50	6507_11-1	29.25	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2534.60	6507_11-1	29.76	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2534.70	6507_11-1	29.76	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2534.80	6507_11-1	29.54	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2534.90	6507_11-1	29.32	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2535.00	6507_11-1	29.10	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2535.10	6507_11-1	28.75	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2535.20	6507_11-1	28.40	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2535.30	6507_11-1	28.34	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2535.40	6507_11-1	28.38	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2535.50	6507_11-1	28.23	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2535.60	6507_11-1	27.84	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2535.70	6507_11-1	27.49	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2535.80	6507_11-1	27.36	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2535.90	6507_11-1	27.24	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2536.00	6507_11-1	27.11	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2536.10	6507_11-1	26.98	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2536.20	6507_11-1	28.11	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2536.30	6507_11-1	29.23	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2536.40	6507_11-1	30.36	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2536.50	6507_11-1	31.48	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2536.60	6507_11-1	32.61	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2536.70	6507_11-1	33.11	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2536.80	6507_11-1	33.58	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2536.90	6507_11-1	34.05	Sandstone	Shale	Limestone	70.00	25.00	5.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2537.00	6507_11-1	34.81	Sandstone	 	 	100.00	0.00	0.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2537.10	6507_11-1	35.67	Sandstone	 	 	100.00	0.00	0.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2537.20	6507_11-1	36.53	Sandstone	Shale	 	70.00	30.00	0.00	f	vf/f	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2537.30	6507_11-1	36.07	Sandstone	Shale	 	70.00	30.00	0.00	f	vf/f	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2537.40	6507_11-1	35.16	Sandstone	Shale	 	70.00	30.00	0.00	f	vf/f	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2537.50	6507_11-1	34.25	Sandstone	Shale	 	70.00	30.00	0.00	f	vf/f	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2537.60	6507_11-1	33.14	Sandstone	Shale	 	70.00	30.00	0.00	f	vf/f	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2537.70	6507_11-1	31.86	Sandstone	Shale	 	70.00	30.00	0.00	f	vf/f	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2537.80	6507_11-1	31.12	Sandstone	Shale	 	70.00	30.00	0.00	f	vf/f	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2537.90	6507_11-1	32.10	Sandstone	Shale	 	70.00	30.00	0.00	f	vf/f	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2538.00	6507_11-1	33.08	Sandstone	Shale	 	70.00	30.00	0.00	f	vf/f	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2538.10	6507_11-1	34.10	Sandstone	Shale	 	70.00	30.00	0.00	f	vf/f	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2538.20	6507_11-1	35.21	Sandstone	Shale	 	70.00	30.00	0.00	f	vf/f	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2538.30	6507_11-1	36.32	Sandstone	 	 	100.00	0.00	0.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2538.40	6507_11-1	37.42	Sandstone	 	 	100.00	0.00	0.00	vc	vc	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2538.50	6507_11-1	37.64	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2538.60	6507_11-1	37.64	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2538.70	6507_11-1	37.31	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2538.80	6507_11-1	36.13	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2538.90	6507_11-1	34.96	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2539.00	6507_11-1	33.78	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2539.10	6507_11-1	32.60	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2539.20	6507_11-1	31.79	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2539.30	6507_11-1	32.24	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2539.40	6507_11-1	32.69	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2539.50	6507_11-1	33.14	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2539.60	6507_11-1	33.59	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2539.70	6507_11-1	34.05	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2539.80	6507_11-1	34.50	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2539.90	6507_11-1	34.95	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2540.00	6507_11-1	35.40	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2540.10	6507_11-1	35.42	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2540.20	6507_11-1	35.42	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2540.30	6507_11-1	35.39	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2540.40	6507_11-1	35.23	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2540.50	6507_11-1	35.07	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2540.60	6507_11-1	34.91	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2540.70	6507_11-1	34.76	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2540.80	6507_11-1	34.60	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2540.90	6507_11-1	34.44	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2541.00	6507_11-1	34.68	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2541.10	6507_11-1	34.91	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2541.20	6507_11-1	35.15	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2541.30	6507_11-1	35.39	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2541.40	6507_11-1	35.37	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2541.50	6507_11-1	35.31	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2541.60	6507_11-1	35.25	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2541.70	6507_11-1	35.19	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2541.80	6507_11-1	35.27	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2541.90	6507_11-1	35.72	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2542.00	6507_11-1	36.17	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2542.10	6507_11-1	36.62	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2542.20	6507_11-1	37.07	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2542.30	6507_11-1	37.52	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2542.40	6507_11-1	37.97	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2542.50	6507_11-1	38.09	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2542.60	6507_11-1	36.40	Sandstone	Shale	 	50.00	50.00	0.00	vf	f/m	Ytre_del_av_bukt_sekvens_(tidevannssand-rygg)_overligger_finkornete_delta-front-avsetninger	BUKTSEKVENS,_TROLIG_I_ET_FLUVIAL-/_TIDEVANNS_DOMINERT_DELTASYSTEM
+2542.70	6507_11-1	34.72	Sandstone	 	 	100.00	0.00	0.00	vc/granule	vc/granule	Top_av_større_delta-front_(?)_CU_-_sekvens	
+2542.80	6507_11-1	31.56	Sandstone	 	 	100.00	0.00	0.00	vc/granule	vc/granule	Top_av_større_delta-front_(?)_CU_-_sekvens	
+2542.90	6507_11-1	27.52	Sandstone	 	 	100.00	0.00	0.00	vc/granule	vc/granule	Top_av_større_delta-front_(?)_CU_-_sekvens	
+2543.00	6507_11-1	23.49	Sandstone	 	 	100.00	0.00	0.00	vc/granule	vc/granule	Top_av_større_delta-front_(?)_CU_-_sekvens	
