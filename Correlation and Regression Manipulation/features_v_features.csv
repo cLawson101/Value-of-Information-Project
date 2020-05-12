@@ -1,0 +1,518 @@
+,feature 1,feature 2,rank,abs rank
+0,Completion logs,Avg Core Photos,0.9987798293758965,0.9987798293758965
+1,"Remaining gas 
+[bill Sm3]","Remaining NGL 
+[mill tonn]",0.8451154190538428,0.8451154190538428
+2,"Remaining  oil eq. 
+[mill Sm3 o.e]","Remaining oil 
+[mill Sm3]",0.8294280523594355,0.8294280523594355
+3,"Orig. inplace ass. gas 
+[bill Sm3]","Orig. inplace oil 
+[mill Sm3]",0.8263537770190194,0.8263537770190194
+4,"Orig. recoverable NGL 
+[mill tonn]","Remaining NGL 
+[mill tonn]",0.8149642259786744,0.8149642259786744
+5,"Remaining gas 
+[bill Sm3]","Remaining  oil eq. 
+[mill Sm3 o.e]",0.7593831802133326,0.7593831802133326
+6,Dev start year,Exp start year,0.7573979586798687,0.7573979586798687
+7,Dev Duration,"Orig. recoverable oil eq. 
+[mill Sm3 o.e]",0.7486616794671843,0.7486616794671843
+8,"Remaining NGL 
+[mill tonn]","Remaining  oil eq. 
+[mill Sm3 o.e]",0.6928035421318143,0.6928035421318143
+9,"Orig. recoverable oil eq. 
+[mill Sm3 o.e]","Remaining  oil eq. 
+[mill Sm3 o.e]",0.6902607830051892,0.6902607830051892
+10,"Orig. inplace ass. liquid 
+[mill Sm3]","Orig. inplace free gas 
+[bill Sm3]",0.6901159589145354,0.6901159589145354
+11,"Orig. inplace oil 
+[mill Sm3]","Remaining oil 
+[mill Sm3]",0.6827168183922017,0.6827168183922017
+12,"Orig. recoverable oil eq. 
+[mill Sm3 o.e]","Orig. recoverable NGL 
+[mill tonn]",0.6640327276678067,0.6640327276678067
+13,"Remaining  oil eq. 
+[mill Sm3 o.e]",Dev end year,0.6353282100719037,0.6353282100719037
+14,"Remaining gas 
+[bill Sm3]","Orig. recoverable NGL 
+[mill tonn]",0.6046408777475435,0.6046408777475435
+15,"Orig. inplace oil 
+[mill Sm3]",Dev Duration,0.6014073000320702,0.6014073000320702
+16,"Orig. inplace oil 
+[mill Sm3]","Orig. recoverable oil eq. 
+[mill Sm3 o.e]",0.5926065313843125,0.5926065313843125
+17,"Orig. recoverable NGL 
+[mill tonn]","Orig. inplace ass. gas 
+[bill Sm3]",0.5909412296215419,0.5909412296215419
+18,"Orig. inplace free gas 
+[bill Sm3]","Remaining gas 
+[bill Sm3]",0.5847734918486679,0.5847734918486679
+19,"Orig. inplace ass. gas 
+[bill Sm3]",Dev Duration,0.5799618868396448,0.5799618868396448
+20,Dev start year,Dev Duration,-0.5587842373836135,0.5587842373836135
+21,Dev Duration,Dev end year,0.5573952000340241,0.5573952000340241
+22,"Orig. inplace ass. gas 
+[bill Sm3]","Orig. recoverable oil eq. 
+[mill Sm3 o.e]",0.5504660720997676,0.5504660720997676
+23,"Remaining oil 
+[mill Sm3]","Orig. recoverable oil eq. 
+[mill Sm3 o.e]",0.5501155415696198,0.5501155415696198
+24,"Remaining oil 
+[mill Sm3]","Remaining NGL 
+[mill tonn]",0.5483172644887513,0.5483172644887513
+25,"Orig. inplace ass. liquid 
+[mill Sm3]","Remaining gas 
+[bill Sm3]",0.5471473797152483,0.5471473797152483
+26,"Orig. recoverable NGL 
+[mill tonn]","Remaining  oil eq. 
+[mill Sm3 o.e]",0.5391366165228708,0.5391366165228708
+27,Dev Duration,"Orig. recoverable NGL 
+[mill tonn]",0.538615857972698,0.538615857972698
+28,Dev end year,"Remaining oil 
+[mill Sm3]",0.5357708759791122,0.5357708759791122
+29,"Orig. recoverable oil eq. 
+[mill Sm3 o.e]","Remaining NGL 
+[mill tonn]",0.5221533178840225,0.5221533178840225
+30,"Orig. recoverable oil eq. 
+[mill Sm3 o.e]","Remaining gas 
+[bill Sm3]",0.5217334990709959,0.5217334990709959
+31,"Orig. recoverable oil eq. 
+[mill Sm3 o.e]",Dev end year,0.519834216768102,0.519834216768102
+32,"Orig. inplace ass. gas 
+[bill Sm3]","Remaining oil 
+[mill Sm3]",0.5192295993058467,0.5192295993058467
+33,Dev end year,"Remaining gas 
+[bill Sm3]",0.5087688693434798,0.5087688693434798
+34,"Orig. inplace ass. liquid 
+[mill Sm3]","Orig. recoverable NGL 
+[mill tonn]",0.4981417842551814,0.4981417842551814
+35,Dev end year,"Remaining NGL 
+[mill tonn]",0.486731890210094,0.486731890210094
+36,"Remaining  oil eq. 
+[mill Sm3 o.e]","Orig. inplace oil 
+[mill Sm3]",0.4822720562464245,0.4822720562464245
+37,"Remaining NGL 
+[mill tonn]","Orig. inplace ass. liquid 
+[mill Sm3]",0.4806429878623047,0.4806429878623047
+38,Exp start year,Dev Duration,-0.46793962870988004,0.46793962870988004
+39,"Remaining gas 
+[bill Sm3]","Remaining oil 
+[mill Sm3]",0.4657467758952921,0.4657467758952921
+40,Dev end year,"Orig. recoverable NGL 
+[mill tonn]",0.4521536474714597,0.4521536474714597
+41,"Remaining oil 
+[mill Sm3]","Orig. recoverable NGL 
+[mill tonn]",0.44964485065022336,0.44964485065022336
+42,"Remaining NGL 
+[mill tonn]","Orig. inplace ass. gas 
+[bill Sm3]",0.4372275446743136,0.4372275446743136
+43,"Orig. inplace oil 
+[mill Sm3]",Dev end year,0.4349804762508896,0.4349804762508896
+44,"Orig. recoverable NGL 
+[mill tonn]","Orig. inplace oil 
+[mill Sm3]",0.4217550658489392,0.4217550658489392
+45,"Orig. inplace ass. gas 
+[bill Sm3]","Remaining  oil eq. 
+[mill Sm3 o.e]",0.4185853513279454,0.4185853513279454
+46,"Orig. recoverable cond. 
+[mill Sm3]","Remaining cond.  
+[mill Sm3]",0.4160080678268932,0.4160080678268932
+47,"Remaining NGL 
+[mill tonn]","Orig. inplace free gas 
+[bill Sm3]",0.4151518870688165,0.4151518870688165
+48,Dev Duration,# of Wells,0.40303249892025533,0.40303249892025533
+49,"Orig. recoverable oil eq. 
+[mill Sm3 o.e]",# of Wells,0.39590890898523934,0.39590890898523934
+50,Dev end year,"Orig. inplace ass. gas 
+[bill Sm3]",0.3869513293444117,0.3869513293444117
+51,"Orig. recoverable cond. 
+[mill Sm3]","Orig. inplace free gas 
+[bill Sm3]",0.38499340784407066,0.38499340784407066
+52,"Orig. inplace ass. liquid 
+[mill Sm3]",Exp Duration,0.3791830212168806,0.3791830212168806
+53,"Remaining oil 
+[mill Sm3]",Dev Duration,0.37822451961294806,0.37822451961294806
+54,Dev Duration,"Remaining  oil eq. 
+[mill Sm3 o.e]",0.36854339925395313,0.36854339925395313
+55,"Orig. inplace ass. liquid 
+[mill Sm3]","Orig. recoverable oil eq. 
+[mill Sm3 o.e]",0.365949729184857,0.365949729184857
+56,# of Wells,Exp start year,-0.36296679535891757,0.36296679535891757
+57,"Orig. recoverable oil eq. 
+[mill Sm3 o.e]",Dev start year,-0.35915856784789496,0.35915856784789496
+58,# of Wells,"Orig. inplace ass. gas 
+[bill Sm3]",0.3575326562973884,0.3575326562973884
+59,"Orig. inplace free gas 
+[bill Sm3]",Exp Duration,0.34573654128483183,0.34573654128483183
+60,Exp Duration,Exp start year,-0.3398294982094049,0.3398294982094049
+61,"Orig. recoverable oil eq. 
+[mill Sm3 o.e]","Orig. inplace free gas 
+[bill Sm3]",0.33598183536519405,0.33598183536519405
+62,"Orig. inplace ass. gas 
+[bill Sm3]",Exp start year,-0.32951564837743275,0.32951564837743275
+63,Exp Duration,"Remaining gas 
+[bill Sm3]",0.3277004645980119,0.3277004645980119
+64,Exp start year,"Orig. recoverable oil eq. 
+[mill Sm3 o.e]",-0.32596001887264514,0.32596001887264514
+65,Dev start year,"Orig. inplace ass. gas 
+[bill Sm3]",-0.32555568534219415,0.32555568534219415
+66,"Orig. inplace oil 
+[mill Sm3]","Remaining NGL 
+[mill tonn]",0.3240329002648849,0.3240329002648849
+67,"Orig. inplace oil 
+[mill Sm3]",# of Wells,0.32287837183791973,0.32287837183791973
+68,"Orig. inplace ass. liquid 
+[mill Sm3]","Remaining  oil eq. 
+[mill Sm3 o.e]",0.3174367006995619,0.3174367006995619
+69,Exp start month,Dev Duration,0.3161118359996362,0.3161118359996362
+70,"Orig. recoverable cond. 
+[mill Sm3]","Remaining oil 
+[mill Sm3]",-0.3124119549776294,0.3124119549776294
+71,Dev end year,"Orig. inplace ass. liquid 
+[mill Sm3]",0.30305988246948257,0.30305988246948257
+72,"Remaining cond.  
+[mill Sm3]","Remaining gas 
+[bill Sm3]",0.29794502166758513,0.29794502166758513
+73,"Remaining NGL 
+[mill tonn]",Dev Duration,0.29514879824261064,0.29514879824261064
+74,"Remaining NGL 
+[mill tonn]",Avg Core Photos,0.2943402856620994,0.2943402856620994
+75,"Remaining NGL 
+[mill tonn]",Completion logs,0.2929454372399886,0.2929454372399886
+76,"Orig. inplace free gas 
+[bill Sm3]","Remaining  oil eq. 
+[mill Sm3 o.e]",0.2913669659200002,0.2913669659200002
+77,"Orig. inplace free gas 
+[bill Sm3]","Orig. recoverable NGL 
+[mill tonn]",0.2892842708442253,0.2892842708442253
+78,Dev end year,Exp Duration,0.2888366382725271,0.2888366382725271
+79,"Orig. inplace free gas 
+[bill Sm3]","Orig. inplace oil 
+[mill Sm3]",-0.28395215653175726,0.28395215653175726
+80,# of Wells,Dev start year,-0.28336921545399146,0.28336921545399146
+81,"Remaining cond.  
+[mill Sm3]","Orig. inplace free gas 
+[bill Sm3]",0.27814269744294706,0.27814269744294706
+82,"Orig. recoverable cond. 
+[mill Sm3]","Orig. inplace oil 
+[mill Sm3]",-0.2749155516561066,0.2749155516561066
+83,"Orig. inplace oil 
+[mill Sm3]",Dev start year,-0.27418947661841264,0.27418947661841264
+84,"Orig. inplace ass. liquid 
+[mill Sm3]",Dev Duration,0.27328992063830504,0.27328992063830504
+85,Dev start month,"Orig. inplace ass. liquid 
+[mill Sm3]",0.2666535277773698,0.2666535277773698
+86,Completion logs,"Orig. recoverable NGL 
+[mill tonn]",0.2640993071658446,0.2640993071658446
+87,"Orig. inplace ass. gas 
+[bill Sm3]","Remaining gas 
+[bill Sm3]",0.26188828737445674,0.26188828737445674
+88,"Orig. recoverable NGL 
+[mill tonn]",Avg Core Photos,0.25999055856062725,0.25999055856062725
+89,"Orig. inplace oil 
+[mill Sm3]","Remaining cond.  
+[mill Sm3]",-0.2590136757420846,0.2590136757420846
+90,"Remaining cond.  
+[mill Sm3]","Remaining  oil eq. 
+[mill Sm3 o.e]",0.25637073620731404,0.25637073620731404
+91,"Orig. inplace ass. liquid 
+[mill Sm3]","Orig. recoverable cond. 
+[mill Sm3]",0.2558772515059554,0.2558772515059554
+92,"Remaining  oil eq. 
+[mill Sm3 o.e]",# of Wells,0.2530422639766328,0.2530422639766328
+93,"Orig. recoverable NGL 
+[mill tonn]",# of Wells,0.2528493179633555,0.2528493179633555
+94,Dev start month,"Orig. inplace free gas 
+[bill Sm3]",0.2494776529672658,0.2494776529672658
+95,"Remaining gas 
+[bill Sm3]",Dev Duration,0.24865826388811182,0.24865826388811182
+96,Exp Duration,Dev end month,0.24705725757690652,0.24705725757690652
+97,Exp start year,"Orig. recoverable NGL 
+[mill tonn]",-0.24584056871246765,0.24584056871246765
+98,"Remaining  oil eq. 
+[mill Sm3 o.e]",Avg Core Photos,0.24336824437255614,0.24336824437255614
+99,Completion logs,"Remaining  oil eq. 
+[mill Sm3 o.e]",0.2431875162612009,0.2431875162612009
+100,"Remaining gas 
+[bill Sm3]",Dev start year,0.23848326962733726,0.23848326962733726
+101,"Orig. inplace ass. gas 
+[bill Sm3]",Completion logs,0.2372402284857887,0.2372402284857887
+102,"Remaining cond.  
+[mill Sm3]","Remaining oil 
+[mill Sm3]",-0.23700519087994643,0.23700519087994643
+103,"Orig. inplace ass. gas 
+[bill Sm3]",Avg Core Photos,0.23573610150000274,0.23573610150000274
+104,"Orig. recoverable oil eq. 
+[mill Sm3 o.e]",Completion logs,0.22696292166017693,0.22696292166017693
+105,"Orig. inplace ass. liquid 
+[mill Sm3]",# of Wells,0.22665530048022692,0.22665530048022692
+106,Avg Core Photos,"Orig. recoverable oil eq. 
+[mill Sm3 o.e]",0.22135268646462483,0.22135268646462483
+107,Avg Core Photos,"Remaining gas 
+[bill Sm3]",0.2210545859871309,0.2210545859871309
+108,"Orig. inplace ass. gas 
+[bill Sm3]","Orig. inplace free gas 
+[bill Sm3]",-0.21926406645505736,0.21926406645505736
+109,"Orig. recoverable oil eq. 
+[mill Sm3 o.e]","Orig. recoverable cond. 
+[mill Sm3]",0.21745377128720914,0.21745377128720914
+110,"Remaining gas 
+[bill Sm3]",Completion logs,0.2169181805949223,0.2169181805949223
+111,"Remaining NGL 
+[mill tonn]",Exp Duration,0.21662319844638728,0.21662319844638728
+112,"Remaining cond.  
+[mill Sm3]",Dev start month,0.21584983455129514,0.21584983455129514
+113,"Remaining  oil eq. 
+[mill Sm3 o.e]",Exp Duration,0.2137730447986208,0.2137730447986208
+114,# of Wells,"Remaining oil 
+[mill Sm3]",0.2114494952810587,0.2114494952810587
+115,Exp start month,"Orig. recoverable NGL 
+[mill tonn]",0.21140129220972714,0.21140129220972714
+116,"Orig. recoverable oil eq. 
+[mill Sm3 o.e]",Exp Duration,0.20893936550096368,0.20893936550096368
+117,"Remaining  oil eq. 
+[mill Sm3 o.e]",Dev start year,0.20715965594948021,0.20715965594948021
+118,Avg Core Photos,"Remaining oil 
+[mill Sm3]",0.2070641923245107,0.2070641923245107
+119,Completion logs,"Remaining oil 
+[mill Sm3]",0.20661861725025638,0.20661861725025638
+120,"Orig. recoverable oil eq. 
+[mill Sm3 o.e]",Exp start month,0.2061941381420851,0.2061941381420851
+121,"Orig. inplace ass. gas 
+[bill Sm3]",Exp start month,0.20591149163275763,0.20591149163275763
+122,"Remaining cond.  
+[mill Sm3]","Orig. inplace ass. liquid 
+[mill Sm3]",0.20329420917867022,0.20329420917867022
+123,"Orig. inplace oil 
+[mill Sm3]",Exp start year,-0.19453740956914983,0.19453740956914983
+124,Dev end year,"Orig. inplace free gas 
+[bill Sm3]",0.1936827631041545,0.1936827631041545
+125,"Orig. inplace ass. liquid 
+[mill Sm3]",Completion logs,0.193078151843762,0.193078151843762
+126,Exp Duration,Dev Duration,0.19277661354994774,0.19277661354994774
+127,Avg Core Photos,"Orig. inplace ass. liquid 
+[mill Sm3]",0.19223860649150318,0.19223860649150318
+128,Exp Duration,"Orig. recoverable NGL 
+[mill tonn]",0.19024621172727726,0.19024621172727726
+129,Exp start month,Dev end year,0.19019217076115663,0.19019217076115663
+130,"Orig. recoverable NGL 
+[mill tonn]",Dev start year,-0.18920535656820237,0.18920535656820237
+131,Dev start month,"Orig. recoverable oil eq. 
+[mill Sm3 o.e]",0.1788780551210649,0.1788780551210649
+132,Exp start month,"Orig. inplace ass. liquid 
+[mill Sm3]",0.17875938416765688,0.17875938416765688
+133,# of Wells,Dev end year,0.177564058944809,0.177564058944809
+134,Exp start month,"Orig. inplace oil 
+[mill Sm3]",0.17641725671730532,0.17641725671730532
+135,"Orig. inplace oil 
+[mill Sm3]",Completion logs,0.17359553588849938,0.17359553588849938
+136,Exp Duration,Dev start month,0.17240860226922938,0.17240860226922938
+137,"Orig. inplace oil 
+[mill Sm3]",Avg Core Photos,0.16978451315889614,0.16978451315889614
+138,"Orig. recoverable cond. 
+[mill Sm3]",Exp Duration,0.1689728754966244,0.1689728754966244
+139,Dev start month,Dev end year,0.1682840414480885,0.1682840414480885
+140,"Orig. recoverable cond. 
+[mill Sm3]",Dev start year,-0.16798143887279582,0.16798143887279582
+141,Exp Duration,# of Wells,0.1672912461376187,0.1672912461376187
+142,"Remaining cond.  
+[mill Sm3]","Orig. recoverable oil eq. 
+[mill Sm3 o.e]",0.16464204669533547,0.16464204669533547
+143,Dev end year,Dev start year,0.16371705520544202,0.16371705520544202
+144,Exp start month,Exp start year,-0.1632527412610734,0.1632527412610734
+145,"Orig. recoverable cond. 
+[mill Sm3]","Orig. inplace ass. gas 
+[bill Sm3]",-0.15918408788312433,0.15918408788312433
+146,"Remaining gas 
+[bill Sm3]","Orig. inplace oil 
+[mill Sm3]",0.15877909177131325,0.15877909177131325
+147,"Remaining  oil eq. 
+[mill Sm3 o.e]",Dev start month,0.15861273828972508,0.15861273828972508
+148,Dev start year,Dev end month,0.15818841508910672,0.15818841508910672
+149,Exp start month,Dev start year,-0.15812956121525684,0.15812956121525684
+150,Exp Duration,Avg Core Photos,0.1580214168866358,0.1580214168866358
+151,"Remaining cond.  
+[mill Sm3]",Dev start year,0.15727397481660912,0.15727397481660912
+152,"Orig. recoverable cond. 
+[mill Sm3]",Exp start year,-0.15662940218209623,0.15662940218209623
+153,Exp Duration,Completion logs,0.15508904968654919,0.15508904968654919
+154,Completion logs,"Orig. inplace free gas 
+[bill Sm3]",0.1513734399209033,0.1513734399209033
+155,"Orig. inplace free gas 
+[bill Sm3]",Avg Core Photos,0.15075604310038898,0.15075604310038898
+156,# of Wells,"Remaining gas 
+[bill Sm3]",0.14554929067113367,0.14554929067113367
+157,Dev start year,Exp Duration,0.14513825194880442,0.14513825194880442
+158,Dev end year,Dev end month,0.1445594123373814,0.1445594123373814
+159,"Orig. inplace ass. liquid 
+[mill Sm3]","Orig. inplace oil 
+[mill Sm3]",-0.1444238665008594,0.1444238665008594
+160,"Orig. inplace free gas 
+[bill Sm3]",# of Wells,0.14315171757965714,0.14315171757965714
+161,"Remaining cond.  
+[mill Sm3]",Dev end year,0.1415391722426789,0.1415391722426789
+162,Dev start month,"Remaining gas 
+[bill Sm3]",0.1408708704372724,0.1408708704372724
+163,Dev end year,Completion logs,0.13860173185182736,0.13860173185182736
+164,Dev end year,Avg Core Photos,0.13788528005304768,0.13788528005304768
+165,"Remaining NGL 
+[mill tonn]",Dev start year,0.13736853551804712,0.13736853551804712
+166,Exp start year,"Orig. inplace ass. liquid 
+[mill Sm3]",-0.13631663055330157,0.13631663055330157
+167,"Remaining cond.  
+[mill Sm3]","Orig. inplace ass. gas 
+[bill Sm3]",-0.13614926857723034,0.13614926857723034
+168,# of Wells,"Remaining NGL 
+[mill tonn]",0.13606809718050925,0.13606809718050925
+169,Exp start month,Exp Duration,0.13589854430934772,0.13589854430934772
+170,"Remaining NGL 
+[mill tonn]",Exp start month,0.13565028218793018,0.13565028218793018
+171,Dev start year,"Remaining oil 
+[mill Sm3]",0.13031673513653294,0.13031673513653294
+172,Dev Duration,Dev end month,0.12971101599386464,0.12971101599386464
+173,Dev start month,"Orig. recoverable cond. 
+[mill Sm3]",0.1280675593538627,0.1280675593538627
+174,Dev Duration,Dev start month,0.1275613598001151,0.1275613598001151
+175,"Remaining gas 
+[bill Sm3]",Exp start month,0.12441970124348257,0.12441970124348257
+176,"Orig. inplace oil 
+[mill Sm3]",Dev start month,-0.12090844087253393,0.12090844087253393
+177,"Orig. recoverable cond. 
+[mill Sm3]","Remaining gas 
+[bill Sm3]",0.12056070331057817,0.12056070331057817
+178,Completion logs,Dev Duration,0.11772823572807699,0.11772823572807699
+179,Dev end month,Exp start month,0.11408418113407319,0.11408418113407319
+180,Dev start month,"Orig. recoverable NGL 
+[mill tonn]",0.11358648660535975,0.11358648660535975
+181,Avg Core Photos,Dev Duration,0.11165248108341379,0.11165248108341379
+182,"Remaining cond.  
+[mill Sm3]",Exp start year,0.11148795798062855,0.11148795798062855
+183,"Orig. inplace free gas 
+[bill Sm3]",Dev end month,0.11085456312763041,0.11085456312763041
+184,"Remaining cond.  
+[mill Sm3]",Exp Duration,0.1094716076996725,0.1094716076996725
+185,"Remaining gas 
+[bill Sm3]",Dev end month,0.10774678566389598,0.10774678566389598
+186,Dev start month,"Remaining NGL 
+[mill tonn]",0.10475421645607907,0.10475421645607907
+187,"Orig. inplace free gas 
+[bill Sm3]",Dev start year,0.10348928898278348,0.10348928898278348
+188,"Orig. recoverable cond. 
+[mill Sm3]","Orig. recoverable NGL 
+[mill tonn]",0.100711634551392,0.100711634551392
+189,Exp start year,"Remaining  oil eq. 
+[mill Sm3 o.e]",0.10066457217459582,0.10066457217459582
+190,"Remaining cond.  
+[mill Sm3]",Dev end month,0.098365967402256,0.098365967402256
+191,"Orig. inplace ass. gas 
+[bill Sm3]",Dev start month,-0.09836008050862911,0.09836008050862911
+192,# of Wells,Dev end month,0.09733328979482414,0.09733328979482414
+193,"Remaining cond.  
+[mill Sm3]",Exp start month,-0.09362911073819394,0.09362911073819394
+194,Dev end month,"Orig. inplace ass. liquid 
+[mill Sm3]",0.09340808554340764,0.09340808554340764
+195,Exp start month,"Orig. inplace free gas 
+[bill Sm3]",0.08597566527178387,0.08597566527178387
+196,Dev Duration,"Orig. recoverable cond. 
+[mill Sm3]",0.0852710538679589,0.0852710538679589
+197,Exp start month,Completion logs,0.08454699611146793,0.08454699611146793
+198,"Orig. recoverable cond. 
+[mill Sm3]",Exp start month,0.08405547597528279,0.08405547597528279
+199,Completion logs,"Orig. recoverable cond. 
+[mill Sm3]",0.08380026740439246,0.08380026740439246
+200,"Orig. recoverable NGL 
+[mill tonn]",Dev end month,0.08356313612573016,0.08356313612573016
+201,Exp start month,Avg Core Photos,0.08348853905801869,0.08348853905801869
+202,Dev Duration,"Orig. inplace free gas 
+[bill Sm3]",0.0803990416364444,0.0803990416364444
+203,Exp Duration,"Remaining oil 
+[mill Sm3]",0.08030193724420578,0.08030193724420578
+204,Avg Core Photos,"Orig. recoverable cond. 
+[mill Sm3]",0.07967537833145373,0.07967537833145373
+205,"Remaining cond.  
+[mill Sm3]",# of Wells,0.07938799877396707,0.07938799877396707
+206,"Remaining oil 
+[mill Sm3]",Exp start year,0.07549513039526867,0.07549513039526867
+207,"Orig. inplace oil 
+[mill Sm3]",Exp Duration,-0.0662177261623127,0.0662177261623127
+208,# of Wells,Completion logs,0.060772426684521465,0.060772426684521465
+209,Dev end year,"Orig. recoverable cond. 
+[mill Sm3]",-0.05896132375710314,0.05896132375710314
+210,Avg Core Photos,# of Wells,0.057148817876841694,0.057148817876841694
+211,Exp start year,"Remaining gas 
+[bill Sm3]",0.05617515774551052,0.05617515774551052
+212,Exp start month,# of Wells,0.055063748614561,0.055063748614561
+213,Exp start year,Completion logs,-0.05376403681246024,0.05376403681246024
+214,"Orig. recoverable NGL 
+[mill tonn]","Remaining cond.  
+[mill Sm3]",-0.053722295997761106,0.053722295997761106
+215,"Remaining oil 
+[mill Sm3]",Dev end month,-0.05356899432339057,0.05356899432339057
+216,Avg Core Photos,Exp start year,-0.052589922108765924,0.052589922108765924
+217,"Orig. inplace oil 
+[mill Sm3]",Dev end month,-0.05153614523941124,0.05153614523941124
+218,"Orig. inplace ass. gas 
+[bill Sm3]",Exp Duration,0.05141426240891369,0.05141426240891369
+219,"Orig. inplace ass. liquid 
+[mill Sm3]","Orig. inplace ass. gas 
+[bill Sm3]",0.05067544379135778,0.05067544379135778
+220,Avg Core Photos,Dev start month,0.04964038846544309,0.04964038846544309
+221,"Remaining NGL 
+[mill tonn]","Orig. recoverable cond. 
+[mill Sm3]",0.0463730129524991,0.0463730129524991
+222,"Remaining oil 
+[mill Sm3]","Orig. inplace free gas 
+[bill Sm3]",-0.046188843965806234,0.046188843965806234
+223,"Remaining cond.  
+[mill Sm3]",Completion logs,-0.045005717748750465,0.045005717748750465
+224,"Remaining cond.  
+[mill Sm3]",Avg Core Photos,-0.04500481751736532,0.04500481751736532
+225,"Remaining  oil eq. 
+[mill Sm3 o.e]",Exp start month,0.04380128759155515,0.04380128759155515
+226,"Remaining oil 
+[mill Sm3]","Orig. inplace ass. liquid 
+[mill Sm3]",0.04160097425282607,0.04160097425282607
+227,Completion logs,Dev start month,0.03944220203300101,0.03944220203300101
+228,"Orig. recoverable cond. 
+[mill Sm3]","Remaining  oil eq. 
+[mill Sm3 o.e]",-0.03768019236240193,0.03768019236240193
+229,Dev start month,"Remaining oil 
+[mill Sm3]",0.037613351317193656,0.037613351317193656
+230,Dev Duration,"Remaining cond.  
+[mill Sm3]",-0.037109472544675566,0.037109472544675566
+231,"Remaining oil 
+[mill Sm3]",Exp start month,0.03676338697768924,0.03676338697768924
+232,Dev start month,Dev start year,0.03600342561107582,0.03600342561107582
+233,Dev end month,"Remaining NGL 
+[mill tonn]",0.030192196989504858,0.030192196989504858
+234,Dev end year,Exp start year,0.029614366587019998,0.029614366587019998
+235,Completion logs,Dev end month,0.02683458078584444,0.02683458078584444
+236,"Remaining NGL 
+[mill tonn]","Remaining cond.  
+[mill Sm3]",0.024498686147850158,0.024498686147850158
+237,Exp start year,Dev end month,0.023799171431147532,0.023799171431147532
+238,Exp start year,Dev start month,0.02278283190499811,0.02278283190499811
+239,"Remaining  oil eq. 
+[mill Sm3 o.e]",Dev end month,0.022750199245877505,0.022750199245877505
+240,Exp start month,Dev start month,0.020730302835376656,0.020730302835376656
+241,Dev start year,Completion logs,-0.020272077259691556,0.020272077259691556
+242,# of Wells,Dev start month,0.01956846278895915,0.01956846278895915
+243,Avg Core Photos,Dev end month,0.018772539064294148,0.018772539064294148
+244,Dev start year,Avg Core Photos,-0.014779920813520527,0.014779920813520527
+245,"Orig. recoverable cond. 
+[mill Sm3]",# of Wells,0.012585152996467666,0.012585152996467666
+246,Dev start month,Dev end month,0.012191257335556576,0.012191257335556576
+247,Dev end month,"Orig. inplace ass. gas 
+[bill Sm3]",-0.010471426072989808,0.010471426072989808
+248,"Orig. inplace ass. liquid 
+[mill Sm3]",Dev start year,-0.007291222285077398,0.007291222285077398
+249,Dev end month,"Orig. recoverable cond. 
+[mill Sm3]",-0.0070284708795951565,0.0070284708795951565
+250,"Remaining NGL 
+[mill tonn]",Exp start year,0.006209484895674413,0.006209484895674413
+251,"Orig. recoverable oil eq. 
+[mill Sm3 o.e]",Dev end month,-0.00589381730739876,0.00589381730739876
+252,"Orig. inplace free gas 
+[bill Sm3]",Exp start year,-0.0005391935367578732,0.0005391935367578732
